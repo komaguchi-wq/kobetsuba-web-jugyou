@@ -1,0 +1,957 @@
+{
+  "points": [
+    {
+      "id": "point227",
+      "number": 227,
+      "title": "回転移動の面積",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point227_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "4ioRjl5BrkQ",
+        "FY1u4SPe2UE",
+        "JoHHJrHTGX4",
+        "N44giEDJv4w",
+        "kRTrnEVpK0Q",
+        "tDJ4Q9x13Ts"
+      ],
+      "questions": [
+        {
+          "id": "p227-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "N44giEDJv4w"
+          ]
+        },
+        {
+          "id": "p227-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "JoHHJrHTGX4"
+          ]
+        },
+        {
+          "id": "p227-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "tDJ4Q9x13Ts"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point227_p00.png",
+        "point227_p01.png",
+        "point227_p02.png",
+        "point227_p03.png",
+        "point227_p04.png",
+        "point227_p05.png",
+        "point227_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point227_ans_p07.png",
+        "point227_ans_p08.png",
+        "point227_ans_p09.png",
+        "point227_ans_p10.png",
+        "point227_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/928",
+      "point_videos": [
+        {
+          "title": "回転移動の面積",
+          "id": "4X43SgJGCCo"
+        }
+      ]
+    },
+    {
+      "id": "point227_nankan",
+      "number": 227,
+      "title": "回転移動の面積【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point227_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "Hx7vredPdbk"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "wVSlukkgAr4"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "PrXIwSGiJkw"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "回転移動の面積",
+          "id": "4X43SgJGCCo"
+        },
+        {
+          "title": "半径×半径",
+          "id": "PIaXqF_BObA"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1829/lesson-playlist?textbook_reference_code=kobe-web-928",
+      "problemPages": [
+        "point227_nankan_p00.png",
+        "point227_nankan_p01.png",
+        "point227_nankan_p02.png",
+        "point227_nankan_p03.png",
+        "point227_nankan_p04.png",
+        "point227_nankan_p05.png",
+        "point227_nankan_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point227_nankan_ans_p07.png",
+        "point227_nankan_ans_p08.png",
+        "point227_nankan_ans_p09.png",
+        "point227_nankan_ans_p10.png",
+        "point227_nankan_ans_p11.png"
+      ]
+    },
+    {
+      "id": "point228",
+      "number": 228,
+      "title": "平行移動の重なり面積",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point228_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "4mA75mspLTU",
+        "H4sPWU_ERow",
+        "QnbBQkildaU",
+        "U5g8qaw_tzY",
+        "UXmSQvII8Bw",
+        "YSxmk9-fZGo",
+        "nYh-rX7BX9U",
+        "vFwzbKWaJHo"
+      ],
+      "questions": [
+        {
+          "id": "p228-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "vFwzbKWaJHo"
+          ]
+        },
+        {
+          "id": "p228-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "YSxmk9-fZGo"
+          ]
+        },
+        {
+          "id": "p228-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "U5g8qaw_tzY",
+            "UXmSQvII8Bw"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point228_p00.png",
+        "point228_p01.png",
+        "point228_p02.png",
+        "point228_p03.png",
+        "point228_p04.png",
+        "point228_p05.png",
+        "point228_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point228_ans_p07.png",
+        "point228_ans_p08.png",
+        "point228_ans_p09.png",
+        "point228_ans_p10.png",
+        "point228_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/929",
+      "point_videos": [
+        {
+          "title": "平行移動の重なり面積",
+          "id": "6GkP7-7Ys-A"
+        },
+        {
+          "title": "直角二等辺の性質",
+          "id": "CDIeIb74EoY"
+        },
+        {
+          "title": "ピラミッド",
+          "id": "rqPyaMz6chw"
+        },
+        {
+          "title": "直角〇×",
+          "id": "agYDOigUWvg"
+        }
+      ]
+    },
+    {
+      "id": "point229",
+      "number": 229,
+      "title": "三角形の面積変化グラフ",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point229_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "4CQOPmPXS9A",
+        "A6bUFl2Iqj0",
+        "AfvBfdw--Js",
+        "FiJwIFDhNIA",
+        "R4faOZ7EaHY",
+        "XFDsMht9A1s",
+        "_O3cCzR-9H0",
+        "daXIoDKPtOs",
+        "dgAWtKfDqCc",
+        "udLDgt5dgEc"
+      ],
+      "questions": [
+        {
+          "id": "p229-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "R4faOZ7EaHY",
+            "daXIoDKPtOs"
+          ]
+        },
+        {
+          "id": "p229-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "_O3cCzR-9H0",
+            "FiJwIFDhNIA"
+          ]
+        },
+        {
+          "id": "p229-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "4CQOPmPXS9A",
+            "AfvBfdw--Js"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point229_p00.png",
+        "point229_p01.png",
+        "point229_p02.png",
+        "point229_p03.png",
+        "point229_p04.png",
+        "point229_p05.png",
+        "point229_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 16,
+      "answerPages": [
+        "point229_ans_p07.png",
+        "point229_ans_p08.png",
+        "point229_ans_p09.png",
+        "point229_ans_p10.png",
+        "point229_ans_p11.png",
+        "point229_ans_p12.png",
+        "point229_ans_p13.png",
+        "point229_ans_p14.png",
+        "point229_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/930",
+      "point_videos": [
+        {
+          "title": "三角形の面積変化グラフ(割合あり)",
+          "id": "HqBCPxyTuQA"
+        },
+        {
+          "title": "区切り面積",
+          "id": "HowRRreOQHc"
+        }
+      ]
+    },
+    {
+      "id": "point229_nankan",
+      "number": 229,
+      "title": "三角形の面積変化グラフ【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point229_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "tLVQ6mSVQvc",
+            "ZbMkixeleAo"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "ffqJ-aVlZDE",
+            "PtpUhKDCvyc"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "M2ouVF2ZwPM"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "三角形の面積変化グラフ(割合あり)",
+          "id": "HqBCPxyTuQA"
+        },
+        {
+          "title": "等高図形(比を使う 点の移動)",
+          "id": "0pYwggmnb08"
+        },
+        {
+          "title": "区切り面積",
+          "id": "HowRRreOQHc"
+        },
+        {
+          "title": "ピラミッド",
+          "id": "rqPyaMz6chw"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1838/lesson-playlist?textbook_reference_code=kobe-web-930",
+      "problemPages": [
+        "point229_nankan_p00.png",
+        "point229_nankan_p01.png",
+        "point229_nankan_p02.png",
+        "point229_nankan_p03.png",
+        "point229_nankan_p04.png",
+        "point229_nankan_p05.png",
+        "point229_nankan_p06.png",
+        "point229_nankan_p07.png",
+        "point229_nankan_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 18,
+      "answerPages": [
+        "point229_nankan_ans_p09.png",
+        "point229_nankan_ans_p10.png",
+        "point229_nankan_ans_p11.png",
+        "point229_nankan_ans_p12.png",
+        "point229_nankan_ans_p13.png",
+        "point229_nankan_ans_p14.png",
+        "point229_nankan_ans_p15.png",
+        "point229_nankan_ans_p16.png",
+        "point229_nankan_ans_p17.png"
+      ]
+    },
+    {
+      "id": "point230",
+      "number": 230,
+      "title": "転がり移動の作図",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point230_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "08XoSqM5cu0",
+        "7xm0NP45gc4",
+        "MEa7uByXuL4",
+        "k1uiPPjAVDQ",
+        "mXJTtpOoE3w",
+        "tGfqZJ0jnuM"
+      ],
+      "questions": [
+        {
+          "id": "p230-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "MEa7uByXuL4"
+          ]
+        },
+        {
+          "id": "p230-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "tGfqZJ0jnuM"
+          ]
+        },
+        {
+          "id": "p230-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "08XoSqM5cu0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point230_p00.png",
+        "point230_p01.png",
+        "point230_p02.png",
+        "point230_p03.png",
+        "point230_p04.png",
+        "point230_p05.png",
+        "point230_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point230_ans_p07.png",
+        "point230_ans_p08.png",
+        "point230_ans_p09.png",
+        "point230_ans_p10.png",
+        "point230_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/931",
+      "point_videos": [
+        {
+          "title": "転がり移動の作図",
+          "id": "__Ll66ZnG74"
+        }
+      ]
+    },
+    {
+      "id": "point230_nankan",
+      "number": 230,
+      "title": "転がり移動の作図【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point230_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "qAfKIF35Hq4"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "5O5gnk3FDas"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "VZc-Dio6C7A"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "転がり移動の作図",
+          "id": "__Ll66ZnG74"
+        },
+        {
+          "title": "相→面",
+          "id": "gv4Rx2W-EVo"
+        },
+        {
+          "title": "回転移動の面積",
+          "id": "4X43SgJGCCo"
+        },
+        {
+          "title": "半径×半径",
+          "id": "PIaXqF_BObA"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1844/lesson-playlist?textbook_reference_code=kobe-web-931",
+      "problemPages": [
+        "point230_nankan_p00.png",
+        "point230_nankan_p01.png",
+        "point230_nankan_p02.png",
+        "point230_nankan_p03.png",
+        "point230_nankan_p04.png",
+        "point230_nankan_p05.png",
+        "point230_nankan_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point230_nankan_ans_p07.png",
+        "point230_nankan_ans_p08.png",
+        "point230_nankan_ans_p09.png",
+        "point230_nankan_ans_p10.png",
+        "point230_nankan_ans_p11.png"
+      ]
+    },
+    {
+      "id": "point231",
+      "number": 231,
+      "title": "円の転がり移動の作図(外回り)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point231_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "E13FKZQBuxM",
+        "KNW4JUP8Mzk",
+        "UHx_0fc9p2g",
+        "ZFSHiNLcJxM",
+        "o5M12yUzALk",
+        "yn5DWllL9pM"
+      ],
+      "questions": [
+        {
+          "id": "p231-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "KNW4JUP8Mzk"
+          ]
+        },
+        {
+          "id": "p231-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "o5M12yUzALk"
+          ]
+        },
+        {
+          "id": "p231-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "ZFSHiNLcJxM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point231_p00.png",
+        "point231_p01.png",
+        "point231_p02.png",
+        "point231_p03.png",
+        "point231_p04.png",
+        "point231_p05.png",
+        "point231_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point231_ans_p07.png",
+        "point231_ans_p08.png",
+        "point231_ans_p09.png",
+        "point231_ans_p10.png",
+        "point231_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/932",
+      "point_videos": [
+        {
+          "title": "円の転がり移動の作図(外回り)",
+          "id": "pqUpLOrManM"
+        }
+      ]
+    },
+    {
+      "id": "point231_nankan",
+      "number": 231,
+      "title": "円の転がり移動の作図(外回り)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point231_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "5aQyLCEXpCY"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "gExhYhGcEfk"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "t4HBvdkoXwk"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "円の転がり移動の作図(外回り)",
+          "id": "pqUpLOrManM"
+        },
+        {
+          "title": "30°問題",
+          "id": "z__EDbpXGZM"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1850/lesson-playlist?textbook_reference_code=kobe-web-932",
+      "problemPages": [
+        "point231_nankan_p00.png",
+        "point231_nankan_p01.png",
+        "point231_nankan_p02.png",
+        "point231_nankan_p03.png",
+        "point231_nankan_p04.png",
+        "point231_nankan_p05.png",
+        "point231_nankan_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point231_nankan_ans_p07.png",
+        "point231_nankan_ans_p08.png",
+        "point231_nankan_ans_p09.png",
+        "point231_nankan_ans_p10.png",
+        "point231_nankan_ans_p11.png"
+      ]
+    },
+    {
+      "id": "point232",
+      "number": 232,
+      "title": "円の転がり移動の作図(内回り)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point232_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "35ltV8FJC1w",
+        "GW30kSHvoX4",
+        "GvZRo-TvGic",
+        "MGjTt7LjHQI",
+        "RsklDpxOhdY",
+        "Z0EDU6YcCdA"
+      ],
+      "questions": [
+        {
+          "id": "p232-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "Z0EDU6YcCdA"
+          ]
+        },
+        {
+          "id": "p232-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "GW30kSHvoX4"
+          ]
+        },
+        {
+          "id": "p232-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "RsklDpxOhdY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point232_p00.png",
+        "point232_p01.png",
+        "point232_p02.png",
+        "point232_p03.png",
+        "point232_p04.png",
+        "point232_p05.png",
+        "point232_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point232_ans_p07.png",
+        "point232_ans_p08.png",
+        "point232_ans_p09.png",
+        "point232_ans_p10.png",
+        "point232_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/933",
+      "point_videos": [
+        {
+          "title": "円の転がり移動の作図(内回り)",
+          "id": "auPw4VCDKLU"
+        }
+      ]
+    },
+    {
+      "id": "point233",
+      "number": 233,
+      "title": "おうぎ形の転がり移動",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point233_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "2Rz1e2UH6Ek",
+        "QYmdhrKx9Cs",
+        "RRvaZDpTqjM",
+        "VOZLtIKvRyU",
+        "fOb5yGLIzs4",
+        "jeWeY9i3j3E"
+      ],
+      "questions": [
+        {
+          "id": "p233-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "fOb5yGLIzs4"
+          ]
+        },
+        {
+          "id": "p233-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "QYmdhrKx9Cs"
+          ]
+        },
+        {
+          "id": "p233-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "2Rz1e2UH6Ek"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point233_p00.png",
+        "point233_p01.png",
+        "point233_p02.png",
+        "point233_p03.png",
+        "point233_p04.png",
+        "point233_p05.png",
+        "point233_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point233_ans_p07.png",
+        "point233_ans_p08.png",
+        "point233_ans_p09.png",
+        "point233_ans_p10.png",
+        "point233_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/934",
+      "point_videos": [
+        {
+          "title": "おうぎ形の転がり移動",
+          "id": "AeyLlHlfKhY"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi06",
+    "title": "第6回 力試しテスト",
+    "range": "Point 227〜233",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/935",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第6回_共通の型_力試しテスト解答.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第6回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "5tNMZyE4vns",
+      "8-4UeUEgj-w",
+      "CiZsb_2Scvc",
+      "JjHogniCtiQ",
+      "MFcWIEEK_Qg",
+      "OgBgV7R5yNs",
+      "PvdOFwmJ9XQ",
+      "dkRnF0Ujunc",
+      "xlSK_kL1oio"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(1)",
+        "label": "2番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(2)",
+        "label": "2番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(1)",
+        "label": "4番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(2)",
+        "label": "4番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(1)",
+        "label": "5番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(2)",
+        "label": "5番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6",
+        "label": "6番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(1)",
+        "label": "6番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(2)",
+        "label": "6番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7",
+        "label": "7番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7(1)",
+        "label": "7番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7(2)",
+        "label": "7番(2)",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png",
+      "test_mondai_p06.png",
+      "test_mondai_p07.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png"
+    ],
+    "point_videos": [
+      {
+        "title": "回転移動の面積",
+        "id": "4X43SgJGCCo"
+      },
+      {
+        "title": "円の転がり移動の作図(外回り)",
+        "id": "pqUpLOrManM"
+      },
+      {
+        "title": "三角形の面積変化グラフ(割合あり)",
+        "id": "HqBCPxyTuQA"
+      },
+      {
+        "title": "区切り面積",
+        "id": "HowRRreOQHc"
+      },
+      {
+        "title": "円の転がり移動の作図(内回り)",
+        "id": "auPw4VCDKLU"
+      },
+      {
+        "title": "平行移動の重なり面積",
+        "id": "6GkP7-7Ys-A"
+      },
+      {
+        "title": "直角二等辺の性質",
+        "id": "CDIeIb74EoY"
+      },
+      {
+        "title": "おうぎ形の転がり移動",
+        "id": "AeyLlHlfKhY"
+      },
+      {
+        "title": "転がり移動の作図",
+        "id": "__Ll66ZnG74"
+      }
+    ]
+  }
+}

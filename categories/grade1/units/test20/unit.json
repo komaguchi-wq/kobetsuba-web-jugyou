@@ -1,0 +1,523 @@
+{
+  "points": [
+    {
+      "id": "point164",
+      "number": 164,
+      "title": "2人で一周ごと出会う追いつく (線分図・式)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point164_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "BT6Wu6UUYmc",
+        "EQEw60OvFxY",
+        "HHESiiVhOOg",
+        "c2rUBOLQBVo",
+        "jAnMrGnnAmk",
+        "uWrB4ipEG1o"
+      ],
+      "questions": [
+        {
+          "id": "p164-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "HHESiiVhOOg"
+          ]
+        },
+        {
+          "id": "p164-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "BT6Wu6UUYmc"
+          ]
+        },
+        {
+          "id": "p164-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "EQEw60OvFxY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point164_p00.png",
+        "point164_p01.png",
+        "point164_p02.png",
+        "point164_p03.png",
+        "point164_p04.png",
+        "point164_p05.png",
+        "point164_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point164_ans_p07.png",
+        "point164_ans_p08.png",
+        "point164_ans_p09.png",
+        "point164_ans_p10.png",
+        "point164_ans_p11.png",
+        "point164_ans_p12.png",
+        "point164_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/917",
+      "point_videos": [
+        {
+          "title": "2人で一周ごと出会う追いつく",
+          "id": "NB2r2rZkCCw"
+        }
+      ]
+    },
+    {
+      "id": "point165",
+      "number": 165,
+      "title": "休み歩き (線分図・式)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point165_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3HxDo0aHYks",
+        "DJpp7EU0D6U",
+        "M3TxWhz59q8",
+        "X-nEVmCnWOU",
+        "sWkUa4c-lA0",
+        "ytbL5qf6Q8c"
+      ],
+      "questions": [
+        {
+          "id": "p165-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "3HxDo0aHYks"
+          ]
+        },
+        {
+          "id": "p165-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "sWkUa4c-lA0"
+          ]
+        },
+        {
+          "id": "p165-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "DJpp7EU0D6U"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point165_p00.png",
+        "point165_p01.png",
+        "point165_p02.png",
+        "point165_p03.png",
+        "point165_p04.png",
+        "point165_p05.png",
+        "point165_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point165_ans_p07.png",
+        "point165_ans_p08.png",
+        "point165_ans_p09.png",
+        "point165_ans_p10.png",
+        "point165_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/918",
+      "point_videos": [
+        {
+          "title": "休み歩き",
+          "id": "sGzf9Z-RupI"
+        }
+      ]
+    },
+    {
+      "id": "point166",
+      "number": 166,
+      "title": "時計算の基本 (時計算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point166_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "6JxK9b1o3xI",
+        "AUYCvNMtQQg",
+        "CxhNlYB4aaQ",
+        "Fhcmase1zOo",
+        "S-KWfzwhoVA"
+      ],
+      "questions": [
+        {
+          "id": "p166-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "S-KWfzwhoVA"
+          ]
+        },
+        {
+          "id": "p166-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "6JxK9b1o3xI"
+          ]
+        },
+        {
+          "id": "p166-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Fhcmase1zOo"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point166_p00.png",
+        "point166_p01.png",
+        "point166_p02.png",
+        "point166_p03.png",
+        "point166_p04.png",
+        "point166_p05.png",
+        "point166_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point166_ans_p07.png",
+        "point166_ans_p08.png",
+        "point166_ans_p09.png",
+        "point166_ans_p10.png",
+        "point166_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/919",
+      "point_videos": [
+        {
+          "title": "時計算の基本",
+          "id": "fsWHawocNUw"
+        }
+      ]
+    },
+    {
+      "id": "point167",
+      "number": 167,
+      "title": "一点注目の作図 (通過算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point167_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "4x-V-4bl1So",
+        "KxEsB43mZ2I",
+        "NWiV4bTUPCs",
+        "QSmj35Fw_P4",
+        "fbkfmCVantA",
+        "vHFaWQ91llo"
+      ],
+      "questions": [
+        {
+          "id": "p167-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "fbkfmCVantA"
+          ]
+        },
+        {
+          "id": "p167-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "QSmj35Fw_P4"
+          ]
+        },
+        {
+          "id": "p167-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "4x-V-4bl1So"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point167_p00.png",
+        "point167_p01.png",
+        "point167_p02.png",
+        "point167_p03.png",
+        "point167_p04.png",
+        "point167_p05.png",
+        "point167_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point167_ans_p07.png",
+        "point167_ans_p08.png",
+        "point167_ans_p09.png",
+        "point167_ans_p10.png",
+        "point167_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/920",
+      "point_videos": [
+        {
+          "title": "一点注目の作図",
+          "id": "qd7SxK-tGog"
+        }
+      ]
+    },
+    {
+      "id": "point167_nankan",
+      "number": 167,
+      "title": "一点注目の作図 (通過算)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point167_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "IRBjY6Ztqrk"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "dfQ9Y_Yzlj4"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "oavXwr3ClxI",
+            "CmipLwjRF80"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "一点注目の作図",
+          "id": "qd7SxK-tGog"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1807/lesson-playlist?textbook_reference_code=kobe-web-920",
+      "problemPages": [
+        "point167_nankan_p00.png",
+        "point167_nankan_p01.png",
+        "point167_nankan_p02.png",
+        "point167_nankan_p03.png",
+        "point167_nankan_p04.png",
+        "point167_nankan_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point167_nankan_ans_p06.png",
+        "point167_nankan_ans_p07.png",
+        "point167_nankan_ans_p08.png",
+        "point167_nankan_ans_p09.png",
+        "point167_nankan_ans_p10.png"
+      ]
+    },
+    {
+      "id": "point168",
+      "number": 168,
+      "title": "速さ整理 (流水算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point168_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "0KEcYaNFM0M",
+        "FbGLdTMORXc",
+        "KYC02_WfBPs",
+        "SKE2VAT7Sr4",
+        "eRdw7WPA1fQ",
+        "vK2Y0dQkS5s"
+      ],
+      "questions": [
+        {
+          "id": "p168-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "eRdw7WPA1fQ"
+          ]
+        },
+        {
+          "id": "p168-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "vK2Y0dQkS5s"
+          ]
+        },
+        {
+          "id": "p168-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "FbGLdTMORXc"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point168_p00.png",
+        "point168_p01.png",
+        "point168_p02.png",
+        "point168_p03.png",
+        "point168_p04.png",
+        "point168_p05.png",
+        "point168_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point168_ans_p07.png",
+        "point168_ans_p08.png",
+        "point168_ans_p09.png",
+        "point168_ans_p10.png",
+        "point168_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/921",
+      "point_videos": [
+        {
+          "title": "速さ整理",
+          "id": "QdG2uPI65qQ"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi20",
+    "title": "第20回 力試しテスト",
+    "range": "Point 164〜168",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/922",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第20回_共通の型_力試しテスト解答.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第20回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "5513xyofBqE",
+      "HHXRE5ywc2k",
+      "VZ9DGSiEOYA",
+      "tvNxBNZw2gk"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(1)",
+        "label": "2番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(2)",
+        "label": "2番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(1)",
+        "label": "4番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(2)",
+        "label": "4番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(3)",
+        "label": "4番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(1)",
+        "label": "5番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(2)",
+        "label": "5番(2)",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png"
+    ],
+    "point_videos": [
+      {
+        "title": "休み歩き",
+        "id": "sGzf9Z-RupI"
+      },
+      {
+        "title": "2人で一周ごと出会う追いつく",
+        "id": "NB2r2rZkCCw"
+      },
+      {
+        "title": "速さ整理",
+        "id": "QdG2uPI65qQ"
+      },
+      {
+        "title": "時計算の基本",
+        "id": "fsWHawocNUw"
+      },
+      {
+        "title": "一点注目の作図",
+        "id": "qd7SxK-tGog"
+      }
+    ]
+  }
+}

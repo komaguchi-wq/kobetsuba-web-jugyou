@@ -1,0 +1,1298 @@
+{
+  "points": [
+    {
+      "id": "point108",
+      "number": 108,
+      "title": "図形の和差算 (和差算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point108_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1y55pBkuc7E",
+        "4qfBjV8HIUY",
+        "JulgIQ1jYaw",
+        "qku_AUz3r5I",
+        "xpyQXWdyQFQ",
+        "z9U0W8yye1s"
+      ],
+      "questions": [
+        {
+          "id": "p108-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "4qfBjV8HIUY"
+          ]
+        },
+        {
+          "id": "p108-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "qku_AUz3r5I"
+          ]
+        },
+        {
+          "id": "p108-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "xpyQXWdyQFQ"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point108_p00.png",
+        "point108_p01.png",
+        "point108_p02.png",
+        "point108_p03.png",
+        "point108_p04.png",
+        "point108_p05.png",
+        "point108_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point108_ans_p07.png",
+        "point108_ans_p08.png",
+        "point108_ans_p09.png",
+        "point108_ans_p10.png",
+        "point108_ans_p11.png",
+        "point108_ans_p12.png",
+        "point108_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/853",
+      "point_videos": [
+        {
+          "title": "図形の和差算",
+          "id": "h8r_E--imWg"
+        }
+      ]
+    },
+    {
+      "id": "point109",
+      "number": 109,
+      "title": "やりとりの和注目 (分配算・やりとり算・（相当算）)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point109_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "0-5A5mgMVec",
+        "2BVFBJN_tRs",
+        "3Im37AMxlJs",
+        "A6pk1Xpcg-o",
+        "i94P8U6ROXY",
+        "vEWPoQT8NUw"
+      ],
+      "questions": [
+        {
+          "id": "p109-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "A6pk1Xpcg-o"
+          ]
+        },
+        {
+          "id": "p109-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "0-5A5mgMVec"
+          ]
+        },
+        {
+          "id": "p109-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "i94P8U6ROXY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point109_p00.png",
+        "point109_p01.png",
+        "point109_p02.png",
+        "point109_p03.png",
+        "point109_p04.png",
+        "point109_p05.png",
+        "point109_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point109_ans_p07.png",
+        "point109_ans_p08.png",
+        "point109_ans_p09.png",
+        "point109_ans_p10.png",
+        "point109_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/854",
+      "point_videos": [
+        {
+          "title": "やりとりの和注目",
+          "id": "9sZ2CE_hv2o"
+        },
+        {
+          "title": "2つの和差算",
+          "id": "RPa25Rr-i7A"
+        }
+      ]
+    },
+    {
+      "id": "point110",
+      "number": 110,
+      "title": "やりとりの差注目 (分配算・やりとり算・（相当算）)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point110_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1XPmm8A8p2I",
+        "7dNijeMf9lU",
+        "9Jpwlt_Y8HA",
+        "njJQe0iFwdA",
+        "s87p6YbfBV4",
+        "tyQW1KiJiO8"
+      ],
+      "questions": [
+        {
+          "id": "p110-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "njJQe0iFwdA"
+          ]
+        },
+        {
+          "id": "p110-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "1XPmm8A8p2I"
+          ]
+        },
+        {
+          "id": "p110-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "s87p6YbfBV4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point110_p00.png",
+        "point110_p01.png",
+        "point110_p02.png",
+        "point110_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point110_ans_p04.png",
+        "point110_ans_p05.png",
+        "point110_ans_p06.png",
+        "point110_ans_p07.png",
+        "point110_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/855",
+      "point_videos": [
+        {
+          "title": "やりとりの差注目",
+          "id": "capzx4-YjGA"
+        }
+      ]
+    },
+    {
+      "id": "point111",
+      "number": 111,
+      "title": "7で割ったあまり曜日 (日暦算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point111_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "CQ_rTIWXVsg",
+        "H0WvY25hjo4",
+        "U8Hknikzuho",
+        "b2uJQSfVzBg",
+        "bO5LEeNydkw"
+      ],
+      "questions": [
+        {
+          "id": "p111-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "H0WvY25hjo4"
+          ]
+        },
+        {
+          "id": "p111-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "b2uJQSfVzBg"
+          ]
+        },
+        {
+          "id": "p111-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "CQ_rTIWXVsg"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point111_p00.png",
+        "point111_p01.png",
+        "point111_p02.png",
+        "point111_p03.png",
+        "point111_p04.png",
+        "point111_p05.png",
+        "point111_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point111_ans_p07.png",
+        "point111_ans_p08.png",
+        "point111_ans_p09.png",
+        "point111_ans_p10.png",
+        "point111_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/856",
+      "point_videos": [
+        {
+          "title": "7で割ったあまり曜日",
+          "id": "Jq6DL6ce8DU"
+        }
+      ]
+    },
+    {
+      "id": "point112",
+      "number": 112,
+      "title": "平均×個数=合計 (平均算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point112_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "JJVmcWW1GOk",
+        "KX07bs9OTWc",
+        "OOEYDgRm2G4",
+        "PS75UGwugJQ",
+        "Sp8Pt2po3io",
+        "d3ZBDlcwEwQ"
+      ],
+      "questions": [
+        {
+          "id": "p112-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "OOEYDgRm2G4"
+          ]
+        },
+        {
+          "id": "p112-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "KX07bs9OTWc"
+          ]
+        },
+        {
+          "id": "p112-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "d3ZBDlcwEwQ"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point112_p00.png",
+        "point112_p01.png",
+        "point112_p02.png",
+        "point112_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point112_ans_p04.png",
+        "point112_ans_p05.png",
+        "point112_ans_p06.png",
+        "point112_ans_p07.png",
+        "point112_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/857",
+      "point_videos": [
+        {
+          "title": "平均×個数=合計",
+          "id": "mlr6Ud4OrSY"
+        },
+        {
+          "title": "2つの和差算",
+          "id": "RPa25Rr-i7A"
+        }
+      ]
+    },
+    {
+      "id": "point113",
+      "number": 113,
+      "title": "得点表 (集合と整理の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point113_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "6hmm4Q0DLIY",
+        "AOPV2eKlB78",
+        "Bwl94B79-Ak",
+        "EdCd4Pfz0fE",
+        "IRnTq5iZuDQ",
+        "_t-jaK-5_sU",
+        "hRO54EnIyVk",
+        "ucZsHmStLwE",
+        "veeENZJKJKs",
+        "z7Aqb0eW4YM"
+      ],
+      "questions": [
+        {
+          "id": "p113-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "Bwl94B79-Ak"
+          ]
+        },
+        {
+          "id": "p113-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "veeENZJKJKs",
+            "EdCd4Pfz0fE"
+          ]
+        },
+        {
+          "id": "p113-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "z7Aqb0eW4YM",
+            "6hmm4Q0DLIY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point113_p00.png",
+        "point113_p01.png",
+        "point113_p02.png",
+        "point113_p03.png",
+        "point113_p04.png",
+        "point113_p05.png",
+        "point113_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point113_ans_p07.png",
+        "point113_ans_p08.png",
+        "point113_ans_p09.png",
+        "point113_ans_p10.png",
+        "point113_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/858",
+      "point_videos": [
+        {
+          "title": "得点表",
+          "id": "E_1VmTvICj4"
+        },
+        {
+          "title": "つるかめ算(面積図)",
+          "id": "v3v-hWzL0KA"
+        }
+      ]
+    },
+    {
+      "id": "point114",
+      "number": 114,
+      "title": "中央値 (集合と整理の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point114_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "2MGVsMjkl00",
+        "63_vdpk7_Hk",
+        "81ixiaYr4lI",
+        "MUAqxAQQbVQ",
+        "VNoiT5a7RXM",
+        "xEsmsvtL2Qc"
+      ],
+      "questions": [
+        {
+          "id": "p114-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "VNoiT5a7RXM"
+          ]
+        },
+        {
+          "id": "p114-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "MUAqxAQQbVQ"
+          ]
+        },
+        {
+          "id": "p114-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "2MGVsMjkl00"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point114_p00.png",
+        "point114_p01.png",
+        "point114_p02.png",
+        "point114_p03.png",
+        "point114_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point114_ans_p05.png",
+        "point114_ans_p06.png",
+        "point114_ans_p07.png",
+        "point114_ans_p08.png",
+        "point114_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/859",
+      "point_videos": [
+        {
+          "title": "中央値",
+          "id": "M6eWLxsIh20"
+        },
+        {
+          "title": "平均×個数=合計",
+          "id": "mlr6Ud4OrSY"
+        }
+      ]
+    },
+    {
+      "id": "point115",
+      "number": 115,
+      "title": "一辺と周 (方陣算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point115_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "7j_eTlVQFS0",
+        "JXSXRxidIU4",
+        "Nzj5Cc4sqnQ",
+        "d1ZdWT-b9HA",
+        "wDVUfTYGJJ0",
+        "yuLfYrR_SsY"
+      ],
+      "questions": [
+        {
+          "id": "p115-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "Nzj5Cc4sqnQ"
+          ]
+        },
+        {
+          "id": "p115-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "JXSXRxidIU4"
+          ]
+        },
+        {
+          "id": "p115-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "7j_eTlVQFS0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point115_p00.png",
+        "point115_p01.png",
+        "point115_p02.png",
+        "point115_p03.png",
+        "point115_p04.png",
+        "point115_p05.png",
+        "point115_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point115_ans_p07.png",
+        "point115_ans_p08.png",
+        "point115_ans_p09.png",
+        "point115_ans_p10.png",
+        "point115_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/860",
+      "point_videos": [
+        {
+          "title": "一辺と周",
+          "id": "Kg76P_ow0Iw"
+        },
+        {
+          "title": "等差数列",
+          "id": "EAkGktETId8"
+        }
+      ]
+    },
+    {
+      "id": "point116",
+      "number": 116,
+      "title": "8へるの法則 (方陣算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point116_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "6_OrdZRI1uE",
+        "7rRJJ44e4VY",
+        "SUuInAxNek4",
+        "nhQ3keW4jNI",
+        "vjhitdkAFuI",
+        "yKwcT5wQ0Y4"
+      ],
+      "questions": [
+        {
+          "id": "p116-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "6_OrdZRI1uE"
+          ]
+        },
+        {
+          "id": "p116-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "yKwcT5wQ0Y4"
+          ]
+        },
+        {
+          "id": "p116-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "vjhitdkAFuI"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point116_p00.png",
+        "point116_p01.png",
+        "point116_p02.png",
+        "point116_p03.png",
+        "point116_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point116_ans_p05.png",
+        "point116_ans_p06.png",
+        "point116_ans_p07.png",
+        "point116_ans_p08.png",
+        "point116_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/861",
+      "point_videos": [
+        {
+          "title": "8へるの法則",
+          "id": "4yLYWiOO1Lg"
+        },
+        {
+          "title": "真ん中平均",
+          "id": "fHEmj8kQOqY"
+        }
+      ]
+    },
+    {
+      "id": "point117",
+      "number": 117,
+      "title": "四じょう半切り (方陣算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point117_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "0PkCqHE7TNk",
+        "Szm-rUpHxgs",
+        "YybMLbzR3v4",
+        "ZR6DTciAVzQ",
+        "nAtWnYuWW38"
+      ],
+      "questions": [
+        {
+          "id": "p117-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "nAtWnYuWW38"
+          ]
+        },
+        {
+          "id": "p117-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "ZR6DTciAVzQ"
+          ]
+        },
+        {
+          "id": "p117-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "YybMLbzR3v4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point117_p00.png",
+        "point117_p01.png",
+        "point117_p02.png",
+        "point117_p03.png",
+        "point117_p04.png",
+        "point117_p05.png",
+        "point117_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point117_ans_p07.png",
+        "point117_ans_p08.png",
+        "point117_ans_p09.png",
+        "point117_ans_p10.png",
+        "point117_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/862",
+      "point_videos": [
+        {
+          "title": "四じょう半切り",
+          "id": "3Qah04c-GAk"
+        },
+        {
+          "title": "8へるの法則",
+          "id": "4yLYWiOO1Lg"
+        },
+        {
+          "title": "真ん中平均",
+          "id": "fHEmj8kQOqY"
+        }
+      ]
+    },
+    {
+      "id": "point118",
+      "number": 118,
+      "title": "方陣の列増やし (方陣算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point118_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "HyI6HJRwk9E",
+        "J-FBxYb-yyg",
+        "UYpR9YNcpE0",
+        "csSFgY4o5RU",
+        "nOQkNi8bFYE",
+        "v1LhpJMpMI8"
+      ],
+      "questions": [
+        {
+          "id": "p118-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "nOQkNi8bFYE"
+          ]
+        },
+        {
+          "id": "p118-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "UYpR9YNcpE0"
+          ]
+        },
+        {
+          "id": "p118-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "J-FBxYb-yyg"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point118_p00.png",
+        "point118_p01.png",
+        "point118_p02.png",
+        "point118_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point118_ans_p04.png",
+        "point118_ans_p05.png",
+        "point118_ans_p06.png",
+        "point118_ans_p07.png",
+        "point118_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/863",
+      "point_videos": [
+        {
+          "title": "方陣の列増やし",
+          "id": "v5RavIDJRck"
+        }
+      ]
+    },
+    {
+      "id": "point119",
+      "number": 119,
+      "title": "3つのつるかめ (つるかめ算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point119_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "9C2PvDV8OOI",
+        "IBwu0OUfTXE",
+        "S2UQelV5qBA",
+        "hIaAHzwovos",
+        "rwMezdPsVVo",
+        "wUSjrZZH3zI"
+      ],
+      "questions": [
+        {
+          "id": "p119-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "wUSjrZZH3zI"
+          ]
+        },
+        {
+          "id": "p119-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "hIaAHzwovos"
+          ]
+        },
+        {
+          "id": "p119-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "9C2PvDV8OOI"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point119_p00.png",
+        "point119_p01.png",
+        "point119_p02.png",
+        "point119_p03.png",
+        "point119_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point119_ans_p05.png",
+        "point119_ans_p06.png",
+        "point119_ans_p07.png",
+        "point119_ans_p08.png",
+        "point119_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/864",
+      "point_videos": [
+        {
+          "title": "3つのつるかめ",
+          "id": "MjhZCvmagvM"
+        }
+      ]
+    },
+    {
+      "id": "point120",
+      "number": 120,
+      "title": "植木算(リング) (植木算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point120_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "45AwKZ2JYMo",
+        "8R4e5dUyfOg",
+        "TA-hNLDUv4E",
+        "TCUkcWUzeq0",
+        "Zl8MRPUPpGo",
+        "a_gZSELXUx8",
+        "dloDpDpDYgs",
+        "jBVEXUQw5Yo"
+      ],
+      "questions": [
+        {
+          "id": "p120-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "Zl8MRPUPpGo"
+          ]
+        },
+        {
+          "id": "p120-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "jBVEXUQw5Yo"
+          ]
+        },
+        {
+          "id": "p120-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "TA-hNLDUv4E"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point120_p00.png",
+        "point120_p01.png",
+        "point120_p02.png",
+        "point120_p03.png",
+        "point120_p04.png",
+        "point120_p05.png",
+        "point120_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point120_ans_p07.png",
+        "point120_ans_p08.png",
+        "point120_ans_p09.png",
+        "point120_ans_p10.png",
+        "point120_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/865",
+      "point_videos": [
+        {
+          "title": "植木算(リング)",
+          "id": "1KxuJTk1AlI"
+        },
+        {
+          "title": "群数列",
+          "id": "KSBsCNSbI9o"
+        }
+      ]
+    },
+    {
+      "id": "point121",
+      "number": 121,
+      "title": "和差の奇偶一致 (和と差を利用した技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point121_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-Ax0G-_3WQE",
+        "An7NlGxzIak",
+        "FjJpBIHUf5c",
+        "MunXBgDm_zw",
+        "T0QRXLUZLVs",
+        "vj_4d3S70_s"
+      ],
+      "questions": [
+        {
+          "id": "p121-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "vj_4d3S70_s"
+          ]
+        },
+        {
+          "id": "p121-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "FjJpBIHUf5c"
+          ]
+        },
+        {
+          "id": "p121-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "MunXBgDm_zw"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point121_p00.png",
+        "point121_p01.png",
+        "point121_p02.png",
+        "point121_p03.png",
+        "point121_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point121_ans_p05.png",
+        "point121_ans_p06.png",
+        "point121_ans_p07.png",
+        "point121_ans_p08.png",
+        "point121_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/866",
+      "point_videos": [
+        {
+          "title": "和差の奇偶一致",
+          "id": "PYDK23FLa2w"
+        }
+      ]
+    },
+    {
+      "id": "point122",
+      "number": 122,
+      "title": "積同士の差→面積図 (集合と整理の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point122_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "CzDbMLtVAyw",
+        "DTTnE58Nnfw",
+        "OcM8tQD0I6g",
+        "skrj8uS1d3A",
+        "tQWPhLl-k1c",
+        "vCPaBDtet94"
+      ],
+      "questions": [
+        {
+          "id": "p122-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "OcM8tQD0I6g"
+          ]
+        },
+        {
+          "id": "p122-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "vCPaBDtet94"
+          ]
+        },
+        {
+          "id": "p122-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "DTTnE58Nnfw"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point122_p00.png",
+        "point122_p01.png",
+        "point122_p02.png",
+        "point122_p03.png",
+        "point122_p04.png",
+        "point122_p05.png",
+        "point122_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point122_ans_p07.png",
+        "point122_ans_p08.png",
+        "point122_ans_p09.png",
+        "point122_ans_p10.png",
+        "point122_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/867",
+      "point_videos": [
+        {
+          "title": "積同士の差→面積図",
+          "id": "g7U3E80rA9k"
+        },
+        {
+          "title": "分配法則",
+          "id": "FDd9QEsR7fA"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi13",
+    "title": "第13回 力試しテスト",
+    "range": "Point 108〜122",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/868",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第13回_共通の型_力試しテスト解答.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第13回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "1QitI-VSK84",
+      "1pfcHDtwgbY",
+      "3thqNe3D0O8",
+      "5CiAkgeDnIg",
+      "APdjFWuorbc",
+      "IrCEbaPIUNE",
+      "OhlOgXLhVZY",
+      "US5kA-qqbOo",
+      "V9yKFWU0_OQ",
+      "XCkVDJn2rQM",
+      "XPzEHDhUwmg",
+      "aMVHhpmVaYM",
+      "b3qSWCMtD-U",
+      "lUnAmaYHbJM",
+      "vQEdh6ONfic",
+      "zVMRyQdT_j0"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(1)",
+        "label": "4番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(2)",
+        "label": "4番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6",
+        "label": "6番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7",
+        "label": "7番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8",
+        "label": "8番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9",
+        "label": "9番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q10",
+        "label": "10番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q10(1)",
+        "label": "10番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q10(2)",
+        "label": "10番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q11",
+        "label": "11番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q12",
+        "label": "12番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q12(1)",
+        "label": "12番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q12(2)",
+        "label": "12番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q13",
+        "label": "13番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q13(1)",
+        "label": "13番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q13(2)",
+        "label": "13番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q13(3)",
+        "label": "13番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q14",
+        "label": "14番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q14(1)",
+        "label": "14番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q14(2)",
+        "label": "14番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q15",
+        "label": "15番",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png",
+      "test_mondai_p06.png",
+      "test_mondai_p07.png",
+      "test_mondai_p08.png",
+      "test_mondai_p09.png",
+      "test_mondai_p10.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png",
+      "test_kaitou_p02.png"
+    ],
+    "point_videos": [
+      {
+        "title": "やりとりの和注目",
+        "id": "9sZ2CE_hv2o"
+      },
+      {
+        "title": "中央値",
+        "id": "M6eWLxsIh20"
+      },
+      {
+        "title": "平均×個数=合計",
+        "id": "mlr6Ud4OrSY"
+      },
+      {
+        "title": "植木算(リング)",
+        "id": "1KxuJTk1AlI"
+      },
+      {
+        "title": "一辺と周",
+        "id": "Kg76P_ow0Iw"
+      },
+      {
+        "title": "3つのつるかめ",
+        "id": "MjhZCvmagvM"
+      },
+      {
+        "title": "やりとりの差注目",
+        "id": "capzx4-YjGA"
+      },
+      {
+        "title": "8へるの法則",
+        "id": "4yLYWiOO1Lg"
+      },
+      {
+        "title": "真ん中平均",
+        "id": "fHEmj8kQOqY"
+      },
+      {
+        "title": "和差の奇偶一致",
+        "id": "PYDK23FLa2w"
+      },
+      {
+        "title": "得点表",
+        "id": "E_1VmTvICj4"
+      },
+      {
+        "title": "つるかめ算(面積図)",
+        "id": "v3v-hWzL0KA"
+      },
+      {
+        "title": "積同士の差→面積図",
+        "id": "g7U3E80rA9k"
+      },
+      {
+        "title": "図形の和差算",
+        "id": "h8r_E--imWg"
+      },
+      {
+        "title": "四じょう半切り",
+        "id": "3Qah04c-GAk"
+      },
+      {
+        "title": "7で割ったあまり曜日",
+        "id": "Jq6DL6ce8DU"
+      },
+      {
+        "title": "方陣の列増やし",
+        "id": "v5RavIDJRck"
+      }
+    ]
+  }
+}

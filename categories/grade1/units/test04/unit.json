@@ -1,0 +1,404 @@
+{
+  "points": [
+    {
+      "id": "point36",
+      "number": 36,
+      "title": "等差数列 (基本の規則性)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point36_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "0oidG64LnF8",
+        "2MqHr2AF9FI",
+        "760XtX5ourI",
+        "8HIs7wqlNhk",
+        "NxWkQM-w-8U",
+        "W7vZqGCm6OY",
+        "ibqBHGrmRXs",
+        "kefyIBvU4Tg",
+        "vYAuHssWMwI",
+        "zoSs5yMfAoc"
+      ],
+      "questions": [
+        {
+          "id": "p36-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "8HIs7wqlNhk",
+            "0oidG64LnF8"
+          ]
+        },
+        {
+          "id": "p36-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "kefyIBvU4Tg",
+            "zoSs5yMfAoc"
+          ]
+        },
+        {
+          "id": "p36-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "760XtX5ourI",
+            "NxWkQM-w-8U"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point36_p00.png",
+        "point36_p01.png",
+        "point36_p02.png",
+        "point36_p03.png",
+        "point36_p04.png",
+        "point36_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point36_ans_p06.png",
+        "point36_ans_p07.png",
+        "point36_ans_p08.png",
+        "point36_ans_p09.png",
+        "point36_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/744",
+      "point_videos": [
+        {
+          "title": "等差数列",
+          "id": "EAkGktETId8"
+        },
+        {
+          "title": "1からの個数を求めて引く",
+          "id": "sEbI0ggyvMY"
+        },
+        {
+          "title": "連続整数の個数",
+          "id": "MHOUFAW3jYY"
+        }
+      ]
+    },
+    {
+      "id": "point37",
+      "number": 37,
+      "title": "奇数列 (基本の規則性)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point37_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "27cX5Tcr-NE",
+        "9rqDdoka16c",
+        "PtevRGIKUxU",
+        "ejUAlfSzotM",
+        "g7UxxzaCp6Q",
+        "kTJaH5eBbPI",
+        "tM0F3ZLzDOE",
+        "uIbcY9__qJk"
+      ],
+      "questions": [
+        {
+          "id": "p37-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "g7UxxzaCp6Q",
+            "tM0F3ZLzDOE"
+          ]
+        },
+        {
+          "id": "p37-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "PtevRGIKUxU",
+            "27cX5Tcr-NE"
+          ]
+        },
+        {
+          "id": "p37-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "9rqDdoka16c"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point37_p00.png",
+        "point37_p01.png",
+        "point37_p02.png",
+        "point37_p03.png",
+        "point37_p04.png",
+        "point37_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point37_ans_p06.png",
+        "point37_ans_p07.png",
+        "point37_ans_p08.png",
+        "point37_ans_p09.png",
+        "point37_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/745",
+      "point_videos": [
+        {
+          "title": "奇数列",
+          "id": "-3LvG13sQk4"
+        },
+        {
+          "title": "1からの個数を求めて引く",
+          "id": "sEbI0ggyvMY"
+        }
+      ]
+    },
+    {
+      "id": "point38",
+      "number": 38,
+      "title": "群数列 (群数列系(周期))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point38_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "EuTKEWan3R0",
+        "LKLUXACmviw",
+        "OmrwN0DacB8",
+        "gEMvwyWUFpU",
+        "wk8HikTMzOc"
+      ],
+      "questions": [
+        {
+          "id": "p38-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "wk8HikTMzOc"
+          ]
+        },
+        {
+          "id": "p38-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "LKLUXACmviw"
+          ]
+        },
+        {
+          "id": "p38-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "OmrwN0DacB8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point38_p00.png",
+        "point38_p01.png",
+        "point38_p02.png",
+        "point38_p03.png",
+        "point38_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point38_ans_p05.png",
+        "point38_ans_p06.png",
+        "point38_ans_p07.png",
+        "point38_ans_p08.png",
+        "point38_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/749",
+      "point_videos": [
+        {
+          "title": "群数列",
+          "id": "KSBsCNSbI9o"
+        }
+      ]
+    },
+    {
+      "id": "point39",
+      "number": 39,
+      "title": "真ん中平均 (基本の規則性)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point39_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "781Z-cfsi6A",
+        "AF7vIjOwbos",
+        "O7IrzKRl1fg",
+        "T9ibxYt7-P4",
+        "WR1eHRYWVZ0",
+        "YtzNmfupdCw",
+        "fOfmhxZ7asw",
+        "jUeiJ6nW57g",
+        "o2_ucIMBd3U",
+        "z7maU-jC_bU"
+      ],
+      "questions": [
+        {
+          "id": "p39-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "WR1eHRYWVZ0",
+            "T9ibxYt7-P4"
+          ]
+        },
+        {
+          "id": "p39-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "781Z-cfsi6A",
+            "O7IrzKRl1fg"
+          ]
+        },
+        {
+          "id": "p39-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "o2_ucIMBd3U",
+            "fOfmhxZ7asw"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point39_p00.png",
+        "point39_p01.png",
+        "point39_p02.png",
+        "point39_p03.png",
+        "point39_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point39_ans_p05.png",
+        "point39_ans_p06.png",
+        "point39_ans_p07.png",
+        "point39_ans_p08.png",
+        "point39_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/750",
+      "point_videos": [
+        {
+          "title": "真ん中平均",
+          "id": "fHEmj8kQOqY"
+        },
+        {
+          "title": "等差数列",
+          "id": "EAkGktETId8"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi04",
+    "title": "第4回 力試しテスト",
+    "range": "Point 36〜39",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/751",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第4回_共通の型_力試しテスト解答.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第4回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "Gy1Q8zt8woc",
+      "K0bntTh_V8s",
+      "pTs6a4TI7zw",
+      "u0dUvl164Zg"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(1)",
+        "label": "2番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(2)",
+        "label": "2番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(3)",
+        "label": "2番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(4)",
+        "label": "2番(4)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(1)",
+        "label": "4番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(2)",
+        "label": "4番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(3)",
+        "label": "4番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(4)",
+        "label": "4番(4)",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png"
+    ],
+    "point_videos": [
+      {
+        "title": "群数列",
+        "id": "KSBsCNSbI9o"
+      },
+      {
+        "title": "奇数列",
+        "id": "-3LvG13sQk4"
+      },
+      {
+        "title": "真ん中平均",
+        "id": "fHEmj8kQOqY"
+      },
+      {
+        "title": "等差数列",
+        "id": "EAkGktETId8"
+      }
+    ]
+  }
+}

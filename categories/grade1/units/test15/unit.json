@@ -1,0 +1,691 @@
+{
+  "points": [
+    {
+      "id": "point128",
+      "number": 128,
+      "title": "少ない種類のものを並べる (並べる・選ぶ)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point128_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-LF0x_XIlb0",
+        "F11yoG1C71E",
+        "MNuKOt56fjs",
+        "T8krL-oLTAc",
+        "efJr12XJoF4",
+        "ppmQXnuG8ME",
+        "xC7vENjrTUM"
+      ],
+      "questions": [
+        {
+          "id": "p128-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "xC7vENjrTUM"
+          ]
+        },
+        {
+          "id": "p128-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "T8krL-oLTAc"
+          ]
+        },
+        {
+          "id": "p128-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "-LF0x_XIlb0",
+            "ppmQXnuG8ME"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point128_p00.png",
+        "point128_p01.png",
+        "point128_p02.png",
+        "point128_p03.png",
+        "point128_p04.png",
+        "point128_p05.png",
+        "point128_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 13,
+      "answerPages": [
+        "point128_ans_p07.png",
+        "point128_ans_p08.png",
+        "point128_ans_p09.png",
+        "point128_ans_p10.png",
+        "point128_ans_p11.png",
+        "point128_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/875",
+      "point_videos": [
+        {
+          "title": "少ない種類のものを並べる",
+          "id": "YWMY1wpVjpI"
+        }
+      ]
+    },
+    {
+      "id": "point129",
+      "number": 129,
+      "title": "3点結んで三角形 (場合の数の応用技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point129_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "9LozBRFqWkI",
+        "NU0-qWuAWP0",
+        "Zjj5RkGB_xk",
+        "_-qH1HoJS0w",
+        "rxvV34NuwAA",
+        "zg1JtNjc0Jk"
+      ],
+      "questions": [
+        {
+          "id": "p129-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "Zjj5RkGB_xk"
+          ]
+        },
+        {
+          "id": "p129-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "zg1JtNjc0Jk"
+          ]
+        },
+        {
+          "id": "p129-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "NU0-qWuAWP0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point129_p00.png",
+        "point129_p01.png",
+        "point129_p02.png",
+        "point129_p03.png",
+        "point129_p04.png",
+        "point129_p05.png",
+        "point129_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point129_ans_p07.png",
+        "point129_ans_p08.png",
+        "point129_ans_p09.png",
+        "point129_ans_p10.png",
+        "point129_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/876",
+      "point_videos": [
+        {
+          "title": "3点結んで三角形",
+          "id": "XYVOX6YfEgk"
+        }
+      ]
+    },
+    {
+      "id": "point130",
+      "number": 130,
+      "title": "トーナメント (場合の数の応用技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point130_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "99VgTvGaBBA",
+        "G-8o_lKyr48",
+        "N-lZop5ztXY",
+        "OE-i3OBrI-Q",
+        "StlMNvcI-xM",
+        "XeDkbLLY1vc"
+      ],
+      "questions": [
+        {
+          "id": "p130-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "G-8o_lKyr48"
+          ]
+        },
+        {
+          "id": "p130-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "N-lZop5ztXY"
+          ]
+        },
+        {
+          "id": "p130-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "StlMNvcI-xM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point130_p00.png",
+        "point130_p01.png",
+        "point130_p02.png",
+        "point130_p03.png",
+        "point130_p04.png",
+        "point130_p05.png",
+        "point130_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point130_ans_p07.png",
+        "point130_ans_p08.png",
+        "point130_ans_p09.png",
+        "point130_ans_p10.png",
+        "point130_ans_p11.png",
+        "point130_ans_p12.png",
+        "point130_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/877",
+      "point_videos": [
+        {
+          "title": "トーナメント",
+          "id": "OEbL3Lqx-zo"
+        },
+        {
+          "title": "組み合わせ(Cの利用)",
+          "id": "TdcQ0X45DFA"
+        }
+      ]
+    },
+    {
+      "id": "point131",
+      "number": 131,
+      "title": "隣りが多い場所から決める (色ぬり)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point131_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "OjxMtCjBgiw",
+        "VBj2Vqs-W58",
+        "ZZ59FXQjujM",
+        "id8Wa9cC_54",
+        "qKM46IstxDM",
+        "xwM1NN5EDX0"
+      ],
+      "questions": [
+        {
+          "id": "p131-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "VBj2Vqs-W58"
+          ]
+        },
+        {
+          "id": "p131-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "qKM46IstxDM"
+          ]
+        },
+        {
+          "id": "p131-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "OjxMtCjBgiw"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point131_p00.png",
+        "point131_p01.png",
+        "point131_p02.png",
+        "point131_p03.png",
+        "point131_p04.png",
+        "point131_p05.png",
+        "point131_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point131_ans_p07.png",
+        "point131_ans_p08.png",
+        "point131_ans_p09.png",
+        "point131_ans_p10.png",
+        "point131_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/878",
+      "point_videos": [
+        {
+          "title": "隣りが多い場所から決める",
+          "id": "UUcbT9oDONo"
+        }
+      ]
+    },
+    {
+      "id": "point132",
+      "number": 132,
+      "title": "時間のイチイチ (イチイチ問題)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point132_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "FXGciQ-soCc",
+        "KoBzV9c2dmc",
+        "OMpnPe29_Xo",
+        "i_pBKgYJfdo",
+        "ocV-CMR-AHs",
+        "tUnIZzE0QxA"
+      ],
+      "questions": [
+        {
+          "id": "p132-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "tUnIZzE0QxA"
+          ]
+        },
+        {
+          "id": "p132-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "KoBzV9c2dmc"
+          ]
+        },
+        {
+          "id": "p132-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "i_pBKgYJfdo"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point132_p00.png",
+        "point132_p01.png",
+        "point132_p02.png",
+        "point132_p03.png",
+        "point132_p04.png",
+        "point132_p05.png",
+        "point132_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 16,
+      "answerPages": [
+        "point132_ans_p07.png",
+        "point132_ans_p08.png",
+        "point132_ans_p09.png",
+        "point132_ans_p10.png",
+        "point132_ans_p11.png",
+        "point132_ans_p12.png",
+        "point132_ans_p13.png",
+        "point132_ans_p14.png",
+        "point132_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/879",
+      "point_videos": [
+        {
+          "title": "時間のイチイチ",
+          "id": "Cs8pMlaLCt8"
+        }
+      ]
+    },
+    {
+      "id": "point133",
+      "number": 133,
+      "title": "不定方程式 (不定方程式)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point133_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "6b39oagO6TQ",
+        "8qmaeHm-LC8",
+        "CwKeDbOktQg",
+        "D8ZJFcPdg6k",
+        "Qee3q0DNvzs",
+        "oauV0h3Z2L0"
+      ],
+      "questions": [
+        {
+          "id": "p133-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "8qmaeHm-LC8"
+          ]
+        },
+        {
+          "id": "p133-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "CwKeDbOktQg"
+          ]
+        },
+        {
+          "id": "p133-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "6b39oagO6TQ"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point133_p00.png",
+        "point133_p01.png",
+        "point133_p02.png",
+        "point133_p03.png",
+        "point133_p04.png",
+        "point133_p05.png",
+        "point133_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point133_ans_p07.png",
+        "point133_ans_p08.png",
+        "point133_ans_p09.png",
+        "point133_ans_p10.png",
+        "point133_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/880",
+      "point_videos": [
+        {
+          "title": "不定方程式",
+          "id": "ABQw1VvonBo"
+        }
+      ]
+    },
+    {
+      "id": "point134",
+      "number": 134,
+      "title": "3つの不定方程式 (不定方程式)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point134_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "29IA1a6Ve_w",
+        "I6mmZ9fvo6I",
+        "PZH8HM3DKZ0",
+        "QJiTPb8w014",
+        "XTjY919YKwU",
+        "wOeO6l96Sw4"
+      ],
+      "questions": [
+        {
+          "id": "p134-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "29IA1a6Ve_w"
+          ]
+        },
+        {
+          "id": "p134-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "PZH8HM3DKZ0"
+          ]
+        },
+        {
+          "id": "p134-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "QJiTPb8w014"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point134_p00.png",
+        "point134_p01.png",
+        "point134_p02.png",
+        "point134_p03.png",
+        "point134_p04.png",
+        "point134_p05.png",
+        "point134_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point134_ans_p07.png",
+        "point134_ans_p08.png",
+        "point134_ans_p09.png",
+        "point134_ans_p10.png",
+        "point134_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/881",
+      "point_videos": [
+        {
+          "title": "3つの不定方程式",
+          "id": "TZvn55eeaGE"
+        }
+      ]
+    },
+    {
+      "id": "point134_nankan",
+      "number": 134,
+      "title": "3つの不定方程式 (不定方程式)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point134_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "L7UDuf2NnFg"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "fh3Xlfy5eq4"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "7V6Teec0cFE"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "3つの不定方程式",
+          "id": "TZvn55eeaGE"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1696/lesson-playlist?textbook_reference_code=kobe-web-881",
+      "problemPages": [
+        "point134_nankan_p00.png",
+        "point134_nankan_p01.png",
+        "point134_nankan_p02.png",
+        "point134_nankan_p03.png",
+        "point134_nankan_p04.png",
+        "point134_nankan_p05.png",
+        "point134_nankan_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point134_nankan_ans_p07.png",
+        "point134_nankan_ans_p08.png",
+        "point134_nankan_ans_p09.png",
+        "point134_nankan_ans_p10.png",
+        "point134_nankan_ans_p11.png"
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi15",
+    "title": "第15回 力試しテスト",
+    "range": "Point 128〜134",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/882",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第15回_共通の型_力試しテスト問題.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第15回_共通の型_力試しテスト解答.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "BXtaT2t2cVA",
+      "OOvZfbmjpwI",
+      "OzyDiYE_xXk",
+      "WcISo6hKqE4",
+      "We5zSZ6y5PM",
+      "XgL--1Nd4uE",
+      "k5yx6-1j2Pg"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(3)",
+        "label": "3番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(1)",
+        "label": "4番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(2)",
+        "label": "4番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(1)",
+        "label": "5番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(2)",
+        "label": "5番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(3)",
+        "label": "5番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6",
+        "label": "6番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7",
+        "label": "7番",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png",
+      "test_mondai_p06.png",
+      "test_mondai_p07.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png"
+    ],
+    "point_videos": [
+      {
+        "title": "トーナメント",
+        "id": "OEbL3Lqx-zo"
+      },
+      {
+        "title": "組み合わせ(Cの利用)",
+        "id": "TdcQ0X45DFA"
+      },
+      {
+        "title": "3つの不定方程式",
+        "id": "TZvn55eeaGE"
+      },
+      {
+        "title": "3点結んで三角形",
+        "id": "XYVOX6YfEgk"
+      },
+      {
+        "title": "時間のイチイチ",
+        "id": "Cs8pMlaLCt8"
+      },
+      {
+        "title": "少ない種類のものを並べる",
+        "id": "YWMY1wpVjpI"
+      },
+      {
+        "title": "隣りが多い場所から決める",
+        "id": "UUcbT9oDONo"
+      },
+      {
+        "title": "不定方程式",
+        "id": "ABQw1VvonBo"
+      }
+    ]
+  }
+}

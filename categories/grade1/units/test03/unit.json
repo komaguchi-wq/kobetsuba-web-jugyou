@@ -1,0 +1,1189 @@
+{
+  "points": [
+    {
+      "id": "point24",
+      "number": 24,
+      "title": "2つの和差算 (和差算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point24_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3kD0JRc4fyM",
+        "A-ozk9kYIvo",
+        "B8aNNZjC398",
+        "GkkF_Cmd5cI",
+        "HKRhIanC11Q",
+        "NNLlkPQttU8",
+        "TFt-y4-_-Kc",
+        "TJW6sue-Q8U",
+        "U-Js39_0QRw",
+        "ZdZZpkZxvdU",
+        "cGtDROt-RtM",
+        "clsSvsIfGf0",
+        "jM-SMIiREH0",
+        "xFuixK2bDlw"
+      ],
+      "questions": [
+        {
+          "id": "p24-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "TFt-y4-_-Kc",
+            "B8aNNZjC398",
+            "NNLlkPQttU8"
+          ]
+        },
+        {
+          "id": "p24-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "TJW6sue-Q8U",
+            "ZdZZpkZxvdU",
+            "cGtDROt-RtM"
+          ]
+        },
+        {
+          "id": "p24-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "A-ozk9kYIvo",
+            "jM-SMIiREH0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point24_p00.png",
+        "point24_p01.png",
+        "point24_p02.png",
+        "point24_p03.png",
+        "point24_p04.png",
+        "point24_p05.png",
+        "point24_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point24_ans_p07.png",
+        "point24_ans_p08.png",
+        "point24_ans_p09.png",
+        "point24_ans_p10.png",
+        "point24_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/723",
+      "point_videos": [
+        {
+          "title": "2つの和差算",
+          "id": "RPa25Rr-i7A"
+        }
+      ]
+    },
+    {
+      "id": "point25",
+      "number": 25,
+      "title": "3つの和差算 (和差算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point25_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "5nZBHwPQB6I",
+        "7xgddlQ9heE",
+        "Mf0ycvoW4JI",
+        "fAasCXrT3zU",
+        "qfhjvsN6u5E",
+        "tiwAo_HlLPg",
+        "vM-6reR1k0s",
+        "wP-sxBQ1xT8"
+      ],
+      "questions": [
+        {
+          "id": "p25-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "fAasCXrT3zU",
+            "wP-sxBQ1xT8"
+          ]
+        },
+        {
+          "id": "p25-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "tiwAo_HlLPg",
+            "Mf0ycvoW4JI"
+          ]
+        },
+        {
+          "id": "p25-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "5nZBHwPQB6I"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point25_p00.png",
+        "point25_p01.png",
+        "point25_p02.png",
+        "point25_p03.png",
+        "point25_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point25_ans_p05.png",
+        "point25_ans_p06.png",
+        "point25_ans_p07.png",
+        "point25_ans_p08.png",
+        "point25_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/725",
+      "point_videos": [
+        {
+          "title": "3つの和差算",
+          "id": "87jcvNdMj3s"
+        }
+      ]
+    },
+    {
+      "id": "point26",
+      "number": 26,
+      "title": "つるかめ算(面積図) (つるかめ算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point26_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "48vAsmgPack",
+        "BZWPq-QVaTM",
+        "Ce0rKW_HckI",
+        "ND2Za9Cd2qk",
+        "_LkwIBOwjRk",
+        "c7sOVVFfFaQ",
+        "cdZN8fYwjn4",
+        "d1J3qb-9XY0",
+        "gxYB46aHq6U",
+        "wr4sJ8dcIzg"
+      ],
+      "questions": [
+        {
+          "id": "p26-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ND2Za9Cd2qk",
+            "cdZN8fYwjn4"
+          ]
+        },
+        {
+          "id": "p26-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "d1J3qb-9XY0",
+            "Ce0rKW_HckI"
+          ]
+        },
+        {
+          "id": "p26-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "BZWPq-QVaTM",
+            "c7sOVVFfFaQ"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point26_p00.png",
+        "point26_p01.png",
+        "point26_p02.png",
+        "point26_p03.png",
+        "point26_p04.png",
+        "point26_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point26_ans_p06.png",
+        "point26_ans_p07.png",
+        "point26_ans_p08.png",
+        "point26_ans_p09.png",
+        "point26_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/726",
+      "point_videos": [
+        {
+          "title": "つるかめ算(面積図)",
+          "id": "v3v-hWzL0KA"
+        }
+      ]
+    },
+    {
+      "id": "point27",
+      "number": 27,
+      "title": "弁償のつるかめ (つるかめ算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point27_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "Ahye0UcGw9I",
+        "CX7F7YD1wxk",
+        "Pl4Gr00Ubmc",
+        "aob1t5ej610",
+        "gaRNZKLEurs",
+        "iJyxj1GSRlQ",
+        "kd2jGzzwl8U",
+        "rkfiocQ7B0M"
+      ],
+      "questions": [
+        {
+          "id": "p27-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "kd2jGzzwl8U"
+          ]
+        },
+        {
+          "id": "p27-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "gaRNZKLEurs"
+          ]
+        },
+        {
+          "id": "p27-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Ahye0UcGw9I",
+            "Pl4Gr00Ubmc"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point27_p00.png",
+        "point27_p01.png",
+        "point27_p02.png",
+        "point27_p03.png",
+        "point27_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point27_ans_p05.png",
+        "point27_ans_p06.png",
+        "point27_ans_p07.png",
+        "point27_ans_p08.png",
+        "point27_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/727",
+      "point_videos": [
+        {
+          "title": "弁償のつるかめ",
+          "id": "BIo_aIBbKXU"
+        }
+      ]
+    },
+    {
+      "id": "point28",
+      "number": 28,
+      "title": "植木算(両はじ有) (植木算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point28_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "7IAYgGNgsCU",
+        "D1YE2jbgFrk",
+        "JqVvdwBmet8",
+        "SfTK5Ergt1s",
+        "WTou7Z-lQAM",
+        "Yd8B1P5RkA4",
+        "btx-pwWCoAc",
+        "cYsSvSAq1aE",
+        "k7m3SfqOB8w",
+        "pDLcGL-iNBo",
+        "xTbqtYyL-S8"
+      ],
+      "questions": [
+        {
+          "id": "p28-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "pDLcGL-iNBo",
+            "btx-pwWCoAc",
+            "Yd8B1P5RkA4"
+          ]
+        },
+        {
+          "id": "p28-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "k7m3SfqOB8w",
+            "JqVvdwBmet8",
+            "7IAYgGNgsCU"
+          ]
+        },
+        {
+          "id": "p28-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "WTou7Z-lQAM",
+            "cYsSvSAq1aE"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point28_p00.png",
+        "point28_p01.png",
+        "point28_p02.png",
+        "point28_p03.png",
+        "point28_p04.png",
+        "point28_p05.png",
+        "point28_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point28_ans_p07.png",
+        "point28_ans_p08.png",
+        "point28_ans_p09.png",
+        "point28_ans_p10.png",
+        "point28_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/728",
+      "point_videos": [
+        {
+          "title": "植木算(両はじ有)",
+          "id": "cfErvYfLdgk"
+        }
+      ]
+    },
+    {
+      "id": "point29",
+      "number": 29,
+      "title": "植木算(両はじ無) (植木算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point29_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "8c7wXshDOmw",
+        "DbfTRxBPjgw",
+        "FNdo59uLoWQ",
+        "KnC2QEZ-mjY",
+        "VdZFimhALf0",
+        "X3t-jJ26QLc",
+        "XPsFTgui1Yg",
+        "enSq0DUndu8",
+        "jrGcSxCIT28",
+        "rJ3_m3SeDi8",
+        "uWqCjqsdyjo",
+        "vjGLZTJ8iyg"
+      ],
+      "questions": [
+        {
+          "id": "p29-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "DbfTRxBPjgw",
+            "VdZFimhALf0",
+            "jrGcSxCIT28"
+          ]
+        },
+        {
+          "id": "p29-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "FNdo59uLoWQ",
+            "uWqCjqsdyjo",
+            "vjGLZTJ8iyg"
+          ]
+        },
+        {
+          "id": "p29-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "rJ3_m3SeDi8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point29_p00.png",
+        "point29_p01.png",
+        "point29_p02.png",
+        "point29_p03.png",
+        "point29_p04.png",
+        "point29_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point29_ans_p06.png",
+        "point29_ans_p07.png",
+        "point29_ans_p08.png",
+        "point29_ans_p09.png",
+        "point29_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/729",
+      "point_videos": [
+        {
+          "title": "植木算(両はじ無)",
+          "id": "wPRf-rw4emU"
+        },
+        {
+          "title": "植木算(両はじ有)",
+          "id": "cfErvYfLdgk"
+        }
+      ]
+    },
+    {
+      "id": "point30",
+      "number": 30,
+      "title": "植木算(池パターン) (植木算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point30_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1canYqLstOE",
+        "E7DYkU5bQKU",
+        "QO5yxzGkc90",
+        "RuZAE3iesgQ",
+        "SNWTOYtG-jM",
+        "UUBJzQqs1s4",
+        "b0OYLPAtlKk",
+        "cWwEXyw3I0E",
+        "lv9qtuWIqdk",
+        "sIsvjT65Pz0",
+        "wVhZi69ZFpE",
+        "xv21cg3q2TI"
+      ],
+      "questions": [
+        {
+          "id": "p30-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "1canYqLstOE",
+            "UUBJzQqs1s4",
+            "sIsvjT65Pz0"
+          ]
+        },
+        {
+          "id": "p30-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "b0OYLPAtlKk",
+            "E7DYkU5bQKU",
+            "cWwEXyw3I0E"
+          ]
+        },
+        {
+          "id": "p30-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "lv9qtuWIqdk",
+            "xv21cg3q2TI"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point30_p00.png",
+        "point30_p01.png",
+        "point30_p02.png",
+        "point30_p03.png",
+        "point30_p04.png",
+        "point30_p05.png",
+        "point30_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point30_ans_p07.png",
+        "point30_ans_p08.png",
+        "point30_ans_p09.png",
+        "point30_ans_p10.png",
+        "point30_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/730",
+      "point_videos": [
+        {
+          "title": "植木算(池パターン)",
+          "id": "anbZ_WXjxcI"
+        },
+        {
+          "title": "整数の割り算と約数線分図",
+          "id": "jopuHYp6EIY"
+        }
+      ]
+    },
+    {
+      "id": "point31",
+      "number": 31,
+      "title": "2つの消去算 (消去算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point31_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "0td5KnRAe9M",
+        "4D_6-trunIc",
+        "D8ua1OdA5qo",
+        "HFwf0Aijkgs",
+        "QR2817f2Xw0",
+        "R2EGr3WZVNM",
+        "Wk7ZVQ8hHLQ",
+        "cgeZdLMLdCY",
+        "dSl7lUx6yTM",
+        "don0zFdVB3g"
+      ],
+      "questions": [
+        {
+          "id": "p31-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "R2EGr3WZVNM",
+            "0td5KnRAe9M"
+          ]
+        },
+        {
+          "id": "p31-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "dSl7lUx6yTM",
+            "don0zFdVB3g"
+          ]
+        },
+        {
+          "id": "p31-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "cgeZdLMLdCY",
+            "D8ua1OdA5qo"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point31_p00.png",
+        "point31_p01.png",
+        "point31_p02.png",
+        "point31_p03.png",
+        "point31_p04.png",
+        "point31_p05.png",
+        "point31_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point31_ans_p07.png",
+        "point31_ans_p08.png",
+        "point31_ans_p09.png",
+        "point31_ans_p10.png",
+        "point31_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/734",
+      "point_videos": [
+        {
+          "title": "2つの消去算",
+          "id": "O_-KF_Lb8lM"
+        }
+      ]
+    },
+    {
+      "id": "point32",
+      "number": 32,
+      "title": "代入の消去算 (消去算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point32_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "HiDdtP-5vGk",
+        "MAGgKtxZJ2E",
+        "acSGSVtPTo0",
+        "l7pGalbNcHc",
+        "rSMBCXBEJQU",
+        "ukvfZDsNIBk",
+        "wDa2wSuZ0Sk",
+        "yzZcuJm8gmo"
+      ],
+      "questions": [
+        {
+          "id": "p32-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "rSMBCXBEJQU",
+            "ukvfZDsNIBk"
+          ]
+        },
+        {
+          "id": "p32-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "HiDdtP-5vGk",
+            "yzZcuJm8gmo"
+          ]
+        },
+        {
+          "id": "p32-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "l7pGalbNcHc"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point32_p00.png",
+        "point32_p01.png",
+        "point32_p02.png",
+        "point32_p03.png",
+        "point32_p04.png",
+        "point32_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point32_ans_p06.png",
+        "point32_ans_p07.png",
+        "point32_ans_p08.png",
+        "point32_ans_p09.png",
+        "point32_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/735",
+      "point_videos": [
+        {
+          "title": "代入の消去算",
+          "id": "2eRfI1s1YW8"
+        },
+        {
+          "title": "つるかめ算(面積図)",
+          "id": "v3v-hWzL0KA"
+        }
+      ]
+    },
+    {
+      "id": "point33",
+      "number": 33,
+      "title": "差集め算 (過不足算・差集め算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point33_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "9d-Iz-Dea_0",
+        "BuVKrudfVcM",
+        "EPRDkKJsMnk",
+        "HB3dXaQn2eE",
+        "RG8FhkMGo_I",
+        "TUNCzf1IYv4",
+        "WRTYHyMCaj0",
+        "druZomtB1N0"
+      ],
+      "questions": [
+        {
+          "id": "p33-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "TUNCzf1IYv4",
+            "EPRDkKJsMnk"
+          ]
+        },
+        {
+          "id": "p33-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "RG8FhkMGo_I",
+            "HB3dXaQn2eE"
+          ]
+        },
+        {
+          "id": "p33-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "druZomtB1N0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point33_p00.png",
+        "point33_p01.png",
+        "point33_p02.png",
+        "point33_p03.png",
+        "point33_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point33_ans_p05.png",
+        "point33_ans_p06.png",
+        "point33_ans_p07.png",
+        "point33_ans_p08.png",
+        "point33_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/736",
+      "point_videos": [
+        {
+          "title": "差集め算",
+          "id": "MyzpVXUmCs0"
+        }
+      ]
+    },
+    {
+      "id": "point34",
+      "number": 34,
+      "title": "過不足算 (過不足算・差集め算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point34_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "0g9z7NxTVIU",
+        "2QblPQiuUYQ",
+        "5SYsP0UGLzA",
+        "8_ezqPxO4hY",
+        "CsYVXiunvv8",
+        "dRWZoMkoZFk",
+        "iEvUdVoubBA",
+        "ofpxt5CgGFI",
+        "phfKC6yQkH4",
+        "vQ4V-F4mZoI"
+      ],
+      "questions": [
+        {
+          "id": "p34-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "dRWZoMkoZFk",
+            "vQ4V-F4mZoI",
+            "ofpxt5CgGFI"
+          ]
+        },
+        {
+          "id": "p34-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "0g9z7NxTVIU",
+            "2QblPQiuUYQ",
+            "iEvUdVoubBA"
+          ]
+        },
+        {
+          "id": "p34-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "5SYsP0UGLzA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point34_p00.png",
+        "point34_p01.png",
+        "point34_p02.png",
+        "point34_p03.png",
+        "point34_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point34_ans_p05.png",
+        "point34_ans_p06.png",
+        "point34_ans_p07.png",
+        "point34_ans_p08.png",
+        "point34_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/737",
+      "point_videos": [
+        {
+          "title": "過不足算",
+          "id": "9V9M99Zn9Is"
+        }
+      ]
+    },
+    {
+      "id": "point34_nankan",
+      "number": 34,
+      "title": "過不足算 (過不足算・差集め算)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point34_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "epaIBrJ7ymM"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "t778DhEUQh8"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "PJ_YwsoyHk0"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "過不足算",
+          "id": "9V9M99Zn9Is"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1266/lesson-playlist?textbook_reference_code=kobe-web-737",
+      "problemPages": [
+        "point34_nankan_p00.png",
+        "point34_nankan_p01.png",
+        "point34_nankan_p02.png",
+        "point34_nankan_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point34_nankan_ans_p04.png",
+        "point34_nankan_ans_p05.png",
+        "point34_nankan_ans_p06.png",
+        "point34_nankan_ans_p07.png",
+        "point34_nankan_ans_p08.png"
+      ]
+    },
+    {
+      "id": "point35",
+      "number": 35,
+      "title": "相関表 (集合と整理の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point35_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "ArL5zrxjvPw",
+        "J-PFaSAThO0",
+        "JxofuuGidJI",
+        "Y1z0zgn61qU",
+        "mYQNxJGmu2Y",
+        "w32B3VfyKjg"
+      ],
+      "questions": [
+        {
+          "id": "p35-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ArL5zrxjvPw"
+          ]
+        },
+        {
+          "id": "p35-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "mYQNxJGmu2Y"
+          ]
+        },
+        {
+          "id": "p35-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "JxofuuGidJI"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point35_p00.png",
+        "point35_p01.png",
+        "point35_p02.png",
+        "point35_p03.png",
+        "point35_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point35_ans_p05.png",
+        "point35_ans_p06.png",
+        "point35_ans_p07.png",
+        "point35_ans_p08.png",
+        "point35_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/738",
+      "point_videos": [
+        {
+          "title": "相関表",
+          "id": "hxr9Lip5DyQ"
+        },
+        {
+          "title": "2つの和差算",
+          "id": "RPa25Rr-i7A"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi03",
+    "title": "第3回 力試しテスト",
+    "range": "Point 24〜35",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/739",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第3回_共通の型_力試しテスト問題.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第3回_共通の型_力試しテスト解答.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "-OKmeZRE_78",
+      "-a0In6ysTIc",
+      "2u3txmHkhcA",
+      "4bh_LoWOK6M",
+      "4ez1X_MhZkE",
+      "4uugKLH5cpU",
+      "F0QLvOq6Yfw",
+      "RJ0JcMWPmdw",
+      "RXX8iWwuBqA",
+      "SaPcPbQlYjQ",
+      "VB9p6RWHNbo",
+      "_RC-hSUuXVs",
+      "aUr4HQD2eUU",
+      "bRfWAw9UWig",
+      "dEpbwqJfdFE",
+      "gAcjJSaGK68",
+      "p48MdbKbQqQ",
+      "susT2OwvjdE"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q1(1)",
+        "label": "1番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q1(2)",
+        "label": "1番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(1)",
+        "label": "5番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(2)",
+        "label": "5番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6",
+        "label": "6番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(1)",
+        "label": "6番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(2)",
+        "label": "6番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7",
+        "label": "7番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8",
+        "label": "8番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8(1)",
+        "label": "8番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8(2)",
+        "label": "8番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9",
+        "label": "9番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9(1)",
+        "label": "9番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9(2)",
+        "label": "9番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9(3)",
+        "label": "9番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q10",
+        "label": "10番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q11",
+        "label": "11番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q11(1)",
+        "label": "11番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q11(2)",
+        "label": "11番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q12",
+        "label": "12番",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png",
+      "test_mondai_p06.png",
+      "test_mondai_p07.png",
+      "test_mondai_p08.png",
+      "test_mondai_p09.png",
+      "test_mondai_p10.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png",
+      "test_kaitou_p02.png"
+    ],
+    "point_videos": [
+      {
+        "title": "2つの消去算",
+        "id": "O_-KF_Lb8lM"
+      },
+      {
+        "title": "差集め算",
+        "id": "MyzpVXUmCs0"
+      },
+      {
+        "title": "植木算(池パターン)",
+        "id": "anbZ_WXjxcI"
+      },
+      {
+        "title": "整数の割り算と約数線分図",
+        "id": "jopuHYp6EIY"
+      },
+      {
+        "title": "3つの和差算",
+        "id": "87jcvNdMj3s"
+      },
+      {
+        "title": "相関表",
+        "id": "hxr9Lip5DyQ"
+      },
+      {
+        "title": "植木算(両はじ有)",
+        "id": "cfErvYfLdgk"
+      },
+      {
+        "title": "代入の消去算",
+        "id": "2eRfI1s1YW8"
+      },
+      {
+        "title": "つるかめ算(面積図)",
+        "id": "v3v-hWzL0KA"
+      },
+      {
+        "title": "2つの和差算",
+        "id": "RPa25Rr-i7A"
+      },
+      {
+        "title": "過不足算",
+        "id": "9V9M99Zn9Is"
+      },
+      {
+        "title": "弁償のつるかめ",
+        "id": "BIo_aIBbKXU"
+      },
+      {
+        "title": "植木算(両はじ無)",
+        "id": "wPRf-rw4emU"
+      }
+    ]
+  }
+}

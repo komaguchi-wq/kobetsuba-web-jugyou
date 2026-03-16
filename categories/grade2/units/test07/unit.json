@@ -1,0 +1,767 @@
+{
+  "points": [
+    {
+      "id": "point234",
+      "number": 234,
+      "title": "分ける(棒入れ) (並べる・選ぶ)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point234_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1GFc_xziWoE",
+        "7UDxwrpNiqs",
+        "EWy2Q_a-8M8",
+        "KxgKkSumeC4",
+        "QC2JcaeltYY",
+        "WVWi5nIT9v8",
+        "Z9jI1IhuUMA",
+        "dJa1ciEpDr8",
+        "hyhdFNQWabI",
+        "pwt_hkQoNIU",
+        "yQlf5ASlQw4",
+        "yRFihFreg_w"
+      ],
+      "questions": [
+        {
+          "id": "p234-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "WVWi5nIT9v8",
+            "7UDxwrpNiqs"
+          ]
+        },
+        {
+          "id": "p234-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "KxgKkSumeC4",
+            "QC2JcaeltYY"
+          ]
+        },
+        {
+          "id": "p234-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "yQlf5ASlQw4",
+            "dJa1ciEpDr8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point234_p00.png",
+        "point234_p01.png",
+        "point234_p02.png",
+        "point234_p03.png",
+        "point234_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point234_ans_p05.png",
+        "point234_ans_p06.png",
+        "point234_ans_p07.png",
+        "point234_ans_p08.png",
+        "point234_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/936",
+      "point_videos": [
+        {
+          "title": "分ける(棒入れ)",
+          "id": "pVpJsyMwyB0"
+        }
+      ]
+    },
+    {
+      "id": "point235",
+      "number": 235,
+      "title": "分ける（ピヨピヨ） (並べる・選ぶ)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point235_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "2qTntjWRsnY",
+        "HO0dxPTsMbk",
+        "JfInWW3RSNY",
+        "Q7lceO10eWE",
+        "YkFNZvECDEc",
+        "ffvLJQZA8uY",
+        "kCQn9Nfgw2g",
+        "qhDFHqpQba4"
+      ],
+      "questions": [
+        {
+          "id": "p235-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "YkFNZvECDEc",
+            "qhDFHqpQba4"
+          ]
+        },
+        {
+          "id": "p235-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "2qTntjWRsnY",
+            "kCQn9Nfgw2g"
+          ]
+        },
+        {
+          "id": "p235-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "JfInWW3RSNY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point235_p00.png",
+        "point235_p01.png",
+        "point235_p02.png",
+        "point235_p03.png",
+        "point235_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point235_ans_p05.png",
+        "point235_ans_p06.png",
+        "point235_ans_p07.png",
+        "point235_ans_p08.png",
+        "point235_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/937",
+      "point_videos": [
+        {
+          "title": "分ける（ピヨピヨ）",
+          "id": "6MNkR27U73o"
+        }
+      ]
+    },
+    {
+      "id": "point236",
+      "number": 236,
+      "title": "減らす棒入れ (並べる・選ぶ)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point236_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "5s6cN4RRNT4",
+        "6hX4j2Pi2zY",
+        "QZqPMy93WoU",
+        "QbgiI9QsSdo",
+        "i3XK8rcV_rc",
+        "xBfvkBXrndc"
+      ],
+      "questions": [
+        {
+          "id": "p236-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "i3XK8rcV_rc"
+          ]
+        },
+        {
+          "id": "p236-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "xBfvkBXrndc"
+          ]
+        },
+        {
+          "id": "p236-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "QbgiI9QsSdo"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point236_p00.png",
+        "point236_p01.png",
+        "point236_p02.png",
+        "point236_p03.png",
+        "point236_p04.png",
+        "point236_p05.png",
+        "point236_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point236_ans_p07.png",
+        "point236_ans_p08.png",
+        "point236_ans_p09.png",
+        "point236_ans_p10.png",
+        "point236_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/938",
+      "point_videos": [
+        {
+          "title": "減らす棒入れ",
+          "id": "OZyQxpwOOM4"
+        }
+      ]
+    },
+    {
+      "id": "point237",
+      "number": 237,
+      "title": "サイコロの和分解 (並べる・選ぶ)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point237_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "Ugyx_rs_BIw",
+        "k9TE3fvRv5g",
+        "kcRfuQJHmtg",
+        "uovv9QT0zgE",
+        "xkPrSQYDSL0"
+      ],
+      "questions": [
+        {
+          "id": "p237-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "xkPrSQYDSL0"
+          ]
+        },
+        {
+          "id": "p237-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "k9TE3fvRv5g"
+          ]
+        },
+        {
+          "id": "p237-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "kcRfuQJHmtg"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point237_p00.png",
+        "point237_p01.png",
+        "point237_p02.png",
+        "point237_p03.png",
+        "point237_p04.png",
+        "point237_p05.png",
+        "point237_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point237_ans_p07.png",
+        "point237_ans_p08.png",
+        "point237_ans_p09.png",
+        "point237_ans_p10.png",
+        "point237_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/939",
+      "point_videos": [
+        {
+          "title": "サイコロの和分解",
+          "id": "H7TsegPfR3s"
+        }
+      ]
+    },
+    {
+      "id": "point238",
+      "number": 238,
+      "title": "同じ数が複数ある並べ方 (並べる・選ぶ)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point238_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "VU3LZn9omFE",
+        "YuaGP1CsCs0",
+        "fhevqt9mqfU",
+        "gpEiQq6iBio",
+        "ije_4Rn9qsk",
+        "optoynQN2XQ"
+      ],
+      "questions": [
+        {
+          "id": "p238-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "YuaGP1CsCs0"
+          ]
+        },
+        {
+          "id": "p238-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "gpEiQq6iBio"
+          ]
+        },
+        {
+          "id": "p238-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "ije_4Rn9qsk"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point238_p00.png",
+        "point238_p01.png",
+        "point238_p02.png",
+        "point238_p03.png",
+        "point238_p04.png",
+        "point238_p05.png",
+        "point238_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point238_ans_p07.png",
+        "point238_ans_p08.png",
+        "point238_ans_p09.png",
+        "point238_ans_p10.png",
+        "point238_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/940",
+      "point_videos": [
+        {
+          "title": "同じ数が複数ある並べ方",
+          "id": "TEiXrQFngOA"
+        },
+        {
+          "title": "倍数判定法(2、4、8)",
+          "id": "9vXR6YNLG5Q"
+        }
+      ]
+    },
+    {
+      "id": "point239",
+      "number": 239,
+      "title": "作れる金額の種類 (場合の数の応用技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point239_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "6TiUx4nNaso",
+        "IjSkNrKtgwU",
+        "_zTGIAHQwKk",
+        "bTr12lFMdnc",
+        "mUlIBsXKbQ8",
+        "wZn22LvdUFM",
+        "zjjShr78ijU"
+      ],
+      "questions": [
+        {
+          "id": "p239-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "wZn22LvdUFM"
+          ]
+        },
+        {
+          "id": "p239-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "_zTGIAHQwKk"
+          ]
+        },
+        {
+          "id": "p239-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "6TiUx4nNaso",
+            "zjjShr78ijU"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point239_p00.png",
+        "point239_p01.png",
+        "point239_p02.png",
+        "point239_p03.png",
+        "point239_p04.png",
+        "point239_p05.png",
+        "point239_p06.png",
+        "point239_p07.png"
+      ],
+      "answerStartPage": 8,
+      "totalPages": 15,
+      "answerPages": [
+        "point239_ans_p08.png",
+        "point239_ans_p09.png",
+        "point239_ans_p10.png",
+        "point239_ans_p11.png",
+        "point239_ans_p12.png",
+        "point239_ans_p13.png",
+        "point239_ans_p14.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/941",
+      "point_videos": [
+        {
+          "title": "作れる金額の種類",
+          "id": "9hJQda0o3Js"
+        }
+      ]
+    },
+    {
+      "id": "point240",
+      "number": 240,
+      "title": "当選確実 (当選確実)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point240_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "4-zrCZC3sHA",
+        "BwcFX-44wzE",
+        "CmPoP4NXMI4",
+        "TMdBBYYUdB0",
+        "_IH6uLI5pSA",
+        "szsnfqS4wE0",
+        "xPcvNjV0lng",
+        "xiflRqsLHgw"
+      ],
+      "questions": [
+        {
+          "id": "p240-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "xPcvNjV0lng"
+          ]
+        },
+        {
+          "id": "p240-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "TMdBBYYUdB0"
+          ]
+        },
+        {
+          "id": "p240-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "CmPoP4NXMI4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point240_p00.png",
+        "point240_p01.png",
+        "point240_p02.png",
+        "point240_p03.png",
+        "point240_p04.png",
+        "point240_p05.png",
+        "point240_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point240_ans_p07.png",
+        "point240_ans_p08.png",
+        "point240_ans_p09.png",
+        "point240_ans_p10.png",
+        "point240_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/942",
+      "point_videos": [
+        {
+          "title": "当選確実",
+          "id": "47rxfGLbPSs"
+        }
+      ]
+    },
+    {
+      "id": "point241",
+      "number": 241,
+      "title": "途中開始の当選確実 (当選確実)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point241_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1x3WI8xjJKM",
+        "2mNNSr1uaoA",
+        "9Yi1z3muERU",
+        "hyX3zOi-DNk",
+        "zDTqaJogtnk"
+      ],
+      "questions": [
+        {
+          "id": "p241-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "2mNNSr1uaoA"
+          ]
+        },
+        {
+          "id": "p241-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "1x3WI8xjJKM"
+          ]
+        },
+        {
+          "id": "p241-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "hyX3zOi-DNk"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point241_p00.png",
+        "point241_p01.png",
+        "point241_p02.png",
+        "point241_p03.png",
+        "point241_p04.png",
+        "point241_p05.png",
+        "point241_p06.png",
+        "point241_p07.png",
+        "point241_p08.png",
+        "point241_p09.png",
+        "point241_p10.png"
+      ],
+      "answerStartPage": 11,
+      "totalPages": 18,
+      "answerPages": [
+        "point241_ans_p11.png",
+        "point241_ans_p12.png",
+        "point241_ans_p13.png",
+        "point241_ans_p14.png",
+        "point241_ans_p15.png",
+        "point241_ans_p16.png",
+        "point241_ans_p17.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/943",
+      "point_videos": [
+        {
+          "title": "途中開始の当選確実",
+          "id": "iznhUrnurqY"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi07",
+    "title": "第7回 力試しテスト",
+    "range": "Point 234〜241",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/944",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第7回_共通の型_力試しテスト解答.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第7回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "5g-66kMKsx8",
+      "8tpI9ITnhK8",
+      "AFCyAApRX1U",
+      "KNQY5KuVKAk",
+      "L_Vuf_WWmTs",
+      "Lcpz2LNj-o0",
+      "VqjSrxw-Mu8",
+      "_pAvbWnrWwQ",
+      "iRMRQzDCG9U",
+      "vMRmiUKX70Q",
+      "vNmjIA2KKK4"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q1(1)",
+        "label": "1番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q1(2)",
+        "label": "1番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(1)",
+        "label": "2番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(2)",
+        "label": "2番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(1)",
+        "label": "4番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(2)",
+        "label": "4番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(1)",
+        "label": "5番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(2)",
+        "label": "5番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6",
+        "label": "6番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(1)",
+        "label": "6番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(2)",
+        "label": "6番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(3)",
+        "label": "6番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7",
+        "label": "7番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7(1)",
+        "label": "7番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7(2)",
+        "label": "7番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7(3)",
+        "label": "7番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8",
+        "label": "8番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8(1)",
+        "label": "8番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8(2)",
+        "label": "8番(2)",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png",
+      "test_mondai_p06.png",
+      "test_mondai_p07.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png"
+    ],
+    "point_videos": [
+      {
+        "title": "分ける(棒入れ)",
+        "id": "pVpJsyMwyB0"
+      },
+      {
+        "title": "同じ数が複数ある並べ方",
+        "id": "TEiXrQFngOA"
+      },
+      {
+        "title": "減らす棒入れ",
+        "id": "OZyQxpwOOM4"
+      },
+      {
+        "title": "作れる金額の種類",
+        "id": "9hJQda0o3Js"
+      },
+      {
+        "title": "分ける（ピヨピヨ）",
+        "id": "6MNkR27U73o"
+      },
+      {
+        "title": "途中開始の当選確実",
+        "id": "iznhUrnurqY"
+      },
+      {
+        "title": "サイコロの和分解",
+        "id": "H7TsegPfR3s"
+      },
+      {
+        "title": "当選確実",
+        "id": "47rxfGLbPSs"
+      }
+    ]
+  }
+}

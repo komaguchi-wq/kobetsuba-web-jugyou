@@ -1,0 +1,636 @@
+{
+  "points": [
+    {
+      "id": "point153",
+      "number": 153,
+      "title": "すい体の体積 (体積・表面積)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point153_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "Ort4mIPaJWs",
+        "XNUOr8joOLg",
+        "YjOaj3Fi8Ak",
+        "ZIyzLFdg_aE",
+        "ggdCrMNEn74",
+        "nZ2vdh-G5PM"
+      ],
+      "questions": [
+        {
+          "id": "p153-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ZIyzLFdg_aE"
+          ]
+        },
+        {
+          "id": "p153-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "ggdCrMNEn74"
+          ]
+        },
+        {
+          "id": "p153-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "XNUOr8joOLg"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point153_p00.png",
+        "point153_p01.png",
+        "point153_p02.png",
+        "point153_p03.png",
+        "point153_p04.png",
+        "point153_p05.png",
+        "point153_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point153_ans_p07.png",
+        "point153_ans_p08.png",
+        "point153_ans_p09.png",
+        "point153_ans_p10.png",
+        "point153_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/904",
+      "point_videos": [
+        {
+          "title": "すい体の体積",
+          "id": "CQXsBZfeXAA"
+        },
+        {
+          "title": "直角二等辺の性質",
+          "id": "CDIeIb74EoY"
+        }
+      ]
+    },
+    {
+      "id": "point154",
+      "number": 154,
+      "title": "円すい (体積・表面積)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point154_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1RuZSthnmjk",
+        "5gOHSOV7Q_M",
+        "SEq7gVdk8q8",
+        "W9pZliHivX8",
+        "hRMxQpQUCZ8",
+        "omxM4mAYf-0"
+      ],
+      "questions": [
+        {
+          "id": "p154-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "SEq7gVdk8q8"
+          ]
+        },
+        {
+          "id": "p154-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "omxM4mAYf-0"
+          ]
+        },
+        {
+          "id": "p154-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "5gOHSOV7Q_M"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point154_p00.png",
+        "point154_p01.png",
+        "point154_p02.png",
+        "point154_p03.png",
+        "point154_p04.png",
+        "point154_p05.png",
+        "point154_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point154_ans_p07.png",
+        "point154_ans_p08.png",
+        "point154_ans_p09.png",
+        "point154_ans_p10.png",
+        "point154_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/905",
+      "point_videos": [
+        {
+          "title": "円すい",
+          "id": "nraZ1uGBfso"
+        }
+      ]
+    },
+    {
+      "id": "point155",
+      "number": 155,
+      "title": "投影図 (立体の応用技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point155_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "IPOTS5ZwxWM",
+        "Ke8hKQN_TOs",
+        "Mm3XExOBMZk",
+        "X9QBUWK4zLA",
+        "XmwiqG-en8o"
+      ],
+      "questions": [
+        {
+          "id": "p155-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "XmwiqG-en8o"
+          ]
+        },
+        {
+          "id": "p155-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "X9QBUWK4zLA"
+          ]
+        },
+        {
+          "id": "p155-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Ke8hKQN_TOs"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point155_p00.png",
+        "point155_p01.png",
+        "point155_p02.png",
+        "point155_p03.png",
+        "point155_p04.png",
+        "point155_p05.png",
+        "point155_p06.png",
+        "point155_p07.png"
+      ],
+      "answerStartPage": 8,
+      "totalPages": 17,
+      "answerPages": [
+        "point155_ans_p08.png",
+        "point155_ans_p09.png",
+        "point155_ans_p10.png",
+        "point155_ans_p11.png",
+        "point155_ans_p12.png",
+        "point155_ans_p13.png",
+        "point155_ans_p14.png",
+        "point155_ans_p15.png",
+        "point155_ans_p16.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/906",
+      "point_videos": [
+        {
+          "title": "投影図",
+          "id": "Zhn6JaCd3pg"
+        }
+      ]
+    },
+    {
+      "id": "point156",
+      "number": 156,
+      "title": "平均の策 (体積・表面積)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point156_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-vksybVhoEI",
+        "5ACYQbb4cfM",
+        "JhXbT1_nNqs",
+        "WpO5YKqn99Q",
+        "_Htdd4RcjmI",
+        "kXdkxw7-odE"
+      ],
+      "questions": [
+        {
+          "id": "p156-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "-vksybVhoEI"
+          ]
+        },
+        {
+          "id": "p156-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "kXdkxw7-odE"
+          ]
+        },
+        {
+          "id": "p156-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "_Htdd4RcjmI"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point156_p00.png",
+        "point156_p01.png",
+        "point156_p02.png",
+        "point156_p03.png",
+        "point156_p04.png",
+        "point156_p05.png",
+        "point156_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 16,
+      "answerPages": [
+        "point156_ans_p07.png",
+        "point156_ans_p08.png",
+        "point156_ans_p09.png",
+        "point156_ans_p10.png",
+        "point156_ans_p11.png",
+        "point156_ans_p12.png",
+        "point156_ans_p13.png",
+        "point156_ans_p14.png",
+        "point156_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/907",
+      "point_videos": [
+        {
+          "title": "平均の策",
+          "id": "ZqrTFxuRHG8"
+        }
+      ]
+    },
+    {
+      "id": "point157",
+      "number": 157,
+      "title": "回転体 (回転体)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point157_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "C3S_xBpCErg",
+        "U6ufgVEkolQ",
+        "_d2OfYSlrL0",
+        "dPUCwGDeC5Q",
+        "gdh7y8M_foM"
+      ],
+      "questions": [
+        {
+          "id": "p157-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "_d2OfYSlrL0"
+          ]
+        },
+        {
+          "id": "p157-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "U6ufgVEkolQ"
+          ]
+        },
+        {
+          "id": "p157-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "C3S_xBpCErg"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point157_p00.png",
+        "point157_p01.png",
+        "point157_p02.png",
+        "point157_p03.png",
+        "point157_p04.png",
+        "point157_p05.png",
+        "point157_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point157_ans_p07.png",
+        "point157_ans_p08.png",
+        "point157_ans_p09.png",
+        "point157_ans_p10.png",
+        "point157_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/908",
+      "point_videos": [
+        {
+          "title": "回転体",
+          "id": "krJ9BRLEuHg"
+        }
+      ]
+    },
+    {
+      "id": "point158",
+      "number": 158,
+      "title": "回転体＜体積の技＞ (回転体)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point158_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "F6kibyIoED4",
+        "OK5qRQiDG90",
+        "WswxvG9nA7c",
+        "_CPU3Kca9LU",
+        "afcibR9bj8o",
+        "cJhadyOfS3w",
+        "hVRVkdRzbU0",
+        "tpZeVi9z8ho"
+      ],
+      "questions": [
+        {
+          "id": "p158-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "hVRVkdRzbU0"
+          ]
+        },
+        {
+          "id": "p158-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "_CPU3Kca9LU"
+          ]
+        },
+        {
+          "id": "p158-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "F6kibyIoED4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point158_p00.png",
+        "point158_p01.png",
+        "point158_p02.png",
+        "point158_p03.png",
+        "point158_p04.png",
+        "point158_p05.png",
+        "point158_p06.png",
+        "point158_p07.png",
+        "point158_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 14,
+      "answerPages": [
+        "point158_ans_p09.png",
+        "point158_ans_p10.png",
+        "point158_ans_p11.png",
+        "point158_ans_p12.png",
+        "point158_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/909",
+      "point_videos": [
+        {
+          "title": "回転体＜体積の技＞",
+          "id": "mnlt3HMREc8"
+        },
+        {
+          "title": "高さ見つけ(平面図形)",
+          "id": "D1KfucviNII"
+        }
+      ]
+    },
+    {
+      "id": "point159",
+      "number": 159,
+      "title": "回転体＜表面積の技＞ (回転体)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point159_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "7bitcwIe_mc",
+        "9Zcvw-x8UYQ",
+        "PUwlCx1mdJo",
+        "TFESActi9zg",
+        "jwJz70SFrYk",
+        "ssGwbesdeLU"
+      ],
+      "questions": [
+        {
+          "id": "p159-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ssGwbesdeLU"
+          ]
+        },
+        {
+          "id": "p159-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "TFESActi9zg"
+          ]
+        },
+        {
+          "id": "p159-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "7bitcwIe_mc"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point159_p00.png",
+        "point159_p01.png",
+        "point159_p02.png",
+        "point159_p03.png",
+        "point159_p04.png",
+        "point159_p05.png",
+        "point159_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point159_ans_p07.png",
+        "point159_ans_p08.png",
+        "point159_ans_p09.png",
+        "point159_ans_p10.png",
+        "point159_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/910",
+      "point_videos": [
+        {
+          "title": "回転体＜表面積の技＞",
+          "id": "4pL-DYTonJ0"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi18",
+    "title": "第18回 力試しテスト",
+    "range": "Point 153〜159",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/911",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第18回_共通の型_力試しテスト解答.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第18回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "26TinNQS9Ro",
+      "8dam0DkL_2A",
+      "9pecfVfBvdc",
+      "XxocesXLoxs",
+      "aXm5TMEq96w",
+      "p5mrOru6_nw",
+      "u2bZ7i1yR1M"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q1(1)",
+        "label": "1番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q1(2)",
+        "label": "1番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(1)",
+        "label": "4番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(2)",
+        "label": "4番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6",
+        "label": "6番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7",
+        "label": "7番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7(1)",
+        "label": "7番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7(2)",
+        "label": "7番(2)",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png",
+      "test_mondai_p06.png",
+      "test_mondai_p07.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png"
+    ],
+    "point_videos": [
+      {
+        "title": "すい体の体積",
+        "id": "CQXsBZfeXAA"
+      },
+      {
+        "title": "直角二等辺の性質",
+        "id": "CDIeIb74EoY"
+      },
+      {
+        "title": "回転体＜体積の技＞",
+        "id": "mnlt3HMREc8"
+      },
+      {
+        "title": "円すい",
+        "id": "nraZ1uGBfso"
+      },
+      {
+        "title": "平均の策",
+        "id": "ZqrTFxuRHG8"
+      },
+      {
+        "title": "回転体＜表面積の技＞",
+        "id": "4pL-DYTonJ0"
+      },
+      {
+        "title": "投影図",
+        "id": "Zhn6JaCd3pg"
+      },
+      {
+        "title": "回転体",
+        "id": "krJ9BRLEuHg"
+      }
+    ]
+  }
+}

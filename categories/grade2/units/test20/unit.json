@@ -1,0 +1,514 @@
+{
+  "points": [
+    {
+      "id": "point366",
+      "number": 366,
+      "title": "等比数列の和 (和の解法)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point366_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "YDJz_0zrdDo",
+        "YuI17pJv4mg",
+        "hv5STCRjnjM",
+        "m_cf-NxJZDo",
+        "u4YMKnJWDQs",
+        "xDe6QxfVk2A"
+      ],
+      "questions": [
+        {
+          "id": "p366-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "xDe6QxfVk2A"
+          ]
+        },
+        {
+          "id": "p366-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "u4YMKnJWDQs"
+          ]
+        },
+        {
+          "id": "p366-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "m_cf-NxJZDo"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point366_p00.png",
+        "point366_p01.png",
+        "point366_p02.png",
+        "point366_p03.png",
+        "point366_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point366_ans_p05.png",
+        "point366_ans_p06.png",
+        "point366_ans_p07.png",
+        "point366_ans_p08.png",
+        "point366_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1081",
+      "point_videos": [
+        {
+          "title": "等比数列の和",
+          "id": "g4uFfvZx_AY"
+        }
+      ]
+    },
+    {
+      "id": "point367",
+      "number": 367,
+      "title": "パスカル三角形 (規則性を用いた解法)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point367_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "BPswmF0hTzM",
+        "K2rb1dENGyY",
+        "L-0Pos1fqLY",
+        "lrDlnCVo23E",
+        "mONdUan4Ptk",
+        "nBge6afnupU"
+      ],
+      "questions": [
+        {
+          "id": "p367-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "lrDlnCVo23E"
+          ]
+        },
+        {
+          "id": "p367-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "nBge6afnupU"
+          ]
+        },
+        {
+          "id": "p367-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "K2rb1dENGyY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point367_p00.png",
+        "point367_p01.png",
+        "point367_p02.png",
+        "point367_p03.png",
+        "point367_p04.png",
+        "point367_p05.png",
+        "point367_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 16,
+      "answerPages": [
+        "point367_ans_p07.png",
+        "point367_ans_p08.png",
+        "point367_ans_p09.png",
+        "point367_ans_p10.png",
+        "point367_ans_p11.png",
+        "point367_ans_p12.png",
+        "point367_ans_p13.png",
+        "point367_ans_p14.png",
+        "point367_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1082",
+      "point_videos": [
+        {
+          "title": "パスカル三角形",
+          "id": "5x0xWq3I8v8"
+        },
+        {
+          "title": "素因数分解",
+          "id": "2fA2FmGCfT4"
+        }
+      ]
+    },
+    {
+      "id": "point368",
+      "number": 368,
+      "title": "タクシー料金 (規則性を用いた解法)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point368_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3HvpIfZAUpQ",
+        "HLHuIxwstcA",
+        "IdjeyIpyDGo",
+        "SG8Ji2e9pkA",
+        "jidFw5I3zMA",
+        "tn6dWEnNz9A",
+        "x_XOpHjbzrI",
+        "z_7tJ7cd33U"
+      ],
+      "questions": [
+        {
+          "id": "p368-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "tn6dWEnNz9A"
+          ]
+        },
+        {
+          "id": "p368-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "SG8Ji2e9pkA"
+          ]
+        },
+        {
+          "id": "p368-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "x_XOpHjbzrI"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point368_p00.png",
+        "point368_p01.png",
+        "point368_p02.png",
+        "point368_p03.png",
+        "point368_p04.png",
+        "point368_p05.png",
+        "point368_p06.png",
+        "point368_p07.png",
+        "point368_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 15,
+      "answerPages": [
+        "point368_ans_p09.png",
+        "point368_ans_p10.png",
+        "point368_ans_p11.png",
+        "point368_ans_p12.png",
+        "point368_ans_p13.png",
+        "point368_ans_p14.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1083",
+      "point_videos": [
+        {
+          "title": "タクシー料金",
+          "id": "2eQ29XNVjVg"
+        }
+      ]
+    },
+    {
+      "id": "point369",
+      "number": 369,
+      "title": "入れ替わり周期 (群数列系(周期))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point369_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3cq5C5Q5rW8",
+        "6xJiOUgz0wo",
+        "IJriFZ5q0xE",
+        "O6KVU0qrof8",
+        "UWgpLT3w_SM",
+        "wgTVCsU_FjY"
+      ],
+      "questions": [
+        {
+          "id": "p369-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "UWgpLT3w_SM"
+          ]
+        },
+        {
+          "id": "p369-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "3cq5C5Q5rW8"
+          ]
+        },
+        {
+          "id": "p369-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "IJriFZ5q0xE"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point369_p00.png",
+        "point369_p01.png",
+        "point369_p02.png",
+        "point369_p03.png",
+        "point369_p04.png",
+        "point369_p05.png",
+        "point369_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 13,
+      "answerPages": [
+        "point369_ans_p07.png",
+        "point369_ans_p08.png",
+        "point369_ans_p09.png",
+        "point369_ans_p10.png",
+        "point369_ans_p11.png",
+        "point369_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1084",
+      "point_videos": [
+        {
+          "title": "入れ替わり周期",
+          "id": "eu8qUXK1xTc"
+        }
+      ]
+    },
+    {
+      "id": "point370",
+      "number": 370,
+      "title": "フラクタル図形 (規則性を用いた解法)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point370_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "E1LD3X5S4yg",
+        "U1rSghCrq_w",
+        "YUEA3RTnc-A",
+        "bRU-m0cwhgk",
+        "k_9m0GB52jY"
+      ],
+      "questions": [
+        {
+          "id": "p370-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "bRU-m0cwhgk"
+          ]
+        },
+        {
+          "id": "p370-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "YUEA3RTnc-A"
+          ]
+        },
+        {
+          "id": "p370-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "U1rSghCrq_w"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point370_p00.png",
+        "point370_p01.png",
+        "point370_p02.png",
+        "point370_p03.png",
+        "point370_p04.png",
+        "point370_p05.png",
+        "point370_p06.png",
+        "point370_p07.png",
+        "point370_p08.png",
+        "point370_p09.png",
+        "point370_p10.png"
+      ],
+      "answerStartPage": 11,
+      "totalPages": 20,
+      "answerPages": [
+        "point370_ans_p11.png",
+        "point370_ans_p12.png",
+        "point370_ans_p13.png",
+        "point370_ans_p14.png",
+        "point370_ans_p15.png",
+        "point370_ans_p16.png",
+        "point370_ans_p17.png",
+        "point370_ans_p18.png",
+        "point370_ans_p19.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1085",
+      "point_videos": [
+        {
+          "title": "フラクタル図形",
+          "id": "LLHUgpXAiKU"
+        }
+      ]
+    },
+    {
+      "id": "point371",
+      "number": 371,
+      "title": "前の結果利用の表 (規則性を用いた解法)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point371_共通の型_教材問題解答セット.pdf?updated_at=1765885415"
+      ],
+      "youtube_ids": [
+        "ABSHPNSVrRw",
+        "D-9QSXJrK-A",
+        "Im4tns_Mt98",
+        "PYpOzBUB0sw",
+        "fD7P3X1r6EU",
+        "mKUmEXCUGqA",
+        "o6V-XmYOPzQ"
+      ],
+      "questions": [
+        {
+          "id": "p371-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "fD7P3X1r6EU",
+            "PYpOzBUB0sw"
+          ]
+        },
+        {
+          "id": "p371-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "ABSHPNSVrRw",
+            "D-9QSXJrK-A"
+          ]
+        },
+        {
+          "id": "p371-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Im4tns_Mt98"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point371_p00.png",
+        "point371_p01.png",
+        "point371_p02.png",
+        "point371_p03.png",
+        "point371_p04.png",
+        "point371_p05.png",
+        "point371_p06.png",
+        "point371_p07.png",
+        "point371_p08.png",
+        "point371_p09.png",
+        "point371_p10.png"
+      ],
+      "answerStartPage": 11,
+      "totalPages": 18,
+      "answerPages": [
+        "point371_ans_p11.png",
+        "point371_ans_p12.png",
+        "point371_ans_p13.png",
+        "point371_ans_p14.png",
+        "point371_ans_p15.png",
+        "point371_ans_p16.png",
+        "point371_ans_p17.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1086",
+      "point_videos": [
+        {
+          "title": "前の結果利用の表",
+          "id": "K5UTc64RAdk"
+        }
+      ]
+    },
+    {
+      "id": "point371_nankan",
+      "number": 371,
+      "title": "前の結果利用の表 (規則性を用いた解法)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point371_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "idyNoUBxcoQ"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "9yHhHXo11xk"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "uPtrfGfexxk"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "前の結果利用の表",
+          "id": "K5UTc64RAdk"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/2609/lesson-playlist?textbook_reference_code=kobe-web-1086",
+      "problemPages": [
+        "point371_nankan_p00.png",
+        "point371_nankan_p01.png",
+        "point371_nankan_p02.png",
+        "point371_nankan_p03.png",
+        "point371_nankan_p04.png",
+        "point371_nankan_p05.png",
+        "point371_nankan_p06.png",
+        "point371_nankan_p07.png",
+        "point371_nankan_p08.png",
+        "point371_nankan_p09.png",
+        "point371_nankan_p10.png"
+      ],
+      "answerStartPage": 11,
+      "totalPages": 20,
+      "answerPages": [
+        "point371_nankan_ans_p11.png",
+        "point371_nankan_ans_p12.png",
+        "point371_nankan_ans_p13.png",
+        "point371_nankan_ans_p14.png",
+        "point371_nankan_ans_p15.png",
+        "point371_nankan_ans_p16.png",
+        "point371_nankan_ans_p17.png",
+        "point371_nankan_ans_p18.png",
+        "point371_nankan_ans_p19.png"
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi20",
+    "title": "第20回 力試しテスト",
+    "range": "Point 366〜371",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1087",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第20回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [],
+    "questions": []
+  }
+}

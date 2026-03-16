@@ -1,0 +1,1332 @@
+{
+  "points": [
+    {
+      "id": "point01",
+      "number": 1,
+      "title": "素数 (約数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point1_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "SF6odtt1__s",
+        "eGo8IaaCZy4",
+        "mUte1xegvmE",
+        "pcNgz35D3gM",
+        "plcL3q-oXlg",
+        "zLf2f3DGaf8"
+      ],
+      "questions": [
+        {
+          "id": "p01-q1",
+          "label": "1番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.1359
+          ],
+          "numberPage": 1,
+          "youtube_ids": [
+            "mUte1xegvmE"
+          ]
+        },
+        {
+          "id": "p01-q2",
+          "label": "2番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.4558
+          ],
+          "numberPage": 1,
+          "youtube_ids": [
+            "pcNgz35D3gM"
+          ]
+        },
+        {
+          "id": "p01-q3",
+          "label": "3番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.0906
+          ],
+          "numberPage": 2,
+          "youtube_ids": [
+            "zLf2f3DGaf8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point01_p00.png",
+        "point01_p01.png",
+        "point01_p02.png"
+      ],
+      "answerStartPage": 3,
+      "totalPages": 6,
+      "answerPages": [
+        "point01_ans_p03.png",
+        "point01_ans_p04.png",
+        "point01_ans_p05.png"
+      ],
+      "point_videos": [
+        {
+          "title": "素数",
+          "id": "rYU7vfg7d1E"
+        }
+      ]
+    },
+    {
+      "id": "point02",
+      "number": 2,
+      "title": "素因数分解 (約数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point2_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "75GUECy7Bfs",
+        "76aeGq2Aor4",
+        "Ky2_dS2F3ZE",
+        "MF__oTF8aDg",
+        "T4Op5qtWH4I",
+        "XMmEdVk6eDc",
+        "_K9MNC90xuc",
+        "xOhx7oREaHM"
+      ],
+      "questions": [
+        {
+          "id": "p02-q1",
+          "label": "1番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.1359
+          ],
+          "numberPage": 1,
+          "youtube_ids": [
+            "MF__oTF8aDg"
+          ]
+        },
+        {
+          "id": "p02-q2",
+          "label": "2番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.0906
+          ],
+          "numberPage": 2,
+          "youtube_ids": [
+            "_K9MNC90xuc"
+          ]
+        },
+        {
+          "id": "p02-q3",
+          "label": "3番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.0906
+          ],
+          "numberPage": 3,
+          "youtube_ids": [
+            "75GUECy7Bfs"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point02_p00.png",
+        "point02_p01.png",
+        "point02_p02.png",
+        "point02_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point02_ans_p04.png",
+        "point02_ans_p05.png",
+        "point02_ans_p06.png",
+        "point02_ans_p07.png",
+        "point02_ans_p08.png"
+      ],
+      "point_videos": [
+        {
+          "title": "素因数分解",
+          "id": "2fA2FmGCfT4"
+        }
+      ]
+    },
+    {
+      "id": "point03",
+      "number": 3,
+      "title": "約数個数のセット調べ (約数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point3_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "DV6xzVHgMG4",
+        "KNx4p5S4U2U",
+        "T_AqskZ1r0w",
+        "W6XRQFx_XRs",
+        "yC76oJzMa-U"
+      ],
+      "questions": [
+        {
+          "id": "p03-q1",
+          "label": "1番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.1359
+          ],
+          "numberPage": 1,
+          "youtube_ids": [
+            "DV6xzVHgMG4"
+          ]
+        },
+        {
+          "id": "p03-q2",
+          "label": "2番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.0906
+          ],
+          "numberPage": 3,
+          "youtube_ids": [
+            "yC76oJzMa-U"
+          ]
+        },
+        {
+          "id": "p03-q3",
+          "label": "3番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.0906
+          ],
+          "numberPage": 4,
+          "youtube_ids": [
+            "T_AqskZ1r0w"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point03_p00.png",
+        "point03_p01.png",
+        "point03_p02.png",
+        "point03_p03.png",
+        "point03_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point03_ans_p05.png",
+        "point03_ans_p06.png",
+        "point03_ans_p07.png",
+        "point03_ans_p08.png",
+        "point03_ans_p09.png"
+      ],
+      "point_videos": [
+        {
+          "title": "約数個数のセット調べ",
+          "id": "g6K-tTqqH0U"
+        }
+      ]
+    },
+    {
+      "id": "point04",
+      "number": 4,
+      "title": "約数が奇数個 (約数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point4_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "L6_gmcWiNsc",
+        "MALE6EdoPuo",
+        "RMhrMcYTwJA",
+        "V9_jPF7VGSA",
+        "bt3FYzstAvU",
+        "gpU3Nel0sGI"
+      ],
+      "questions": [
+        {
+          "id": "p04-q1",
+          "label": "1番",
+          "type": "例題",
+          "numberPos": [
+            0.0786,
+            0.1336
+          ],
+          "numberPage": 1,
+          "youtube_ids": [
+            "L6_gmcWiNsc"
+          ]
+        },
+        {
+          "id": "p04-q2",
+          "label": "2番",
+          "type": "例題",
+          "numberPos": [
+            0.0782,
+            0.0886
+          ],
+          "numberPage": 2,
+          "youtube_ids": [
+            "bt3FYzstAvU"
+          ]
+        },
+        {
+          "id": "p04-q3",
+          "label": "3番",
+          "type": "例題",
+          "numberPos": [
+            0.0782,
+            0.0886
+          ],
+          "numberPage": 3,
+          "youtube_ids": [
+            "RMhrMcYTwJA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point04_p00.png",
+        "point04_p01.png",
+        "point04_p02.png",
+        "point04_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point04_ans_p04.png",
+        "point04_ans_p05.png",
+        "point04_ans_p06.png",
+        "point04_ans_p07.png",
+        "point04_ans_p08.png"
+      ],
+      "point_videos": [
+        {
+          "title": "約数が奇数個",
+          "id": "SZsyU_Ewe8o"
+        }
+      ]
+    },
+    {
+      "id": "point04_nankan",
+      "number": 4,
+      "title": "約数が奇数個 (約数)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point4_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "QOgXrHRSCMs",
+            "VzFUdb4XSOM"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "8mNG8nUnxL8",
+            "CR_fVFJg-2M"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "t-ceGZIqPz0",
+            "7Vnd-vE7_Vc",
+            "73IGK5oKOzI"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "約数が奇数個",
+          "id": "SZsyU_Ewe8o"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1071/lesson-playlist?textbook_reference_code=kobe-web-676",
+      "problemPages": [
+        "point04_nankan_p00.png",
+        "point04_nankan_p01.png",
+        "point04_nankan_p02.png",
+        "point04_nankan_p03.png",
+        "point04_nankan_p04.png",
+        "point04_nankan_p05.png",
+        "point04_nankan_p06.png",
+        "point04_nankan_p07.png",
+        "point04_nankan_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 20,
+      "answerPages": [
+        "point04_nankan_ans_p09.png",
+        "point04_nankan_ans_p10.png",
+        "point04_nankan_ans_p11.png",
+        "point04_nankan_ans_p12.png",
+        "point04_nankan_ans_p13.png",
+        "point04_nankan_ans_p14.png",
+        "point04_nankan_ans_p15.png",
+        "point04_nankan_ans_p16.png",
+        "point04_nankan_ans_p17.png",
+        "point04_nankan_ans_p18.png",
+        "point04_nankan_ans_p19.png"
+      ]
+    },
+    {
+      "id": "point05",
+      "number": 5,
+      "title": "3個の約数 (約数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point5_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1zt2FfURkXA",
+        "4_1PPl8zJco",
+        "Cmc_USbXeUo",
+        "M1N_EhHFnNQ",
+        "ae34S5nQIps",
+        "lTYkAY5cGZE"
+      ],
+      "questions": [
+        {
+          "id": "p05-q1",
+          "label": "1番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.1359
+          ],
+          "numberPage": 1,
+          "youtube_ids": [
+            "1zt2FfURkXA"
+          ]
+        },
+        {
+          "id": "p05-q2",
+          "label": "2番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.0906
+          ],
+          "numberPage": 2,
+          "youtube_ids": [
+            "ae34S5nQIps"
+          ]
+        },
+        {
+          "id": "p05-q3",
+          "label": "3番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.0906
+          ],
+          "numberPage": 3,
+          "youtube_ids": [
+            "M1N_EhHFnNQ"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point05_p00.png",
+        "point05_p01.png",
+        "point05_p02.png",
+        "point05_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 8,
+      "answerPages": [
+        "point05_ans_p04.png",
+        "point05_ans_p05.png",
+        "point05_ans_p06.png",
+        "point05_ans_p07.png"
+      ],
+      "point_videos": [
+        {
+          "title": "3個の約数",
+          "id": "_NHNTO6FJI4"
+        }
+      ]
+    },
+    {
+      "id": "point06",
+      "number": 6,
+      "title": "最大公約数の発見 (約数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point6_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3GmJoZ1hV9o",
+        "XzEzrOswh74",
+        "iFomGlRJI3Q",
+        "yOpStCeMMOQ",
+        "zgYmfaf5THk"
+      ],
+      "questions": [
+        {
+          "id": "p06-q1",
+          "label": "1番",
+          "type": "例題",
+          "numberPos": [
+            0.0786,
+            0.1336
+          ],
+          "numberPage": 1,
+          "youtube_ids": [
+            "iFomGlRJI3Q"
+          ]
+        },
+        {
+          "id": "p06-q2",
+          "label": "2番",
+          "type": "例題",
+          "numberPos": [
+            0.0782,
+            0.0886
+          ],
+          "numberPage": 2,
+          "youtube_ids": [
+            "yOpStCeMMOQ"
+          ]
+        },
+        {
+          "id": "p06-q3",
+          "label": "3番",
+          "type": "例題",
+          "numberPos": [
+            0.0782,
+            0.0886
+          ],
+          "numberPage": 3,
+          "youtube_ids": [
+            "zgYmfaf5THk"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point06_p00.png",
+        "point06_p01.png",
+        "point06_p02.png",
+        "point06_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point06_ans_p04.png",
+        "point06_ans_p05.png",
+        "point06_ans_p06.png",
+        "point06_ans_p07.png",
+        "point06_ans_p08.png"
+      ],
+      "point_videos": [
+        {
+          "title": "最大公約数の発見",
+          "id": "X4gv6q8ZYic"
+        }
+      ]
+    },
+    {
+      "id": "point07",
+      "number": 7,
+      "title": "最大公約数と公約数 (約数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point7_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1Rm9KgStKw8",
+        "FY6bkUHSadY",
+        "PGGhUHTmRP4",
+        "SOejHlB8XDY",
+        "qWGYswJd9Cw"
+      ],
+      "questions": [
+        {
+          "id": "p07-q1",
+          "label": "1番",
+          "type": "例題",
+          "numberPos": [
+            0.0786,
+            0.1336
+          ],
+          "numberPage": 1,
+          "youtube_ids": [
+            "qWGYswJd9Cw"
+          ]
+        },
+        {
+          "id": "p07-q2",
+          "label": "2番",
+          "type": "例題",
+          "numberPos": [
+            0.0782,
+            0.0886
+          ],
+          "numberPage": 2,
+          "youtube_ids": [
+            "qWGYswJd9Cw"
+          ]
+        },
+        {
+          "id": "p07-q3",
+          "label": "3番",
+          "type": "例題",
+          "numberPos": [
+            0.0782,
+            0.0886
+          ],
+          "numberPage": 3,
+          "youtube_ids": [
+            "1Rm9KgStKw8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point07_p00.png",
+        "point07_p01.png",
+        "point07_p02.png",
+        "point07_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point07_ans_p04.png",
+        "point07_ans_p05.png",
+        "point07_ans_p06.png",
+        "point07_ans_p07.png",
+        "point07_ans_p08.png"
+      ],
+      "point_videos": [
+        {
+          "title": "最大公約数と公約数",
+          "id": "5HHz4mkH8E4"
+        }
+      ]
+    },
+    {
+      "id": "point08",
+      "number": 8,
+      "title": "整数の割り算と約数 (約数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point8_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1idcZt1deis",
+        "SDNe0Z0GtlE",
+        "ZFJQ6wM4CUw",
+        "iIXDp5RaHj0",
+        "m_vAnh5Uk3M",
+        "yL07LTSGJZ4"
+      ],
+      "questions": [
+        {
+          "id": "p08-q1",
+          "label": "1番",
+          "type": "例題",
+          "numberPos": [
+            0.077,
+            0.144
+          ],
+          "numberPage": 1,
+          "youtube_ids": [
+            "SDNe0Z0GtlE"
+          ]
+        },
+        {
+          "id": "p08-q2",
+          "label": "2番",
+          "type": "例題",
+          "numberPos": [
+            0.077,
+            0.0983
+          ],
+          "numberPage": 4,
+          "youtube_ids": [
+            "ZFJQ6wM4CUw"
+          ]
+        },
+        {
+          "id": "p08-q3",
+          "label": "3番",
+          "type": "例題",
+          "numberPos": [
+            0.077,
+            0.0983
+          ],
+          "numberPage": 5,
+          "youtube_ids": [
+            "iIXDp5RaHj0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point08_p00.png",
+        "point08_p01.png",
+        "point08_p02.png",
+        "point08_p03.png",
+        "point08_p04.png",
+        "point08_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point08_ans_p06.png",
+        "point08_ans_p07.png",
+        "point08_ans_p08.png",
+        "point08_ans_p09.png",
+        "point08_ans_p10.png"
+      ],
+      "point_videos": [
+        {
+          "title": "整数の割り算と約数",
+          "id": "wfgT57tLoWo"
+        },
+        {
+          "title": "素数",
+          "id": "ZFJQ6wM4CUw"
+        }
+      ]
+    },
+    {
+      "id": "point09",
+      "number": 9,
+      "title": "整数の割り算と約数線分図 (約数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point9_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1-X7Dez1AP4",
+        "C-hAzEGFXgs",
+        "GCa7oEz6g4Y",
+        "UJwhtGNT1vY",
+        "WWaWYAiMMp8",
+        "uGYIj5xIZAg",
+        "vpqDR6l2VLY"
+      ],
+      "questions": [
+        {
+          "id": "p09-q1",
+          "label": "1番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.1359
+          ],
+          "numberPage": 1,
+          "youtube_ids": [
+            "uGYIj5xIZAg"
+          ]
+        },
+        {
+          "id": "p09-q2",
+          "label": "2番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.0906
+          ],
+          "numberPage": 3,
+          "youtube_ids": [
+            "GCa7oEz6g4Y"
+          ]
+        },
+        {
+          "id": "p09-q3",
+          "label": "3番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.0906
+          ],
+          "numberPage": 5,
+          "youtube_ids": [
+            "WWaWYAiMMp8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point09_p00.png",
+        "point09_p01.png",
+        "point09_p02.png",
+        "point09_p03.png",
+        "point09_p04.png",
+        "point09_p05.png",
+        "point09_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point09_ans_p07.png",
+        "point09_ans_p08.png",
+        "point09_ans_p09.png",
+        "point09_ans_p10.png",
+        "point09_ans_p11.png"
+      ],
+      "point_videos": [
+        {
+          "title": "整数の割り算と約数線分図",
+          "id": "jopuHYp6EIY"
+        }
+      ]
+    },
+    {
+      "id": "point09_nankan",
+      "number": 9,
+      "title": "整数の割り算と約数線分図 (約数)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point9_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "0zfcdvHFiRc"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "bixMNwOyjks",
+            "awDBTqD_XTs"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "FKzB4jlICGo"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "整数の割り算と約数線分図",
+          "id": "jopuHYp6EIY"
+        },
+        {
+          "title": "最大公約数の発見",
+          "id": "X4gv6q8ZYic"
+        },
+        {
+          "title": "最大公約数と公約数",
+          "id": "5HHz4mkH8E4"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1089/lesson-playlist?textbook_reference_code=kobe-web-682",
+      "problemPages": [
+        "point09_nankan_p00.png",
+        "point09_nankan_p01.png",
+        "point09_nankan_p02.png",
+        "point09_nankan_p03.png",
+        "point09_nankan_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 12,
+      "answerPages": [
+        "point09_nankan_ans_p05.png",
+        "point09_nankan_ans_p06.png",
+        "point09_nankan_ans_p07.png",
+        "point09_nankan_ans_p08.png",
+        "point09_nankan_ans_p09.png",
+        "point09_nankan_ans_p10.png",
+        "point09_nankan_ans_p11.png"
+      ]
+    },
+    {
+      "id": "point10",
+      "number": 10,
+      "title": "倍数 (倍数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point10_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "TIIijBwPbYc",
+        "g6EqTpeDIjU",
+        "qdzBoyEa-EA",
+        "woL8bRGsR3M",
+        "zRdfQGp6Cr0",
+        "zWnBsrjq2_Y"
+      ],
+      "questions": [
+        {
+          "id": "p10-q1",
+          "label": "1番",
+          "type": "例題",
+          "numberPos": [
+            0.0786,
+            0.1336
+          ],
+          "numberPage": 1,
+          "youtube_ids": [
+            "qdzBoyEa-EA"
+          ]
+        },
+        {
+          "id": "p10-q2",
+          "label": "2番",
+          "type": "例題",
+          "numberPos": [
+            0.0786,
+            0.416
+          ],
+          "numberPage": 1,
+          "youtube_ids": [
+            "zRdfQGp6Cr0"
+          ]
+        },
+        {
+          "id": "p10-q3",
+          "label": "3番",
+          "type": "例題",
+          "numberPos": [
+            0.0782,
+            0.0886
+          ],
+          "numberPage": 2,
+          "youtube_ids": [
+            "zWnBsrjq2_Y"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point10_p00.png",
+        "point10_p01.png",
+        "point10_p02.png"
+      ],
+      "answerStartPage": 3,
+      "totalPages": 6,
+      "answerPages": [
+        "point10_ans_p03.png",
+        "point10_ans_p04.png",
+        "point10_ans_p05.png"
+      ],
+      "point_videos": [
+        {
+          "title": "倍数",
+          "id": "3ilLs3Af1ck"
+        }
+      ]
+    },
+    {
+      "id": "point11",
+      "number": 11,
+      "title": "1からの個数を求めて引く (個数求め)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point11_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "P2TjaRLqkTY",
+        "X6mKdp6O4pA",
+        "a_BQGprTS2w",
+        "ciTY-8brcFo",
+        "dJ2z69zJ06Q",
+        "kUmGGiz3IVM"
+      ],
+      "questions": [
+        {
+          "id": "p11-q1",
+          "label": "1番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.1359
+          ],
+          "numberPage": 1,
+          "youtube_ids": [
+            "X6mKdp6O4pA"
+          ]
+        },
+        {
+          "id": "p11-q2",
+          "label": "2番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.0906
+          ],
+          "numberPage": 2,
+          "youtube_ids": [
+            "P2TjaRLqkTY"
+          ]
+        },
+        {
+          "id": "p11-q3",
+          "label": "3番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.0906
+          ],
+          "numberPage": 3,
+          "youtube_ids": [
+            "dJ2z69zJ06Q"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point11_p00.png",
+        "point11_p01.png",
+        "point11_p02.png",
+        "point11_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point11_ans_p04.png",
+        "point11_ans_p05.png",
+        "point11_ans_p06.png",
+        "point11_ans_p07.png",
+        "point11_ans_p08.png"
+      ],
+      "point_videos": [
+        {
+          "title": "1からの個数を求めて引く",
+          "id": "sEbI0ggyvMY"
+        }
+      ]
+    },
+    {
+      "id": "point12",
+      "number": 12,
+      "title": "倍数個数と近い数 (倍数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point12_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "DqUwTsZaOsk",
+        "LEOB61fPKvY",
+        "MRtRwjy6Fdg",
+        "a2Ri_6uCNEY",
+        "fDKtw_SMCwo",
+        "lC8iJQ4bz_o",
+        "pISBW4ae3EQ",
+        "yvqpYGT66-Q"
+      ],
+      "questions": [
+        {
+          "id": "p12-q1",
+          "label": "1番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.1393
+          ],
+          "numberPage": 1,
+          "youtube_ids": [
+            "a2Ri_6uCNEY"
+          ]
+        },
+        {
+          "id": "p12-q2",
+          "label": "2番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.0906
+          ],
+          "numberPage": 2,
+          "youtube_ids": [
+            "yvqpYGT66-Q"
+          ]
+        },
+        {
+          "id": "p12-q3",
+          "label": "3番",
+          "type": "例題",
+          "numberPos": [
+            0.0774,
+            0.0906
+          ],
+          "numberPage": 3,
+          "youtube_ids": [
+            "pISBW4ae3EQ",
+            "fDKtw_SMCwo"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point12_p00.png",
+        "point12_p01.png",
+        "point12_p02.png",
+        "point12_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point12_ans_p04.png",
+        "point12_ans_p05.png",
+        "point12_ans_p06.png",
+        "point12_ans_p07.png",
+        "point12_ans_p08.png"
+      ],
+      "point_videos": [
+        {
+          "title": "倍数個数と近い数",
+          "id": "iMXSwr-MnOs"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi01",
+    "title": "第1回 力試しテスト",
+    "range": "Point 1〜12",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第1回_共通の型_力試しテスト問題.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第1回_共通の型_力試しテスト解答.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "1YW5POxEGwU",
+      "BZ4Er8VJVeI",
+      "FW50r7Db2to",
+      "H64_L0EELFw",
+      "J0uYqhcU7vw",
+      "KObZ-TI58lM",
+      "O7u2wBhI8nw",
+      "Ov6OHosnFP4",
+      "aCDDpvRdCkM",
+      "foR-7YmYWt4",
+      "gmgcGGblBsE",
+      "ryzD62KJevM",
+      "vbvh7PDjLCU",
+      "yKrgKTsylYQ"
+    ],
+    "questions": [
+      {
+        "id": "test-q1(1)",
+        "label": "1番(1)",
+        "youtube_ids": [
+          "J0uYqhcU7vw"
+        ]
+      },
+      {
+        "id": "test-q1(2)",
+        "label": "1番(2)",
+        "youtube_ids": [
+          "J0uYqhcU7vw"
+        ]
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": [
+          "FW50r7Db2to"
+        ]
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": [
+          "aCDDpvRdCkM",
+          "1YW5POxEGwU"
+        ]
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": [
+          "aCDDpvRdCkM",
+          "1YW5POxEGwU"
+        ]
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": [
+          "KObZ-TI58lM"
+        ]
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": [
+          "ryzD62KJevM"
+        ]
+      },
+      {
+        "id": "test-q6",
+        "label": "6番",
+        "youtube_ids": [
+          "gmgcGGblBsE"
+        ]
+      },
+      {
+        "id": "test-q7",
+        "label": "7番",
+        "youtube_ids": [
+          "vbvh7PDjLCU"
+        ]
+      },
+      {
+        "id": "test-q8(1)",
+        "label": "8番(1)",
+        "youtube_ids": [
+          "foR-7YmYWt4"
+        ]
+      },
+      {
+        "id": "test-q8(2)",
+        "label": "8番(2)",
+        "youtube_ids": [
+          "foR-7YmYWt4"
+        ]
+      },
+      {
+        "id": "test-q9",
+        "label": "9番",
+        "youtube_ids": [
+          "H64_L0EELFw"
+        ]
+      },
+      {
+        "id": "test-q10(1)",
+        "label": "10番(1)",
+        "youtube_ids": [
+          "Ov6OHosnFP4"
+        ]
+      },
+      {
+        "id": "test-q10(2)",
+        "label": "10番(2)",
+        "youtube_ids": [
+          "Ov6OHosnFP4"
+        ]
+      },
+      {
+        "id": "test-q10(3)",
+        "label": "10番(3)",
+        "youtube_ids": [
+          "Ov6OHosnFP4"
+        ]
+      },
+      {
+        "id": "test-q10(4)",
+        "label": "10番(4)",
+        "youtube_ids": [
+          "Ov6OHosnFP4"
+        ]
+      },
+      {
+        "id": "test-q11(1)個数",
+        "label": "11番(1)個数",
+        "youtube_ids": [
+          "BZ4Er8VJVeI",
+          "O7u2wBhI8nw"
+        ]
+      },
+      {
+        "id": "test-q11(1)整数",
+        "label": "11番(1)整数",
+        "youtube_ids": [
+          "BZ4Er8VJVeI",
+          "O7u2wBhI8nw"
+        ]
+      },
+      {
+        "id": "test-q11(2)個数",
+        "label": "11番(2)個数",
+        "youtube_ids": [
+          "BZ4Er8VJVeI",
+          "O7u2wBhI8nw"
+        ]
+      },
+      {
+        "id": "test-q11(2)整数",
+        "label": "11番(2)整数",
+        "youtube_ids": [
+          "BZ4Er8VJVeI",
+          "O7u2wBhI8nw"
+        ]
+      },
+      {
+        "id": "test-q12",
+        "label": "12番",
+        "youtube_ids": [
+          "yKrgKTsylYQ"
+        ]
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png",
+      "test_mondai_p06.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png"
+    ],
+    "point_videos": [
+      {
+        "title": "整数の割り算と約数線分図",
+        "id": "jopuHYp6EIY"
+      },
+      {
+        "title": "最大公約数の発見",
+        "id": "X4gv6q8ZYic"
+      },
+      {
+        "title": "1からの個数を求めて引く",
+        "id": "sEbI0ggyvMY"
+      },
+      {
+        "title": "倍数",
+        "id": "3ilLs3Af1ck"
+      },
+      {
+        "title": "素数",
+        "id": "rYU7vfg7d1E"
+      },
+      {
+        "title": "整数の割り算と約数",
+        "id": "wfgT57tLoWo"
+      },
+      {
+        "title": "約数個数のセット調べ",
+        "id": "g6K-tTqqH0U"
+      },
+      {
+        "title": "3個の約数",
+        "id": "_NHNTO6FJI4"
+      },
+      {
+        "title": "最大公約数と公約数",
+        "id": "5HHz4mkH8E4"
+      },
+      {
+        "title": "素因数分解",
+        "id": "2fA2FmGCfT4"
+      },
+      {
+        "title": "倍数個数と近い数",
+        "id": "iMXSwr-MnOs"
+      },
+      {
+        "title": "約数が奇数個",
+        "id": "SZsyU_Ewe8o"
+      }
+    ]
+  }
+}

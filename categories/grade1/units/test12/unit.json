@@ -1,0 +1,926 @@
+{
+  "points": [
+    {
+      "id": "point98",
+      "number": 98,
+      "title": "LCMセット(基本) (倍数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point98_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "23JV_eETyOo",
+        "VOIYHSju_VY",
+        "W0i6azBweno",
+        "XvWxuyreElk",
+        "ae7ecbLpIfA",
+        "j4tYfrxGZdA"
+      ],
+      "questions": [
+        {
+          "id": "p98-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "23JV_eETyOo"
+          ]
+        },
+        {
+          "id": "p98-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "ae7ecbLpIfA"
+          ]
+        },
+        {
+          "id": "p98-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "W0i6azBweno"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point98_p00.png",
+        "point98_p01.png",
+        "point98_p02.png",
+        "point98_p03.png",
+        "point98_p04.png",
+        "point98_p05.png",
+        "point98_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point98_ans_p07.png",
+        "point98_ans_p08.png",
+        "point98_ans_p09.png",
+        "point98_ans_p10.png",
+        "point98_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/842",
+      "point_videos": [
+        {
+          "title": "LCMセット(基本) ※最小公倍数を1セット",
+          "id": "jluxZTTi4wI"
+        },
+        {
+          "title": "連続整数の個数",
+          "id": "MHOUFAW3jYY"
+        }
+      ]
+    },
+    {
+      "id": "point99",
+      "number": 99,
+      "title": "連続整数の積と割れる回数 (約数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point99_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "_ReVAY-sYc0",
+        "dHRhnaxfkj4",
+        "dbEwPuz0J_0",
+        "gmeP0cX-P4s",
+        "tF2_u5sgu0c",
+        "tM7Sy6i8wps"
+      ],
+      "questions": [
+        {
+          "id": "p99-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "tM7Sy6i8wps"
+          ]
+        },
+        {
+          "id": "p99-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "gmeP0cX-P4s"
+          ]
+        },
+        {
+          "id": "p99-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "tF2_u5sgu0c"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point99_p00.png",
+        "point99_p01.png",
+        "point99_p02.png",
+        "point99_p03.png",
+        "point99_p04.png",
+        "point99_p05.png",
+        "point99_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point99_ans_p07.png",
+        "point99_ans_p08.png",
+        "point99_ans_p09.png",
+        "point99_ans_p10.png",
+        "point99_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/843",
+      "point_videos": [
+        {
+          "title": "連続整数の積と割れる回数",
+          "id": "MAZikhyc3Kc"
+        },
+        {
+          "title": "1からの個数を求めて引く",
+          "id": "sEbI0ggyvMY"
+        }
+      ]
+    },
+    {
+      "id": "point100",
+      "number": 100,
+      "title": "連続整数の積と割れる回数の逆算 (約数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point100_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "BcymIYPfYKk",
+        "EC1Y-1IU6F0",
+        "S9YrLG_Gk3s",
+        "cX71ww6lb6c",
+        "o98lSv6Nko4"
+      ],
+      "questions": [
+        {
+          "id": "p100-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "S9YrLG_Gk3s"
+          ]
+        },
+        {
+          "id": "p100-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "o98lSv6Nko4"
+          ]
+        },
+        {
+          "id": "p100-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "BcymIYPfYKk"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point100_p00.png",
+        "point100_p01.png",
+        "point100_p02.png",
+        "point100_p03.png",
+        "point100_p04.png",
+        "point100_p05.png",
+        "point100_p06.png",
+        "point100_p07.png"
+      ],
+      "answerStartPage": 8,
+      "totalPages": 15,
+      "answerPages": [
+        "point100_ans_p08.png",
+        "point100_ans_p09.png",
+        "point100_ans_p10.png",
+        "point100_ans_p11.png",
+        "point100_ans_p12.png",
+        "point100_ans_p13.png",
+        "point100_ans_p14.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/844",
+      "point_videos": [
+        {
+          "title": "連続整数の積と割れる回数の逆算",
+          "id": "d6dRwPL4bRI"
+        }
+      ]
+    },
+    {
+      "id": "point101",
+      "number": 101,
+      "title": "既約分数(個数と和) (約数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point101_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "H9rK39Y-zB4",
+        "P-fHsrwffac",
+        "Yyk2A7X7pXE",
+        "aZqBfkqWj5Q",
+        "tP44gmenlR4",
+        "yA_ap_b3Mc4"
+      ],
+      "questions": [
+        {
+          "id": "p101-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "aZqBfkqWj5Q"
+          ]
+        },
+        {
+          "id": "p101-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "yA_ap_b3Mc4"
+          ]
+        },
+        {
+          "id": "p101-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "tP44gmenlR4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point101_p00.png",
+        "point101_p01.png",
+        "point101_p02.png",
+        "point101_p03.png",
+        "point101_p04.png",
+        "point101_p05.png",
+        "point101_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point101_ans_p07.png",
+        "point101_ans_p08.png",
+        "point101_ans_p09.png",
+        "point101_ans_p10.png",
+        "point101_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/845",
+      "point_videos": [
+        {
+          "title": "既約分数(個数と和)",
+          "id": "s7dgHRZja6Q"
+        }
+      ]
+    },
+    {
+      "id": "point102",
+      "number": 102,
+      "title": "公倍数±(数直線) (倍数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point102_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "QxqRxU0jtQg",
+        "Yv4KwgAPIlw",
+        "fB_emcphQT4",
+        "rkIUrfS66oM",
+        "t0JY9gGWONA",
+        "ulhX9ukq1qs"
+      ],
+      "questions": [
+        {
+          "id": "p102-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "Yv4KwgAPIlw"
+          ]
+        },
+        {
+          "id": "p102-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "rkIUrfS66oM"
+          ]
+        },
+        {
+          "id": "p102-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "t0JY9gGWONA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point102_p00.png",
+        "point102_p01.png",
+        "point102_p02.png",
+        "point102_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point102_ans_p04.png",
+        "point102_ans_p05.png",
+        "point102_ans_p06.png",
+        "point102_ans_p07.png",
+        "point102_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/846",
+      "point_videos": [
+        {
+          "title": "公倍数±(数直線)",
+          "id": "Nh_nn0XI_H8"
+        }
+      ]
+    },
+    {
+      "id": "point103",
+      "number": 103,
+      "title": "GCM(最大公約数)からの逆算 (逆割り算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point103_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-Q6zjv8FSsY",
+        "-ZjU1i6P4XQ",
+        "4uxMX3TCPIY",
+        "SDftTz3DsIc",
+        "U9daKC0_xe8",
+        "hkfn96JLhas",
+        "oaQAkz43Q4g",
+        "rJZEJ5HJVic"
+      ],
+      "questions": [
+        {
+          "id": "p103-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "-Q6zjv8FSsY"
+          ]
+        },
+        {
+          "id": "p103-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "hkfn96JLhas"
+          ]
+        },
+        {
+          "id": "p103-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "-ZjU1i6P4XQ"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point103_p00.png",
+        "point103_p01.png",
+        "point103_p02.png",
+        "point103_p03.png",
+        "point103_p04.png",
+        "point103_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point103_ans_p06.png",
+        "point103_ans_p07.png",
+        "point103_ans_p08.png",
+        "point103_ans_p09.png",
+        "point103_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/847",
+      "point_videos": [
+        {
+          "title": "GCM(最大公約数)からの逆算",
+          "id": "3IUFIUhZefQ"
+        },
+        {
+          "title": "倍数個数のベン図(2個) 高学年用",
+          "id": "ltjTZBEGQn4"
+        },
+        {
+          "title": "倍数個数のベン図(3個)",
+          "id": "aVS3vPFlZG8"
+        }
+      ]
+    },
+    {
+      "id": "point104",
+      "number": 104,
+      "title": "LCM(最小公倍数)からの逆算 (逆割り算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point104_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "2arz8PI0tDc",
+        "8Gg23B-GsHg",
+        "MXUO-Ziz_l8",
+        "MbJXsMYW4ho",
+        "OC2vMfxI4Ow",
+        "SsHBYAhl65A"
+      ],
+      "questions": [
+        {
+          "id": "p104-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "MbJXsMYW4ho"
+          ]
+        },
+        {
+          "id": "p104-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "MXUO-Ziz_l8"
+          ]
+        },
+        {
+          "id": "p104-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "SsHBYAhl65A"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point104_p00.png",
+        "point104_p01.png",
+        "point104_p02.png",
+        "point104_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point104_ans_p04.png",
+        "point104_ans_p05.png",
+        "point104_ans_p06.png",
+        "point104_ans_p07.png",
+        "point104_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/848",
+      "point_videos": [
+        {
+          "title": "LCM(最小公倍数)からの逆算",
+          "id": "kKHP-H0v-L4"
+        }
+      ]
+    },
+    {
+      "id": "point105",
+      "number": 105,
+      "title": "あまりの世界 (倍数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point105_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "4sbpAQr99ZQ",
+        "FFHkPNpJqPA",
+        "VOk4anR6Jhw",
+        "pDKZtvfX2Wg",
+        "qbQUaHwBAKk",
+        "s2NcVidsx4I"
+      ],
+      "questions": [
+        {
+          "id": "p105-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "4sbpAQr99ZQ"
+          ]
+        },
+        {
+          "id": "p105-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "VOk4anR6Jhw"
+          ]
+        },
+        {
+          "id": "p105-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "pDKZtvfX2Wg"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point105_p00.png",
+        "point105_p01.png",
+        "point105_p02.png",
+        "point105_p03.png",
+        "point105_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point105_ans_p05.png",
+        "point105_ans_p06.png",
+        "point105_ans_p07.png",
+        "point105_ans_p08.png",
+        "point105_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/849",
+      "point_videos": [
+        {
+          "title": "あまりの世界",
+          "id": "zPf9KHNJU7c"
+        },
+        {
+          "title": "フィボナッチ数列",
+          "id": "v8Fm93KsfzA"
+        },
+        {
+          "title": "群数列",
+          "id": "KSBsCNSbI9o"
+        }
+      ]
+    },
+    {
+      "id": "point105_nankan",
+      "number": 105,
+      "title": "あまりの世界 (倍数)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point105_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "16d9lZ_IdX0"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "0bUkeh_6cXM"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "SNBcNWfYLcI"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "あまりの世界",
+          "id": "zPf9KHNJU7c"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1600/lesson-playlist?textbook_reference_code=kobe-web-849",
+      "problemPages": [
+        "point105_nankan_p00.png",
+        "point105_nankan_p01.png",
+        "point105_nankan_p02.png",
+        "point105_nankan_p03.png",
+        "point105_nankan_p04.png",
+        "point105_nankan_p05.png",
+        "point105_nankan_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point105_nankan_ans_p07.png",
+        "point105_nankan_ans_p08.png",
+        "point105_nankan_ans_p09.png",
+        "point105_nankan_ans_p10.png",
+        "point105_nankan_ans_p11.png"
+      ]
+    },
+    {
+      "id": "point106",
+      "number": 106,
+      "title": "部分分数分解 (数に関する様々な技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point106_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "03jbod3yvrQ",
+        "CUbDfinbeFs",
+        "QPjLQXO91Kw",
+        "TIvDnnpB43U",
+        "nO46Q4oXb-E",
+        "rZX-Z4oHfWw"
+      ],
+      "questions": [
+        {
+          "id": "p106-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "CUbDfinbeFs"
+          ]
+        },
+        {
+          "id": "p106-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "rZX-Z4oHfWw"
+          ]
+        },
+        {
+          "id": "p106-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "TIvDnnpB43U"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point106_p00.png",
+        "point106_p01.png",
+        "point106_p02.png",
+        "point106_p03.png",
+        "point106_p04.png",
+        "point106_p05.png",
+        "point106_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point106_ans_p07.png",
+        "point106_ans_p08.png",
+        "point106_ans_p09.png",
+        "point106_ans_p10.png",
+        "point106_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/850",
+      "point_videos": [
+        {
+          "title": "部分分数分解",
+          "id": "65oQs2ntviY"
+        }
+      ]
+    },
+    {
+      "id": "point107",
+      "number": 107,
+      "title": "積の組合せ探し (約数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point107_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "6h5DJA4FhP0",
+        "K8AMYYtv970",
+        "bDL0lF8hI2I",
+        "dh0-PPl2B4I",
+        "jcJgtrQ8LKw",
+        "vLSqQz5YCmE"
+      ],
+      "questions": [
+        {
+          "id": "p107-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "jcJgtrQ8LKw"
+          ]
+        },
+        {
+          "id": "p107-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "vLSqQz5YCmE"
+          ]
+        },
+        {
+          "id": "p107-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "dh0-PPl2B4I"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point107_p00.png",
+        "point107_p01.png",
+        "point107_p02.png",
+        "point107_p03.png",
+        "point107_p04.png",
+        "point107_p05.png",
+        "point107_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point107_ans_p07.png",
+        "point107_ans_p08.png",
+        "point107_ans_p09.png",
+        "point107_ans_p10.png",
+        "point107_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/851",
+      "point_videos": [
+        {
+          "title": "積の組合せ探し",
+          "id": "8c8z_d-_l5U"
+        },
+        {
+          "title": "周の延長解法",
+          "id": "KNpyA48Qsto"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi12",
+    "title": "第12回 力試しテスト",
+    "range": "Point 98〜107",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/852",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第12回_共通の型_力試しテスト解答.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第12回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "6gs3HSyMlEg",
+      "9riY_efyrMA",
+      "BvKXmsrOcd4",
+      "FqOnNNpbj-E",
+      "L2GTdCGtriU",
+      "bAtOaStmpGU",
+      "elSTh2s3Tc4",
+      "ggfb54MPcuA",
+      "xopomtu-kXg",
+      "ycjAX4uvd1k"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(1)",
+        "label": "2番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(2)",
+        "label": "2番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(3)",
+        "label": "2番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6",
+        "label": "6番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(1)",
+        "label": "6番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(2)",
+        "label": "6番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7",
+        "label": "7番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8",
+        "label": "8番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8(1)",
+        "label": "8番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8(2)",
+        "label": "8番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9",
+        "label": "9番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q10",
+        "label": "10番",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png",
+      "test_mondai_p06.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png"
+    ],
+    "point_videos": [
+      {
+        "title": "積の組合せ探し",
+        "id": "8c8z_d-_l5U"
+      },
+      {
+        "title": "連続整数の積と割れる回数の逆算",
+        "id": "d6dRwPL4bRI"
+      },
+      {
+        "title": "公倍数±(数直線)",
+        "id": "Nh_nn0XI_H8"
+      },
+      {
+        "title": "あまりの世界",
+        "id": "zPf9KHNJU7c"
+      },
+      {
+        "title": "GCM(最大公約数)からの逆算",
+        "id": "3IUFIUhZefQ"
+      },
+      {
+        "title": "LCMセット(基本) ※最小公倍数を1セット",
+        "id": "jluxZTTi4wI"
+      },
+      {
+        "title": "LCM(最小公倍数)からの逆算",
+        "id": "kKHP-H0v-L4"
+      },
+      {
+        "title": "部分分数分解",
+        "id": "65oQs2ntviY"
+      },
+      {
+        "title": "既約分数(個数と和)",
+        "id": "s7dgHRZja6Q"
+      },
+      {
+        "title": "連続整数の積と割れる回数",
+        "id": "MAZikhyc3Kc"
+      },
+      {
+        "title": "1からの個数を求めて引く",
+        "id": "sEbI0ggyvMY"
+      }
+    ]
+  }
+}

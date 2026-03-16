@@ -1,0 +1,358 @@
+{
+  "points": [
+    {
+      "id": "point372",
+      "number": 372,
+      "title": "分数の中の分数 (数に関する様々な技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point372_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "Ak7782zAksU",
+        "JP4XSrBdK6Y",
+        "JRQQ0_uz1io",
+        "LgoFqLTzP1g",
+        "MEgomOss-gY",
+        "SSyr0Orhn10"
+      ],
+      "questions": [
+        {
+          "id": "p372-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "JP4XSrBdK6Y"
+          ]
+        },
+        {
+          "id": "p372-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "Ak7782zAksU"
+          ]
+        },
+        {
+          "id": "p372-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "JRQQ0_uz1io"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point372_p00.png",
+        "point372_p01.png",
+        "point372_p02.png",
+        "point372_p03.png",
+        "point372_p04.png",
+        "point372_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point372_ans_p06.png",
+        "point372_ans_p07.png",
+        "point372_ans_p08.png",
+        "point372_ans_p09.png",
+        "point372_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1088",
+      "point_videos": [
+        {
+          "title": "分数の中の分数",
+          "id": "gooDbNfjWP0"
+        }
+      ]
+    },
+    {
+      "id": "point373",
+      "number": 373,
+      "title": "連続整数の和で表現 (数の性質の発展技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point373_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "Fe9r0iiobqU",
+        "Ij3VZE_ttvg",
+        "Ku9P53T2sTw",
+        "W5pYt1hP4dI",
+        "eowpdkBZ0fk",
+        "hFspBSdAn3o"
+      ],
+      "questions": [
+        {
+          "id": "p373-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "Ij3VZE_ttvg"
+          ]
+        },
+        {
+          "id": "p373-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "hFspBSdAn3o"
+          ]
+        },
+        {
+          "id": "p373-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "eowpdkBZ0fk"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point373_p00.png",
+        "point373_p01.png",
+        "point373_p02.png",
+        "point373_p03.png",
+        "point373_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point373_ans_p05.png",
+        "point373_ans_p06.png",
+        "point373_ans_p07.png",
+        "point373_ans_p08.png",
+        "point373_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1089",
+      "point_videos": [
+        {
+          "title": "連続整数の和で表現",
+          "id": "FRm1sZJYqX8"
+        }
+      ]
+    },
+    {
+      "id": "point374",
+      "number": 374,
+      "title": "タイル切り (数の性質の発展技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point374_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "19BkUm2ca1U",
+        "9HNqs9SL2po",
+        "TWbIUa1Q6QY",
+        "opSMyRkaVI4",
+        "qv_y4rV0B3U",
+        "zegupYUTo9o"
+      ],
+      "questions": [
+        {
+          "id": "p374-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "qv_y4rV0B3U"
+          ]
+        },
+        {
+          "id": "p374-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "19BkUm2ca1U"
+          ]
+        },
+        {
+          "id": "p374-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "TWbIUa1Q6QY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point374_p00.png",
+        "point374_p01.png",
+        "point374_p02.png",
+        "point374_p03.png",
+        "point374_p04.png",
+        "point374_p05.png",
+        "point374_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point374_ans_p07.png",
+        "point374_ans_p08.png",
+        "point374_ans_p09.png",
+        "point374_ans_p10.png",
+        "point374_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1090",
+      "point_videos": [
+        {
+          "title": "タイル切り",
+          "id": "FE1-JUZzaWI"
+        },
+        {
+          "title": "ピラミッド",
+          "id": "rqPyaMz6chw"
+        }
+      ]
+    },
+    {
+      "id": "point375",
+      "number": 375,
+      "title": "ケタごと平均の利用 (数の性質の発展技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point375_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1cyNY7j2cTc",
+        "1sjFwTCTYwc",
+        "PceQRH2hNTM",
+        "b5_fof9wHro",
+        "uZY-XXV-zak",
+        "wqBgDSkREts"
+      ],
+      "questions": [
+        {
+          "id": "p375-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "b5_fof9wHro"
+          ]
+        },
+        {
+          "id": "p375-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "uZY-XXV-zak"
+          ]
+        },
+        {
+          "id": "p375-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "1sjFwTCTYwc"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point375_p00.png",
+        "point375_p01.png",
+        "point375_p02.png",
+        "point375_p03.png",
+        "point375_p04.png",
+        "point375_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point375_ans_p06.png",
+        "point375_ans_p07.png",
+        "point375_ans_p08.png",
+        "point375_ans_p09.png",
+        "point375_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1091",
+      "point_videos": [
+        {
+          "title": "ケタごと平均の利用",
+          "id": "rdu914O-c58"
+        },
+        {
+          "title": "N進法",
+          "id": "ioZRAwYO8g0"
+        }
+      ]
+    },
+    {
+      "id": "point376",
+      "number": 376,
+      "title": "単位分数の和(範囲から攻める) (数の性質の発展技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point376_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "9td4_ydb2hM",
+        "It2kmeyEXNk",
+        "Ms7iV5pp3ss",
+        "RNR_hDMF9gs",
+        "ZbE46Zu_rjQ",
+        "uQv3PXzgUZw"
+      ],
+      "questions": [
+        {
+          "id": "p376-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "RNR_hDMF9gs"
+          ]
+        },
+        {
+          "id": "p376-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "Ms7iV5pp3ss"
+          ]
+        },
+        {
+          "id": "p376-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "It2kmeyEXNk"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point376_p00.png",
+        "point376_p01.png",
+        "point376_p02.png",
+        "point376_p03.png",
+        "point376_p04.png",
+        "point376_p05.png",
+        "point376_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point376_ans_p07.png",
+        "point376_ans_p08.png",
+        "point376_ans_p09.png",
+        "point376_ans_p10.png",
+        "point376_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1092",
+      "point_videos": [
+        {
+          "title": "単位分数の和(範囲から攻める)",
+          "id": "iVfv72f2yqA"
+        },
+        {
+          "title": "ムリやり分数",
+          "id": "c7axd4SH4Mk"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi21",
+    "title": "第21回 力試しテスト",
+    "range": "Point 372〜376",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1093",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第21回_共通の型_力試しテスト問題.pdf?updated_at=1765885415"
+    ],
+    "youtube_ids": [],
+    "questions": []
+  }
+}

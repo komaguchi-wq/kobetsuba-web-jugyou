@@ -1,0 +1,576 @@
+{
+  "points": [
+    {
+      "id": "point277",
+      "number": 277,
+      "title": "LCMセット(数列) (群数列系(周期))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point277_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "FTtpNW3Mus0",
+        "GrQyk3dgngw",
+        "HhiXRxarHEk",
+        "IG2txriAelM",
+        "OVqX9gS2tbg",
+        "eSc1S3Upf-s"
+      ],
+      "questions": [
+        {
+          "id": "p277-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "eSc1S3Upf-s"
+          ]
+        },
+        {
+          "id": "p277-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "IG2txriAelM"
+          ]
+        },
+        {
+          "id": "p277-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "HhiXRxarHEk"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point277_p00.png",
+        "point277_p01.png",
+        "point277_p02.png",
+        "point277_p03.png",
+        "point277_p04.png",
+        "point277_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point277_ans_p06.png",
+        "point277_ans_p07.png",
+        "point277_ans_p08.png",
+        "point277_ans_p09.png",
+        "point277_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/983",
+      "point_videos": [
+        {
+          "title": "LCMセット(数列) ※最小公倍数を1セット",
+          "id": "_oPPUKqapiM"
+        }
+      ]
+    },
+    {
+      "id": "point278",
+      "number": 278,
+      "title": "個数増殖の群数列(奇数列個) (群数列系(周期))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point278_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "5vy6CgVyMfg",
+        "AQed80WehKs",
+        "B0KZemXln7A",
+        "Mu-ecaABQu8",
+        "ZnSw2zNrQOE",
+        "_xc3iy2ScSc",
+        "qSnHEP5utjo",
+        "vBMGFrLwvhY"
+      ],
+      "questions": [
+        {
+          "id": "p278-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "_xc3iy2ScSc"
+          ]
+        },
+        {
+          "id": "p278-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "qSnHEP5utjo"
+          ]
+        },
+        {
+          "id": "p278-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "AQed80WehKs",
+            "vBMGFrLwvhY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point278_p00.png",
+        "point278_p01.png",
+        "point278_p02.png",
+        "point278_p03.png",
+        "point278_p04.png",
+        "point278_p05.png",
+        "point278_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point278_ans_p07.png",
+        "point278_ans_p08.png",
+        "point278_ans_p09.png",
+        "point278_ans_p10.png",
+        "point278_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/984",
+      "point_videos": [
+        {
+          "title": "個数増殖の群数列(奇数列個)",
+          "id": "ZYW43g2NdPk"
+        }
+      ]
+    },
+    {
+      "id": "point279",
+      "number": 279,
+      "title": "グループ内変化の群数列 (群数列系(周期))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point279_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "R4XbPTE18L8",
+        "SK6g5NcyuwQ",
+        "W-265rub6eY",
+        "YDG7eQjGVH0",
+        "Yf0bhdRzEyc",
+        "aAcbMh5OvrA",
+        "d7jCwE4B7Sg"
+      ],
+      "questions": [
+        {
+          "id": "p279-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "SK6g5NcyuwQ"
+          ]
+        },
+        {
+          "id": "p279-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "YDG7eQjGVH0"
+          ]
+        },
+        {
+          "id": "p279-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "W-265rub6eY",
+            "aAcbMh5OvrA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point279_p00.png",
+        "point279_p01.png",
+        "point279_p02.png",
+        "point279_p03.png",
+        "point279_p04.png",
+        "point279_p05.png",
+        "point279_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point279_ans_p07.png",
+        "point279_ans_p08.png",
+        "point279_ans_p09.png",
+        "point279_ans_p10.png",
+        "point279_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/985",
+      "point_videos": [
+        {
+          "title": "グループ内変化の群数列",
+          "id": "RByJ-4uZ7bM"
+        }
+      ]
+    },
+    {
+      "id": "point280",
+      "number": 280,
+      "title": "方向付き群数列 (群数列系(周期))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point280_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "7EnCoPto98g",
+        "E6Bc3g_tSe4",
+        "FsUFDoehcI4",
+        "MwurFJhl8yc",
+        "RJwdTkqNTRI",
+        "dXHAC-ejG7U",
+        "i2CIH8Xlbx4",
+        "upbEru_0L8U",
+        "vkea9ilnQa8"
+      ],
+      "questions": [
+        {
+          "id": "p280-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "FsUFDoehcI4"
+          ]
+        },
+        {
+          "id": "p280-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "upbEru_0L8U"
+          ]
+        },
+        {
+          "id": "p280-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "E6Bc3g_tSe4",
+            "MwurFJhl8yc"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point280_p00.png",
+        "point280_p01.png",
+        "point280_p02.png",
+        "point280_p03.png",
+        "point280_p04.png",
+        "point280_p05.png",
+        "point280_p06.png",
+        "point280_p07.png",
+        "point280_p08.png",
+        "point280_p09.png",
+        "point280_p10.png"
+      ],
+      "answerStartPage": 11,
+      "totalPages": 20,
+      "answerPages": [
+        "point280_ans_p11.png",
+        "point280_ans_p12.png",
+        "point280_ans_p13.png",
+        "point280_ans_p14.png",
+        "point280_ans_p15.png",
+        "point280_ans_p16.png",
+        "point280_ans_p17.png",
+        "point280_ans_p18.png",
+        "point280_ans_p19.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/986",
+      "point_videos": [
+        {
+          "title": "方向付き群数列",
+          "id": "DgKLupOPZWc"
+        },
+        {
+          "title": "2つの和差算",
+          "id": "RPa25Rr-i7A"
+        }
+      ]
+    },
+    {
+      "id": "point281",
+      "number": 281,
+      "title": "平面分割 (規則性を用いた解法)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point281_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-idTkX3RIek",
+        "1D2F7puwFZI",
+        "VsM7W_dnwgI",
+        "YxDatmNp4Pc",
+        "qnROS2Zqn6Q",
+        "xZolu4VpbGU"
+      ],
+      "questions": [
+        {
+          "id": "p281-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "-idTkX3RIek"
+          ]
+        },
+        {
+          "id": "p281-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "YxDatmNp4Pc"
+          ]
+        },
+        {
+          "id": "p281-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "qnROS2Zqn6Q"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point281_p00.png",
+        "point281_p01.png",
+        "point281_p02.png",
+        "point281_p03.png",
+        "point281_p04.png",
+        "point281_p05.png",
+        "point281_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point281_ans_p07.png",
+        "point281_ans_p08.png",
+        "point281_ans_p09.png",
+        "point281_ans_p10.png",
+        "point281_ans_p11.png",
+        "point281_ans_p12.png",
+        "point281_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/987",
+      "point_videos": [
+        {
+          "title": "平面分割",
+          "id": "mHxW-CnK290"
+        }
+      ]
+    },
+    {
+      "id": "point282",
+      "number": 282,
+      "title": "数表(正方形型) (応用の規則性)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point282_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "B3DLkoXLOfs",
+        "M1LR9oLzUdo",
+        "So4gIkJnZqY",
+        "ZYfC-n31RlU",
+        "gwJfF70UkKY"
+      ],
+      "questions": [
+        {
+          "id": "p282-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ZYfC-n31RlU"
+          ]
+        },
+        {
+          "id": "p282-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "B3DLkoXLOfs"
+          ]
+        },
+        {
+          "id": "p282-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "M1LR9oLzUdo"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point282_p00.png",
+        "point282_p01.png",
+        "point282_p02.png",
+        "point282_p03.png",
+        "point282_p04.png",
+        "point282_p05.png",
+        "point282_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point282_ans_p07.png",
+        "point282_ans_p08.png",
+        "point282_ans_p09.png",
+        "point282_ans_p10.png",
+        "point282_ans_p11.png",
+        "point282_ans_p12.png",
+        "point282_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/988",
+      "point_videos": [
+        {
+          "title": "数表(正方形型)",
+          "id": "fCbi3LBtnH4"
+        }
+      ]
+    },
+    {
+      "id": "point283",
+      "number": 283,
+      "title": "数表(三角形型) (応用の規則性)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point283_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "7Tz6bkDNZy0",
+        "AS6nb4HfWQ0",
+        "Y2Q5wAINUpU",
+        "jFSxdx1er3Y",
+        "mtcHIbGzZh0",
+        "zNaHLlJvoio"
+      ],
+      "questions": [
+        {
+          "id": "p283-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "mtcHIbGzZh0"
+          ]
+        },
+        {
+          "id": "p283-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "jFSxdx1er3Y"
+          ]
+        },
+        {
+          "id": "p283-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "AS6nb4HfWQ0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point283_p00.png",
+        "point283_p01.png",
+        "point283_p02.png",
+        "point283_p03.png",
+        "point283_p04.png",
+        "point283_p05.png",
+        "point283_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point283_ans_p07.png",
+        "point283_ans_p08.png",
+        "point283_ans_p09.png",
+        "point283_ans_p10.png",
+        "point283_ans_p11.png",
+        "point283_ans_p12.png",
+        "point283_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/989",
+      "point_videos": [
+        {
+          "title": "数表(三角形型)",
+          "id": "qdWHhS7V6Rw"
+        }
+      ]
+    },
+    {
+      "id": "point284",
+      "number": 284,
+      "title": "五角数・六角数 (応用の規則性)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point284_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "KP1BjgaMkOo",
+        "R_w7c7lWj78",
+        "_KRc29GP5gw",
+        "cBp2rD0XAKs",
+        "u7F3_0lQuJA",
+        "yXCrHSHlYWs"
+      ],
+      "questions": [
+        {
+          "id": "p284-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "KP1BjgaMkOo"
+          ]
+        },
+        {
+          "id": "p284-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "cBp2rD0XAKs"
+          ]
+        },
+        {
+          "id": "p284-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "_KRc29GP5gw"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point284_p00.png",
+        "point284_p01.png",
+        "point284_p02.png",
+        "point284_p03.png",
+        "point284_p04.png",
+        "point284_p05.png",
+        "point284_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point284_ans_p07.png",
+        "point284_ans_p08.png",
+        "point284_ans_p09.png",
+        "point284_ans_p10.png",
+        "point284_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/990",
+      "point_videos": [
+        {
+          "title": "五角数・六角数",
+          "id": "lU-a4XEyC24"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi11",
+    "title": "第11回 力試しテスト",
+    "range": "Point 277〜284",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/991",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第11回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [],
+    "questions": []
+  }
+}

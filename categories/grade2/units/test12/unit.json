@@ -1,0 +1,848 @@
+{
+  "points": [
+    {
+      "id": "point285",
+      "number": 285,
+      "title": "分数のGCM・LCM(最大公約数・最小公倍数) (倍数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point285_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "8uTH-jCc99w",
+        "F6GdjTeaUIQ",
+        "OECtTfoVqzc",
+        "YuehtAS8iI4",
+        "hlS_02cmrUs"
+      ],
+      "questions": [
+        {
+          "id": "p285-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "OECtTfoVqzc"
+          ]
+        },
+        {
+          "id": "p285-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "8uTH-jCc99w"
+          ]
+        },
+        {
+          "id": "p285-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "YuehtAS8iI4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point285_p00.png",
+        "point285_p01.png",
+        "point285_p02.png",
+        "point285_p03.png",
+        "point285_p04.png",
+        "point285_p05.png",
+        "point285_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point285_ans_p07.png",
+        "point285_ans_p08.png",
+        "point285_ans_p09.png",
+        "point285_ans_p10.png",
+        "point285_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/992",
+      "point_videos": [
+        {
+          "title": "分数のGCM・LCM(最大公約数・最小公倍数)",
+          "id": "ECRAkn0tfKI"
+        }
+      ]
+    },
+    {
+      "id": "point286",
+      "number": 286,
+      "title": "N進法 (N進法)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point286_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "2tNd7jcRJvg",
+        "4NbHjzZDFv0",
+        "7QmKYpyqbdo",
+        "DzMDIolftes",
+        "xg_xOGQYhbo"
+      ],
+      "questions": [
+        {
+          "id": "p286-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "7QmKYpyqbdo"
+          ]
+        },
+        {
+          "id": "p286-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "2tNd7jcRJvg"
+          ]
+        },
+        {
+          "id": "p286-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "4NbHjzZDFv0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point286_p00.png",
+        "point286_p01.png",
+        "point286_p02.png",
+        "point286_p03.png",
+        "point286_p04.png",
+        "point286_p05.png",
+        "point286_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 15,
+      "answerPages": [
+        "point286_ans_p07.png",
+        "point286_ans_p08.png",
+        "point286_ans_p09.png",
+        "point286_ans_p10.png",
+        "point286_ans_p11.png",
+        "point286_ans_p12.png",
+        "point286_ans_p13.png",
+        "point286_ans_p14.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/993",
+      "point_videos": [
+        {
+          "title": "N進法",
+          "id": "ioZRAwYO8g0"
+        }
+      ]
+    },
+    {
+      "id": "point287",
+      "number": 287,
+      "title": "ニセN進法 (N進法)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point287_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3eZi81TZeQk",
+        "96zX-MwxGzc",
+        "PXrKpsqV4Ck",
+        "gxYJrsKkUBQ",
+        "vhAmwz7jBJ0",
+        "zzxYDbT4tFI"
+      ],
+      "questions": [
+        {
+          "id": "p287-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "PXrKpsqV4Ck"
+          ]
+        },
+        {
+          "id": "p287-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "zzxYDbT4tFI"
+          ]
+        },
+        {
+          "id": "p287-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "3eZi81TZeQk"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point287_p00.png",
+        "point287_p01.png",
+        "point287_p02.png",
+        "point287_p03.png",
+        "point287_p04.png",
+        "point287_p05.png",
+        "point287_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point287_ans_p07.png",
+        "point287_ans_p08.png",
+        "point287_ans_p09.png",
+        "point287_ans_p10.png",
+        "point287_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/994",
+      "point_videos": [
+        {
+          "title": "ニセN進法",
+          "id": "eAK7wqmyzSs"
+        }
+      ]
+    },
+    {
+      "id": "point288",
+      "number": 288,
+      "title": "約数個数 (約数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point288_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-lM8FcwRTWE",
+        "4arZfUrD8xA",
+        "DmTIrRpXXKc",
+        "L4wzJQNPmZw",
+        "Y-G4XzDYsP8",
+        "doBtgmNhwLo",
+        "fCu8DssjB9k",
+        "ttHIaEYTByU"
+      ],
+      "questions": [
+        {
+          "id": "p288-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "doBtgmNhwLo"
+          ]
+        },
+        {
+          "id": "p288-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "ttHIaEYTByU"
+          ]
+        },
+        {
+          "id": "p288-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Y-G4XzDYsP8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point288_p00.png",
+        "point288_p01.png",
+        "point288_p02.png",
+        "point288_p03.png",
+        "point288_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point288_ans_p05.png",
+        "point288_ans_p06.png",
+        "point288_ans_p07.png",
+        "point288_ans_p08.png",
+        "point288_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/995",
+      "point_videos": [
+        {
+          "title": "約数個数",
+          "id": "pnhtX4RClsw"
+        },
+        {
+          "title": "整数の割り算と約数",
+          "id": "wfgT57tLoWo"
+        },
+        {
+          "title": "あまりの世界",
+          "id": "zPf9KHNJU7c"
+        }
+      ]
+    },
+    {
+      "id": "point289",
+      "number": 289,
+      "title": "約数の和 (数の性質の発展技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point289_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "GO9Za10bg-Y",
+        "WZPX0EZ_6Lg",
+        "msTyE3C-7Is",
+        "pphWGNy7lRI",
+        "uvQtu5SRDtk",
+        "zPAJxmmr8PM"
+      ],
+      "questions": [
+        {
+          "id": "p289-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "pphWGNy7lRI"
+          ]
+        },
+        {
+          "id": "p289-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "msTyE3C-7Is"
+          ]
+        },
+        {
+          "id": "p289-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "WZPX0EZ_6Lg"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point289_p00.png",
+        "point289_p01.png",
+        "point289_p02.png",
+        "point289_p03.png",
+        "point289_p04.png",
+        "point289_p05.png",
+        "point289_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point289_ans_p07.png",
+        "point289_ans_p08.png",
+        "point289_ans_p09.png",
+        "point289_ans_p10.png",
+        "point289_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/996",
+      "point_videos": [
+        {
+          "title": "約数の和",
+          "id": "LVHhoJV60es"
+        }
+      ]
+    },
+    {
+      "id": "point290",
+      "number": 290,
+      "title": "約数の逆数の和 (数の性質の発展技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point290_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-JVDl29kKnM",
+        "QptQvgjcrHE",
+        "S4Si9hozVKk",
+        "S_KeqZQvoRs",
+        "W2CxTB0kqIo",
+        "lN_WnbS9cqw",
+        "rUk6DJrGM34"
+      ],
+      "questions": [
+        {
+          "id": "p290-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "rUk6DJrGM34",
+            "-JVDl29kKnM"
+          ]
+        },
+        {
+          "id": "p290-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "S_KeqZQvoRs",
+            "W2CxTB0kqIo"
+          ]
+        },
+        {
+          "id": "p290-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "S4Si9hozVKk"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point290_p00.png",
+        "point290_p01.png",
+        "point290_p02.png",
+        "point290_p03.png",
+        "point290_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point290_ans_p05.png",
+        "point290_ans_p06.png",
+        "point290_ans_p07.png",
+        "point290_ans_p08.png",
+        "point290_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/997",
+      "point_videos": [
+        {
+          "title": "約数の逆数の和",
+          "id": "ZDW8q0y5eUo"
+        }
+      ]
+    },
+    {
+      "id": "point291",
+      "number": 291,
+      "title": "約数個数からの逆算 (約数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point291_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1RwcAFuQX1U",
+        "7pKFrjkr_dI",
+        "LsWkoi0kVTk",
+        "ejcZdXAVxjw",
+        "gZNCEPVruA0",
+        "uzh3laox1Fk",
+        "vm9RN1M2im4",
+        "yC7Zngnqqgs"
+      ],
+      "questions": [
+        {
+          "id": "p291-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ejcZdXAVxjw"
+          ]
+        },
+        {
+          "id": "p291-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "gZNCEPVruA0"
+          ]
+        },
+        {
+          "id": "p291-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "LsWkoi0kVTk",
+            "7pKFrjkr_dI"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point291_p00.png",
+        "point291_p01.png",
+        "point291_p02.png",
+        "point291_p03.png",
+        "point291_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 12,
+      "answerPages": [
+        "point291_ans_p05.png",
+        "point291_ans_p06.png",
+        "point291_ans_p07.png",
+        "point291_ans_p08.png",
+        "point291_ans_p09.png",
+        "point291_ans_p10.png",
+        "point291_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/998",
+      "point_videos": [
+        {
+          "title": "約数個数からの逆算",
+          "id": "MVhdSBC363E"
+        },
+        {
+          "title": "約数が奇数個",
+          "id": "SZsyU_Ewe8o"
+        }
+      ]
+    },
+    {
+      "id": "point292",
+      "number": 292,
+      "title": "倍数判定法(複合) (倍数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point292_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3rXYyEcxlqw",
+        "9HZkoQ3vw4Y",
+        "DDXPlj2B0aM",
+        "b-bUZ6Svbag",
+        "mIZd8kYgYPE",
+        "rwYdHJ3_cl8"
+      ],
+      "questions": [
+        {
+          "id": "p292-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "3rXYyEcxlqw"
+          ]
+        },
+        {
+          "id": "p292-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "b-bUZ6Svbag"
+          ]
+        },
+        {
+          "id": "p292-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "DDXPlj2B0aM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point292_p00.png",
+        "point292_p01.png",
+        "point292_p02.png",
+        "point292_p03.png",
+        "point292_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point292_ans_p05.png",
+        "point292_ans_p06.png",
+        "point292_ans_p07.png",
+        "point292_ans_p08.png",
+        "point292_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/999",
+      "point_videos": [
+        {
+          "title": "倍数判定法(複合)",
+          "id": "uYnwKL-BC_U"
+        }
+      ]
+    },
+    {
+      "id": "point293",
+      "number": 293,
+      "title": "LCMセット(振り出し戻り) (倍数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point293_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "14Hm8jAO1Go",
+        "7ZfaZumvFOw",
+        "GQgB8c18KoM",
+        "H5Nx62IkDf0",
+        "mBJyPP0V62w",
+        "yd2nFyBCoXw"
+      ],
+      "questions": [
+        {
+          "id": "p293-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "yd2nFyBCoXw"
+          ]
+        },
+        {
+          "id": "p293-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "GQgB8c18KoM"
+          ]
+        },
+        {
+          "id": "p293-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "14Hm8jAO1Go"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point293_p00.png",
+        "point293_p01.png",
+        "point293_p02.png",
+        "point293_p03.png",
+        "point293_p04.png",
+        "point293_p05.png",
+        "point293_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point293_ans_p07.png",
+        "point293_ans_p08.png",
+        "point293_ans_p09.png",
+        "point293_ans_p10.png",
+        "point293_ans_p11.png",
+        "point293_ans_p12.png",
+        "point293_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1000",
+      "point_videos": [
+        {
+          "title": "LCMセット(振り出し戻り) ※最小公倍数を1セット",
+          "id": "8FJRwO3lgfI"
+        },
+        {
+          "title": "倍数個数のベン図(3個)",
+          "id": "aVS3vPFlZG8"
+        }
+      ]
+    },
+    {
+      "id": "point294",
+      "number": 294,
+      "title": "ケタバラシ (数に関する様々な技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point294_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "8YEO3IMoDjY",
+        "9tITvhUWiAw",
+        "Du-8GG8B0h4",
+        "KbHXzBmodHw",
+        "UxvDiUW2Ohg",
+        "VQFpden0bLQ",
+        "i8rmCprZduE",
+        "uV-P7W35Uv8"
+      ],
+      "questions": [
+        {
+          "id": "p294-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "VQFpden0bLQ"
+          ]
+        },
+        {
+          "id": "p294-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "uV-P7W35Uv8"
+          ]
+        },
+        {
+          "id": "p294-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "8YEO3IMoDjY",
+            "UxvDiUW2Ohg"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point294_p00.png",
+        "point294_p01.png",
+        "point294_p02.png",
+        "point294_p03.png",
+        "point294_p04.png",
+        "point294_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point294_ans_p06.png",
+        "point294_ans_p07.png",
+        "point294_ans_p08.png",
+        "point294_ans_p09.png",
+        "point294_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1001",
+      "point_videos": [
+        {
+          "title": "ケタバラシ",
+          "id": "LZ264DKSAMs"
+        },
+        {
+          "title": "2つの和差算",
+          "id": "RPa25Rr-i7A"
+        }
+      ]
+    },
+    {
+      "id": "point295",
+      "number": 295,
+      "title": "ケタバラシの表 (規則性を用いた解法)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point295_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "2zPTX5OcreM",
+        "3qr7Dmhymro",
+        "AwOTagPdhXM",
+        "JuZbDVm_JcQ",
+        "KJI4sPON4wI",
+        "ZaA0epV7q8w",
+        "cQGwkVtD8gE",
+        "jd9Coii4DkE"
+      ],
+      "questions": [
+        {
+          "id": "p295-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "JuZbDVm_JcQ"
+          ]
+        },
+        {
+          "id": "p295-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "2zPTX5OcreM"
+          ]
+        },
+        {
+          "id": "p295-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "3qr7Dmhymro"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point295_p00.png",
+        "point295_p01.png",
+        "point295_p02.png",
+        "point295_p03.png",
+        "point295_p04.png",
+        "point295_p05.png",
+        "point295_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point295_ans_p07.png",
+        "point295_ans_p08.png",
+        "point295_ans_p09.png",
+        "point295_ans_p10.png",
+        "point295_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1002",
+      "point_videos": [
+        {
+          "title": "ケタバラシの表",
+          "id": "vxPYjEg772Q"
+        },
+        {
+          "title": "1からの個数を求めて引く",
+          "id": "sEbI0ggyvMY"
+        }
+      ]
+    },
+    {
+      "id": "point296",
+      "number": 296,
+      "title": "循環小数作り (数に関する様々な技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point296_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "OTblt6sXRjg",
+        "T7K27anfsds",
+        "UB5BQyg5nLI",
+        "UVYQjRBdEC0",
+        "biXZ7I6kGhQ"
+      ],
+      "questions": [
+        {
+          "id": "p296-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "UB5BQyg5nLI"
+          ]
+        },
+        {
+          "id": "p296-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "OTblt6sXRjg"
+          ]
+        },
+        {
+          "id": "p296-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "T7K27anfsds"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point296_p00.png",
+        "point296_p01.png",
+        "point296_p02.png",
+        "point296_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point296_ans_p04.png",
+        "point296_ans_p05.png",
+        "point296_ans_p06.png",
+        "point296_ans_p07.png",
+        "point296_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1003",
+      "point_videos": [
+        {
+          "title": "循環小数作り",
+          "id": "_TofHndD8j8"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi12",
+    "title": "第12回 力試しテスト",
+    "range": "Point 285〜296",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1004",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第12回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [],
+    "questions": []
+  }
+}

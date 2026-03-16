@@ -1,0 +1,928 @@
+{
+  "points": [
+    {
+      "id": "point354",
+      "number": 354,
+      "title": "牛が動く範囲 (図形の移動(割合あり))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point354_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-kHUBRuB78w",
+        "E_hjz60w_Qg",
+        "U9t4fpKd3Qg",
+        "WuuMupMXxmw",
+        "dmWo2VPdyEY",
+        "k2Gt0fmstsk"
+      ],
+      "questions": [
+        {
+          "id": "p354-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "dmWo2VPdyEY"
+          ]
+        },
+        {
+          "id": "p354-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "E_hjz60w_Qg"
+          ]
+        },
+        {
+          "id": "p354-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "WuuMupMXxmw"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point354_p00.png",
+        "point354_p01.png",
+        "point354_p02.png",
+        "point354_p03.png",
+        "point354_p04.png",
+        "point354_p05.png",
+        "point354_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point354_ans_p07.png",
+        "point354_ans_p08.png",
+        "point354_ans_p09.png",
+        "point354_ans_p10.png",
+        "point354_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1068",
+      "point_videos": [
+        {
+          "title": "牛が動く範囲",
+          "id": "nSsRzXH-Rjo"
+        }
+      ]
+    },
+    {
+      "id": "point355",
+      "number": 355,
+      "title": "①秒後解法 (点の移動(割合あり))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point355_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "10bSUe2oAFM",
+        "EvCQj8FqvyQ",
+        "NYRh4uszqtE",
+        "Rhs1jDHmPBs",
+        "bE2BW5XmaZU",
+        "e44lwiPpgac",
+        "i5yjH_zlYVM",
+        "tKtQGeTBSHk",
+        "yDLoAO_Fskw",
+        "yoHHF0n-W2U"
+      ],
+      "questions": [
+        {
+          "id": "p355-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "bE2BW5XmaZU"
+          ]
+        },
+        {
+          "id": "p355-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "i5yjH_zlYVM",
+            "yDLoAO_Fskw"
+          ]
+        },
+        {
+          "id": "p355-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "10bSUe2oAFM",
+            "EvCQj8FqvyQ"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point355_p00.png",
+        "point355_p01.png",
+        "point355_p02.png",
+        "point355_p03.png",
+        "point355_p04.png",
+        "point355_p05.png",
+        "point355_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point355_ans_p07.png",
+        "point355_ans_p08.png",
+        "point355_ans_p09.png",
+        "point355_ans_p10.png",
+        "point355_ans_p11.png",
+        "point355_ans_p12.png",
+        "point355_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1069",
+      "point_videos": [
+        {
+          "title": "①秒後解法",
+          "id": "_qpWSmC9Yps"
+        },
+        {
+          "title": "等高図形(比を使う 点の移動)",
+          "id": "0pYwggmnb08"
+        },
+        {
+          "title": "30°問題",
+          "id": "z__EDbpXGZM"
+        },
+        {
+          "title": "等高図形(比を使わない 点の移動)",
+          "id": "1UcMB3SQgTA"
+        }
+      ]
+    },
+    {
+      "id": "point356",
+      "number": 356,
+      "title": "影武者 (点の移動(割合あり))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point356_共通の型_教材問題解答セット.pdf?updated_at=1765885415"
+      ],
+      "youtube_ids": [
+        "ByuMILUA3MM",
+        "WVzrj6_6Usk",
+        "brL1hWz7iCQ",
+        "oKBwbZMPRKg",
+        "qooUjbXJ2CE",
+        "sDK8jHJ8uuU"
+      ],
+      "questions": [
+        {
+          "id": "p356-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "oKBwbZMPRKg"
+          ]
+        },
+        {
+          "id": "p356-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "brL1hWz7iCQ"
+          ]
+        },
+        {
+          "id": "p356-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "WVzrj6_6Usk"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point356_p00.png",
+        "point356_p01.png",
+        "point356_p02.png",
+        "point356_p03.png",
+        "point356_p04.png",
+        "point356_p05.png",
+        "point356_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 16,
+      "answerPages": [
+        "point356_ans_p07.png",
+        "point356_ans_p08.png",
+        "point356_ans_p09.png",
+        "point356_ans_p10.png",
+        "point356_ans_p11.png",
+        "point356_ans_p12.png",
+        "point356_ans_p13.png",
+        "point356_ans_p14.png",
+        "point356_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1070",
+      "point_videos": [
+        {
+          "title": "影武者",
+          "id": "378c4zJbuok"
+        },
+        {
+          "title": "高さの和の利用",
+          "id": "ZeH_L3SvCKw"
+        }
+      ]
+    },
+    {
+      "id": "point357",
+      "number": 357,
+      "title": "長方形の面積二等分線 (図形の移動(割合あり))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point357_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "DpEujzp9Mtk",
+        "JOb-auK0NUc",
+        "LC6JEFXAKEg",
+        "M0wwvH22hXw",
+        "wLqSclKPZ8o",
+        "ztWJkWu4RXM"
+      ],
+      "questions": [
+        {
+          "id": "p357-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "M0wwvH22hXw"
+          ]
+        },
+        {
+          "id": "p357-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "JOb-auK0NUc"
+          ]
+        },
+        {
+          "id": "p357-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "wLqSclKPZ8o"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point357_p00.png",
+        "point357_p01.png",
+        "point357_p02.png",
+        "point357_p03.png",
+        "point357_p04.png",
+        "point357_p05.png",
+        "point357_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point357_ans_p07.png",
+        "point357_ans_p08.png",
+        "point357_ans_p09.png",
+        "point357_ans_p10.png",
+        "point357_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1071",
+      "point_videos": [
+        {
+          "title": "長方形の面積二等分線",
+          "id": "sNJo4Rvu36A"
+        },
+        {
+          "title": "チョウチョ",
+          "id": "o3hLWdA1LBY"
+        },
+        {
+          "title": "影武者",
+          "id": "378c4zJbuok"
+        }
+      ]
+    },
+    {
+      "id": "point358",
+      "number": 358,
+      "title": "反対影武者 (点の移動(割合あり))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point358_共通の型_教材問題解答セット.pdf?updated_at=1765885415"
+      ],
+      "youtube_ids": [
+        "SFNVekwwg4I",
+        "ZYH-KwDmYlo",
+        "doKXYejplbo",
+        "k-QbmKCaen8",
+        "uCfEmQYyixk",
+        "wnWjoqC0ow4"
+      ],
+      "questions": [
+        {
+          "id": "p358-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ZYH-KwDmYlo"
+          ]
+        },
+        {
+          "id": "p358-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "wnWjoqC0ow4"
+          ]
+        },
+        {
+          "id": "p358-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "SFNVekwwg4I"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point358_p00.png",
+        "point358_p01.png",
+        "point358_p02.png",
+        "point358_p03.png",
+        "point358_p04.png",
+        "point358_p05.png",
+        "point358_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point358_ans_p07.png",
+        "point358_ans_p08.png",
+        "point358_ans_p09.png",
+        "point358_ans_p10.png",
+        "point358_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1072",
+      "point_videos": [
+        {
+          "title": "反対影武者",
+          "id": "SS5lMFY8Oug"
+        }
+      ]
+    },
+    {
+      "id": "point359",
+      "number": 359,
+      "title": "同時スタート戻り＝リピート開始 (点の移動(割合あり))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point359_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "78mZb8yPmqE",
+        "G2zelLAF6zE",
+        "IvIn0SECxDU",
+        "_Ua1qPIJTQ0",
+        "eJ0kXcboR64",
+        "gNLQ0J4vpYM",
+        "itsl2pljJx4",
+        "pOfXM26Xm7Y"
+      ],
+      "questions": [
+        {
+          "id": "p359-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "78mZb8yPmqE",
+            "itsl2pljJx4"
+          ]
+        },
+        {
+          "id": "p359-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "pOfXM26Xm7Y",
+            "_Ua1qPIJTQ0"
+          ]
+        },
+        {
+          "id": "p359-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "IvIn0SECxDU"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point359_p00.png",
+        "point359_p01.png",
+        "point359_p02.png",
+        "point359_p03.png",
+        "point359_p04.png",
+        "point359_p05.png",
+        "point359_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 16,
+      "answerPages": [
+        "point359_ans_p07.png",
+        "point359_ans_p08.png",
+        "point359_ans_p09.png",
+        "point359_ans_p10.png",
+        "point359_ans_p11.png",
+        "point359_ans_p12.png",
+        "point359_ans_p13.png",
+        "point359_ans_p14.png",
+        "point359_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1073",
+      "point_videos": [
+        {
+          "title": "同時スタート戻り＝リピート開始",
+          "id": "hQ38FnBT3yI"
+        },
+        {
+          "title": "分数のGCM・LCM(最大公約数・最小公倍数)",
+          "id": "ECRAkn0tfKI"
+        },
+        {
+          "title": "2人で一周ごと出会う追いつく",
+          "id": "NB2r2rZkCCw"
+        },
+        {
+          "title": "ダイヤグラムの選択パターン",
+          "id": "5pplJV9FYmc"
+        },
+        {
+          "title": "ダイヤグラムの距離一定",
+          "id": "j83cHOwNQoo"
+        }
+      ]
+    },
+    {
+      "id": "point360",
+      "number": 360,
+      "title": "直線の回転 (図形の移動(割合あり))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point360_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "OYiSrz_y3gw",
+        "Yvk8VCBbvG8",
+        "ZTa4JmNObAU",
+        "aNBi6rBAi5U",
+        "s8rRBzJON1o",
+        "xTrBZbDrDF8"
+      ],
+      "questions": [
+        {
+          "id": "p360-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "OYiSrz_y3gw"
+          ]
+        },
+        {
+          "id": "p360-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "Yvk8VCBbvG8"
+          ]
+        },
+        {
+          "id": "p360-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "ZTa4JmNObAU"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point360_p00.png",
+        "point360_p01.png",
+        "point360_p02.png",
+        "point360_p03.png",
+        "point360_p04.png",
+        "point360_p05.png",
+        "point360_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 16,
+      "answerPages": [
+        "point360_ans_p07.png",
+        "point360_ans_p08.png",
+        "point360_ans_p09.png",
+        "point360_ans_p10.png",
+        "point360_ans_p11.png",
+        "point360_ans_p12.png",
+        "point360_ans_p13.png",
+        "point360_ans_p14.png",
+        "point360_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1074",
+      "point_videos": [
+        {
+          "title": "直線の回転",
+          "id": "0LwkhpbU2Lc"
+        },
+        {
+          "title": "直角〇×",
+          "id": "agYDOigUWvg"
+        },
+        {
+          "title": "半径×半径",
+          "id": "PIaXqF_BObA"
+        },
+        {
+          "title": "直角二等辺の性質",
+          "id": "CDIeIb74EoY"
+        }
+      ]
+    },
+    {
+      "id": "point361",
+      "number": 361,
+      "title": "センターライン×直径 (図形の移動(割合あり))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point361_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "2iDuZzn97-E",
+        "H60u2vGRtLk",
+        "OfedzbIckGU",
+        "XpWkP-Ek1YE",
+        "YOHgsSKlEDg",
+        "tynDXZ-6upw"
+      ],
+      "questions": [
+        {
+          "id": "p361-q1",
+          "label": "1番",
+          "type": "例題",
+          "numberPos": [
+            0.0868,
+            0.1433
+          ],
+          "numberPage": 1,
+          "youtube_ids": [
+            "2iDuZzn97-E"
+          ]
+        },
+        {
+          "id": "p361-q2",
+          "label": "2番",
+          "type": "例題",
+          "numberPos": [
+            0.0868,
+            0.0973
+          ],
+          "numberPage": 3,
+          "youtube_ids": [
+            "H60u2vGRtLk"
+          ]
+        },
+        {
+          "id": "p361-q3",
+          "label": "3番",
+          "type": "例題",
+          "numberPos": [
+            0.0868,
+            0.0973
+          ],
+          "numberPage": 5,
+          "youtube_ids": [
+            "YOHgsSKlEDg"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point361_p00.png",
+        "point361_p01.png",
+        "point361_p02.png",
+        "point361_p03.png",
+        "point361_p04.png",
+        "point361_p05.png",
+        "point361_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 13,
+      "answerPages": [
+        "point361_ans_p07.png",
+        "point361_ans_p08.png",
+        "point361_ans_p09.png",
+        "point361_ans_p10.png",
+        "point361_ans_p11.png",
+        "point361_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1075",
+      "point_videos": [
+        {
+          "title": "センターライン×直径",
+          "id": "Pihjht6O63s"
+        },
+        {
+          "title": "外角の和=360°",
+          "id": "-nWH_6U_8v0"
+        }
+      ]
+    },
+    {
+      "id": "point362",
+      "number": 362,
+      "title": "円の周りを円が転がる (図形の移動(割合あり))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point362_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "FfLkByoWoCE",
+        "JyX2oyERog0",
+        "WViBlU5u6VM",
+        "kefnIUfDiZQ",
+        "la5CYMRoNpo",
+        "tp5SYIEsPlM"
+      ],
+      "questions": [
+        {
+          "id": "p362-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "JyX2oyERog0"
+          ]
+        },
+        {
+          "id": "p362-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "FfLkByoWoCE"
+          ]
+        },
+        {
+          "id": "p362-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "la5CYMRoNpo"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point362_p00.png",
+        "point362_p01.png",
+        "point362_p02.png",
+        "point362_p03.png",
+        "point362_p04.png",
+        "point362_p05.png",
+        "point362_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point362_ans_p07.png",
+        "point362_ans_p08.png",
+        "point362_ans_p09.png",
+        "point362_ans_p10.png",
+        "point362_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1076",
+      "point_videos": [
+        {
+          "title": "円の周りを円が転がる",
+          "id": "_QDk-m17YPw"
+        }
+      ]
+    },
+    {
+      "id": "point363",
+      "number": 363,
+      "title": "円の回転数=中心の移動距離÷円周 (図形の移動(割合あり))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point363_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "6yyyD7GUbG4",
+        "Ij2qzAa2tnw",
+        "WQLmN3YON3w",
+        "WmEA500niO8",
+        "huGlZs0Fo-8",
+        "jzU44YX5SEk",
+        "tfneF3l5JlU",
+        "yVLuak1ZNo8"
+      ],
+      "questions": [
+        {
+          "id": "p363-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "6yyyD7GUbG4"
+          ]
+        },
+        {
+          "id": "p363-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "WmEA500niO8"
+          ]
+        },
+        {
+          "id": "p363-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "huGlZs0Fo-8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point363_p00.png",
+        "point363_p01.png",
+        "point363_p02.png",
+        "point363_p03.png",
+        "point363_p04.png",
+        "point363_p05.png",
+        "point363_p06.png",
+        "point363_p07.png"
+      ],
+      "answerStartPage": 8,
+      "totalPages": 17,
+      "answerPages": [
+        "point363_ans_p08.png",
+        "point363_ans_p09.png",
+        "point363_ans_p10.png",
+        "point363_ans_p11.png",
+        "point363_ans_p12.png",
+        "point363_ans_p13.png",
+        "point363_ans_p14.png",
+        "point363_ans_p15.png",
+        "point363_ans_p16.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1077",
+      "point_videos": [
+        {
+          "title": "円の回転数=中心の移動距離÷円周",
+          "id": "CmGgxk8IZGQ"
+        }
+      ]
+    },
+    {
+      "id": "point364",
+      "number": 364,
+      "title": "おうぎ形の周りをおうぎ形が転がる (図形の移動(割合あり))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point364_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3AtJdi6DrM8",
+        "DLG3MXn3l1U",
+        "I8x8mVdgCoo",
+        "TFHfjlGODaw",
+        "W-vJ7pVzBC4",
+        "ls10YiV1-uc"
+      ],
+      "questions": [
+        {
+          "id": "p364-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ls10YiV1-uc"
+          ]
+        },
+        {
+          "id": "p364-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "I8x8mVdgCoo"
+          ]
+        },
+        {
+          "id": "p364-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "W-vJ7pVzBC4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point364_p00.png",
+        "point364_p01.png",
+        "point364_p02.png",
+        "point364_p03.png",
+        "point364_p04.png",
+        "point364_p05.png",
+        "point364_p06.png",
+        "point364_p07.png",
+        "point364_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 14,
+      "answerPages": [
+        "point364_ans_p09.png",
+        "point364_ans_p10.png",
+        "point364_ans_p11.png",
+        "point364_ans_p12.png",
+        "point364_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1078",
+      "point_videos": [
+        {
+          "title": "おうぎ形の周りをおうぎ形が転がる",
+          "id": "sUQF27HtiZQ"
+        }
+      ]
+    },
+    {
+      "id": "point365",
+      "number": 365,
+      "title": "円の中を半径と同じ長さが転がる (図形の移動(割合あり))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point365_共通の型_教材問題解答セット.pdf?updated_at=1765885415"
+      ],
+      "youtube_ids": [
+        "3W7TJK0Sl3o",
+        "MJpwUvDa5PQ",
+        "WmDyEgfN-LU",
+        "Ymb2rP3gtmU",
+        "hGYZsnBvceI",
+        "w0ii0jelaQg"
+      ],
+      "questions": [
+        {
+          "id": "p365-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "3W7TJK0Sl3o"
+          ]
+        },
+        {
+          "id": "p365-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "w0ii0jelaQg"
+          ]
+        },
+        {
+          "id": "p365-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "hGYZsnBvceI"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point365_p00.png",
+        "point365_p01.png",
+        "point365_p02.png",
+        "point365_p03.png",
+        "point365_p04.png",
+        "point365_p05.png",
+        "point365_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point365_ans_p07.png",
+        "point365_ans_p08.png",
+        "point365_ans_p09.png",
+        "point365_ans_p10.png",
+        "point365_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1079",
+      "point_videos": [
+        {
+          "title": "円の中を半径と同じ長さが転がる",
+          "id": "OkHGxSEzLvM"
+        },
+        {
+          "title": "半径×半径",
+          "id": "PIaXqF_BObA"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi19",
+    "title": "第19回 力試しテスト",
+    "range": "Point 354〜365",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1080",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第19回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [],
+    "questions": []
+  }
+}

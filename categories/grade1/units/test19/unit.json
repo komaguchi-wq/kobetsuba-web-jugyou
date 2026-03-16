@@ -1,0 +1,380 @@
+{
+  "points": [
+    {
+      "id": "point160",
+      "number": 160,
+      "title": "棒入れ(水面に出る) (水問題の脇道)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point160_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "CmEUJjWwb78",
+        "DApDlA5p3tU",
+        "GZQzy-Df7qU",
+        "GiTctZEdCbM",
+        "H1_5xwuv8kM",
+        "iu5CD9QknZI",
+        "ka0xyvSZhvM",
+        "uVBLmS0hQ1A"
+      ],
+      "questions": [
+        {
+          "id": "p160-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ka0xyvSZhvM"
+          ]
+        },
+        {
+          "id": "p160-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "GiTctZEdCbM"
+          ]
+        },
+        {
+          "id": "p160-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "DApDlA5p3tU",
+            "uVBLmS0hQ1A"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point160_p00.png",
+        "point160_p01.png",
+        "point160_p02.png",
+        "point160_p03.png",
+        "point160_p04.png",
+        "point160_p05.png",
+        "point160_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point160_ans_p07.png",
+        "point160_ans_p08.png",
+        "point160_ans_p09.png",
+        "point160_ans_p10.png",
+        "point160_ans_p11.png",
+        "point160_ans_p12.png",
+        "point160_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/912",
+      "point_videos": [
+        {
+          "title": "棒入れ（水面に出る）",
+          "id": "DnwJM7S7Lnk"
+        }
+      ]
+    },
+    {
+      "id": "point161",
+      "number": 161,
+      "title": "棒入れ（水没）",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point161_共通の型_教材問題解答セット.pdf?updated_at=1766137248"
+      ],
+      "youtube_ids": [
+        "1HopoJmwDlw",
+        "Q80ZMZ7YWmw",
+        "_k7Jf40Z6WQ",
+        "pOk4n-knY3w",
+        "rFnWzMAJO68",
+        "s3W-oghrdGQ"
+      ],
+      "questions": [
+        {
+          "id": "p161-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "Q80ZMZ7YWmw"
+          ]
+        },
+        {
+          "id": "p161-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "1HopoJmwDlw"
+          ]
+        },
+        {
+          "id": "p161-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "rFnWzMAJO68"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point161_p00.png",
+        "point161_p01.png",
+        "point161_p02.png",
+        "point161_p03.png",
+        "point161_p04.png",
+        "point161_p05.png",
+        "point161_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 13,
+      "answerPages": [
+        "point161_ans_p07.png",
+        "point161_ans_p08.png",
+        "point161_ans_p09.png",
+        "point161_ans_p10.png",
+        "point161_ans_p11.png",
+        "point161_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/913",
+      "point_videos": [
+        {
+          "title": "棒入れ（水没）",
+          "id": "KvwH7XxoTzo"
+        }
+      ]
+    },
+    {
+      "id": "point162",
+      "number": 162,
+      "title": "水の入る順序と正面から見た図 (水グラフの脇道)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point162_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "F-OOdeI-d88",
+        "M-B-ApNgptY",
+        "OrttXkLx-F8",
+        "ZBbYpeNbCHQ",
+        "aM1sMoBfzVk",
+        "zS9VBqg_db8"
+      ],
+      "questions": [
+        {
+          "id": "p162-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "M-B-ApNgptY"
+          ]
+        },
+        {
+          "id": "p162-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "OrttXkLx-F8"
+          ]
+        },
+        {
+          "id": "p162-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "zS9VBqg_db8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point162_p00.png",
+        "point162_p01.png",
+        "point162_p02.png",
+        "point162_p03.png",
+        "point162_p04.png",
+        "point162_p05.png",
+        "point162_p06.png",
+        "point162_p07.png",
+        "point162_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 16,
+      "answerPages": [
+        "point162_ans_p09.png",
+        "point162_ans_p10.png",
+        "point162_ans_p11.png",
+        "point162_ans_p12.png",
+        "point162_ans_p13.png",
+        "point162_ans_p14.png",
+        "point162_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/914",
+      "point_videos": [
+        {
+          "title": "水の入る順序と正面から見た図",
+          "id": "w3DiH2b0kx8"
+        }
+      ]
+    },
+    {
+      "id": "point163",
+      "number": 163,
+      "title": "正面から見た図と水1分(秒)①おき (水グラフの脇道)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point163_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "2qs_dUhaImM",
+        "BqtbcLxLIts",
+        "KrU7vk5y5A0",
+        "cSdGfRPRAZk",
+        "jGG2y968Sas",
+        "tdeh5vJDi7c"
+      ],
+      "questions": [
+        {
+          "id": "p163-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "BqtbcLxLIts"
+          ]
+        },
+        {
+          "id": "p163-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "2qs_dUhaImM"
+          ]
+        },
+        {
+          "id": "p163-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "jGG2y968Sas"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point163_p00.png",
+        "point163_p01.png",
+        "point163_p02.png",
+        "point163_p03.png",
+        "point163_p04.png",
+        "point163_p05.png",
+        "point163_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 15,
+      "answerPages": [
+        "point163_ans_p07.png",
+        "point163_ans_p08.png",
+        "point163_ans_p09.png",
+        "point163_ans_p10.png",
+        "point163_ans_p11.png",
+        "point163_ans_p12.png",
+        "point163_ans_p13.png",
+        "point163_ans_p14.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/915",
+      "point_videos": [
+        {
+          "title": "正面から見た図と水1分(秒)①おき",
+          "id": "7xpdoU7AMkI"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi19",
+    "title": "第19回 力試しテスト",
+    "range": "Point 160〜163",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/916",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第19回_共通の型_力試しテスト解答.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第19回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "QvAYZgFHXVA",
+      "Z2jtUiqCOx8",
+      "vqkeURDRbAE"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(1)",
+        "label": "2番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(2)",
+        "label": "2番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(1)",
+        "label": "4番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(2)",
+        "label": "4番(2)",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png"
+    ],
+    "point_videos": [
+      {
+        "title": "水の入る順序と正面から見た図",
+        "id": "w3DiH2b0kx8"
+      },
+      {
+        "title": "棒入れ（水面に出る）",
+        "id": "DnwJM7S7Lnk"
+      },
+      {
+        "title": "棒入れ（水没）",
+        "id": "KvwH7XxoTzo"
+      },
+      {
+        "title": "正面から見た図と水1分(秒)①おき",
+        "id": "7xpdoU7AMkI"
+      }
+    ]
+  }
+}

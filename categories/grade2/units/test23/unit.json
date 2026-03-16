@@ -1,0 +1,662 @@
+{
+  "points": [
+    {
+      "id": "point389",
+      "number": 389,
+      "title": "平行な面の切り口は平行 (切断)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point389_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-AmBhkML9rc",
+        "3xlH-9NkMS0",
+        "F9C23pSq4vM",
+        "MJkmoMkkBgU",
+        "fGgQVSL-yeU",
+        "wiudS9QgPhw"
+      ],
+      "questions": [
+        {
+          "id": "p389-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "fGgQVSL-yeU"
+          ]
+        },
+        {
+          "id": "p389-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "-AmBhkML9rc"
+          ]
+        },
+        {
+          "id": "p389-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "3xlH-9NkMS0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point389_p00.png",
+        "point389_p01.png",
+        "point389_p02.png",
+        "point389_p03.png",
+        "point389_p04.png",
+        "point389_p05.png",
+        "point389_p06.png",
+        "point389_p07.png",
+        "point389_p08.png",
+        "point389_p09.png"
+      ],
+      "answerStartPage": 10,
+      "totalPages": 19,
+      "answerPages": [
+        "point389_ans_p10.png",
+        "point389_ans_p11.png",
+        "point389_ans_p12.png",
+        "point389_ans_p13.png",
+        "point389_ans_p14.png",
+        "point389_ans_p15.png",
+        "point389_ans_p16.png",
+        "point389_ans_p17.png",
+        "point389_ans_p18.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1107",
+      "point_videos": [
+        {
+          "title": "平行な面の切り口は平行",
+          "id": "HOkpHS2wnCI"
+        }
+      ]
+    },
+    {
+      "id": "point389_nankan",
+      "number": 389,
+      "title": "平行な面の切り口は平行 (切断)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point389_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "EeTzUvY9-8k",
+            "_RvyS8Vtdqs"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "rqab4uuGLvs",
+            "MkzHX0JdLWI"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "mLZscvJN_GY"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "平行な面の切り口は平行",
+          "id": "HOkpHS2wnCI"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/3960/lesson-playlist?textbook_reference_code=kobe-web-1107",
+      "problemPages": [
+        "point389_nankan_p00.png",
+        "point389_nankan_p01.png",
+        "point389_nankan_p02.png",
+        "point389_nankan_p03.png",
+        "point389_nankan_p04.png",
+        "point389_nankan_p05.png",
+        "point389_nankan_p06.png",
+        "point389_nankan_p07.png",
+        "point389_nankan_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 16,
+      "answerPages": [
+        "point389_nankan_ans_p09.png",
+        "point389_nankan_ans_p10.png",
+        "point389_nankan_ans_p11.png",
+        "point389_nankan_ans_p12.png",
+        "point389_nankan_ans_p13.png",
+        "point389_nankan_ans_p14.png",
+        "point389_nankan_ans_p15.png"
+      ]
+    },
+    {
+      "id": "point390",
+      "number": 390,
+      "title": "切断面の形について〜正方形や長方形ができる時〜 (切断)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point390_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "GWaYGih1nH4",
+        "UpoMENSgNV4",
+        "XisTR5ti2ZQ",
+        "_fZV4XD_ODs",
+        "fMOAiT6_iug",
+        "x8z9v0-INwU"
+      ],
+      "questions": [
+        {
+          "id": "p390-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "x8z9v0-INwU"
+          ]
+        },
+        {
+          "id": "p390-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "XisTR5ti2ZQ"
+          ]
+        },
+        {
+          "id": "p390-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "_fZV4XD_ODs"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point390_p00.png",
+        "point390_p01.png",
+        "point390_p02.png",
+        "point390_p03.png",
+        "point390_p04.png",
+        "point390_p05.png",
+        "point390_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point390_ans_p07.png",
+        "point390_ans_p08.png",
+        "point390_ans_p09.png",
+        "point390_ans_p10.png",
+        "point390_ans_p11.png",
+        "point390_ans_p12.png",
+        "point390_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1108",
+      "point_videos": [
+        {
+          "title": "「切断面の形について」〜正方形や長方形ができる時〜",
+          "id": "IrU4m2jOYJw"
+        }
+      ]
+    },
+    {
+      "id": "point391",
+      "number": 391,
+      "title": "補助点の利用 (切断)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point391_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "9Ff6L9inexo",
+        "DQOdkjSH2vo",
+        "JVbgJlg91d4",
+        "hTq3Svg6avw",
+        "ljnrmuJsXX4",
+        "wsmgeGLpmyo"
+      ],
+      "questions": [
+        {
+          "id": "p391-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "wsmgeGLpmyo"
+          ]
+        },
+        {
+          "id": "p391-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "hTq3Svg6avw"
+          ]
+        },
+        {
+          "id": "p391-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "DQOdkjSH2vo"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point391_p00.png",
+        "point391_p01.png",
+        "point391_p02.png",
+        "point391_p03.png",
+        "point391_p04.png",
+        "point391_p05.png",
+        "point391_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point391_ans_p07.png",
+        "point391_ans_p08.png",
+        "point391_ans_p09.png",
+        "point391_ans_p10.png",
+        "point391_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1109",
+      "point_videos": [
+        {
+          "title": "補助点の利用",
+          "id": "qoAR0Oi7VO8"
+        }
+      ]
+    },
+    {
+      "id": "point391_nankan",
+      "number": 391,
+      "title": "補助点の利用 (切断)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point391_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "NUXzvnHxtDE"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "I9EwuAKij8I"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "jFh-X8QsqsI"
+          ]
+        },
+        {
+          "id": "nankan-q4",
+          "label": "4番",
+          "type": "例題",
+          "youtube_ids": [
+            "TTzpgnuIG_Q"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "補助点の利用",
+          "id": "qoAR0Oi7VO8"
+        },
+        {
+          "title": "中チョウチョ補助線",
+          "id": "-D2Kq9Q5r5o"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/5750/lesson-playlist?textbook_reference_code=kobe-web-1109",
+      "problemPages": [
+        "point391_nankan_p00.png",
+        "point391_nankan_p01.png",
+        "point391_nankan_p02.png",
+        "point391_nankan_p03.png",
+        "point391_nankan_p04.png",
+        "point391_nankan_p05.png",
+        "point391_nankan_p06.png",
+        "point391_nankan_p07.png",
+        "point391_nankan_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 14,
+      "answerPages": [
+        "point391_nankan_ans_p09.png",
+        "point391_nankan_ans_p10.png",
+        "point391_nankan_ans_p11.png",
+        "point391_nankan_ans_p12.png",
+        "point391_nankan_ans_p13.png"
+      ]
+    },
+    {
+      "id": "point392",
+      "number": 392,
+      "title": "「1:1:2」有名三角すい (体積・表面積)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point392_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "5LK0AcNX7x8",
+        "KnhNNZrtLRo",
+        "Md6IRx4SaGg",
+        "RfodrFFRStM",
+        "bn8fO1mVG4s",
+        "lCRf4H_4ivw",
+        "vjixfzQhqrQ",
+        "yjkCwY1aSrk"
+      ],
+      "questions": [
+        {
+          "id": "p392-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "Md6IRx4SaGg"
+          ]
+        },
+        {
+          "id": "p392-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "bn8fO1mVG4s"
+          ]
+        },
+        {
+          "id": "p392-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "RfodrFFRStM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point392_p00.png",
+        "point392_p01.png",
+        "point392_p02.png",
+        "point392_p03.png",
+        "point392_p04.png",
+        "point392_p05.png",
+        "point392_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 16,
+      "answerPages": [
+        "point392_ans_p07.png",
+        "point392_ans_p08.png",
+        "point392_ans_p09.png",
+        "point392_ans_p10.png",
+        "point392_ans_p11.png",
+        "point392_ans_p12.png",
+        "point392_ans_p13.png",
+        "point392_ans_p14.png",
+        "point392_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1110",
+      "point_videos": [
+        {
+          "title": "「1:1:2」有名三角すい",
+          "id": "1V4KPCsSCuk"
+        },
+        {
+          "title": "平行な面の切り口は平行",
+          "id": "HOkpHS2wnCI"
+        }
+      ]
+    },
+    {
+      "id": "point393",
+      "number": 393,
+      "title": "入れ子構造 (立体の応用技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point393_共通の型_教材問題解答セット.pdf?updated_at=1771986372"
+      ],
+      "youtube_ids": [
+        "5OBITkxDnJQ",
+        "CwWuJoKjtlU",
+        "D5qc5yOwqP8",
+        "EUOoCEWRmo4",
+        "P6Ou-63xi8c",
+        "lpWU37xKpFU"
+      ],
+      "questions": [
+        {
+          "id": "p393-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "P6Ou-63xi8c"
+          ]
+        },
+        {
+          "id": "p393-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "EUOoCEWRmo4"
+          ]
+        },
+        {
+          "id": "p393-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "5OBITkxDnJQ"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point393_p00.png",
+        "point393_p01.png",
+        "point393_p02.png",
+        "point393_p03.png",
+        "point393_p04.png",
+        "point393_p05.png",
+        "point393_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point393_ans_p07.png",
+        "point393_ans_p08.png",
+        "point393_ans_p09.png",
+        "point393_ans_p10.png",
+        "point393_ans_p11.png",
+        "point393_ans_p12.png",
+        "point393_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1111",
+      "point_videos": [
+        {
+          "title": "入れ子構造",
+          "id": "L5O5W73679c"
+        },
+        {
+          "title": "相→面",
+          "id": "gv4Rx2W-EVo"
+        }
+      ]
+    },
+    {
+      "id": "point394",
+      "number": 394,
+      "title": "小立方体の切断個数と形 (切断)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point394_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "EyJBZ9ttjM4",
+        "gXM6d-cXG_U",
+        "jhBuorOm7I4",
+        "sdYlt_SznYA",
+        "wGylaLcU8eE"
+      ],
+      "questions": [
+        {
+          "id": "p394-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "EyJBZ9ttjM4"
+          ]
+        },
+        {
+          "id": "p394-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "jhBuorOm7I4"
+          ]
+        },
+        {
+          "id": "p394-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "sdYlt_SznYA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point394_p00.png",
+        "point394_p01.png",
+        "point394_p02.png",
+        "point394_p03.png",
+        "point394_p04.png",
+        "point394_p05.png",
+        "point394_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 16,
+      "answerPages": [
+        "point394_ans_p07.png",
+        "point394_ans_p08.png",
+        "point394_ans_p09.png",
+        "point394_ans_p10.png",
+        "point394_ans_p11.png",
+        "point394_ans_p12.png",
+        "point394_ans_p13.png",
+        "point394_ans_p14.png",
+        "point394_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1112",
+      "point_videos": [
+        {
+          "title": "小立方体の切断個数と形",
+          "id": "--LTFVcVi4E"
+        },
+        {
+          "title": "切断切り口と平行な辺の作図",
+          "id": "Llz203JkL3M"
+        }
+      ]
+    },
+    {
+      "id": "point395",
+      "number": 395,
+      "title": "ブロック回し三角型 (回転体)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point395_共通の型_教材問題解答セット.pdf?updated_at=1765885415"
+      ],
+      "youtube_ids": [
+        "1x3FrTZAaqU",
+        "5qtzeTQ6TRs",
+        "ANkyU2-5ljE",
+        "GhzUsGJy-zA",
+        "SF9tSjhwf0k",
+        "l6Xad7Lbgj8"
+      ],
+      "questions": [
+        {
+          "id": "p395-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "5qtzeTQ6TRs"
+          ]
+        },
+        {
+          "id": "p395-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "1x3FrTZAaqU"
+          ]
+        },
+        {
+          "id": "p395-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "GhzUsGJy-zA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point395_p00.png",
+        "point395_p01.png",
+        "point395_p02.png",
+        "point395_p03.png",
+        "point395_p04.png",
+        "point395_p05.png",
+        "point395_p06.png",
+        "point395_p07.png",
+        "point395_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 16,
+      "answerPages": [
+        "point395_ans_p09.png",
+        "point395_ans_p10.png",
+        "point395_ans_p11.png",
+        "point395_ans_p12.png",
+        "point395_ans_p13.png",
+        "point395_ans_p14.png",
+        "point395_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1113",
+      "point_videos": [
+        {
+          "title": "ブロック回し三角型",
+          "id": "7jS4bewDMPs"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi23",
+    "title": "第23回 力試しテスト",
+    "range": "Point 389〜395",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1114",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第23回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [],
+    "questions": []
+  }
+}

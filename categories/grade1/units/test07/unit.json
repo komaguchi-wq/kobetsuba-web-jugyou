@@ -1,0 +1,848 @@
+{
+  "points": [
+    {
+      "id": "point60",
+      "number": 60,
+      "title": "周の延長解法 (周りの長さの技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point60_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "4BjQioNfeDI",
+        "7dE-UNQmXz4",
+        "DwEgibgbq8s",
+        "Fo_Ye7IErMY",
+        "LJQwSidGvKg",
+        "sbfs1TZm7wk"
+      ],
+      "questions": [
+        {
+          "id": "p60-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "4BjQioNfeDI"
+          ]
+        },
+        {
+          "id": "p60-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "LJQwSidGvKg"
+          ]
+        },
+        {
+          "id": "p60-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "sbfs1TZm7wk"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point60_p00.png",
+        "point60_p01.png",
+        "point60_p02.png",
+        "point60_p03.png",
+        "point60_p04.png",
+        "point60_p05.png",
+        "point60_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point60_ans_p07.png",
+        "point60_ans_p08.png",
+        "point60_ans_p09.png",
+        "point60_ans_p10.png",
+        "point60_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/785",
+      "point_videos": [
+        {
+          "title": "周の延長解法",
+          "id": "KNpyA48Qsto"
+        }
+      ]
+    },
+    {
+      "id": "point61",
+      "number": 61,
+      "title": "内角の和 (角度の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point61_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "0mrhxf2NH_0",
+        "5Z5Oyl3G2K4",
+        "XPS_59T-xjM",
+        "hTiDwDPZfmc",
+        "zVClOWni3K8"
+      ],
+      "questions": [
+        {
+          "id": "p61-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "XPS_59T-xjM"
+          ]
+        },
+        {
+          "id": "p61-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "0mrhxf2NH_0"
+          ]
+        },
+        {
+          "id": "p61-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "hTiDwDPZfmc"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point61_p00.png",
+        "point61_p01.png",
+        "point61_p02.png",
+        "point61_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point61_ans_p04.png",
+        "point61_ans_p05.png",
+        "point61_ans_p06.png",
+        "point61_ans_p07.png",
+        "point61_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/786",
+      "point_videos": [
+        {
+          "title": "内角の和",
+          "id": "50ibl3-vMr4"
+        }
+      ]
+    },
+    {
+      "id": "point62",
+      "number": 62,
+      "title": "外角の和=360° (角度の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point62_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "HJlIu4D5oVg",
+        "V0U_A3E3OjQ",
+        "fC-c7uddUnw",
+        "goezLs6xHzw",
+        "rQ1um0nzVoY",
+        "wcqrpjNmWio"
+      ],
+      "questions": [
+        {
+          "id": "p62-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "rQ1um0nzVoY"
+          ]
+        },
+        {
+          "id": "p62-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "fC-c7uddUnw"
+          ]
+        },
+        {
+          "id": "p62-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "V0U_A3E3OjQ"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point62_p00.png",
+        "point62_p01.png",
+        "point62_p02.png",
+        "point62_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point62_ans_p04.png",
+        "point62_ans_p05.png",
+        "point62_ans_p06.png",
+        "point62_ans_p07.png",
+        "point62_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/787",
+      "point_videos": [
+        {
+          "title": "外角の和=360°",
+          "id": "-nWH_6U_8v0"
+        }
+      ]
+    },
+    {
+      "id": "point63",
+      "number": 63,
+      "title": "対角線の本数 (基本性質)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point63_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "RDZb4t5fxz0",
+        "gDh2SvQ3z6g",
+        "lXyYyHc9NQQ",
+        "v3BV75Erj0w",
+        "vFkwTlr1R1c"
+      ],
+      "questions": [
+        {
+          "id": "p63-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "v3BV75Erj0w"
+          ]
+        },
+        {
+          "id": "p63-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "vFkwTlr1R1c"
+          ]
+        },
+        {
+          "id": "p63-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "gDh2SvQ3z6g"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point63_p00.png",
+        "point63_p01.png",
+        "point63_p02.png",
+        "point63_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point63_ans_p04.png",
+        "point63_ans_p05.png",
+        "point63_ans_p06.png",
+        "point63_ans_p07.png",
+        "point63_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/788",
+      "point_videos": [
+        {
+          "title": "対角線の本数",
+          "id": "C53CICYvD3Q"
+        },
+        {
+          "title": "外角の和=360°",
+          "id": "-nWH_6U_8v0"
+        },
+        {
+          "title": "内角の和",
+          "id": "50ibl3-vMr4"
+        }
+      ]
+    },
+    {
+      "id": "point64",
+      "number": 64,
+      "title": "直角注目の分割 (求積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point64_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "XBaLLYWG3Do",
+        "amdFP8JlQgM",
+        "dUeilSa8KPY",
+        "eDDwkQYW0MU",
+        "i6uuPobFgho",
+        "zzZzQnQWJOs"
+      ],
+      "questions": [
+        {
+          "id": "p64-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "XBaLLYWG3Do"
+          ]
+        },
+        {
+          "id": "p64-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "dUeilSa8KPY"
+          ]
+        },
+        {
+          "id": "p64-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "i6uuPobFgho"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point64_p00.png",
+        "point64_p01.png",
+        "point64_p02.png",
+        "point64_p03.png",
+        "point64_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point64_ans_p05.png",
+        "point64_ans_p06.png",
+        "point64_ans_p07.png",
+        "point64_ans_p08.png",
+        "point64_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/789",
+      "point_videos": [
+        {
+          "title": "直角注目の分割",
+          "id": "JPR1Fbwd4Dg"
+        }
+      ]
+    },
+    {
+      "id": "point65",
+      "number": 65,
+      "title": "高さ見つけ (求積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point65_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-LfvYKChtIE",
+        "2dPLa66ZBYc",
+        "DtVxDVe18Gc",
+        "JlI1sgHi3zk",
+        "XegpHcdjG78",
+        "iLDwvKlEOX8"
+      ],
+      "questions": [
+        {
+          "id": "p65-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "DtVxDVe18Gc"
+          ]
+        },
+        {
+          "id": "p65-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "XegpHcdjG78"
+          ]
+        },
+        {
+          "id": "p65-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "2dPLa66ZBYc"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point65_p00.png",
+        "point65_p01.png",
+        "point65_p02.png",
+        "point65_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point65_ans_p04.png",
+        "point65_ans_p05.png",
+        "point65_ans_p06.png",
+        "point65_ans_p07.png",
+        "point65_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/790",
+      "point_videos": [
+        {
+          "title": "高さ見つけ(平面図形)",
+          "id": "D1KfucviNII"
+        },
+        {
+          "title": "台形の面積",
+          "id": "lkXa_DBmn0c"
+        }
+      ]
+    },
+    {
+      "id": "point66",
+      "number": 66,
+      "title": "円周と弧の長さ (曲線図形)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point66_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-pHebgoW-Zw",
+        "Dam94VVG6vE",
+        "NsrVRu8pXq8",
+        "Yo2HBb7Bsik",
+        "zOL7i1QTG6c"
+      ],
+      "questions": [
+        {
+          "id": "p66-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "NsrVRu8pXq8"
+          ]
+        },
+        {
+          "id": "p66-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "Dam94VVG6vE"
+          ]
+        },
+        {
+          "id": "p66-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "zOL7i1QTG6c"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point66_p00.png",
+        "point66_p01.png",
+        "point66_p02.png",
+        "point66_p03.png",
+        "point66_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point66_ans_p05.png",
+        "point66_ans_p06.png",
+        "point66_ans_p07.png",
+        "point66_ans_p08.png",
+        "point66_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/791",
+      "point_videos": [
+        {
+          "title": "円周と弧の長さ",
+          "id": "WDmxcjx8xBU"
+        }
+      ]
+    },
+    {
+      "id": "point67",
+      "number": 67,
+      "title": "円とおうぎ形の面積 (曲線図形)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point67_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "E0GI_cAJB7s",
+        "K4oH0cgG_tw",
+        "Xal-skRlPYA",
+        "qGCnuj9oHUo",
+        "u6RgqjcN8kk",
+        "u6mVL9t6hJk"
+      ],
+      "questions": [
+        {
+          "id": "p67-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "Xal-skRlPYA"
+          ]
+        },
+        {
+          "id": "p67-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "K4oH0cgG_tw"
+          ]
+        },
+        {
+          "id": "p67-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "u6RgqjcN8kk"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point67_p00.png",
+        "point67_p01.png",
+        "point67_p02.png",
+        "point67_p03.png",
+        "point67_p04.png",
+        "point67_p05.png",
+        "point67_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point67_ans_p07.png",
+        "point67_ans_p08.png",
+        "point67_ans_p09.png",
+        "point67_ans_p10.png",
+        "point67_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/792",
+      "point_videos": [
+        {
+          "title": "円とおうぎ形の面積",
+          "id": "p1HXvFdqqEk"
+        },
+        {
+          "title": "円周と弧の長さ",
+          "id": "WDmxcjx8xBU"
+        },
+        {
+          "title": "内角の和",
+          "id": "50ibl3-vMr4"
+        }
+      ]
+    },
+    {
+      "id": "point68",
+      "number": 68,
+      "title": "線対称 (対称と合同)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point68_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1z-5PXNzeRc",
+        "FEgtGUhbRbc",
+        "IMEYhTx_DkM",
+        "Q4we91CXVFE",
+        "TQ8OxrT7Qj8"
+      ],
+      "questions": [
+        {
+          "id": "p68-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "1z-5PXNzeRc"
+          ]
+        },
+        {
+          "id": "p68-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "FEgtGUhbRbc"
+          ]
+        },
+        {
+          "id": "p68-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "IMEYhTx_DkM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point68_p00.png",
+        "point68_p01.png",
+        "point68_p02.png",
+        "point68_p03.png",
+        "point68_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point68_ans_p05.png",
+        "point68_ans_p06.png",
+        "point68_ans_p07.png",
+        "point68_ans_p08.png",
+        "point68_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/793",
+      "point_videos": [
+        {
+          "title": "線対称",
+          "id": "3F6JDVaAmjQ"
+        }
+      ]
+    },
+    {
+      "id": "point69",
+      "number": 69,
+      "title": "点対称 (対称と合同)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point69_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "TTVaVBKLr1c",
+        "nRBBWUAYAw8",
+        "p_tixV0cFdU",
+        "zbrGTbqyCxc",
+        "zdwmVt-t6-k"
+      ],
+      "questions": [
+        {
+          "id": "p69-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "zbrGTbqyCxc"
+          ]
+        },
+        {
+          "id": "p69-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "p_tixV0cFdU"
+          ]
+        },
+        {
+          "id": "p69-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "TTVaVBKLr1c"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point69_p00.png",
+        "point69_p01.png",
+        "point69_p02.png",
+        "point69_p03.png",
+        "point69_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point69_ans_p05.png",
+        "point69_ans_p06.png",
+        "point69_ans_p07.png",
+        "point69_ans_p08.png",
+        "point69_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/794",
+      "point_videos": [
+        {
+          "title": "点対称",
+          "id": "ZsORCCDQ1Rc"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi07",
+    "title": "第7回 力試しテスト",
+    "range": "Point 60〜69",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/795",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第7回_共通の型_力試しテスト解答.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第7回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "58SMaYvwnes",
+      "Y365IrEdks4",
+      "aUs7BW9Vuxk",
+      "cC9JNP7YZjU",
+      "c_pg8F_jDj4",
+      "hSLGgTjnhY0",
+      "jq2GvJKdLAA",
+      "kTLIdP9qOk0",
+      "qrX88EgoQug"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(3)",
+        "label": "3番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(1)",
+        "label": "5番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(2)",
+        "label": "5番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(3)",
+        "label": "5番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6",
+        "label": "6番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(1)",
+        "label": "6番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(2)",
+        "label": "6番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7",
+        "label": "7番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8",
+        "label": "8番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9",
+        "label": "9番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q10",
+        "label": "10番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q10(1)",
+        "label": "10番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q10(2)",
+        "label": "10番(2)",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png",
+      "test_mondai_p06.png",
+      "test_mondai_p07.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png"
+    ],
+    "point_videos": [
+      {
+        "title": "内角の和",
+        "id": "50ibl3-vMr4"
+      },
+      {
+        "title": "線対称",
+        "id": "3F6JDVaAmjQ"
+      },
+      {
+        "title": "円周と弧の長さ",
+        "id": "WDmxcjx8xBU"
+      },
+      {
+        "title": "周の延長解法",
+        "id": "KNpyA48Qsto"
+      },
+      {
+        "title": "対角線の本数",
+        "id": "C53CICYvD3Q"
+      },
+      {
+        "title": "高さ見つけ(平面図形)",
+        "id": "D1KfucviNII"
+      },
+      {
+        "title": "外角の和=360°",
+        "id": "-nWH_6U_8v0"
+      },
+      {
+        "title": "円とおうぎ形の面積",
+        "id": "p1HXvFdqqEk"
+      },
+      {
+        "title": "点対称",
+        "id": "ZsORCCDQ1Rc"
+      },
+      {
+        "title": "直角注目の分割",
+        "id": "JPR1Fbwd4Dg"
+      }
+    ]
+  }
+}

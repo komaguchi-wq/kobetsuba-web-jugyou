@@ -1,0 +1,879 @@
+{
+  "points": [
+    {
+      "id": "point135",
+      "number": 135,
+      "title": "ブーメラン (角度の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point135_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "T_MSDJ234UQ",
+        "lhxQygWvUgk",
+        "os8p43Q_MH0",
+        "pBgmj7e2sB0",
+        "sXYeYvHJyo4",
+        "tyr_LAhEYpQ"
+      ],
+      "questions": [
+        {
+          "id": "p135-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "os8p43Q_MH0"
+          ]
+        },
+        {
+          "id": "p135-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "tyr_LAhEYpQ"
+          ]
+        },
+        {
+          "id": "p135-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "pBgmj7e2sB0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point135_p00.png",
+        "point135_p01.png",
+        "point135_p02.png",
+        "point135_p03.png",
+        "point135_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 12,
+      "answerPages": [
+        "point135_ans_p05.png",
+        "point135_ans_p06.png",
+        "point135_ans_p07.png",
+        "point135_ans_p08.png",
+        "point135_ans_p09.png",
+        "point135_ans_p10.png",
+        "point135_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/883",
+      "point_videos": [
+        {
+          "title": "ブーメラン",
+          "id": "t7NmAJXA7UQ"
+        }
+      ]
+    },
+    {
+      "id": "point136",
+      "number": 136,
+      "title": "30°問題 (角度の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point136_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "2Bq2l9LRpuo",
+        "ClRtQ9X4KCc",
+        "DmA5qA6AEeE",
+        "Qs1NQuFFMWg",
+        "Qub5QQvSD9w",
+        "eJOYBklKymI"
+      ],
+      "questions": [
+        {
+          "id": "p136-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "eJOYBklKymI"
+          ]
+        },
+        {
+          "id": "p136-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "2Bq2l9LRpuo"
+          ]
+        },
+        {
+          "id": "p136-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Qub5QQvSD9w"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point136_p00.png",
+        "point136_p01.png",
+        "point136_p02.png",
+        "point136_p03.png",
+        "point136_p04.png",
+        "point136_p05.png",
+        "point136_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point136_ans_p07.png",
+        "point136_ans_p08.png",
+        "point136_ans_p09.png",
+        "point136_ans_p10.png",
+        "point136_ans_p11.png",
+        "point136_ans_p12.png",
+        "point136_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/884",
+      "point_videos": [
+        {
+          "title": "30°問題",
+          "id": "z__EDbpXGZM"
+        }
+      ]
+    },
+    {
+      "id": "point137",
+      "number": 137,
+      "title": "角度の和の利用 (角度の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point137_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3mQuiWR4K3I",
+        "b3UCK054l2E",
+        "gvpUKp1QiwU",
+        "mTwgRgP4Sb0",
+        "p0TDWEmw-MY",
+        "rMRmIXdK_c8"
+      ],
+      "questions": [
+        {
+          "id": "p137-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "3mQuiWR4K3I"
+          ]
+        },
+        {
+          "id": "p137-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "mTwgRgP4Sb0"
+          ]
+        },
+        {
+          "id": "p137-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "p0TDWEmw-MY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point137_p00.png",
+        "point137_p01.png",
+        "point137_p02.png",
+        "point137_p03.png",
+        "point137_p04.png",
+        "point137_p05.png",
+        "point137_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 13,
+      "answerPages": [
+        "point137_ans_p07.png",
+        "point137_ans_p08.png",
+        "point137_ans_p09.png",
+        "point137_ans_p10.png",
+        "point137_ans_p11.png",
+        "point137_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/885",
+      "point_videos": [
+        {
+          "title": "角度の和の利用",
+          "id": "yV9JFUhlRzU"
+        },
+        {
+          "title": "外角定理",
+          "id": "-9KoXQlMu2o"
+        },
+        {
+          "title": "ブーメラン",
+          "id": "t7NmAJXA7UQ"
+        }
+      ]
+    },
+    {
+      "id": "point138",
+      "number": 138,
+      "title": "ガづくり (角度の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point138_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "95fBoepAJbQ",
+        "Hz44BkucNJQ",
+        "b9yix-kW5UE",
+        "f23NUn5_bkQ",
+        "zuygg1kkG-Q"
+      ],
+      "questions": [
+        {
+          "id": "p138-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "b9yix-kW5UE"
+          ]
+        },
+        {
+          "id": "p138-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "Hz44BkucNJQ"
+          ]
+        },
+        {
+          "id": "p138-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "zuygg1kkG-Q"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point138_p00.png",
+        "point138_p01.png",
+        "point138_p02.png",
+        "point138_p03.png",
+        "point138_p04.png",
+        "point138_p05.png",
+        "point138_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point138_ans_p07.png",
+        "point138_ans_p08.png",
+        "point138_ans_p09.png",
+        "point138_ans_p10.png",
+        "point138_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/886",
+      "point_videos": [
+        {
+          "title": "ガづくり",
+          "id": "fo828p4J3UU"
+        }
+      ]
+    },
+    {
+      "id": "point139",
+      "number": 139,
+      "title": "中心と結ぶ (曲線図形)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point139_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3jsUur2VWn4",
+        "8uDmZMU-bB0",
+        "9lNfGLhQMiQ",
+        "HDoHvP7qNyc",
+        "_buzkqMSMRE",
+        "vrJXhNIHdC0"
+      ],
+      "questions": [
+        {
+          "id": "p139-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "_buzkqMSMRE"
+          ]
+        },
+        {
+          "id": "p139-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "3jsUur2VWn4"
+          ]
+        },
+        {
+          "id": "p139-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "8uDmZMU-bB0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point139_p00.png",
+        "point139_p01.png",
+        "point139_p02.png",
+        "point139_p03.png",
+        "point139_p04.png",
+        "point139_p05.png",
+        "point139_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point139_ans_p07.png",
+        "point139_ans_p08.png",
+        "point139_ans_p09.png",
+        "point139_ans_p10.png",
+        "point139_ans_p11.png",
+        "point139_ans_p12.png",
+        "point139_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/887",
+      "point_videos": [
+        {
+          "title": "中心と結ぶ",
+          "id": "SSnbxQqwcIw"
+        },
+        {
+          "title": "二等辺見つけ",
+          "id": "VN7031Bj1AE"
+        }
+      ]
+    },
+    {
+      "id": "point140",
+      "number": 140,
+      "title": "二等辺見つけ (角度の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point140_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-Tzd2gnSdC8",
+        "0Fb7O1uQUS8",
+        "TLaBghCfhrw",
+        "TvlcDUA6VbY",
+        "cFa9muR8kmE",
+        "cG2Z35fLNEs",
+        "jLYD-VFnxoc",
+        "lL96_jCRODI"
+      ],
+      "questions": [
+        {
+          "id": "p140-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "TvlcDUA6VbY"
+          ]
+        },
+        {
+          "id": "p140-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "lL96_jCRODI"
+          ]
+        },
+        {
+          "id": "p140-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "cFa9muR8kmE",
+            "0Fb7O1uQUS8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point140_p00.png",
+        "point140_p01.png",
+        "point140_p02.png",
+        "point140_p03.png",
+        "point140_p04.png",
+        "point140_p05.png",
+        "point140_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point140_ans_p07.png",
+        "point140_ans_p08.png",
+        "point140_ans_p09.png",
+        "point140_ans_p10.png",
+        "point140_ans_p11.png",
+        "point140_ans_p12.png",
+        "point140_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/888",
+      "point_videos": [
+        {
+          "title": "二等辺見つけ",
+          "id": "VN7031Bj1AE"
+        }
+      ]
+    },
+    {
+      "id": "point141",
+      "number": 141,
+      "title": "円周角=90° (曲線図形)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point141_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3RdokekiWuc",
+        "JDNBwFfE4KI",
+        "bR8x4KbiVg8",
+        "o1mWuz129OA",
+        "tI1i0T5TFjU",
+        "tPUjBdR6n2g"
+      ],
+      "questions": [
+        {
+          "id": "p141-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "3RdokekiWuc"
+          ]
+        },
+        {
+          "id": "p141-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "tI1i0T5TFjU"
+          ]
+        },
+        {
+          "id": "p141-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "bR8x4KbiVg8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point141_p00.png",
+        "point141_p01.png",
+        "point141_p02.png",
+        "point141_p03.png",
+        "point141_p04.png",
+        "point141_p05.png",
+        "point141_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point141_ans_p07.png",
+        "point141_ans_p08.png",
+        "point141_ans_p09.png",
+        "point141_ans_p10.png",
+        "point141_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/889",
+      "point_videos": [
+        {
+          "title": "円周角=90°",
+          "id": "CapeGfKgp2Q"
+        },
+        {
+          "title": "外角定理",
+          "id": "-9KoXQlMu2o"
+        }
+      ]
+    },
+    {
+      "id": "point142",
+      "number": 142,
+      "title": "全体から引く (求積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point142_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "4GJ011D9T68",
+        "DaVzUH_l2o8",
+        "HAGf6s47bqc",
+        "MLopaxoRn1A",
+        "wy5KpDPV6jg",
+        "zuu4mxU6uQg"
+      ],
+      "questions": [
+        {
+          "id": "p142-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "HAGf6s47bqc"
+          ]
+        },
+        {
+          "id": "p142-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "wy5KpDPV6jg"
+          ]
+        },
+        {
+          "id": "p142-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "zuu4mxU6uQg"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point142_p00.png",
+        "point142_p01.png",
+        "point142_p02.png",
+        "point142_p03.png",
+        "point142_p04.png",
+        "point142_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 13,
+      "answerPages": [
+        "point142_ans_p06.png",
+        "point142_ans_p07.png",
+        "point142_ans_p08.png",
+        "point142_ans_p09.png",
+        "point142_ans_p10.png",
+        "point142_ans_p11.png",
+        "point142_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/890",
+      "point_videos": [
+        {
+          "title": "全体から引く",
+          "id": "Tcra9H3Q9rg"
+        }
+      ]
+    },
+    {
+      "id": "point143",
+      "number": 143,
+      "title": "足しすぎて引く (求積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point143_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1XmZsE48wWU",
+        "FhZTIYJBcl8",
+        "Hd08V2MTgeI",
+        "UapF_7Leqlo",
+        "fWqlTQZJJAk",
+        "xl96-n_kyn8"
+      ],
+      "questions": [
+        {
+          "id": "p143-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "1XmZsE48wWU"
+          ]
+        },
+        {
+          "id": "p143-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "Hd08V2MTgeI"
+          ]
+        },
+        {
+          "id": "p143-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "fWqlTQZJJAk"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point143_p00.png",
+        "point143_p01.png",
+        "point143_p02.png",
+        "point143_p03.png",
+        "point143_p04.png",
+        "point143_p05.png",
+        "point143_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point143_ans_p07.png",
+        "point143_ans_p08.png",
+        "point143_ans_p09.png",
+        "point143_ans_p10.png",
+        "point143_ans_p11.png",
+        "point143_ans_p12.png",
+        "point143_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/891",
+      "point_videos": [
+        {
+          "title": "足しすぎて引く",
+          "id": "vWanJw-lb9w"
+        }
+      ]
+    },
+    {
+      "id": "point144",
+      "number": 144,
+      "title": "葉っぱと残り (曲線図形)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point144_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "Dup89ZGOVWc",
+        "SDMKv-zty_M",
+        "TN0rED7OK90",
+        "dFjrlUYvM-c",
+        "ebbrOI_18pE",
+        "xtwI3yBsNgc"
+      ],
+      "questions": [
+        {
+          "id": "p144-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "TN0rED7OK90"
+          ]
+        },
+        {
+          "id": "p144-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "SDMKv-zty_M"
+          ]
+        },
+        {
+          "id": "p144-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "xtwI3yBsNgc"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point144_p00.png",
+        "point144_p01.png",
+        "point144_p02.png",
+        "point144_p03.png",
+        "point144_p04.png",
+        "point144_p05.png",
+        "point144_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point144_ans_p07.png",
+        "point144_ans_p08.png",
+        "point144_ans_p09.png",
+        "point144_ans_p10.png",
+        "point144_ans_p11.png",
+        "point144_ans_p12.png",
+        "point144_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/892",
+      "point_videos": [
+        {
+          "title": "葉っぱと残り",
+          "id": "kEu_hg1hXt8"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi16",
+    "title": "第16回 力試しテスト",
+    "range": "Point 135〜144",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/893",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第16回_共通の型_力試しテスト解答.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第16回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "JB-DRigxaKY",
+      "KJCZ6P0flY4",
+      "KxY2LcPIEBY",
+      "OTyEgtsKSho",
+      "QGQ7GCPo9Ro",
+      "SOkxpROAeyQ",
+      "X3hTXaCGejU",
+      "XMVxTbWkQP8",
+      "esdo641U4l0",
+      "hOfGL54BMqU"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6",
+        "label": "6番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(1)",
+        "label": "6番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(2)",
+        "label": "6番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7",
+        "label": "7番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8",
+        "label": "8番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8(1)",
+        "label": "8番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8(2)",
+        "label": "8番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9",
+        "label": "9番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q10",
+        "label": "10番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q10(1)",
+        "label": "10番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q10(2)",
+        "label": "10番(2)",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png",
+      "test_mondai_p06.png",
+      "test_mondai_p07.png",
+      "test_mondai_p08.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png"
+    ],
+    "point_videos": [
+      {
+        "title": "ブーメラン",
+        "id": "t7NmAJXA7UQ"
+      },
+      {
+        "title": "角度の和の利用",
+        "id": "yV9JFUhlRzU"
+      },
+      {
+        "title": "足しすぎて引く",
+        "id": "vWanJw-lb9w"
+      },
+      {
+        "title": "ガづくり",
+        "id": "fo828p4J3UU"
+      },
+      {
+        "title": "二等辺見つけ",
+        "id": "VN7031Bj1AE"
+      },
+      {
+        "title": "30°問題",
+        "id": "z__EDbpXGZM"
+      },
+      {
+        "title": "全体から引く",
+        "id": "Tcra9H3Q9rg"
+      },
+      {
+        "title": "葉っぱと残り",
+        "id": "kEu_hg1hXt8"
+      },
+      {
+        "title": "円周角=90°",
+        "id": "CapeGfKgp2Q"
+      },
+      {
+        "title": "外角定理",
+        "id": "-9KoXQlMu2o"
+      },
+      {
+        "title": "中心と結ぶ",
+        "id": "SSnbxQqwcIw"
+      }
+    ]
+  }
+}

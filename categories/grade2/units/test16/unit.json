@@ -1,0 +1,737 @@
+{
+  "points": [
+    {
+      "id": "point323",
+      "number": 323,
+      "title": "ピラミッドの左右の比同じ (ピラミッド・チョウチョ)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point323_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "6gaU3_pPRI0",
+        "E5231EJbFtc",
+        "VO4sw0BoY8Q",
+        "YR9ARyilePI",
+        "gx1Jbl3Aamo",
+        "hgMupQ8T3ko"
+      ],
+      "questions": [
+        {
+          "id": "p323-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "E5231EJbFtc"
+          ]
+        },
+        {
+          "id": "p323-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "YR9ARyilePI"
+          ]
+        },
+        {
+          "id": "p323-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "6gaU3_pPRI0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point323_p00.png",
+        "point323_p01.png",
+        "point323_p02.png",
+        "point323_p03.png",
+        "point323_p04.png",
+        "point323_p05.png",
+        "point323_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point323_ans_p07.png",
+        "point323_ans_p08.png",
+        "point323_ans_p09.png",
+        "point323_ans_p10.png",
+        "point323_ans_p11.png",
+        "point323_ans_p12.png",
+        "point323_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1034",
+      "point_videos": [
+        {
+          "title": "ピラミッドの左右の比同じ",
+          "id": "_MiWfB8o6VM"
+        },
+        {
+          "title": "等高図形(比を使う 平面図形)",
+          "id": "0pYwggmnb08"
+        }
+      ]
+    },
+    {
+      "id": "point324",
+      "number": 324,
+      "title": "ダブルチョウチョ (ピラミッド・チョウチョ)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point324_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "52VZuLY5L88",
+        "8gW1pkqIKCE",
+        "OU3Hv6mRJGU",
+        "Vg6ceImq0xM",
+        "bMAzM4-Nyzc",
+        "oJyLybj92Tc"
+      ],
+      "questions": [
+        {
+          "id": "p324-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "Vg6ceImq0xM"
+          ]
+        },
+        {
+          "id": "p324-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "bMAzM4-Nyzc"
+          ]
+        },
+        {
+          "id": "p324-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "OU3Hv6mRJGU"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point324_p00.png",
+        "point324_p01.png",
+        "point324_p02.png",
+        "point324_p03.png",
+        "point324_p04.png",
+        "point324_p05.png",
+        "point324_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point324_ans_p07.png",
+        "point324_ans_p08.png",
+        "point324_ans_p09.png",
+        "point324_ans_p10.png",
+        "point324_ans_p11.png",
+        "point324_ans_p12.png",
+        "point324_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1035",
+      "point_videos": [
+        {
+          "title": "ダブルチョウチョ",
+          "id": "TP--n6Y7cao"
+        },
+        {
+          "title": "ピラミッド",
+          "id": "rqPyaMz6chw"
+        }
+      ]
+    },
+    {
+      "id": "point325",
+      "number": 325,
+      "title": "ダブルピラミッド (ピラミッド・チョウチョ)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point325_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "4hRnrWBZx_g",
+        "OxJfz_se_jw",
+        "QPsVh0rKD5A",
+        "abGRJRrXXDc",
+        "gSPLiNMRvY8",
+        "ny7tqj4BKU0"
+      ],
+      "questions": [
+        {
+          "id": "p325-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ny7tqj4BKU0"
+          ]
+        },
+        {
+          "id": "p325-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "4hRnrWBZx_g"
+          ]
+        },
+        {
+          "id": "p325-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "gSPLiNMRvY8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point325_p00.png",
+        "point325_p01.png",
+        "point325_p02.png",
+        "point325_p03.png",
+        "point325_p04.png",
+        "point325_p05.png",
+        "point325_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 13,
+      "answerPages": [
+        "point325_ans_p07.png",
+        "point325_ans_p08.png",
+        "point325_ans_p09.png",
+        "point325_ans_p10.png",
+        "point325_ans_p11.png",
+        "point325_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1036",
+      "point_videos": [
+        {
+          "title": "ダブルピラミッド",
+          "id": "VThQL3o5tpw"
+        },
+        {
+          "title": "高さの和の利用",
+          "id": "ZeH_L3SvCKw"
+        }
+      ]
+    },
+    {
+      "id": "point326",
+      "number": 326,
+      "title": "正六角形分割(1/3、1/6、1/18×2つ) (求積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point326_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "67B-WpqB8k4",
+        "6NxEfdNkTII",
+        "7mbFvnVyA9s",
+        "WYc7GP-fDpc",
+        "ZgjkR9E2kV4",
+        "snTSAhyWF4k"
+      ],
+      "questions": [
+        {
+          "id": "p326-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ZgjkR9E2kV4"
+          ]
+        },
+        {
+          "id": "p326-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "7mbFvnVyA9s"
+          ]
+        },
+        {
+          "id": "p326-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "snTSAhyWF4k"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point326_p00.png",
+        "point326_p01.png",
+        "point326_p02.png",
+        "point326_p03.png",
+        "point326_p04.png",
+        "point326_p05.png",
+        "point326_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 16,
+      "answerPages": [
+        "point326_ans_p07.png",
+        "point326_ans_p08.png",
+        "point326_ans_p09.png",
+        "point326_ans_p10.png",
+        "point326_ans_p11.png",
+        "point326_ans_p12.png",
+        "point326_ans_p13.png",
+        "point326_ans_p14.png",
+        "point326_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1037",
+      "point_videos": [
+        {
+          "title": "正六角形分割「1/3、1/6、1/18×2つ」(割合あり)",
+          "id": "-TFXbD5IA7M"
+        }
+      ]
+    },
+    {
+      "id": "point327",
+      "number": 327,
+      "title": "正六角形の基本求積 (求積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point327_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "4VulCb9lrtw",
+        "C6YEBqKQS2A",
+        "Mvxm2Z28i4I",
+        "lrtsS6tOwFU",
+        "s4f6FPiPuKM"
+      ],
+      "questions": [
+        {
+          "id": "p327-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "C6YEBqKQS2A"
+          ]
+        },
+        {
+          "id": "p327-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "4VulCb9lrtw"
+          ]
+        },
+        {
+          "id": "p327-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "s4f6FPiPuKM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point327_p00.png",
+        "point327_p01.png",
+        "point327_p02.png",
+        "point327_p03.png",
+        "point327_p04.png",
+        "point327_p05.png",
+        "point327_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 13,
+      "answerPages": [
+        "point327_ans_p07.png",
+        "point327_ans_p08.png",
+        "point327_ans_p09.png",
+        "point327_ans_p10.png",
+        "point327_ans_p11.png",
+        "point327_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1038",
+      "point_videos": [
+        {
+          "title": "正六角形の基本求積",
+          "id": "VpmSoM4lV1g"
+        },
+        {
+          "title": "全体から引く",
+          "id": "Tcra9H3Q9rg"
+        }
+      ]
+    },
+    {
+      "id": "point328",
+      "number": 328,
+      "title": "ベンツ切り (求積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point328_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-ZRPT1qtzDs",
+        "HrQpmVw5Giw",
+        "Ih52zPwv9-w",
+        "b3diS6HbFZk",
+        "mSVtPem4D-0"
+      ],
+      "questions": [
+        {
+          "id": "p328-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "Ih52zPwv9-w"
+          ]
+        },
+        {
+          "id": "p328-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "-ZRPT1qtzDs"
+          ]
+        },
+        {
+          "id": "p328-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "b3diS6HbFZk"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point328_p00.png",
+        "point328_p01.png",
+        "point328_p02.png",
+        "point328_p03.png",
+        "point328_p04.png",
+        "point328_p05.png",
+        "point328_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point328_ans_p07.png",
+        "point328_ans_p08.png",
+        "point328_ans_p09.png",
+        "point328_ans_p10.png",
+        "point328_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1039",
+      "point_videos": [
+        {
+          "title": "ベンツ切り",
+          "id": "n4eAmAP1tPk"
+        },
+        {
+          "title": "隣辺比",
+          "id": "9T0UMfejZLI"
+        }
+      ]
+    },
+    {
+      "id": "point329",
+      "number": 329,
+      "title": "ベンツ切り作り (求積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point329_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "eR4UsvFQi8w",
+        "hV3Fc6qweik",
+        "q1JA9wp4TnY",
+        "s6DDjMBBBTw",
+        "uCYZO7YcnUQ",
+        "wHeMkbJ0KwM"
+      ],
+      "questions": [
+        {
+          "id": "p329-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "hV3Fc6qweik"
+          ]
+        },
+        {
+          "id": "p329-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "s6DDjMBBBTw"
+          ]
+        },
+        {
+          "id": "p329-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "uCYZO7YcnUQ"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point329_p00.png",
+        "point329_p01.png",
+        "point329_p02.png",
+        "point329_p03.png",
+        "point329_p04.png",
+        "point329_p05.png",
+        "point329_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 13,
+      "answerPages": [
+        "point329_ans_p07.png",
+        "point329_ans_p08.png",
+        "point329_ans_p09.png",
+        "point329_ans_p10.png",
+        "point329_ans_p11.png",
+        "point329_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1040",
+      "point_videos": [
+        {
+          "title": "ベンツ切り作り",
+          "id": "5ZNElbzxbuM"
+        },
+        {
+          "title": "線対称⇆垂直二等分",
+          "id": "lEqAGcwY33k"
+        }
+      ]
+    },
+    {
+      "id": "point330",
+      "number": 330,
+      "title": "等底図形 (求積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point330_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "6oceTMKOnZY",
+        "CUd_EdGEZNM",
+        "n6hFkCW6ua8",
+        "oYEHikBh9ds",
+        "vME9MpqYqUM"
+      ],
+      "questions": [
+        {
+          "id": "p330-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "oYEHikBh9ds"
+          ]
+        },
+        {
+          "id": "p330-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "n6hFkCW6ua8"
+          ]
+        },
+        {
+          "id": "p330-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "CUd_EdGEZNM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point330_p00.png",
+        "point330_p01.png",
+        "point330_p02.png",
+        "point330_p03.png",
+        "point330_p04.png",
+        "point330_p05.png",
+        "point330_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point330_ans_p07.png",
+        "point330_ans_p08.png",
+        "point330_ans_p09.png",
+        "point330_ans_p10.png",
+        "point330_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1041",
+      "point_videos": [
+        {
+          "title": "等底図形",
+          "id": "TtSMFuWUDX0"
+        },
+        {
+          "title": "足して180°の隣辺比",
+          "id": "s5upFrIHSjk"
+        },
+        {
+          "title": "隣辺比",
+          "id": "9T0UMfejZLI"
+        }
+      ]
+    },
+    {
+      "id": "point331",
+      "number": 331,
+      "title": "外チョウチョ補助線 (ピラミッド・チョウチョ)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point331_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "8gL_xRY0x-Q",
+        "9b7tGW6uLZo",
+        "RYjCKRch7MQ",
+        "VsPAo21td4c",
+        "hRp4IQVQLso",
+        "zKlgcjHsNhs"
+      ],
+      "questions": [
+        {
+          "id": "p331-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "hRp4IQVQLso"
+          ]
+        },
+        {
+          "id": "p331-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "RYjCKRch7MQ"
+          ]
+        },
+        {
+          "id": "p331-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "zKlgcjHsNhs"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point331_p00.png",
+        "point331_p01.png",
+        "point331_p02.png",
+        "point331_p03.png",
+        "point331_p04.png",
+        "point331_p05.png",
+        "point331_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point331_ans_p07.png",
+        "point331_ans_p08.png",
+        "point331_ans_p09.png",
+        "point331_ans_p10.png",
+        "point331_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1042",
+      "point_videos": [
+        {
+          "title": "外チョウチョ補助線",
+          "id": "szlFR4aFH34"
+        }
+      ]
+    },
+    {
+      "id": "point332",
+      "number": 332,
+      "title": "中チョウチョ補助線 (ピラミッド・チョウチョ)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point332_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "6x3TH61iw9g",
+        "J-BYbJC-rXg",
+        "V6iYMffK-_0",
+        "hkd-_jGysUI",
+        "jcv15ZSVP54",
+        "ps57hDxmGjU"
+      ],
+      "questions": [
+        {
+          "id": "p332-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "J-BYbJC-rXg"
+          ]
+        },
+        {
+          "id": "p332-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "6x3TH61iw9g"
+          ]
+        },
+        {
+          "id": "p332-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "V6iYMffK-_0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point332_p00.png",
+        "point332_p01.png",
+        "point332_p02.png",
+        "point332_p03.png",
+        "point332_p04.png",
+        "point332_p05.png",
+        "point332_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point332_ans_p07.png",
+        "point332_ans_p08.png",
+        "point332_ans_p09.png",
+        "point332_ans_p10.png",
+        "point332_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1043",
+      "point_videos": [
+        {
+          "title": "中チョウチョ補助線",
+          "id": "-D2Kq9Q5r5o"
+        },
+        {
+          "title": "ダブルチョウチョ",
+          "id": "TP--n6Y7cao"
+        },
+        {
+          "title": "台形ピラミッドのグラフ解法",
+          "id": "dFuGG23YApw"
+        },
+        {
+          "title": "ピラミッドの左右の比同じ",
+          "id": "_MiWfB8o6VM"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi16",
+    "title": "第16回 力試しテスト",
+    "range": "Point 323〜332",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1044",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第16回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [],
+    "questions": []
+  }
+}

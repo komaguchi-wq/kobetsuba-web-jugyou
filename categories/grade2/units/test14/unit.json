@@ -1,0 +1,711 @@
+{
+  "points": [
+    {
+      "id": "point301",
+      "number": 301,
+      "title": "年令表 (年令算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point301_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "0piP5TFsbac",
+        "BMdaByYbcKY",
+        "SqBQtOoCAVc",
+        "qXb3YB9PBB8",
+        "wTw1CnpVezs",
+        "y_1TMsLj1b0"
+      ],
+      "questions": [
+        {
+          "id": "p301-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "SqBQtOoCAVc"
+          ]
+        },
+        {
+          "id": "p301-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "0piP5TFsbac"
+          ]
+        },
+        {
+          "id": "p301-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "y_1TMsLj1b0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point301_p00.png",
+        "point301_p01.png",
+        "point301_p02.png",
+        "point301_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point301_ans_p04.png",
+        "point301_ans_p05.png",
+        "point301_ans_p06.png",
+        "point301_ans_p07.png",
+        "point301_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1010",
+      "point_videos": [
+        {
+          "title": "年令表",
+          "id": "lqf30QV2BGg"
+        }
+      ]
+    },
+    {
+      "id": "point302",
+      "number": 302,
+      "title": "①年後 (年令算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point302_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "AyDIMEoGG8w",
+        "DdE3pZfy3SE",
+        "HixfBZUu56Y",
+        "YVDiyps7l7w",
+        "ppTrKq4ozdk",
+        "r-VdzMOnnec"
+      ],
+      "questions": [
+        {
+          "id": "p302-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "AyDIMEoGG8w"
+          ]
+        },
+        {
+          "id": "p302-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "YVDiyps7l7w"
+          ]
+        },
+        {
+          "id": "p302-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "ppTrKq4ozdk"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point302_p00.png",
+        "point302_p01.png",
+        "point302_p02.png",
+        "point302_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point302_ans_p04.png",
+        "point302_ans_p05.png",
+        "point302_ans_p06.png",
+        "point302_ans_p07.png",
+        "point302_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1011",
+      "point_videos": [
+        {
+          "title": "①年後",
+          "id": "wtGHGBsI8w8"
+        },
+        {
+          "title": "比例式",
+          "id": "jnwK0U1WcwI"
+        }
+      ]
+    },
+    {
+      "id": "point303",
+      "number": 303,
+      "title": "和のスライド (年令算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point303_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1iwIZ60ziMQ",
+        "4W7e91JBAzI",
+        "Tr8envcyfqA",
+        "pHdNxaOZxtM",
+        "uGpwjWgEIH8"
+      ],
+      "questions": [
+        {
+          "id": "p303-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "Tr8envcyfqA"
+          ]
+        },
+        {
+          "id": "p303-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "uGpwjWgEIH8"
+          ]
+        },
+        {
+          "id": "p303-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "pHdNxaOZxtM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point303_p00.png",
+        "point303_p01.png",
+        "point303_p02.png",
+        "point303_p03.png",
+        "point303_p04.png",
+        "point303_p05.png",
+        "point303_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point303_ans_p07.png",
+        "point303_ans_p08.png",
+        "point303_ans_p09.png",
+        "point303_ans_p10.png",
+        "point303_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1012",
+      "point_videos": [
+        {
+          "title": "和のスライド",
+          "id": "yGiOcNgStvs"
+        },
+        {
+          "title": "2つの和差算",
+          "id": "RPa25Rr-i7A"
+        }
+      ]
+    },
+    {
+      "id": "point304",
+      "number": 304,
+      "title": "平均の面積図 (平均算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point304_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "8Aij0co0GFk",
+        "Cis4ApXDMeg",
+        "Ez9tON710dI",
+        "XqF-dI2qmyc",
+        "ZbWphd9NooE",
+        "dx6GLm3cYAk",
+        "puCaOV21tBY",
+        "tiVVQD5nel8",
+        "vCBiKZPB1C4",
+        "wjEMmlSE0C4"
+      ],
+      "questions": [
+        {
+          "id": "p304-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "8Aij0co0GFk",
+            "puCaOV21tBY"
+          ]
+        },
+        {
+          "id": "p304-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "Cis4ApXDMeg",
+            "vCBiKZPB1C4"
+          ]
+        },
+        {
+          "id": "p304-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "tiVVQD5nel8",
+            "ZbWphd9NooE"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point304_p00.png",
+        "point304_p01.png",
+        "point304_p02.png",
+        "point304_p03.png",
+        "point304_p04.png",
+        "point304_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point304_ans_p06.png",
+        "point304_ans_p07.png",
+        "point304_ans_p08.png",
+        "point304_ans_p09.png",
+        "point304_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1013",
+      "point_videos": [
+        {
+          "title": "平均の面積図",
+          "id": "_Ztg-jzHvgE"
+        }
+      ]
+    },
+    {
+      "id": "point305",
+      "number": 305,
+      "title": "全体=かかった時間のLCM〇 (仕事算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point305_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1Z9sJ2g68_g",
+        "3z7TnIA3EUE",
+        "ApnvUwX2ETE",
+        "G1P-lkd4p58",
+        "RlPE7uM8Lgo",
+        "Ze7ttb8oJU4",
+        "lUS6CBhOxO4",
+        "tH_XmG2xbD0",
+        "yco6Wc_fI9M",
+        "zaPKGAhj0_k"
+      ],
+      "questions": [
+        {
+          "id": "p305-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "lUS6CBhOxO4",
+            "Ze7ttb8oJU4"
+          ]
+        },
+        {
+          "id": "p305-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "yco6Wc_fI9M",
+            "tH_XmG2xbD0"
+          ]
+        },
+        {
+          "id": "p305-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "RlPE7uM8Lgo",
+            "3z7TnIA3EUE"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point305_p00.png",
+        "point305_p01.png",
+        "point305_p02.png",
+        "point305_p03.png",
+        "point305_p04.png",
+        "point305_p05.png",
+        "point305_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 13,
+      "answerPages": [
+        "point305_ans_p07.png",
+        "point305_ans_p08.png",
+        "point305_ans_p09.png",
+        "point305_ans_p10.png",
+        "point305_ans_p11.png",
+        "point305_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1014",
+      "point_videos": [
+        {
+          "title": "全体=かかった時間のLCM〇 ※LCM=最小公倍数",
+          "id": "xtylUMXtyfc"
+        },
+        {
+          "title": "つるかめ算(面積図)",
+          "id": "v3v-hWzL0KA"
+        }
+      ]
+    },
+    {
+      "id": "point306",
+      "number": 306,
+      "title": "休んだ仕事＝補う仕事 (仕事算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point306_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "6GKUg2yxe0k",
+        "FEWPuOWLUVk",
+        "J6AZyjEcypU",
+        "QRta11cOido",
+        "UJuIBMSDwuw",
+        "vjvymdq09fY"
+      ],
+      "questions": [
+        {
+          "id": "p306-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "vjvymdq09fY"
+          ]
+        },
+        {
+          "id": "p306-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "UJuIBMSDwuw"
+          ]
+        },
+        {
+          "id": "p306-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "QRta11cOido"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point306_p00.png",
+        "point306_p01.png",
+        "point306_p02.png",
+        "point306_p03.png",
+        "point306_p04.png",
+        "point306_p05.png",
+        "point306_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point306_ans_p07.png",
+        "point306_ans_p08.png",
+        "point306_ans_p09.png",
+        "point306_ans_p10.png",
+        "point306_ans_p11.png",
+        "point306_ans_p12.png",
+        "point306_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1015",
+      "point_videos": [
+        {
+          "title": "休んだ仕事＝補う仕事",
+          "id": "BzRea_cOYc4"
+        },
+        {
+          "title": "×=×の逆比",
+          "id": "o2YNYhj7Vc4"
+        }
+      ]
+    },
+    {
+      "id": "point307",
+      "number": 307,
+      "title": "1人×単位時間=① (仕事算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point307_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "0xICowuw5i4",
+        "5748dm_hYiE",
+        "azvFfiqpSio",
+        "fRWqITZFLvQ",
+        "qARAWXfOHAY",
+        "tpNN06746dg"
+      ],
+      "questions": [
+        {
+          "id": "p307-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "qARAWXfOHAY"
+          ]
+        },
+        {
+          "id": "p307-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "tpNN06746dg"
+          ]
+        },
+        {
+          "id": "p307-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "azvFfiqpSio"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point307_p00.png",
+        "point307_p01.png",
+        "point307_p02.png",
+        "point307_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point307_ans_p04.png",
+        "point307_ans_p05.png",
+        "point307_ans_p06.png",
+        "point307_ans_p07.png",
+        "point307_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1016",
+      "point_videos": [
+        {
+          "title": "1人×単位時間=①",
+          "id": "vj4MGsGd35g"
+        }
+      ]
+    },
+    {
+      "id": "point308",
+      "number": 308,
+      "title": "ニュートン算の式づくり (ニュートン算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point308_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-wOKTyk0VKI",
+        "28vYxH8MYBs",
+        "EBw5rWDZc3Q",
+        "MIr4kjdtNYQ",
+        "Sg6Odf9cokY",
+        "tGcIhdL8EGw"
+      ],
+      "questions": [
+        {
+          "id": "p308-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "MIr4kjdtNYQ"
+          ]
+        },
+        {
+          "id": "p308-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "EBw5rWDZc3Q"
+          ]
+        },
+        {
+          "id": "p308-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Sg6Odf9cokY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point308_p00.png",
+        "point308_p01.png",
+        "point308_p02.png",
+        "point308_p03.png",
+        "point308_p04.png",
+        "point308_p05.png",
+        "point308_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point308_ans_p07.png",
+        "point308_ans_p08.png",
+        "point308_ans_p09.png",
+        "point308_ans_p10.png",
+        "point308_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1017",
+      "point_videos": [
+        {
+          "title": "ニュートン算の式づくり",
+          "id": "Qr2xN9PnyZI"
+        }
+      ]
+    },
+    {
+      "id": "point309",
+      "number": 309,
+      "title": "「はじめ」不明のニュートン算 (ニュートン算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point309_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "97TFjOvU92Q",
+        "BMJm0oag3Lo",
+        "DnvcNEEc0vA",
+        "LLvidVxCGzI",
+        "N6fLbd4hgD8",
+        "j8sRxmfJGCU"
+      ],
+      "questions": [
+        {
+          "id": "p309-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "DnvcNEEc0vA"
+          ]
+        },
+        {
+          "id": "p309-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "j8sRxmfJGCU"
+          ]
+        },
+        {
+          "id": "p309-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "97TFjOvU92Q"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point309_p00.png",
+        "point309_p01.png",
+        "point309_p02.png",
+        "point309_p03.png",
+        "point309_p04.png",
+        "point309_p05.png",
+        "point309_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point309_ans_p07.png",
+        "point309_ans_p08.png",
+        "point309_ans_p09.png",
+        "point309_ans_p10.png",
+        "point309_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1018",
+      "point_videos": [
+        {
+          "title": "「はじめ」不明のニュートン算",
+          "id": "yzcMa9jWu1M"
+        }
+      ]
+    },
+    {
+      "id": "point310",
+      "number": 310,
+      "title": "段階的な式作り (ニュートン算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point310_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "EdvLoPN27vI",
+        "GNRLIR8wHFo",
+        "Jhg0elOw9WA",
+        "KF0w3oQ5gDQ",
+        "NX9p4BcGI20",
+        "O28ueeLvn8U",
+        "r-nNFLxeYbw",
+        "ybU9sSY7Bhk"
+      ],
+      "questions": [
+        {
+          "id": "p310-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "O28ueeLvn8U",
+            "EdvLoPN27vI"
+          ]
+        },
+        {
+          "id": "p310-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "ybU9sSY7Bhk",
+            "r-nNFLxeYbw"
+          ]
+        },
+        {
+          "id": "p310-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Jhg0elOw9WA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point310_p00.png",
+        "point310_p01.png",
+        "point310_p02.png",
+        "point310_p03.png",
+        "point310_p04.png",
+        "point310_p05.png",
+        "point310_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point310_ans_p07.png",
+        "point310_ans_p08.png",
+        "point310_ans_p09.png",
+        "point310_ans_p10.png",
+        "point310_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1019",
+      "point_videos": [
+        {
+          "title": "段階的な式作り",
+          "id": "GdC64ZcDFPo"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi14",
+    "title": "第14回 力試しテスト",
+    "range": "Point 301〜310",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1020",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第14回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [],
+    "questions": []
+  }
+}

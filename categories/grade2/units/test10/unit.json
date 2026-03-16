@@ -1,0 +1,912 @@
+{
+  "points": [
+    {
+      "id": "point266",
+      "number": 266,
+      "title": "ひもかけ (曲線図形)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point266_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3_6O5y8Af4Q",
+        "BEie0XHnU6A",
+        "HvO-uFvbyok",
+        "OAV7tSiHdJ0",
+        "Vea3V0gBs0k",
+        "YnJifuX2qrU",
+        "gb96gw_rslk",
+        "zENko2QZrnw"
+      ],
+      "questions": [
+        {
+          "id": "p266-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "3_6O5y8Af4Q"
+          ]
+        },
+        {
+          "id": "p266-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "gb96gw_rslk"
+          ]
+        },
+        {
+          "id": "p266-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "OAV7tSiHdJ0",
+            "zENko2QZrnw"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point266_p00.png",
+        "point266_p01.png",
+        "point266_p02.png",
+        "point266_p03.png",
+        "point266_p04.png",
+        "point266_p05.png",
+        "point266_p06.png",
+        "point266_p07.png",
+        "point266_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 14,
+      "answerPages": [
+        "point266_ans_p09.png",
+        "point266_ans_p10.png",
+        "point266_ans_p11.png",
+        "point266_ans_p12.png",
+        "point266_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/971",
+      "point_videos": [
+        {
+          "title": "ひもかけ",
+          "id": "uhG9o9BerDQ"
+        },
+        {
+          "title": "等差数列",
+          "id": "EAkGktETId8"
+        }
+      ]
+    },
+    {
+      "id": "point267",
+      "number": 267,
+      "title": "折り返し二等辺見つけ (角度の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point267_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "99c91PCrkT4",
+        "AIJ63Bebf1Y",
+        "G_Z6yscE4YA",
+        "WO8iZm49600",
+        "Xc75AWvVyks",
+        "d7znRmWf7ug",
+        "kkXd2Chm2Ok",
+        "mUd5cLrSqBw"
+      ],
+      "questions": [
+        {
+          "id": "p267-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "kkXd2Chm2Ok"
+          ]
+        },
+        {
+          "id": "p267-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "WO8iZm49600"
+          ]
+        },
+        {
+          "id": "p267-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Xc75AWvVyks"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point267_p00.png",
+        "point267_p01.png",
+        "point267_p02.png",
+        "point267_p03.png",
+        "point267_p04.png",
+        "point267_p05.png",
+        "point267_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 16,
+      "answerPages": [
+        "point267_ans_p07.png",
+        "point267_ans_p08.png",
+        "point267_ans_p09.png",
+        "point267_ans_p10.png",
+        "point267_ans_p11.png",
+        "point267_ans_p12.png",
+        "point267_ans_p13.png",
+        "point267_ans_p14.png",
+        "point267_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/972",
+      "point_videos": [
+        {
+          "title": "折り返し二等辺見つけ",
+          "id": "AU1o8zsVSDs"
+        },
+        {
+          "title": "外角定理",
+          "id": "-9KoXQlMu2o"
+        },
+        {
+          "title": "区切り面積",
+          "id": "HowRRreOQHc"
+        }
+      ]
+    },
+    {
+      "id": "point268",
+      "number": 268,
+      "title": "台形ペケポンの等積変形 (等積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point268_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "9zX7aF-Pf2I",
+        "BWBVkTiWixI",
+        "MvTbA-5yQDE",
+        "OwcRI_oV908",
+        "Q0WDNjU7RtU",
+        "cqqUurhqFu0",
+        "wYhG-SxZeY0",
+        "zkfGoGwhOOM"
+      ],
+      "questions": [
+        {
+          "id": "p268-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "OwcRI_oV908"
+          ]
+        },
+        {
+          "id": "p268-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "9zX7aF-Pf2I"
+          ]
+        },
+        {
+          "id": "p268-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "BWBVkTiWixI"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point268_p00.png",
+        "point268_p01.png",
+        "point268_p02.png",
+        "point268_p03.png",
+        "point268_p04.png",
+        "point268_p05.png",
+        "point268_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point268_ans_p07.png",
+        "point268_ans_p08.png",
+        "point268_ans_p09.png",
+        "point268_ans_p10.png",
+        "point268_ans_p11.png",
+        "point268_ans_p12.png",
+        "point268_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/973",
+      "point_videos": [
+        {
+          "title": "台形ペケポンの等積変形",
+          "id": "6uMBo8L3KtE"
+        }
+      ]
+    },
+    {
+      "id": "point269",
+      "number": 269,
+      "title": "半分パズル (等積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point269_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "70R4_cMaQdk",
+        "GHUThbmR370",
+        "TOs-mzQolpE",
+        "deZfxtIVZ7Q",
+        "pu02r6ujlRs",
+        "qukg8wrmsGI"
+      ],
+      "questions": [
+        {
+          "id": "p269-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "deZfxtIVZ7Q"
+          ]
+        },
+        {
+          "id": "p269-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "TOs-mzQolpE"
+          ]
+        },
+        {
+          "id": "p269-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "70R4_cMaQdk"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point269_p00.png",
+        "point269_p01.png",
+        "point269_p02.png",
+        "point269_p03.png",
+        "point269_p04.png",
+        "point269_p05.png",
+        "point269_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point269_ans_p07.png",
+        "point269_ans_p08.png",
+        "point269_ans_p09.png",
+        "point269_ans_p10.png",
+        "point269_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/974",
+      "point_videos": [
+        {
+          "title": "半分パズル",
+          "id": "r-z9uqJ7XYk"
+        },
+        {
+          "title": "2つの消去算",
+          "id": "O_-KF_Lb8lM"
+        }
+      ]
+    },
+    {
+      "id": "point269_nankan",
+      "number": 269,
+      "title": "半分パズル (等積の技術)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point269_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "PB4-wlTNicI"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "2QGPEl-dFY0"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "4nJI4tZAWMU"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "半分パズル",
+          "id": "r-z9uqJ7XYk"
+        },
+        {
+          "title": "同じところ付け足し",
+          "id": "ls1H5A_qlj4"
+        },
+        {
+          "title": "直角二等辺の性質",
+          "id": "CDIeIb74EoY"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1972/lesson-playlist?textbook_reference_code=kobe-web-974",
+      "problemPages": [
+        "point269_nankan_p00.png",
+        "point269_nankan_p01.png",
+        "point269_nankan_p02.png",
+        "point269_nankan_p03.png",
+        "point269_nankan_p04.png",
+        "point269_nankan_p05.png",
+        "point269_nankan_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point269_nankan_ans_p07.png",
+        "point269_nankan_ans_p08.png",
+        "point269_nankan_ans_p09.png",
+        "point269_nankan_ans_p10.png",
+        "point269_nankan_ans_p11.png"
+      ]
+    },
+    {
+      "id": "point270",
+      "number": 270,
+      "title": "線対称⇆垂直二等分 (対称と合同)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point270_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "77qvuz_8w5w",
+        "DLzqF1LdPQ0",
+        "QQzqOz1cesQ",
+        "Zh50DjFj534",
+        "cDlna9LKA6E",
+        "t5Uz5tQ4pso"
+      ],
+      "questions": [
+        {
+          "id": "p270-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "QQzqOz1cesQ"
+          ]
+        },
+        {
+          "id": "p270-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "t5Uz5tQ4pso"
+          ]
+        },
+        {
+          "id": "p270-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "77qvuz_8w5w"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point270_p00.png",
+        "point270_p01.png",
+        "point270_p02.png",
+        "point270_p03.png",
+        "point270_p04.png",
+        "point270_p05.png",
+        "point270_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point270_ans_p07.png",
+        "point270_ans_p08.png",
+        "point270_ans_p09.png",
+        "point270_ans_p10.png",
+        "point270_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/975",
+      "point_videos": [
+        {
+          "title": "線対称⇆垂直二等分",
+          "id": "lEqAGcwY33k"
+        },
+        {
+          "title": "30°問題",
+          "id": "z__EDbpXGZM"
+        },
+        {
+          "title": "相→面",
+          "id": "gv4Rx2W-EVo"
+        }
+      ]
+    },
+    {
+      "id": "point271",
+      "number": 271,
+      "title": "中心と結ぶ→角度求め (曲線図形)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point271_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "61OdtUIsgns",
+        "BYcXteWKH-w",
+        "EzvtVoFDioc",
+        "GJbonBZhe8w",
+        "lFsZbE13kQ8",
+        "lmcESIaoJRg"
+      ],
+      "questions": [
+        {
+          "id": "p271-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "BYcXteWKH-w"
+          ]
+        },
+        {
+          "id": "p271-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "lFsZbE13kQ8"
+          ]
+        },
+        {
+          "id": "p271-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "61OdtUIsgns"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point271_p00.png",
+        "point271_p01.png",
+        "point271_p02.png",
+        "point271_p03.png",
+        "point271_p04.png",
+        "point271_p05.png",
+        "point271_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point271_ans_p07.png",
+        "point271_ans_p08.png",
+        "point271_ans_p09.png",
+        "point271_ans_p10.png",
+        "point271_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/976",
+      "point_videos": [
+        {
+          "title": "中心と結ぶ→角度求め",
+          "id": "73SbR9Ey2h0"
+        },
+        {
+          "title": "外角の和=360°",
+          "id": "-nWH_6U_8v0"
+        }
+      ]
+    },
+    {
+      "id": "point272",
+      "number": 272,
+      "title": "合同の基本 (対称と合同)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point272_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-WDydctQaYU",
+        "YezDOGZX32U",
+        "hVi4CM8ixsQ",
+        "nvm0doYzBgs",
+        "xgW9CJu1iMo",
+        "y80fQ10VoOk"
+      ],
+      "questions": [
+        {
+          "id": "p272-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "nvm0doYzBgs"
+          ]
+        },
+        {
+          "id": "p272-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "YezDOGZX32U"
+          ]
+        },
+        {
+          "id": "p272-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "xgW9CJu1iMo"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point272_p00.png",
+        "point272_p01.png",
+        "point272_p02.png",
+        "point272_p03.png",
+        "point272_p04.png",
+        "point272_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point272_ans_p06.png",
+        "point272_ans_p07.png",
+        "point272_ans_p08.png",
+        "point272_ans_p09.png",
+        "point272_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/977",
+      "point_videos": [
+        {
+          "title": "合同の基本",
+          "id": "0OR00nXPSTw"
+        },
+        {
+          "title": "二等辺見つけ",
+          "id": "VN7031Bj1AE"
+        }
+      ]
+    },
+    {
+      "id": "point273",
+      "number": 273,
+      "title": "直角重ね→合同の発見 (対称と合同)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point273_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-bBsfKbVaVI",
+        "5CFMuAZ4vao",
+        "DTLR0WqStcc",
+        "J1L3d7ysST4",
+        "XekRrbkSxiw",
+        "eCmc96KVjRk",
+        "sumCW7tIaz8",
+        "vmhiYNd_tpg",
+        "zi2P7_DYHB4"
+      ],
+      "questions": [
+        {
+          "id": "p273-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "zi2P7_DYHB4"
+          ]
+        },
+        {
+          "id": "p273-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "-bBsfKbVaVI",
+            "DTLR0WqStcc"
+          ]
+        },
+        {
+          "id": "p273-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "J1L3d7ysST4",
+            "sumCW7tIaz8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point273_p00.png",
+        "point273_p01.png",
+        "point273_p02.png",
+        "point273_p03.png",
+        "point273_p04.png",
+        "point273_p05.png",
+        "point273_p06.png",
+        "point273_p07.png",
+        "point273_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 18,
+      "answerPages": [
+        "point273_ans_p09.png",
+        "point273_ans_p10.png",
+        "point273_ans_p11.png",
+        "point273_ans_p12.png",
+        "point273_ans_p13.png",
+        "point273_ans_p14.png",
+        "point273_ans_p15.png",
+        "point273_ans_p16.png",
+        "point273_ans_p17.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/978",
+      "point_videos": [
+        {
+          "title": "直角重ね→合同の発見",
+          "id": "7i4Cb7CPoPI"
+        },
+        {
+          "title": "外角定理",
+          "id": "-9KoXQlMu2o"
+        }
+      ]
+    },
+    {
+      "id": "point274",
+      "number": 274,
+      "title": "回転図形重ね→線対称 (対称と合同)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point274_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "2D5mvONxkD8",
+        "8eOtEozwxNA",
+        "PC77wiSEStw",
+        "SiPYFlwcnio",
+        "V7CP5aZNs8E",
+        "gID1hj7Ifqo"
+      ],
+      "questions": [
+        {
+          "id": "p274-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "gID1hj7Ifqo"
+          ]
+        },
+        {
+          "id": "p274-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "2D5mvONxkD8"
+          ]
+        },
+        {
+          "id": "p274-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "SiPYFlwcnio"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point274_p00.png",
+        "point274_p01.png",
+        "point274_p02.png",
+        "point274_p03.png",
+        "point274_p04.png",
+        "point274_p05.png",
+        "point274_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point274_ans_p07.png",
+        "point274_ans_p08.png",
+        "point274_ans_p09.png",
+        "point274_ans_p10.png",
+        "point274_ans_p11.png",
+        "point274_ans_p12.png",
+        "point274_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/979",
+      "point_videos": [
+        {
+          "title": "回転図形重ね→線対称",
+          "id": "IYu5pt8wo0E"
+        },
+        {
+          "title": "中心と結ぶ",
+          "id": "SSnbxQqwcIw"
+        },
+        {
+          "title": "30°問題",
+          "id": "z__EDbpXGZM"
+        }
+      ]
+    },
+    {
+      "id": "point275",
+      "number": 275,
+      "title": "二通りの作り方 (求積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point275_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "62ICVZIYnqE",
+        "CKt_trR3GWA",
+        "FDeuIxJ6LQA",
+        "o8HED8gLpas",
+        "tLVP_q8KGWM",
+        "zcBXvzOAJs0"
+      ],
+      "questions": [
+        {
+          "id": "p275-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "62ICVZIYnqE"
+          ]
+        },
+        {
+          "id": "p275-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "CKt_trR3GWA"
+          ]
+        },
+        {
+          "id": "p275-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "FDeuIxJ6LQA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point275_p00.png",
+        "point275_p01.png",
+        "point275_p02.png",
+        "point275_p03.png",
+        "point275_p04.png",
+        "point275_p05.png",
+        "point275_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point275_ans_p07.png",
+        "point275_ans_p08.png",
+        "point275_ans_p09.png",
+        "point275_ans_p10.png",
+        "point275_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/980",
+      "point_videos": [
+        {
+          "title": "二通りの作り方",
+          "id": "uhN87OLaU54"
+        },
+        {
+          "title": "30°問題",
+          "id": "z__EDbpXGZM"
+        },
+        {
+          "title": "中心と結ぶ",
+          "id": "SSnbxQqwcIw"
+        }
+      ]
+    },
+    {
+      "id": "point276",
+      "number": 276,
+      "title": "円の中の線対称パズル (対称と合同)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point276_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "7TEWBl9FYZc",
+        "DMZbX91g_0Q",
+        "NFole7hyQKM",
+        "PqoqQP59c9M",
+        "Ygf8DwwvTes",
+        "ol2Ed-afCKM"
+      ],
+      "questions": [
+        {
+          "id": "p276-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "PqoqQP59c9M"
+          ]
+        },
+        {
+          "id": "p276-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "NFole7hyQKM"
+          ]
+        },
+        {
+          "id": "p276-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "ol2Ed-afCKM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point276_p00.png",
+        "point276_p01.png",
+        "point276_p02.png",
+        "point276_p03.png",
+        "point276_p04.png",
+        "point276_p05.png",
+        "point276_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point276_ans_p07.png",
+        "point276_ans_p08.png",
+        "point276_ans_p09.png",
+        "point276_ans_p10.png",
+        "point276_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/981",
+      "point_videos": [
+        {
+          "title": "円の中の線対称パズル",
+          "id": "Sj1zqJ-ZHw4"
+        },
+        {
+          "title": "円周角=90°",
+          "id": "CapeGfKgp2Q"
+        },
+        {
+          "title": "チョウチョ",
+          "id": "o3hLWdA1LBY"
+        },
+        {
+          "title": "半径×半径",
+          "id": "PIaXqF_BObA"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi10",
+    "title": "第10回 力試しテスト",
+    "range": "Point 266〜276",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/982",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第10回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [],
+    "questions": []
+  }
+}

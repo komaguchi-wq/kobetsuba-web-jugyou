@@ -1,0 +1,1561 @@
+{
+  "points": [
+    {
+      "id": "point194",
+      "number": 194,
+      "title": "縮尺 (相似の基本)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point194_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "CHq68ntKrG8",
+        "DnsGAIggXRI",
+        "Pbz33BxBGGU",
+        "SGxhiI6koCg",
+        "ScPBIDmms9I",
+        "TJEejJNpNG4",
+        "VYwRULI8sIs",
+        "XfPpQH1h84o",
+        "heuAkkIZwzQ",
+        "ir5JKruXmpU",
+        "jJBLFNd53lI",
+        "kQFRLKW-foM",
+        "m4cYpl-nn4Q",
+        "wx8EdAmCp_Q",
+        "yi9aXS9B6ks"
+      ],
+      "questions": [
+        {
+          "id": "p194-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "heuAkkIZwzQ",
+            "jJBLFNd53lI",
+            "SGxhiI6koCg",
+            "VYwRULI8sIs"
+          ]
+        },
+        {
+          "id": "p194-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "m4cYpl-nn4Q",
+            "Pbz33BxBGGU",
+            "DnsGAIggXRI",
+            "TJEejJNpNG4"
+          ]
+        },
+        {
+          "id": "p194-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "CHq68ntKrG8",
+            "XfPpQH1h84o",
+            "kQFRLKW-foM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point194_p00.png",
+        "point194_p01.png",
+        "point194_p02.png",
+        "point194_p03.png",
+        "point194_p04.png",
+        "point194_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point194_ans_p06.png",
+        "point194_ans_p07.png",
+        "point194_ans_p08.png",
+        "point194_ans_p09.png",
+        "point194_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/731",
+      "point_videos": [
+        {
+          "title": "縮尺",
+          "id": "ARvSoLgcyVE"
+        },
+        {
+          "title": "×=×の逆比",
+          "id": "o2YNYhj7Vc4"
+        },
+        {
+          "title": "面積の単位換算",
+          "id": "grRFJJHXAbo"
+        }
+      ]
+    },
+    {
+      "id": "point195",
+      "number": 195,
+      "title": "相似の基本 (相似の基本)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point195_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "BjacDQ220dE",
+        "DY3Fltq0mU4",
+        "ZTnByx0RCIk",
+        "_Tcwuh4eRhM",
+        "j8TS0cCJvf0",
+        "vAZhSDarOC8"
+      ],
+      "questions": [
+        {
+          "id": "p195-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "BjacDQ220dE"
+          ]
+        },
+        {
+          "id": "p195-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "ZTnByx0RCIk"
+          ]
+        },
+        {
+          "id": "p195-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "DY3Fltq0mU4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point195_p00.png",
+        "point195_p01.png",
+        "point195_p02.png",
+        "point195_p03.png",
+        "point195_p04.png",
+        "point195_p05.png",
+        "point195_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point195_ans_p07.png",
+        "point195_ans_p08.png",
+        "point195_ans_p09.png",
+        "point195_ans_p10.png",
+        "point195_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/732",
+      "point_videos": [
+        {
+          "title": "相似の基本",
+          "id": "z2dL66xpHvE"
+        }
+      ]
+    },
+    {
+      "id": "point195_nankan",
+      "number": 195,
+      "title": "相似の基本 (相似の基本)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point195_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "gcwnNqGiDqw"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "g_kDHCo1OzY",
+            "_XO93L56S0s"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "eLU4qUXfEKQ",
+            "tKIxARkpgPs"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "相似の基本",
+          "id": "z2dL66xpHvE"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1248/lesson-playlist?textbook_reference_code=kobe-web-732",
+      "problemPages": [
+        "point195_nankan_p00.png",
+        "point195_nankan_p01.png",
+        "point195_nankan_p02.png",
+        "point195_nankan_p03.png",
+        "point195_nankan_p04.png",
+        "point195_nankan_p05.png",
+        "point195_nankan_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point195_nankan_ans_p07.png",
+        "point195_nankan_ans_p08.png",
+        "point195_nankan_ans_p09.png",
+        "point195_nankan_ans_p10.png",
+        "point195_nankan_ans_p11.png"
+      ]
+    },
+    {
+      "id": "point196",
+      "number": 196,
+      "title": "チョウチョ (平面図形(割合有))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point196_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "9EAIbt21ODo",
+        "HpTQWEhFmvA",
+        "PKt0OEw42y8",
+        "Wredk3dKNxE",
+        "j5Fym_SyDUc",
+        "m50Mtiin-gs",
+        "v77Fdbd-K3s"
+      ],
+      "questions": [
+        {
+          "id": "p196-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "HpTQWEhFmvA"
+          ]
+        },
+        {
+          "id": "p196-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "Wredk3dKNxE"
+          ]
+        },
+        {
+          "id": "p196-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "m50Mtiin-gs",
+            "9EAIbt21ODo"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point196_p00.png",
+        "point196_p01.png",
+        "point196_p02.png",
+        "point196_p03.png",
+        "point196_p04.png",
+        "point196_p05.png",
+        "point196_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 13,
+      "answerPages": [
+        "point196_ans_p07.png",
+        "point196_ans_p08.png",
+        "point196_ans_p09.png",
+        "point196_ans_p10.png",
+        "point196_ans_p11.png",
+        "point196_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/733",
+      "point_videos": [
+        {
+          "title": "チョウチョ",
+          "id": "o3hLWdA1LBY"
+        }
+      ]
+    },
+    {
+      "id": "point197",
+      "number": 197,
+      "title": "ピラミッド (平面図形(割合有))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point197_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3r_YrMIIq9Q",
+        "AGWsx0jhYBE",
+        "JbZ3_ftRns8",
+        "V-RGSY_ScYo",
+        "mE77RU1znYU",
+        "n19XnQOU6Gg"
+      ],
+      "questions": [
+        {
+          "id": "p197-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "3r_YrMIIq9Q"
+          ]
+        },
+        {
+          "id": "p197-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "AGWsx0jhYBE"
+          ]
+        },
+        {
+          "id": "p197-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "JbZ3_ftRns8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point197_p00.png",
+        "point197_p01.png",
+        "point197_p02.png",
+        "point197_p03.png",
+        "point197_p04.png",
+        "point197_p05.png",
+        "point197_p06.png",
+        "point197_p07.png",
+        "point197_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 18,
+      "answerPages": [
+        "point197_ans_p09.png",
+        "point197_ans_p10.png",
+        "point197_ans_p11.png",
+        "point197_ans_p12.png",
+        "point197_ans_p13.png",
+        "point197_ans_p14.png",
+        "point197_ans_p15.png",
+        "point197_ans_p16.png",
+        "point197_ans_p17.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/740",
+      "point_videos": [
+        {
+          "title": "ピラミッド",
+          "id": "rqPyaMz6chw"
+        },
+        {
+          "title": "チョウチョ",
+          "id": "o3hLWdA1LBY"
+        },
+        {
+          "title": "円周と弧の長さ",
+          "id": "WDmxcjx8xBU"
+        }
+      ]
+    },
+    {
+      "id": "point198",
+      "number": 198,
+      "title": "台形ピラミッドのグラフ解法 (平面図形(割合有))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point198_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "9_1Z7Z8FTNU",
+        "D6wg_ZAASaE",
+        "N5b1eTJHK1A",
+        "Pn_hvzZFk94",
+        "a-Ga_PDStvg"
+      ],
+      "questions": [
+        {
+          "id": "p198-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "a-Ga_PDStvg"
+          ]
+        },
+        {
+          "id": "p198-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "9_1Z7Z8FTNU"
+          ]
+        },
+        {
+          "id": "p198-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Pn_hvzZFk94"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point198_p00.png",
+        "point198_p01.png",
+        "point198_p02.png",
+        "point198_p03.png",
+        "point198_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 11,
+      "answerPages": [
+        "point198_ans_p05.png",
+        "point198_ans_p06.png",
+        "point198_ans_p07.png",
+        "point198_ans_p08.png",
+        "point198_ans_p09.png",
+        "point198_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/741",
+      "point_videos": [
+        {
+          "title": "台形ピラミッドのグラフ解法",
+          "id": "dFuGG23YApw"
+        },
+        {
+          "title": "の比の比",
+          "id": "PE1ZBvyPUjI"
+        },
+        {
+          "title": "高さの和の利用",
+          "id": "ZeH_L3SvCKw"
+        }
+      ]
+    },
+    {
+      "id": "point199",
+      "number": 199,
+      "title": "直角〇× (直角◯×)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point199_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-TgVYpLQZfM",
+        "9LlJ__5qS80",
+        "QYp1d-GBbW0",
+        "RtYS_5Ew9FU",
+        "W5RlMkF_05Q",
+        "f2ZruSkrrPA",
+        "ouA0304eK1U"
+      ],
+      "questions": [
+        {
+          "id": "p199-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "-TgVYpLQZfM"
+          ]
+        },
+        {
+          "id": "p199-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "W5RlMkF_05Q"
+          ]
+        },
+        {
+          "id": "p199-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "RtYS_5Ew9FU",
+            "f2ZruSkrrPA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point199_p00.png",
+        "point199_p01.png",
+        "point199_p02.png",
+        "point199_p03.png",
+        "point199_p04.png",
+        "point199_p05.png",
+        "point199_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point199_ans_p07.png",
+        "point199_ans_p08.png",
+        "point199_ans_p09.png",
+        "point199_ans_p10.png",
+        "point199_ans_p11.png",
+        "point199_ans_p12.png",
+        "point199_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/742",
+      "point_videos": [
+        {
+          "title": "直角〇×",
+          "id": "agYDOigUWvg"
+        }
+      ]
+    },
+    {
+      "id": "point199_nankan",
+      "number": 199,
+      "title": "直角〇× (直角◯×)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point199_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "8ohE79cTRT0"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "bAFIpH87UG0",
+            "ap-w2Jj180M",
+            "5rbKXD_BTbc"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "ZuYpZgdxksQ"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "直角〇×",
+          "id": "agYDOigUWvg"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1282/lesson-playlist?textbook_reference_code=kobe-web-742",
+      "problemPages": [
+        "point199_nankan_p00.png",
+        "point199_nankan_p01.png",
+        "point199_nankan_p02.png",
+        "point199_nankan_p03.png",
+        "point199_nankan_p04.png",
+        "point199_nankan_p05.png",
+        "point199_nankan_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point199_nankan_ans_p07.png",
+        "point199_nankan_ans_p08.png",
+        "point199_nankan_ans_p09.png",
+        "point199_nankan_ans_p10.png",
+        "point199_nankan_ans_p11.png"
+      ]
+    },
+    {
+      "id": "point200",
+      "number": 200,
+      "title": "突き刺さりから地面に平行補助線 (直角三角形型)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point200_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "30J5zPAPVho",
+        "5LWvtXDNVL0",
+        "6G6RnX2Z5TE",
+        "CwyH63wOFcM",
+        "DUgp-1lH8kI",
+        "PtiC3g-o_6s"
+      ],
+      "questions": [
+        {
+          "id": "p200-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "PtiC3g-o_6s"
+          ]
+        },
+        {
+          "id": "p200-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "5LWvtXDNVL0"
+          ]
+        },
+        {
+          "id": "p200-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "6G6RnX2Z5TE"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point200_p00.png",
+        "point200_p01.png",
+        "point200_p02.png",
+        "point200_p03.png",
+        "point200_p04.png",
+        "point200_p05.png",
+        "point200_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point200_ans_p07.png",
+        "point200_ans_p08.png",
+        "point200_ans_p09.png",
+        "point200_ans_p10.png",
+        "point200_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/743",
+      "point_videos": [
+        {
+          "title": "突き刺さりから地面に平行補助線",
+          "id": "BWbhGa47Bi4"
+        },
+        {
+          "title": "チョウチョ",
+          "id": "o3hLWdA1LBY"
+        }
+      ]
+    },
+    {
+      "id": "point201",
+      "number": 201,
+      "title": "相→面 (相似の基本)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point201_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "BmRshxOYuKM",
+        "Dy_bdCv0PXM",
+        "UT5BtKkQWCM",
+        "aFkYfUNQwVI",
+        "jdkDBrLLr9s",
+        "mRf4Ce3eluI",
+        "xrSAizRGjYI"
+      ],
+      "questions": [
+        {
+          "id": "p201-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "xrSAizRGjYI"
+          ]
+        },
+        {
+          "id": "p201-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "aFkYfUNQwVI"
+          ]
+        },
+        {
+          "id": "p201-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "mRf4Ce3eluI"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point201_p00.png",
+        "point201_p01.png",
+        "point201_p02.png",
+        "point201_p03.png",
+        "point201_p04.png",
+        "point201_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 14,
+      "answerPages": [
+        "point201_ans_p06.png",
+        "point201_ans_p07.png",
+        "point201_ans_p08.png",
+        "point201_ans_p09.png",
+        "point201_ans_p10.png",
+        "point201_ans_p11.png",
+        "point201_ans_p12.png",
+        "point201_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/746",
+      "point_videos": [
+        {
+          "title": "相→面",
+          "id": "gv4Rx2W-EVo"
+        },
+        {
+          "title": "ピラミッド",
+          "id": "rqPyaMz6chw"
+        },
+        {
+          "title": "直角〇×",
+          "id": "agYDOigUWvg"
+        }
+      ]
+    },
+    {
+      "id": "point202",
+      "number": 202,
+      "title": "①③⑤⑦⑨面積並び (求積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point202_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "NUFSjfUgV7E",
+        "XkG00vVzCvE",
+        "bJ4_f9px-no",
+        "lRM7vSQl_34",
+        "xTJOQ-M61Zs",
+        "z4_rFQYp8v4"
+      ],
+      "questions": [
+        {
+          "id": "p202-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "bJ4_f9px-no"
+          ]
+        },
+        {
+          "id": "p202-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "NUFSjfUgV7E"
+          ]
+        },
+        {
+          "id": "p202-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "z4_rFQYp8v4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point202_p00.png",
+        "point202_p01.png",
+        "point202_p02.png",
+        "point202_p03.png",
+        "point202_p04.png",
+        "point202_p05.png",
+        "point202_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point202_ans_p07.png",
+        "point202_ans_p08.png",
+        "point202_ans_p09.png",
+        "point202_ans_p10.png",
+        "point202_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/747",
+      "point_videos": [
+        {
+          "title": "①③⑤⑦⑨面積並び(平面図形)",
+          "id": "5Dv4PC3qtpM"
+        },
+        {
+          "title": "ブロック回し(①③⑤⑦⑨面積並び利用)",
+          "id": "J0GYpB5n7C0"
+        }
+      ]
+    },
+    {
+      "id": "point203",
+      "number": 203,
+      "title": "面→相 (相似の基本)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point203_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "5b53fXWcHx0",
+        "MBtIH7Xz_zY",
+        "RyAT4haXMgg",
+        "Uu1kitbssds",
+        "gyOaRwG_5IQ",
+        "jyqsCx2RLhE"
+      ],
+      "questions": [
+        {
+          "id": "p203-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "gyOaRwG_5IQ"
+          ]
+        },
+        {
+          "id": "p203-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "5b53fXWcHx0"
+          ]
+        },
+        {
+          "id": "p203-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Uu1kitbssds"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point203_p00.png",
+        "point203_p01.png",
+        "point203_p02.png",
+        "point203_p03.png",
+        "point203_p04.png",
+        "point203_p05.png",
+        "point203_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point203_ans_p07.png",
+        "point203_ans_p08.png",
+        "point203_ans_p09.png",
+        "point203_ans_p10.png",
+        "point203_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/748",
+      "point_videos": [
+        {
+          "title": "面→相",
+          "id": "pWoJlKOWLv0"
+        },
+        {
+          "title": "ピラミッド",
+          "id": "rqPyaMz6chw"
+        }
+      ]
+    },
+    {
+      "id": "point204",
+      "number": 204,
+      "title": "区切り面積 (平面図形(割合有))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point204_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "BFMLHziAoLA",
+        "Da_bb7N2Y9I",
+        "EN8fCbN37fc",
+        "HW4rG-dT5X4",
+        "M632Cuu1PaQ",
+        "R_fq41AdYM8",
+        "aylwkES91xo",
+        "tzfiX6GZsZI"
+      ],
+      "questions": [
+        {
+          "id": "p204-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "BFMLHziAoLA",
+            "Da_bb7N2Y9I"
+          ]
+        },
+        {
+          "id": "p204-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "M632Cuu1PaQ",
+            "HW4rG-dT5X4"
+          ]
+        },
+        {
+          "id": "p204-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "EN8fCbN37fc"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point204_p00.png",
+        "point204_p01.png",
+        "point204_p02.png",
+        "point204_p03.png",
+        "point204_p04.png",
+        "point204_p05.png",
+        "point204_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 13,
+      "answerPages": [
+        "point204_ans_p07.png",
+        "point204_ans_p08.png",
+        "point204_ans_p09.png",
+        "point204_ans_p10.png",
+        "point204_ans_p11.png",
+        "point204_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/758",
+      "point_videos": [
+        {
+          "title": "区切り面積",
+          "id": "HowRRreOQHc"
+        }
+      ]
+    },
+    {
+      "id": "point205",
+      "number": 205,
+      "title": "等高図形(割合有) (求積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point205_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "BXQXKtuD5vk",
+        "E0kp3Do2Rho",
+        "OpS4T-umoeM",
+        "ZOFO-8EWARU",
+        "bWW7kB1ofzM",
+        "oF-fscQ-oXQ",
+        "xg6zVUDjzgg",
+        "zsi2UUfzLhs"
+      ],
+      "questions": [
+        {
+          "id": "p205-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "oF-fscQ-oXQ",
+            "bWW7kB1ofzM"
+          ]
+        },
+        {
+          "id": "p205-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "xg6zVUDjzgg",
+            "E0kp3Do2Rho"
+          ]
+        },
+        {
+          "id": "p205-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "OpS4T-umoeM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point205_p00.png",
+        "point205_p01.png",
+        "point205_p02.png",
+        "point205_p03.png",
+        "point205_p04.png",
+        "point205_p05.png",
+        "point205_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point205_ans_p07.png",
+        "point205_ans_p08.png",
+        "point205_ans_p09.png",
+        "point205_ans_p10.png",
+        "point205_ans_p11.png",
+        "point205_ans_p12.png",
+        "point205_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/759",
+      "point_videos": [
+        {
+          "title": "等高図形(比を使う 平面図形)",
+          "id": "0pYwggmnb08"
+        },
+        {
+          "title": "台形ピラミッドのグラフ解法",
+          "id": "dFuGG23YApw"
+        },
+        {
+          "title": "区切り面積",
+          "id": "HowRRreOQHc"
+        }
+      ]
+    },
+    {
+      "id": "point206",
+      "number": 206,
+      "title": "隣辺比 (求積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point206_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "8n9TkaOKIY8",
+        "KUGR1Yobrxs",
+        "OZDR7aDu4ig",
+        "PPbs4IappkU",
+        "PkqU7qhSYl4",
+        "ZEszTQ50oNI",
+        "o5bNsZuh4EY",
+        "sfufXr1nw20"
+      ],
+      "questions": [
+        {
+          "id": "p206-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "o5bNsZuh4EY"
+          ]
+        },
+        {
+          "id": "p206-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "PkqU7qhSYl4"
+          ]
+        },
+        {
+          "id": "p206-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "OZDR7aDu4ig"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point206_p00.png",
+        "point206_p01.png",
+        "point206_p02.png",
+        "point206_p03.png",
+        "point206_p04.png",
+        "point206_p05.png",
+        "point206_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point206_ans_p07.png",
+        "point206_ans_p08.png",
+        "point206_ans_p09.png",
+        "point206_ans_p10.png",
+        "point206_ans_p11.png",
+        "point206_ans_p12.png",
+        "point206_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/760",
+      "point_videos": [
+        {
+          "title": "隣辺比",
+          "id": "9T0UMfejZLI"
+        },
+        {
+          "title": "チョウチョ",
+          "id": "o3hLWdA1LBY"
+        }
+      ]
+    },
+    {
+      "id": "point207",
+      "number": 207,
+      "title": "足して180°の隣辺比 (求積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point207_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "C_L3SfpCWdw",
+        "OtrrfxcA3u8",
+        "cC_zbugFigA",
+        "p76VUn_6wVo",
+        "tK2vzEEETbQ",
+        "x2yT_XcQoPo"
+      ],
+      "questions": [
+        {
+          "id": "p207-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "C_L3SfpCWdw"
+          ]
+        },
+        {
+          "id": "p207-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "tK2vzEEETbQ"
+          ]
+        },
+        {
+          "id": "p207-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "cC_zbugFigA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point207_p00.png",
+        "point207_p01.png",
+        "point207_p02.png",
+        "point207_p03.png",
+        "point207_p04.png",
+        "point207_p05.png",
+        "point207_p06.png",
+        "point207_p07.png",
+        "point207_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 16,
+      "answerPages": [
+        "point207_ans_p09.png",
+        "point207_ans_p10.png",
+        "point207_ans_p11.png",
+        "point207_ans_p12.png",
+        "point207_ans_p13.png",
+        "point207_ans_p14.png",
+        "point207_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/761",
+      "point_videos": [
+        {
+          "title": "足して180°の隣辺比",
+          "id": "s5upFrIHSjk"
+        },
+        {
+          "title": "隣辺比",
+          "id": "9T0UMfejZLI"
+        },
+        {
+          "title": "平行線Z角",
+          "id": "E6zvQTyVMYc"
+        },
+        {
+          "title": "区切り面積",
+          "id": "HowRRreOQHc"
+        }
+      ]
+    },
+    {
+      "id": "point208",
+      "number": 208,
+      "title": "台形ペケポン (求積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point208_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3GE7xL0TXis",
+        "ArZ6ZyvG2KQ",
+        "FgeMSKEOqys",
+        "ld2SQLjfi8w",
+        "q5c3vWvNApU",
+        "qWza7u1p8bo"
+      ],
+      "questions": [
+        {
+          "id": "p208-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ArZ6ZyvG2KQ"
+          ]
+        },
+        {
+          "id": "p208-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "q5c3vWvNApU"
+          ]
+        },
+        {
+          "id": "p208-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "qWza7u1p8bo"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point208_p00.png",
+        "point208_p01.png",
+        "point208_p02.png",
+        "point208_p03.png",
+        "point208_p04.png",
+        "point208_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 12,
+      "answerPages": [
+        "point208_ans_p06.png",
+        "point208_ans_p07.png",
+        "point208_ans_p08.png",
+        "point208_ans_p09.png",
+        "point208_ans_p10.png",
+        "point208_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/763",
+      "point_videos": [
+        {
+          "title": "台形ペケポン",
+          "id": "73wkncsYTQg"
+        },
+        {
+          "title": "等高図形(比を使う 平面図形)",
+          "id": "0pYwggmnb08"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi03",
+    "title": "第3回 力試しテスト",
+    "range": "Point 194〜208",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/764",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第3回_共通の型_力試しテスト問題.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第3回_共通の型_力試しテスト解答.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "1XR-qkNIQhU",
+      "1cYZbaJewnM",
+      "5n5eqQzcRaY",
+      "63--3IXTe2Y",
+      "7OMrz50SCPA",
+      "BQQCoEbWr5s",
+      "CAij4iSh4rc",
+      "Dgi6WiLaXUc",
+      "HXJvxG2dU6U",
+      "KMqOfolc6Bc",
+      "Zq51rReckRU",
+      "cB2JJd7_ucw",
+      "dmc0DqwMYvY",
+      "eoPtpzSZJng",
+      "gUpJLdAiSNU",
+      "ikgJ9LWyQOI",
+      "k13ZgFvBMhk",
+      "kRkj9OS3Lqo",
+      "qguvjGUmKSo",
+      "x82GwF-LMco",
+      "z0mvcM9Gvbk"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(1)",
+        "label": "2番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(2)",
+        "label": "2番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(1)",
+        "label": "4番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(2)",
+        "label": "4番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6",
+        "label": "6番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7",
+        "label": "7番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8",
+        "label": "8番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9",
+        "label": "9番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9(1)",
+        "label": "9番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9(2)",
+        "label": "9番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9(3)",
+        "label": "9番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q10",
+        "label": "10番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q11",
+        "label": "11番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q11(1)",
+        "label": "11番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q11(2)",
+        "label": "11番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q12",
+        "label": "12番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q12(1)",
+        "label": "12番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q12(2)",
+        "label": "12番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q13",
+        "label": "13番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q13(1)",
+        "label": "13番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q13(2)",
+        "label": "13番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q13(3)",
+        "label": "13番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q14",
+        "label": "14番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q15",
+        "label": "15番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q15(1)",
+        "label": "15番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q15(2)",
+        "label": "15番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q15(3)",
+        "label": "15番(3)",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png",
+      "test_mondai_p06.png",
+      "test_mondai_p07.png",
+      "test_mondai_p08.png",
+      "test_mondai_p09.png",
+      "test_mondai_p10.png",
+      "test_mondai_p11.png",
+      "test_mondai_p12.png",
+      "test_mondai_p13.png",
+      "test_mondai_p14.png",
+      "test_mondai_p15.png",
+      "test_mondai_p16.png",
+      "test_mondai_p17.png",
+      "test_mondai_p18.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png",
+      "test_kaitou_p02.png"
+    ],
+    "point_videos": [
+      {
+        "title": "台形ペケポン",
+        "id": "73wkncsYTQg"
+      },
+      {
+        "title": "等高図形(比を使う 平面図形)",
+        "id": "0pYwggmnb08"
+      },
+      {
+        "title": "相→面",
+        "id": "gv4Rx2W-EVo"
+      },
+      {
+        "title": "ピラミッド",
+        "id": "rqPyaMz6chw"
+      },
+      {
+        "title": "直角〇×",
+        "id": "agYDOigUWvg"
+      },
+      {
+        "title": "チョウチョ",
+        "id": "o3hLWdA1LBY"
+      },
+      {
+        "title": "隣辺比",
+        "id": "9T0UMfejZLI"
+      },
+      {
+        "title": "突き刺さりから地面に平行補助線",
+        "id": "BWbhGa47Bi4"
+      },
+      {
+        "title": "区切り面積",
+        "id": "HowRRreOQHc"
+      },
+      {
+        "title": "台形ピラミッドのグラフ解法",
+        "id": "dFuGG23YApw"
+      },
+      {
+        "title": "の比の比",
+        "id": "PE1ZBvyPUjI"
+      },
+      {
+        "title": "足して180°の隣辺比",
+        "id": "s5upFrIHSjk"
+      },
+      {
+        "title": "平行線Z角",
+        "id": "E6zvQTyVMYc"
+      },
+      {
+        "title": "相似の基本",
+        "id": "z2dL66xpHvE"
+      },
+      {
+        "title": "面→相",
+        "id": "pWoJlKOWLv0"
+      },
+      {
+        "title": "ブロック回し(①③⑤⑦⑨面積並び利用)",
+        "id": "J0GYpB5n7C0"
+      },
+      {
+        "title": "縮尺",
+        "id": "ARvSoLgcyVE"
+      },
+      {
+        "title": "面積の単位換算",
+        "id": "grRFJJHXAbo"
+      }
+    ]
+  }
+}

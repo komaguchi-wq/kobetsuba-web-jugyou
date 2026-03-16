@@ -1,0 +1,789 @@
+{
+  "points": [
+    {
+      "id": "point172",
+      "number": 172,
+      "title": "比例 (割合の基本技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point172_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "P9yyMpkGGGs",
+        "TqzPcFwc8Os",
+        "kstI0CDZ1GU",
+        "miL_7IGRcsE",
+        "xeyuCxpLYdM"
+      ],
+      "questions": [
+        {
+          "id": "p172-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "miL_7IGRcsE"
+          ]
+        },
+        {
+          "id": "p172-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "kstI0CDZ1GU"
+          ]
+        },
+        {
+          "id": "p172-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "xeyuCxpLYdM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point172_p00.png",
+        "point172_p01.png",
+        "point172_p02.png",
+        "point172_p03.png",
+        "point172_p04.png",
+        "point172_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 13,
+      "answerPages": [
+        "point172_ans_p06.png",
+        "point172_ans_p07.png",
+        "point172_ans_p08.png",
+        "point172_ans_p09.png",
+        "point172_ans_p10.png",
+        "point172_ans_p11.png",
+        "point172_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/689",
+      "point_videos": [
+        {
+          "title": "比例",
+          "id": "fKYRFzqUyYU"
+        },
+        {
+          "title": "→と分数倍",
+          "id": "TmtnlP-W3ek"
+        }
+      ]
+    },
+    {
+      "id": "point173",
+      "number": 173,
+      "title": "比の基本 (割合の基本技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point173_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "IOiS0xcvCZw",
+        "Qx4sHPMP3L8",
+        "fqAXh84adRM",
+        "gxNG0WHWYC8",
+        "xf3ZuGEaODQ"
+      ],
+      "questions": [
+        {
+          "id": "p173-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "xf3ZuGEaODQ"
+          ]
+        },
+        {
+          "id": "p173-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "Qx4sHPMP3L8"
+          ]
+        },
+        {
+          "id": "p173-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "fqAXh84adRM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point173_p00.png",
+        "point173_p01.png",
+        "point173_p02.png",
+        "point173_p03.png",
+        "point173_p04.png",
+        "point173_p05.png",
+        "point173_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point173_ans_p07.png",
+        "point173_ans_p08.png",
+        "point173_ans_p09.png",
+        "point173_ans_p10.png",
+        "point173_ans_p11.png",
+        "point173_ans_p12.png",
+        "point173_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/690",
+      "point_videos": [
+        {
+          "title": "比の基本",
+          "id": "WpuBlW9VcAg"
+        }
+      ]
+    },
+    {
+      "id": "point174",
+      "number": 174,
+      "title": "連比 (割合の基本技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point174_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-aKWMJ3_0nU",
+        "Gjv6yBgJEtU",
+        "JKALDcnKXtY",
+        "T0tzPbJwMfw",
+        "Y5PRR8Lzv2k",
+        "_UyA2WlPRiU",
+        "jpcGi7vZDvY",
+        "kr45Vd12nvo",
+        "l9t3wCwLLZk",
+        "q8JwhuqdvlU"
+      ],
+      "questions": [
+        {
+          "id": "p174-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "-aKWMJ3_0nU"
+          ]
+        },
+        {
+          "id": "p174-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "T0tzPbJwMfw"
+          ]
+        },
+        {
+          "id": "p174-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "l9t3wCwLLZk",
+            "jpcGi7vZDvY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point174_p00.png",
+        "point174_p01.png",
+        "point174_p02.png",
+        "point174_p03.png",
+        "point174_p04.png",
+        "point174_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point174_ans_p06.png",
+        "point174_ans_p07.png",
+        "point174_ans_p08.png",
+        "point174_ans_p09.png",
+        "point174_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/691",
+      "point_videos": [
+        {
+          "title": "連比",
+          "id": "fQDt75sehr4"
+        }
+      ]
+    },
+    {
+      "id": "point174_nankan",
+      "number": 174,
+      "title": "連比 (割合の基本技術)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point174_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "wyvDdsLfqvA",
+            "5iAs1BLkhOM"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "9XddDlarRFk",
+            "Nt4-EB8MPeM"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "cnUTV0pjcTY"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "連比",
+          "id": "fQDt75sehr4"
+        },
+        {
+          "title": "2つの和差算",
+          "id": "RPa25Rr-i7A"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1122/lesson-playlist?textbook_reference_code=kobe-web-691",
+      "problemPages": [
+        "point174_nankan_p00.png",
+        "point174_nankan_p01.png",
+        "point174_nankan_p02.png",
+        "point174_nankan_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point174_nankan_ans_p04.png",
+        "point174_nankan_ans_p05.png",
+        "point174_nankan_ans_p06.png",
+        "point174_nankan_ans_p07.png",
+        "point174_nankan_ans_p08.png"
+      ]
+    },
+    {
+      "id": "point175",
+      "number": 175,
+      "title": "反比例＝積一定・逆比 (割合の基本技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point175_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "O7NXj9_P_6g",
+        "OfW7505oSEA",
+        "hA7seQBdbA8",
+        "i_pu7JMkaqE",
+        "u6cMt-_fz08"
+      ],
+      "questions": [
+        {
+          "id": "p175-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "u6cMt-_fz08"
+          ]
+        },
+        {
+          "id": "p175-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "OfW7505oSEA"
+          ]
+        },
+        {
+          "id": "p175-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "O7NXj9_P_6g"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point175_p00.png",
+        "point175_p01.png",
+        "point175_p02.png",
+        "point175_p03.png",
+        "point175_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point175_ans_p05.png",
+        "point175_ans_p06.png",
+        "point175_ans_p07.png",
+        "point175_ans_p08.png",
+        "point175_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/692",
+      "point_videos": [
+        {
+          "title": "反比例＝積一定・逆比",
+          "id": "YfHGIG5gdCE"
+        }
+      ]
+    },
+    {
+      "id": "point176",
+      "number": 176,
+      "title": "比例式(内項の積=外項の積) (割合の基本技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point176_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "DkYHiYmRnt8",
+        "RCjlV3HMumA",
+        "oyBzQtUDfyA",
+        "pWbAjYZx6Z4",
+        "wDyK5j9s2D8"
+      ],
+      "questions": [
+        {
+          "id": "p176-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "wDyK5j9s2D8"
+          ]
+        },
+        {
+          "id": "p176-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "DkYHiYmRnt8"
+          ]
+        },
+        {
+          "id": "p176-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "oyBzQtUDfyA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point176_p00.png",
+        "point176_p01.png",
+        "point176_p02.png",
+        "point176_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point176_ans_p04.png",
+        "point176_ans_p05.png",
+        "point176_ans_p06.png",
+        "point176_ans_p07.png",
+        "point176_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/693",
+      "point_videos": [
+        {
+          "title": "比例式(内項の積=外項の積)",
+          "id": "iCrJQJLS2pc"
+        },
+        {
+          "title": "分配法則",
+          "id": "FDd9QEsR7fA"
+        }
+      ]
+    },
+    {
+      "id": "point177",
+      "number": 177,
+      "title": "歩合 (割合の基本技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point177_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "PTY3A5Z8mFA",
+        "V5KgAYFAZ1c",
+        "cYmipHLhG4s",
+        "en6Zt2qJCow",
+        "xLqNGykvPz0"
+      ],
+      "questions": [
+        {
+          "id": "p177-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "cYmipHLhG4s"
+          ]
+        },
+        {
+          "id": "p177-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "PTY3A5Z8mFA"
+          ]
+        },
+        {
+          "id": "p177-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "xLqNGykvPz0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point177_p00.png",
+        "point177_p01.png",
+        "point177_p02.png",
+        "point177_p03.png",
+        "point177_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point177_ans_p05.png",
+        "point177_ans_p06.png",
+        "point177_ans_p07.png",
+        "point177_ans_p08.png",
+        "point177_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/694",
+      "point_videos": [
+        {
+          "title": "歩合",
+          "id": "NNKMuxtxGjw"
+        },
+        {
+          "title": "→と分数倍",
+          "id": "TmtnlP-W3ek"
+        }
+      ]
+    },
+    {
+      "id": "point178",
+      "number": 178,
+      "title": "百分率 (割合の基本技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point178_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "Nr_MEFoLCmY",
+        "S-7NBXID5EU",
+        "aQrLj_gujNA",
+        "rSQz_MK9ieU",
+        "x_St-umYyIs"
+      ],
+      "questions": [
+        {
+          "id": "p178-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "x_St-umYyIs"
+          ]
+        },
+        {
+          "id": "p178-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "aQrLj_gujNA"
+          ]
+        },
+        {
+          "id": "p178-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Nr_MEFoLCmY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point178_p00.png",
+        "point178_p01.png",
+        "point178_p02.png",
+        "point178_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point178_ans_p04.png",
+        "point178_ans_p05.png",
+        "point178_ans_p06.png",
+        "point178_ans_p07.png",
+        "point178_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/695",
+      "point_videos": [
+        {
+          "title": "百分率",
+          "id": "UKwBN7U9w78"
+        },
+        {
+          "title": "→と分数倍",
+          "id": "TmtnlP-W3ek"
+        }
+      ]
+    },
+    {
+      "id": "point179",
+      "number": 179,
+      "title": "増減の割合 (割合の基本技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point179_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "54CABYNe9LI",
+        "A72Jc0HRNxM",
+        "Mzs-P14oSz4",
+        "TnJvgYu6JPY",
+        "UomAacdKWI4"
+      ],
+      "questions": [
+        {
+          "id": "p179-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "54CABYNe9LI"
+          ]
+        },
+        {
+          "id": "p179-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "Mzs-P14oSz4"
+          ]
+        },
+        {
+          "id": "p179-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "TnJvgYu6JPY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point179_p00.png",
+        "point179_p01.png",
+        "point179_p02.png",
+        "point179_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point179_ans_p04.png",
+        "point179_ans_p05.png",
+        "point179_ans_p06.png",
+        "point179_ans_p07.png",
+        "point179_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/696",
+      "point_videos": [
+        {
+          "title": "増減の割合",
+          "id": "n_YcPI5uyhM"
+        },
+        {
+          "title": "歩合",
+          "id": "NNKMuxtxGjw"
+        },
+        {
+          "title": "百分率",
+          "id": "UKwBN7U9w78"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi01",
+    "title": "第1回 力試しテスト",
+    "range": "Point 172〜179",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/702",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第1回_共通の型_力試しテスト解答.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第1回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "0zY_a2KUfD4",
+      "6uikNCdP_vM",
+      "H2_X7wLvQus",
+      "WLtd68N53iE",
+      "XYqgVxB5PiM",
+      "kOtOE3YwZ9w",
+      "nmlMZ9WXht8"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(1)",
+        "label": "2番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(2)",
+        "label": "2番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(3)",
+        "label": "2番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(3)",
+        "label": "3番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(4)",
+        "label": "3番(4)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(1)",
+        "label": "4番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(2)",
+        "label": "4番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(3)",
+        "label": "4番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6",
+        "label": "6番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7",
+        "label": "7番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8",
+        "label": "8番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8(1)",
+        "label": "8番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8(2)",
+        "label": "8番(2)",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png",
+      "test_mondai_p06.png",
+      "test_mondai_p07.png",
+      "test_mondai_p08.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png"
+    ],
+    "point_videos": [
+      {
+        "title": "反比例＝積一定・逆比",
+        "id": "YfHGIG5gdCE"
+      },
+      {
+        "title": "→と分数倍",
+        "id": "TmtnlP-W3ek"
+      },
+      {
+        "title": "比例",
+        "id": "fKYRFzqUyYU"
+      },
+      {
+        "title": "増減の割合",
+        "id": "n_YcPI5uyhM"
+      },
+      {
+        "title": "歩合",
+        "id": "NNKMuxtxGjw"
+      },
+      {
+        "title": "百分率",
+        "id": "UKwBN7U9w78"
+      },
+      {
+        "title": "比例式(内項の積=外項の積)",
+        "id": "iCrJQJLS2pc"
+      },
+      {
+        "title": "比の基本",
+        "id": "WpuBlW9VcAg"
+      },
+      {
+        "title": "連比",
+        "id": "fQDt75sehr4"
+      }
+    ]
+  }
+}

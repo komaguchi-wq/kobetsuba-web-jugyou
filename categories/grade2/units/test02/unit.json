@@ -1,0 +1,1555 @@
+{
+  "points": [
+    {
+      "id": "point180",
+      "number": 180,
+      "title": "→と×で表現 (分配算・やりとり算・（相当算）)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point180_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "42teyKuwdEg",
+        "68V-aPSiTzY",
+        "6BVagaQF578",
+        "8LMAr1lIAAE",
+        "CdphGvtEvdU",
+        "MMv5gZPXrt8",
+        "TPrYop7tRfI",
+        "_xo1JrCBKjk",
+        "tKOhxNBIVdU",
+        "wREYbLxmoLA"
+      ],
+      "questions": [
+        {
+          "id": "p180-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "tKOhxNBIVdU",
+            "TPrYop7tRfI"
+          ]
+        },
+        {
+          "id": "p180-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "68V-aPSiTzY",
+            "42teyKuwdEg"
+          ]
+        },
+        {
+          "id": "p180-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "8LMAr1lIAAE",
+            "CdphGvtEvdU"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point180_p00.png",
+        "point180_p01.png",
+        "point180_p02.png",
+        "point180_p03.png",
+        "point180_p04.png",
+        "point180_p05.png",
+        "point180_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point180_ans_p07.png",
+        "point180_ans_p08.png",
+        "point180_ans_p09.png",
+        "point180_ans_p10.png",
+        "point180_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/697",
+      "point_videos": [
+        {
+          "title": "→と×で表現",
+          "id": "bk_ZET8Nlis"
+        }
+      ]
+    },
+    {
+      "id": "point181",
+      "number": 181,
+      "title": "起点=分母のLCM○ (分配算・やりとり算・（相当算）)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point181_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "2Xyx9LRUvbA",
+        "DBLwBKInorE",
+        "Sx5L7r-dtq4",
+        "cpWyXWvFJ-8",
+        "sP9DGk29pT4",
+        "xRQUMyd0me0"
+      ],
+      "questions": [
+        {
+          "id": "p181-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "2Xyx9LRUvbA"
+          ]
+        },
+        {
+          "id": "p181-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "cpWyXWvFJ-8"
+          ]
+        },
+        {
+          "id": "p181-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Sx5L7r-dtq4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point181_p00.png",
+        "point181_p01.png",
+        "point181_p02.png",
+        "point181_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point181_ans_p04.png",
+        "point181_ans_p05.png",
+        "point181_ans_p06.png",
+        "point181_ans_p07.png",
+        "point181_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/698",
+      "point_videos": [
+        {
+          "title": "起点=分母のLCM○",
+          "id": "Kp0s0Pj8epY"
+        },
+        {
+          "title": "→と×で表現",
+          "id": "bk_ZET8Nlis"
+        },
+        {
+          "title": "相関表",
+          "id": "hxr9Lip5DyQ"
+        }
+      ]
+    },
+    {
+      "id": "point181_nankan",
+      "number": 181,
+      "title": "起点=分母のLCM○ (分配算・やりとり算・（相当算）)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point181_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "uLC4MyV0AKo"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "gtWDde82qLQ"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "u9gTCOnCV4Q",
+            "34_2fTzoxuY"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "起点=分母のLCM○",
+          "id": "Kp0s0Pj8epY"
+        },
+        {
+          "title": "→と×で表現",
+          "id": "bk_ZET8Nlis"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1146/lesson-playlist?textbook_reference_code=kobe-web-698",
+      "problemPages": [
+        "point181_nankan_p00.png",
+        "point181_nankan_p01.png",
+        "point181_nankan_p02.png",
+        "point181_nankan_p03.png",
+        "point181_nankan_p04.png",
+        "point181_nankan_p05.png",
+        "point181_nankan_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point181_nankan_ans_p07.png",
+        "point181_nankan_ans_p08.png",
+        "point181_nankan_ans_p09.png",
+        "point181_nankan_ans_p10.png",
+        "point181_nankan_ans_p11.png"
+      ]
+    },
+    {
+      "id": "point182",
+      "number": 182,
+      "title": "はねた場所から地面に平行補助線 (分配算・やりとり算・（相当算）)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point182_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-ptoK2XXWRY",
+        "9Msp1KyCcgs",
+        "MqmphBi1ws4",
+        "ZkMA8KBsBEA",
+        "_8g9Uwb3xXM",
+        "_oJl_oRe1J4",
+        "p_9hGLqknDA",
+        "rkbbZNOMlBI"
+      ],
+      "questions": [
+        {
+          "id": "p182-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ZkMA8KBsBEA"
+          ]
+        },
+        {
+          "id": "p182-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "rkbbZNOMlBI"
+          ]
+        },
+        {
+          "id": "p182-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "_oJl_oRe1J4",
+            "-ptoK2XXWRY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point182_p00.png",
+        "point182_p01.png",
+        "point182_p02.png",
+        "point182_p03.png",
+        "point182_p04.png",
+        "point182_p05.png",
+        "point182_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point182_ans_p07.png",
+        "point182_ans_p08.png",
+        "point182_ans_p09.png",
+        "point182_ans_p10.png",
+        "point182_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/699",
+      "point_videos": [
+        {
+          "title": "はねた場所から地面に平行補助線",
+          "id": "GFOVmE6d7EA"
+        }
+      ]
+    },
+    {
+      "id": "point182_nankan",
+      "number": 182,
+      "title": "はねた場所から地面に平行補助線 (分配算・やりとり算・（相当算）)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point182_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "DncLHrfWJeo",
+            "es6IgAgwZUo"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "nbgTJcej7sE"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "pC5g7D2w7P0"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "はねた場所から地面に平行補助線",
+          "id": "GFOVmE6d7EA"
+        },
+        {
+          "title": "2つの消去算",
+          "id": "O_-KF_Lb8lM"
+        },
+        {
+          "title": "比例式(内項の積=外項の積)",
+          "id": "iCrJQJLS2pc"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1152/lesson-playlist?textbook_reference_code=kobe-web-699",
+      "problemPages": [
+        "point182_nankan_p00.png",
+        "point182_nankan_p01.png",
+        "point182_nankan_p02.png",
+        "point182_nankan_p03.png",
+        "point182_nankan_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 12,
+      "answerPages": [
+        "point182_nankan_ans_p05.png",
+        "point182_nankan_ans_p06.png",
+        "point182_nankan_ans_p07.png",
+        "point182_nankan_ans_p08.png",
+        "point182_nankan_ans_p09.png",
+        "point182_nankan_ans_p10.png",
+        "point182_nankan_ans_p11.png"
+      ]
+    },
+    {
+      "id": "point183",
+      "number": 183,
+      "title": "残りの→二段線分図 (分配算・やりとり算・（相当算）)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point183_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "FB5XfkCNcV8",
+        "WFs7jOqh1qo",
+        "hhnDK2XDFRk",
+        "iJq0tjEbE_o",
+        "jVoGhP61elg",
+        "oacbKOn9P5M"
+      ],
+      "questions": [
+        {
+          "id": "p183-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "hhnDK2XDFRk"
+          ]
+        },
+        {
+          "id": "p183-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "jVoGhP61elg"
+          ]
+        },
+        {
+          "id": "p183-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "oacbKOn9P5M"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point183_p00.png",
+        "point183_p01.png",
+        "point183_p02.png",
+        "point183_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point183_ans_p04.png",
+        "point183_ans_p05.png",
+        "point183_ans_p06.png",
+        "point183_ans_p07.png",
+        "point183_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/700",
+      "point_videos": [
+        {
+          "title": "残りの→二段線分図",
+          "id": "5PTOGLyVNrs"
+        }
+      ]
+    },
+    {
+      "id": "point183_nankan",
+      "number": 183,
+      "title": "残りの→二段線分図 (分配算・やりとり算・（相当算）)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point183_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "RUav2aW6OFU"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "Riq8LFpMghk"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "06JFJBbR6Mc"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "残りの→二段線分図",
+          "id": "5PTOGLyVNrs"
+        },
+        {
+          "title": "起点=分母のLCM○",
+          "id": "Kp0s0Pj8epY"
+        },
+        {
+          "title": "2つの消去算",
+          "id": "O_-KF_Lb8lM"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1158/lesson-playlist?textbook_reference_code=kobe-web-700",
+      "problemPages": [
+        "point183_nankan_p00.png",
+        "point183_nankan_p01.png",
+        "point183_nankan_p02.png",
+        "point183_nankan_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point183_nankan_ans_p04.png",
+        "point183_nankan_ans_p05.png",
+        "point183_nankan_ans_p06.png",
+        "point183_nankan_ans_p07.png",
+        "point183_nankan_ans_p08.png"
+      ]
+    },
+    {
+      "id": "point184",
+      "number": 184,
+      "title": "の比の比 (割合の基本技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point184_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "BEG6pukU25s",
+        "BjQqdKkqimY",
+        "BmcfyYpSQlA",
+        "FNGz9zF5nLQ",
+        "IrDKQc_bcOU",
+        "ZHHuKn-cnNc",
+        "_EDMju8-prY",
+        "mDejl5yTpbo",
+        "mOFvC8I-BcI",
+        "ncBUyNWb6Io",
+        "qF0Nn0u0zow",
+        "tD1mRjt88Jo",
+        "u3LpWH_AJ44",
+        "zBJhfsHkV70"
+      ],
+      "questions": [
+        {
+          "id": "p184-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "qF0Nn0u0zow",
+            "FNGz9zF5nLQ",
+            "_EDMju8-prY"
+          ]
+        },
+        {
+          "id": "p184-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "IrDKQc_bcOU",
+            "tD1mRjt88Jo",
+            "ncBUyNWb6Io"
+          ]
+        },
+        {
+          "id": "p184-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "BmcfyYpSQlA",
+            "BEG6pukU25s",
+            "BjQqdKkqimY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point184_p00.png",
+        "point184_p01.png",
+        "point184_p02.png",
+        "point184_p03.png",
+        "point184_p04.png",
+        "point184_p05.png",
+        "point184_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point184_ans_p07.png",
+        "point184_ans_p08.png",
+        "point184_ans_p09.png",
+        "point184_ans_p10.png",
+        "point184_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/711",
+      "point_videos": [
+        {
+          "title": "の比の比",
+          "id": "PE1ZBvyPUjI"
+        }
+      ]
+    },
+    {
+      "id": "point185",
+      "number": 185,
+      "title": "×=×の逆比 (割合の基本技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point185_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "OpK0q0kOWOA",
+        "Pjn0tPN--ko",
+        "SbXAoNYaWZQ",
+        "VU5htwzJDlM",
+        "aM8fZtvRkgM",
+        "apaRrckoCMI",
+        "ePgZ1qJbAgg",
+        "jkbVxSdY6gA",
+        "l42GGaA5uCA",
+        "vBlOgydR1VE",
+        "vultumA-5Ec"
+      ],
+      "questions": [
+        {
+          "id": "p185-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "OpK0q0kOWOA"
+          ]
+        },
+        {
+          "id": "p185-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "jkbVxSdY6gA"
+          ]
+        },
+        {
+          "id": "p185-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "ePgZ1qJbAgg",
+            "SbXAoNYaWZQ",
+            "VU5htwzJDlM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point185_p00.png",
+        "point185_p01.png",
+        "point185_p02.png",
+        "point185_p03.png",
+        "point185_p04.png",
+        "point185_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 15,
+      "answerPages": [
+        "point185_ans_p06.png",
+        "point185_ans_p07.png",
+        "point185_ans_p08.png",
+        "point185_ans_p09.png",
+        "point185_ans_p10.png",
+        "point185_ans_p11.png",
+        "point185_ans_p12.png",
+        "point185_ans_p13.png",
+        "point185_ans_p14.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/712",
+      "point_videos": [
+        {
+          "title": "×=×の逆比",
+          "id": "o2YNYhj7Vc4"
+        },
+        {
+          "title": "歩合",
+          "id": "NNKMuxtxGjw"
+        },
+        {
+          "title": "増減の割合",
+          "id": "n_YcPI5uyhM"
+        }
+      ]
+    },
+    {
+      "id": "point186",
+      "number": 186,
+      "title": "3つの逆比 (割合の基本技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point186_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "Dgg_6_ikMZQ",
+        "JIXpAujcC2s",
+        "Lwv6bRFNx9c",
+        "gkd4APbBlQ4",
+        "hdaPuAvBZf0",
+        "mWB7r30tCyk",
+        "pUVU7tL65ew",
+        "q1j44mh-2LM",
+        "rpj92uw4wYQ",
+        "twlcb1hZyYo"
+      ],
+      "questions": [
+        {
+          "id": "p186-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "pUVU7tL65ew"
+          ]
+        },
+        {
+          "id": "p186-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "Dgg_6_ikMZQ"
+          ]
+        },
+        {
+          "id": "p186-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "mWB7r30tCyk",
+            "twlcb1hZyYo"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point186_p00.png",
+        "point186_p01.png",
+        "point186_p02.png",
+        "point186_p03.png",
+        "point186_p04.png",
+        "point186_p05.png",
+        "point186_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point186_ans_p07.png",
+        "point186_ans_p08.png",
+        "point186_ans_p09.png",
+        "point186_ans_p10.png",
+        "point186_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/713",
+      "point_videos": [
+        {
+          "title": "3つの逆比",
+          "id": "KrIwwCN7GxU"
+        }
+      ]
+    },
+    {
+      "id": "point187",
+      "number": 187,
+      "title": "差一定 (分配算・やりとり算・（相当算）)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point187_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-DTHwJRWnS4",
+        "3JSwYoeRBXA",
+        "8CwxO_06Sec",
+        "FXlHjUcxfPo",
+        "LEQN52mmSOg",
+        "MjOF685LPd8",
+        "S-dGBiImEL8",
+        "SUO69_KaJEY",
+        "V7IcSdya0hU",
+        "YU-UaYAcg8E",
+        "a4H3cMgX6Ko",
+        "j_1i8qbEKyk",
+        "j_xwY1zBes0",
+        "me-cZfoD2e0",
+        "wiOcA0pREMQ"
+      ],
+      "questions": [
+        {
+          "id": "p187-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "S-dGBiImEL8",
+            "LEQN52mmSOg",
+            "3JSwYoeRBXA"
+          ]
+        },
+        {
+          "id": "p187-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "FXlHjUcxfPo",
+            "8CwxO_06Sec",
+            "me-cZfoD2e0"
+          ]
+        },
+        {
+          "id": "p187-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "j_1i8qbEKyk",
+            "-DTHwJRWnS4",
+            "SUO69_KaJEY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point187_p00.png",
+        "point187_p01.png",
+        "point187_p02.png",
+        "point187_p03.png",
+        "point187_p04.png",
+        "point187_p05.png",
+        "point187_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point187_ans_p07.png",
+        "point187_ans_p08.png",
+        "point187_ans_p09.png",
+        "point187_ans_p10.png",
+        "point187_ans_p11.png",
+        "point187_ans_p12.png",
+        "point187_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/714",
+      "point_videos": [
+        {
+          "title": "差一定",
+          "id": "4DQvtEHF6X4"
+        },
+        {
+          "title": "年令表",
+          "id": "lqf30QV2BGg"
+        },
+        {
+          "title": "約分前の分数→分子・分母を〇でおく",
+          "id": "c_GAP8o0CNM"
+        }
+      ]
+    },
+    {
+      "id": "point188",
+      "number": 188,
+      "title": "和一定 (分配算・やりとり算・（相当算）)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point188_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "7Afg6FgdDTg",
+        "8RrFPPsJZDM",
+        "FlsUSSI9_Nw",
+        "QL1hy_qFwnI",
+        "Tze-riLq8rI",
+        "Wfwa0yq-Haw",
+        "Z8DNOASBwPo",
+        "gVSzKGDFolM",
+        "nFYir7k_W6A",
+        "oBiHVh78aII"
+      ],
+      "questions": [
+        {
+          "id": "p188-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "Tze-riLq8rI",
+            "QL1hy_qFwnI"
+          ]
+        },
+        {
+          "id": "p188-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "8RrFPPsJZDM",
+            "FlsUSSI9_Nw"
+          ]
+        },
+        {
+          "id": "p188-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "gVSzKGDFolM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point188_p00.png",
+        "point188_p01.png",
+        "point188_p02.png",
+        "point188_p03.png",
+        "point188_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point188_ans_p05.png",
+        "point188_ans_p06.png",
+        "point188_ans_p07.png",
+        "point188_ans_p08.png",
+        "point188_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/715",
+      "point_videos": [
+        {
+          "title": "和一定",
+          "id": "kvUrxzbQc4o"
+        },
+        {
+          "title": "約分前の分数→分子・分母を〇でおく",
+          "id": "c_GAP8o0CNM"
+        }
+      ]
+    },
+    {
+      "id": "point189",
+      "number": 189,
+      "title": "比例式 (分配算・やりとり算・（相当算）)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point189_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "7Fru-8CJ-BU",
+        "9lRDa1hu_Ss",
+        "L2N1xPSx8AA",
+        "X9vVzbKwgJg",
+        "atheqHAvXLM",
+        "cGQLXA1ZEAU",
+        "szOYNVVB9pE",
+        "tCTXnKunlRM"
+      ],
+      "questions": [
+        {
+          "id": "p189-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "X9vVzbKwgJg",
+            "9lRDa1hu_Ss"
+          ]
+        },
+        {
+          "id": "p189-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "atheqHAvXLM",
+            "szOYNVVB9pE"
+          ]
+        },
+        {
+          "id": "p189-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "L2N1xPSx8AA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point189_p00.png",
+        "point189_p01.png",
+        "point189_p02.png",
+        "point189_p03.png",
+        "point189_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point189_ans_p05.png",
+        "point189_ans_p06.png",
+        "point189_ans_p07.png",
+        "point189_ans_p08.png",
+        "point189_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/716",
+      "point_videos": [
+        {
+          "title": "比例式",
+          "id": "jnwK0U1WcwI"
+        }
+      ]
+    },
+    {
+      "id": "point190",
+      "number": 190,
+      "title": "3つ目の比の場所で比例式 (分配算・やりとり算・（相当算）)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point190_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "4e9IzuhwIEA",
+        "5OJ46Pn-zbM",
+        "6hGOHCFwNLs",
+        "8yMd2NLxraE",
+        "ClKhPlTWrnA",
+        "DmKTOqHo0fk",
+        "JwYRNIf7bsI",
+        "OQQVSl4qK7Y",
+        "SecMjdkzIL4",
+        "XAEk-H_8r3k"
+      ],
+      "questions": [
+        {
+          "id": "p190-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ClKhPlTWrnA",
+            "JwYRNIf7bsI"
+          ]
+        },
+        {
+          "id": "p190-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "8yMd2NLxraE",
+            "SecMjdkzIL4"
+          ]
+        },
+        {
+          "id": "p190-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "DmKTOqHo0fk",
+            "XAEk-H_8r3k"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point190_p00.png",
+        "point190_p01.png",
+        "point190_p02.png",
+        "point190_p03.png",
+        "point190_p04.png",
+        "point190_p05.png",
+        "point190_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point190_ans_p07.png",
+        "point190_ans_p08.png",
+        "point190_ans_p09.png",
+        "point190_ans_p10.png",
+        "point190_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/717",
+      "point_videos": [
+        {
+          "title": "3つ目の比の場所で比例式",
+          "id": "sFUF0foYwfY"
+        },
+        {
+          "title": "相関表",
+          "id": "hxr9Lip5DyQ"
+        }
+      ]
+    },
+    {
+      "id": "point191",
+      "number": 191,
+      "title": "やりとりフローチャート (分配算・やりとり算・（相当算）)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point191_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "56HDaQPRvlA",
+        "DLMhux6tX5I",
+        "IYt8Er8BD4Y",
+        "Nui-vwpR41Q",
+        "QygrDrYu8ok",
+        "_uPrZE5uC3Y",
+        "cJNK88lxJZM",
+        "dnQWwJXDOkY",
+        "nOO__wKL0dM",
+        "rgJEUfI_w7o",
+        "uRnQ4ABTgWw",
+        "xg4jjQyB9rc"
+      ],
+      "questions": [
+        {
+          "id": "p191-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "IYt8Er8BD4Y",
+            "Nui-vwpR41Q"
+          ]
+        },
+        {
+          "id": "p191-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "56HDaQPRvlA",
+            "DLMhux6tX5I"
+          ]
+        },
+        {
+          "id": "p191-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "cJNK88lxJZM",
+            "dnQWwJXDOkY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point191_p00.png",
+        "point191_p01.png",
+        "point191_p02.png",
+        "point191_p03.png",
+        "point191_p04.png",
+        "point191_p05.png",
+        "point191_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 16,
+      "answerPages": [
+        "point191_ans_p07.png",
+        "point191_ans_p08.png",
+        "point191_ans_p09.png",
+        "point191_ans_p10.png",
+        "point191_ans_p11.png",
+        "point191_ans_p12.png",
+        "point191_ans_p13.png",
+        "point191_ans_p14.png",
+        "point191_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/718",
+      "point_videos": [
+        {
+          "title": "やりとりフローチャート(割合あり)",
+          "id": "o45FFJIv9tI"
+        }
+      ]
+    },
+    {
+      "id": "point192",
+      "number": 192,
+      "title": "歯車の積一定(割合有) (割合の基本技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point192_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-vdITOnWO5E",
+        "0p6BiZ8f5Sc",
+        "52QnH2NnxLE",
+        "7V-TC-TZUMs",
+        "BONUDK6ONg0",
+        "_CwwR5RIQkM",
+        "o1P876_RlB4",
+        "rxRvH6SpKvk"
+      ],
+      "questions": [
+        {
+          "id": "p192-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "0p6BiZ8f5Sc",
+            "52QnH2NnxLE"
+          ]
+        },
+        {
+          "id": "p192-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "BONUDK6ONg0",
+            "-vdITOnWO5E"
+          ]
+        },
+        {
+          "id": "p192-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "o1P876_RlB4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point192_p00.png",
+        "point192_p01.png",
+        "point192_p02.png",
+        "point192_p03.png",
+        "point192_p04.png",
+        "point192_p05.png",
+        "point192_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point192_ans_p07.png",
+        "point192_ans_p08.png",
+        "point192_ans_p09.png",
+        "point192_ans_p10.png",
+        "point192_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/720",
+      "point_videos": [
+        {
+          "title": "歯車の積一定(割合有)",
+          "id": "rqtV4Bqdctk"
+        }
+      ]
+    },
+    {
+      "id": "point193",
+      "number": 193,
+      "title": "加比の理 (割合の基本技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point193_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "4x8rG9D7VWQ",
+        "QW_k_gaI5og",
+        "Ql59Anm_Yz0",
+        "mrMLz1WA64c",
+        "nGZhsgX3s6U",
+        "sdiMy9U6y3c",
+        "tMGrMLO0ZRs",
+        "w9VviFfDApg"
+      ],
+      "questions": [
+        {
+          "id": "p193-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "Ql59Anm_Yz0"
+          ]
+        },
+        {
+          "id": "p193-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "4x8rG9D7VWQ"
+          ]
+        },
+        {
+          "id": "p193-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "mrMLz1WA64c"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point193_p00.png",
+        "point193_p01.png",
+        "point193_p02.png",
+        "point193_p03.png",
+        "point193_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point193_ans_p05.png",
+        "point193_ans_p06.png",
+        "point193_ans_p07.png",
+        "point193_ans_p08.png",
+        "point193_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/722",
+      "point_videos": [
+        {
+          "title": "加比の理",
+          "id": "hhuqk1rTQCc"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi02",
+    "title": "第2回 力試しテスト",
+    "range": "Point 180〜193",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/724",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第2回_共通の型_力試しテスト問題.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第2回_共通の型_力試しテスト解答.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "0RDKdhsfkH8",
+      "0t5lvsK-hGA",
+      "3cz4FNkOquQ",
+      "3y0VSN-55B4",
+      "5T-VBUWKSyA",
+      "9nl33o-jrcA",
+      "AxpzcJ8ZXUY",
+      "BZNKqO1T1CU",
+      "CdVxGRiUwOw",
+      "JE-eWDEZDRw",
+      "OW-SCgL-NxY",
+      "SX2Nkkn12j0",
+      "Vkz_XPaF43o",
+      "ZpSp0rX6iP4",
+      "bjG88_hW_dU",
+      "fv3-JMGxf40",
+      "hojr5Xkh2aA",
+      "k9wZhWRkXw0",
+      "s8U0_pDY2ec",
+      "v8aDqdtvV0c",
+      "vvQUPeboM6E",
+      "xiRw8l2zEG4",
+      "xyoOCe_Ep_Y",
+      "yF69fDuQbUc",
+      "yXABfOTOG5U",
+      "z5S5qBjP2lY"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(1)",
+        "label": "4番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(2)",
+        "label": "4番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(3)",
+        "label": "4番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(1)",
+        "label": "5番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(2)",
+        "label": "5番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(3)",
+        "label": "5番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6",
+        "label": "6番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(1)",
+        "label": "6番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(2)",
+        "label": "6番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7",
+        "label": "7番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7(1)",
+        "label": "7番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7(2)",
+        "label": "7番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7(3)",
+        "label": "7番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8",
+        "label": "8番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8(1)",
+        "label": "8番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8(2)",
+        "label": "8番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9",
+        "label": "9番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q10",
+        "label": "10番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q10(1)",
+        "label": "10番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q10(2)",
+        "label": "10番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q11",
+        "label": "11番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q12",
+        "label": "12番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q12(1)",
+        "label": "12番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q12(2)",
+        "label": "12番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q13",
+        "label": "13番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q14",
+        "label": "14番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q14(1)",
+        "label": "14番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q14(2)",
+        "label": "14番(2)",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png",
+      "test_mondai_p06.png",
+      "test_mondai_p07.png",
+      "test_mondai_p08.png",
+      "test_mondai_p09.png",
+      "test_mondai_p10.png",
+      "test_mondai_p11.png",
+      "test_mondai_p12.png",
+      "test_mondai_p13.png",
+      "test_mondai_p14.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png",
+      "test_kaitou_p02.png"
+    ],
+    "point_videos": [
+      {
+        "title": "残りの→二段線分図",
+        "id": "5PTOGLyVNrs"
+      },
+      {
+        "title": "歯車の積一定(割合有)",
+        "id": "rqtV4Bqdctk"
+      },
+      {
+        "title": "3つ目の比の場所で比例式",
+        "id": "sFUF0foYwfY"
+      },
+      {
+        "title": "×=×の逆比",
+        "id": "o2YNYhj7Vc4"
+      },
+      {
+        "title": "差一定",
+        "id": "4DQvtEHF6X4"
+      },
+      {
+        "title": "はねた場所から地面に平行補助線",
+        "id": "GFOVmE6d7EA"
+      },
+      {
+        "title": "の比の比",
+        "id": "PE1ZBvyPUjI"
+      },
+      {
+        "title": "和一定",
+        "id": "kvUrxzbQc4o"
+      },
+      {
+        "title": "加比の理",
+        "id": "hhuqk1rTQCc"
+      },
+      {
+        "title": "→と×で表現",
+        "id": "bk_ZET8Nlis"
+      },
+      {
+        "title": "比例式",
+        "id": "jnwK0U1WcwI"
+      },
+      {
+        "title": "やりとりフローチャート(割合あり)",
+        "id": "o45FFJIv9tI"
+      },
+      {
+        "title": "起点=分母のLCM○",
+        "id": "Kp0s0Pj8epY"
+      },
+      {
+        "title": "相関表",
+        "id": "hxr9Lip5DyQ"
+      },
+      {
+        "title": "3つの逆比",
+        "id": "KrIwwCN7GxU"
+      }
+    ]
+  }
+}

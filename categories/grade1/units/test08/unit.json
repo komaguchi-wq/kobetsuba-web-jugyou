@@ -1,0 +1,662 @@
+{
+  "points": [
+    {
+      "id": "point70",
+      "number": 70,
+      "title": "柱体の性質 (体積・表面積)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point70_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "Y0vAVyYJkLM",
+        "lk2E5LC4K6s",
+        "rf5yDgQWJ9U",
+        "u8cbRWjoDQg",
+        "wVzgAHjbMPo"
+      ],
+      "questions": [
+        {
+          "id": "p70-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "u8cbRWjoDQg"
+          ]
+        },
+        {
+          "id": "p70-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "lk2E5LC4K6s"
+          ]
+        },
+        {
+          "id": "p70-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Y0vAVyYJkLM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point70_p00.png",
+        "point70_p01.png",
+        "point70_p02.png",
+        "point70_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point70_ans_p04.png",
+        "point70_ans_p05.png",
+        "point70_ans_p06.png",
+        "point70_ans_p07.png",
+        "point70_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/796",
+      "point_videos": [
+        {
+          "title": "柱体の性質",
+          "id": "WXR1fS0hh6Y"
+        }
+      ]
+    },
+    {
+      "id": "point71",
+      "number": 71,
+      "title": "柱体の体積 (体積・表面積)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point71_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "Exa6NGUQnik",
+        "MGzdKs8EmzY",
+        "pTe3YGcjtZU",
+        "tYjwZEd_2uc",
+        "wM4cK_Yrg7I",
+        "yklcYpHlGZU"
+      ],
+      "questions": [
+        {
+          "id": "p71-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "tYjwZEd_2uc"
+          ]
+        },
+        {
+          "id": "p71-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "yklcYpHlGZU"
+          ]
+        },
+        {
+          "id": "p71-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Exa6NGUQnik"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point71_p00.png",
+        "point71_p01.png",
+        "point71_p02.png",
+        "point71_p03.png",
+        "point71_p04.png",
+        "point71_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point71_ans_p06.png",
+        "point71_ans_p07.png",
+        "point71_ans_p08.png",
+        "point71_ans_p09.png",
+        "point71_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/797",
+      "point_videos": [
+        {
+          "title": "柱体の体積",
+          "id": "VvX1Fr6whDA"
+        }
+      ]
+    },
+    {
+      "id": "point72",
+      "number": 72,
+      "title": "柱体の表面積 (体積・表面積)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point72_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "6OphmQvVh_4",
+        "ETVjyvkuo3Q",
+        "IffrvVc9sr0",
+        "QgYUaizWtOo",
+        "d_5SG-HaPEg",
+        "pnHtxvXWZpg"
+      ],
+      "questions": [
+        {
+          "id": "p72-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "pnHtxvXWZpg"
+          ]
+        },
+        {
+          "id": "p72-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "IffrvVc9sr0"
+          ]
+        },
+        {
+          "id": "p72-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "d_5SG-HaPEg"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point72_p00.png",
+        "point72_p01.png",
+        "point72_p02.png",
+        "point72_p03.png",
+        "point72_p04.png",
+        "point72_p05.png",
+        "point72_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point72_ans_p07.png",
+        "point72_ans_p08.png",
+        "point72_ans_p09.png",
+        "point72_ans_p10.png",
+        "point72_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/798",
+      "point_videos": [
+        {
+          "title": "柱体の表面積",
+          "id": "9A0ZlgDGtFw"
+        },
+        {
+          "title": "柱体の体積",
+          "id": "VvX1Fr6whDA"
+        },
+        {
+          "title": "周の延長解法",
+          "id": "KNpyA48Qsto"
+        }
+      ]
+    },
+    {
+      "id": "point73",
+      "number": 73,
+      "title": "スリーバイツー (体積・表面積)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point73_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "Dsv1WHce9-o",
+        "GNCw2I59zKc",
+        "cOerPiGH1r0",
+        "kC99b7c-Tms",
+        "spCVvvpKH5s",
+        "w7Y3KJVFi3g"
+      ],
+      "questions": [
+        {
+          "id": "p73-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "spCVvvpKH5s"
+          ]
+        },
+        {
+          "id": "p73-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "Dsv1WHce9-o"
+          ]
+        },
+        {
+          "id": "p73-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "w7Y3KJVFi3g"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point73_p00.png",
+        "point73_p01.png",
+        "point73_p02.png",
+        "point73_p03.png",
+        "point73_p04.png",
+        "point73_p05.png",
+        "point73_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point73_ans_p07.png",
+        "point73_ans_p08.png",
+        "point73_ans_p09.png",
+        "point73_ans_p10.png",
+        "point73_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/799",
+      "point_videos": [
+        {
+          "title": "スリーバイツー",
+          "id": "tiKI8wNaR2A"
+        },
+        {
+          "title": "等差数列",
+          "id": "EAkGktETId8"
+        }
+      ]
+    },
+    {
+      "id": "point74",
+      "number": 74,
+      "title": "上から見た図で推論 (立体の応用技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point74_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "0HpsVOxPXDI",
+        "TNriaWS8Las",
+        "ZH9l8oS4jHA",
+        "icJuVgqs3NA",
+        "on5AOcChAY8",
+        "p1H5_Y_0LLg"
+      ],
+      "questions": [
+        {
+          "id": "p74-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "0HpsVOxPXDI"
+          ]
+        },
+        {
+          "id": "p74-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "icJuVgqs3NA"
+          ]
+        },
+        {
+          "id": "p74-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "ZH9l8oS4jHA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point74_p00.png",
+        "point74_p01.png",
+        "point74_p02.png",
+        "point74_p03.png",
+        "point74_p04.png",
+        "point74_p05.png",
+        "point74_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point74_ans_p07.png",
+        "point74_ans_p08.png",
+        "point74_ans_p09.png",
+        "point74_ans_p10.png",
+        "point74_ans_p11.png",
+        "point74_ans_p12.png",
+        "point74_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/800",
+      "point_videos": [
+        {
+          "title": "上から見た図で推論",
+          "id": "wG1RogeIbps"
+        },
+        {
+          "title": "スリーバイツー",
+          "id": "tiKI8wNaR2A"
+        }
+      ]
+    },
+    {
+      "id": "point75",
+      "number": 75,
+      "title": "立方体のナナメ頂点打ち (立体の応用技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point75_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3gQqAoX0Ylg",
+        "LI_RQNMRryY",
+        "hfnuk9pd_eU",
+        "qbkiSPfZ0lc",
+        "sYHMm1WYgqg"
+      ],
+      "questions": [
+        {
+          "id": "p75-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "qbkiSPfZ0lc"
+          ]
+        },
+        {
+          "id": "p75-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "sYHMm1WYgqg"
+          ]
+        },
+        {
+          "id": "p75-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "LI_RQNMRryY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point75_p00.png",
+        "point75_p01.png",
+        "point75_p02.png",
+        "point75_p03.png",
+        "point75_p04.png",
+        "point75_p05.png",
+        "point75_p06.png",
+        "point75_p07.png"
+      ],
+      "answerStartPage": 8,
+      "totalPages": 13,
+      "answerPages": [
+        "point75_ans_p08.png",
+        "point75_ans_p09.png",
+        "point75_ans_p10.png",
+        "point75_ans_p11.png",
+        "point75_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/801",
+      "point_videos": [
+        {
+          "title": "立方体のナナメ頂点打ち",
+          "id": "TeFhOJPfQ58"
+        }
+      ]
+    },
+    {
+      "id": "point76",
+      "number": 76,
+      "title": "正八面体のナナメ頂点打ち (立体の応用技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point76_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "A69d2aDG36Q",
+        "DMPRVQTKvNg",
+        "RrtAgullzLU",
+        "WRsetVSGJt4",
+        "foEs5RBr8Qw",
+        "taxex_xlurc"
+      ],
+      "questions": [
+        {
+          "id": "p76-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "A69d2aDG36Q"
+          ]
+        },
+        {
+          "id": "p76-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "DMPRVQTKvNg"
+          ]
+        },
+        {
+          "id": "p76-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "taxex_xlurc"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point76_p00.png",
+        "point76_p01.png",
+        "point76_p02.png",
+        "point76_p03.png",
+        "point76_p04.png",
+        "point76_p05.png",
+        "point76_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point76_ans_p07.png",
+        "point76_ans_p08.png",
+        "point76_ans_p09.png",
+        "point76_ans_p10.png",
+        "point76_ans_p11.png",
+        "point76_ans_p12.png",
+        "point76_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/802",
+      "point_videos": [
+        {
+          "title": "正八面体のナナメ頂点打ち",
+          "id": "0UaLp9uacCE"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi08",
+    "title": "第8回 力試しテスト",
+    "range": "Point 70〜76",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/803",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第8回_共通の型_力試しテスト解答.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第8回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "9vAE_aHipmQ",
+      "EqgJY9mIgTI",
+      "TxtoPY1zHBM",
+      "VfQXjw_b4p8",
+      "_GCsp0SV7t8",
+      "jfHe22AJNg0",
+      "k4visgErJfM"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(1)",
+        "label": "2番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(2)",
+        "label": "2番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(3)",
+        "label": "2番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(1)",
+        "label": "4番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(2)",
+        "label": "4番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(1)",
+        "label": "5番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(2)",
+        "label": "5番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(3)",
+        "label": "5番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(4)",
+        "label": "5番(4)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6",
+        "label": "6番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(1)",
+        "label": "6番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(2)",
+        "label": "6番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7",
+        "label": "7番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7(1)",
+        "label": "7番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7(2)",
+        "label": "7番(2)",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png",
+      "test_mondai_p06.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png"
+    ],
+    "point_videos": [
+      {
+        "title": "立方体のナナメ頂点打ち",
+        "id": "TeFhOJPfQ58"
+      },
+      {
+        "title": "スリーバイツー",
+        "id": "tiKI8wNaR2A"
+      },
+      {
+        "title": "正八面体のナナメ頂点打ち",
+        "id": "0UaLp9uacCE"
+      },
+      {
+        "title": "柱体の表面積",
+        "id": "9A0ZlgDGtFw"
+      },
+      {
+        "title": "柱体の性質",
+        "id": "WXR1fS0hh6Y"
+      },
+      {
+        "title": "上から見た図で推論",
+        "id": "wG1RogeIbps"
+      },
+      {
+        "title": "柱体の体積",
+        "id": "VvX1Fr6whDA"
+      }
+    ]
+  }
+}

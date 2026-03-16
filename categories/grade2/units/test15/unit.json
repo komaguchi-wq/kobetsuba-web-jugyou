@@ -1,0 +1,889 @@
+{
+  "points": [
+    {
+      "id": "point311",
+      "number": 311,
+      "title": "食塩水分数 (食塩水)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point311_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "7kjussmkfPM",
+        "PrySlKMx1es",
+        "U_tRfxxf90g",
+        "bD1ics5VOWQ",
+        "rFhMOKtjH38",
+        "zW7b-Rv21SU"
+      ],
+      "questions": [
+        {
+          "id": "p311-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "zW7b-Rv21SU"
+          ]
+        },
+        {
+          "id": "p311-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "PrySlKMx1es"
+          ]
+        },
+        {
+          "id": "p311-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "bD1ics5VOWQ"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point311_p00.png",
+        "point311_p01.png",
+        "point311_p02.png",
+        "point311_p03.png",
+        "point311_p04.png",
+        "point311_p05.png",
+        "point311_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point311_ans_p07.png",
+        "point311_ans_p08.png",
+        "point311_ans_p09.png",
+        "point311_ans_p10.png",
+        "point311_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1021",
+      "point_videos": [
+        {
+          "title": "食塩水分数",
+          "id": "W01ob1c9ANw"
+        }
+      ]
+    },
+    {
+      "id": "point311_nankan",
+      "number": 311,
+      "title": "食塩水分数 (食塩水)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point311_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "8_sMnhDzI6w"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "dDiq7ErUgJo"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "bbLelr90T8U"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "食塩水分数",
+          "id": "W01ob1c9ANw"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/2109/lesson-playlist?textbook_reference_code=kobe-web-1021",
+      "problemPages": [
+        "point311_nankan_p00.png",
+        "point311_nankan_p01.png",
+        "point311_nankan_p02.png",
+        "point311_nankan_p03.png",
+        "point311_nankan_p04.png",
+        "point311_nankan_p05.png",
+        "point311_nankan_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point311_nankan_ans_p07.png",
+        "point311_nankan_ans_p08.png",
+        "point311_nankan_ans_p09.png",
+        "point311_nankan_ans_p10.png",
+        "point311_nankan_ans_p11.png"
+      ]
+    },
+    {
+      "id": "point312",
+      "number": 312,
+      "title": "食塩水の面積図 (食塩水)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point312_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "2iQAadzY3so",
+        "DtfifTjXU7E",
+        "TcAF60zzfbI",
+        "_ZB2kVvTlic",
+        "aNij9Oe6Pcs",
+        "u_ea0G0fmDs"
+      ],
+      "questions": [
+        {
+          "id": "p312-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "aNij9Oe6Pcs"
+          ]
+        },
+        {
+          "id": "p312-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "TcAF60zzfbI"
+          ]
+        },
+        {
+          "id": "p312-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "DtfifTjXU7E"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point312_p00.png",
+        "point312_p01.png",
+        "point312_p02.png",
+        "point312_p03.png",
+        "point312_p04.png",
+        "point312_p05.png",
+        "point312_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point312_ans_p07.png",
+        "point312_ans_p08.png",
+        "point312_ans_p09.png",
+        "point312_ans_p10.png",
+        "point312_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1022",
+      "point_videos": [
+        {
+          "title": "食塩水の面積図",
+          "id": "UgWz1729tGc"
+        }
+      ]
+    },
+    {
+      "id": "point313",
+      "number": 313,
+      "title": "水入れ(連発)→全体量と濃度の逆比 (食塩水)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point313_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "49iDGHgEiKQ",
+        "DgTJbzHH8-0",
+        "I_GJbGBsjuo",
+        "YQBQhBxXclw",
+        "_YqM7PfqEmw",
+        "eT8MX_nHOpc",
+        "ez2H8YyPn6w",
+        "wDEzf5yrb6A"
+      ],
+      "questions": [
+        {
+          "id": "p313-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "YQBQhBxXclw"
+          ]
+        },
+        {
+          "id": "p313-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "wDEzf5yrb6A"
+          ]
+        },
+        {
+          "id": "p313-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "ez2H8YyPn6w"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point313_p00.png",
+        "point313_p01.png",
+        "point313_p02.png",
+        "point313_p03.png",
+        "point313_p04.png",
+        "point313_p05.png",
+        "point313_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point313_ans_p07.png",
+        "point313_ans_p08.png",
+        "point313_ans_p09.png",
+        "point313_ans_p10.png",
+        "point313_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1023",
+      "point_videos": [
+        {
+          "title": "水入れ(連発)→全体量と濃度の逆比",
+          "id": "QPWnBpCBQVI"
+        }
+      ]
+    },
+    {
+      "id": "point314",
+      "number": 314,
+      "title": "フローチャート (食塩水)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point314_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1Qp4724htDU",
+        "Inzo1zMtiyI",
+        "Ny5CsJ3blpg",
+        "RFZprkqJh4w",
+        "cXoAPztyGzo",
+        "satwAqTUbXw"
+      ],
+      "questions": [
+        {
+          "id": "p314-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "1Qp4724htDU"
+          ]
+        },
+        {
+          "id": "p314-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "RFZprkqJh4w"
+          ]
+        },
+        {
+          "id": "p314-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "cXoAPztyGzo"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point314_p00.png",
+        "point314_p01.png",
+        "point314_p02.png",
+        "point314_p03.png",
+        "point314_p04.png",
+        "point314_p05.png",
+        "point314_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point314_ans_p07.png",
+        "point314_ans_p08.png",
+        "point314_ans_p09.png",
+        "point314_ans_p10.png",
+        "point314_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1024",
+      "point_videos": [
+        {
+          "title": "フローチャート",
+          "id": "WCECOy5-a3g"
+        }
+      ]
+    },
+    {
+      "id": "point315",
+      "number": 315,
+      "title": "等量交換 (食塩水)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point315_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "ELd7pCq4BKk",
+        "X6Oeb53Vfd8",
+        "duqvMprr1xY",
+        "f2nDqgPi2f4",
+        "na_DiSFuBNs",
+        "qlj6M3JhWYM"
+      ],
+      "questions": [
+        {
+          "id": "p315-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "X6Oeb53Vfd8"
+          ]
+        },
+        {
+          "id": "p315-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "duqvMprr1xY"
+          ]
+        },
+        {
+          "id": "p315-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "f2nDqgPi2f4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point315_p00.png",
+        "point315_p01.png",
+        "point315_p02.png",
+        "point315_p03.png",
+        "point315_p04.png",
+        "point315_p05.png",
+        "point315_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point315_ans_p07.png",
+        "point315_ans_p08.png",
+        "point315_ans_p09.png",
+        "point315_ans_p10.png",
+        "point315_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1025",
+      "point_videos": [
+        {
+          "title": "等量交換",
+          "id": "uvwlNPTSgvo"
+        }
+      ]
+    },
+    {
+      "id": "point316",
+      "number": 316,
+      "title": "てんびん法 (食塩水)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point316_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3B5zd8GyGO4",
+        "DWCNb3lYHW0",
+        "M8JMXgBdENM",
+        "NppNrB9ajcE",
+        "Y2MFxy0XGxk",
+        "eKSDcFHVdW0"
+      ],
+      "questions": [
+        {
+          "id": "p316-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "M8JMXgBdENM"
+          ]
+        },
+        {
+          "id": "p316-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "DWCNb3lYHW0"
+          ]
+        },
+        {
+          "id": "p316-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "3B5zd8GyGO4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point316_p00.png",
+        "point316_p01.png",
+        "point316_p02.png",
+        "point316_p03.png",
+        "point316_p04.png",
+        "point316_p05.png",
+        "point316_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point316_ans_p07.png",
+        "point316_ans_p08.png",
+        "point316_ans_p09.png",
+        "point316_ans_p10.png",
+        "point316_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1026",
+      "point_videos": [
+        {
+          "title": "てんびん法",
+          "id": "JjoHWhN_Kw8"
+        }
+      ]
+    },
+    {
+      "id": "point317",
+      "number": 317,
+      "title": "二通りの混合(てんびん法) (食塩水)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point317_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "56ukl9glMDU",
+        "ZrUHxe_VlMk",
+        "s0tLc0OOekM",
+        "yXdhtPjIsms",
+        "z-hCrhxj3rQ",
+        "zCIAHJCCGBU"
+      ],
+      "questions": [
+        {
+          "id": "p317-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "56ukl9glMDU"
+          ]
+        },
+        {
+          "id": "p317-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "ZrUHxe_VlMk"
+          ]
+        },
+        {
+          "id": "p317-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "zCIAHJCCGBU"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point317_p00.png",
+        "point317_p01.png",
+        "point317_p02.png",
+        "point317_p03.png",
+        "point317_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point317_ans_p05.png",
+        "point317_ans_p06.png",
+        "point317_ans_p07.png",
+        "point317_ans_p08.png",
+        "point317_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1027",
+      "point_videos": [
+        {
+          "title": "二通りの混合(てんびん法)",
+          "id": "hwmyZXIGdmw"
+        },
+        {
+          "title": "水入れ(連発)→全体量と濃度の逆比",
+          "id": "QPWnBpCBQVI"
+        }
+      ]
+    },
+    {
+      "id": "point318",
+      "number": 318,
+      "title": "商売の基本ルール (商売)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point318_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "Jf4sEF61ero",
+        "RnuU9e5n0Ec",
+        "_XojUf-iJHY",
+        "dFV-Z38y6lc",
+        "hce6bcMyybs"
+      ],
+      "questions": [
+        {
+          "id": "p318-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "_XojUf-iJHY"
+          ]
+        },
+        {
+          "id": "p318-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "Jf4sEF61ero"
+          ]
+        },
+        {
+          "id": "p318-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "RnuU9e5n0Ec"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point318_p00.png",
+        "point318_p01.png",
+        "point318_p02.png",
+        "point318_p03.png",
+        "point318_p04.png",
+        "point318_p05.png",
+        "point318_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point318_ans_p07.png",
+        "point318_ans_p08.png",
+        "point318_ans_p09.png",
+        "point318_ans_p10.png",
+        "point318_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1028",
+      "point_videos": [
+        {
+          "title": "商売の基本ルール",
+          "id": "VE8Fwfklm_o"
+        }
+      ]
+    },
+    {
+      "id": "point319",
+      "number": 319,
+      "title": "原・定・売 (商売)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point319_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "04dHMLR-X4M",
+        "0x0qp5Bpl_Y",
+        "E7QqKv3GEpg",
+        "GHIEh3x184Q",
+        "tP31TQ4cLg4",
+        "u5-OrHghi_I"
+      ],
+      "questions": [
+        {
+          "id": "p319-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "tP31TQ4cLg4"
+          ]
+        },
+        {
+          "id": "p319-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "u5-OrHghi_I"
+          ]
+        },
+        {
+          "id": "p319-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "0x0qp5Bpl_Y"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point319_p00.png",
+        "point319_p01.png",
+        "point319_p02.png",
+        "point319_p03.png",
+        "point319_p04.png",
+        "point319_p05.png",
+        "point319_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point319_ans_p07.png",
+        "point319_ans_p08.png",
+        "point319_ans_p09.png",
+        "point319_ans_p10.png",
+        "point319_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1029",
+      "point_videos": [
+        {
+          "title": "原・定・売",
+          "id": "MV-xSmh3DgY"
+        }
+      ]
+    },
+    {
+      "id": "point320",
+      "number": 320,
+      "title": "多数売りの表 (商売)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point320_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "6y7V0WvTX6c",
+        "EiLM8wOCOhA",
+        "IC6jYzYTfQs",
+        "OoLDvTo7XeA",
+        "Ql8hWLMwfmc",
+        "azU6q7T-otM"
+      ],
+      "questions": [
+        {
+          "id": "p320-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "EiLM8wOCOhA"
+          ]
+        },
+        {
+          "id": "p320-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "azU6q7T-otM"
+          ]
+        },
+        {
+          "id": "p320-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Ql8hWLMwfmc"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point320_p00.png",
+        "point320_p01.png",
+        "point320_p02.png",
+        "point320_p03.png",
+        "point320_p04.png",
+        "point320_p05.png",
+        "point320_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point320_ans_p07.png",
+        "point320_ans_p08.png",
+        "point320_ans_p09.png",
+        "point320_ans_p10.png",
+        "point320_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1030",
+      "point_videos": [
+        {
+          "title": "多数売りの表",
+          "id": "diTGASOAO7g"
+        },
+        {
+          "title": "商売の「の比の比」",
+          "id": "PE1ZBvyPUjI"
+        }
+      ]
+    },
+    {
+      "id": "point321",
+      "number": 321,
+      "title": "利益の等式作り (商売)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point321_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "2UzcOYebsg4",
+        "4pOOGFd2dFE",
+        "HPmbSIK793E",
+        "Hzlob1Kw7eA",
+        "dqGa0thkzrQ",
+        "vgdMd4LgXxk"
+      ],
+      "questions": [
+        {
+          "id": "p321-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "HPmbSIK793E"
+          ]
+        },
+        {
+          "id": "p321-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "2UzcOYebsg4"
+          ]
+        },
+        {
+          "id": "p321-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "4pOOGFd2dFE"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point321_p00.png",
+        "point321_p01.png",
+        "point321_p02.png",
+        "point321_p03.png",
+        "point321_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point321_ans_p05.png",
+        "point321_ans_p06.png",
+        "point321_ans_p07.png",
+        "point321_ans_p08.png",
+        "point321_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1031",
+      "point_videos": [
+        {
+          "title": "利益の等式作り",
+          "id": "4p8ifkW1wxU"
+        },
+        {
+          "title": "の比の比",
+          "id": "PE1ZBvyPUjI"
+        }
+      ]
+    },
+    {
+      "id": "point322",
+      "number": 322,
+      "title": "売れ残りの過不足 (商売)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point322_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "Aukl08iKNao",
+        "G4ZMbN_SGcY",
+        "KXkvkpVcgWI",
+        "ZBxPX1WHtfI",
+        "rkJs57qFleM",
+        "tg-oQgWS8i0"
+      ],
+      "questions": [
+        {
+          "id": "p322-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ZBxPX1WHtfI"
+          ]
+        },
+        {
+          "id": "p322-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "KXkvkpVcgWI"
+          ]
+        },
+        {
+          "id": "p322-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "tg-oQgWS8i0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point322_p00.png",
+        "point322_p01.png",
+        "point322_p02.png",
+        "point322_p03.png",
+        "point322_p04.png",
+        "point322_p05.png",
+        "point322_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point322_ans_p07.png",
+        "point322_ans_p08.png",
+        "point322_ans_p09.png",
+        "point322_ans_p10.png",
+        "point322_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1032",
+      "point_videos": [
+        {
+          "title": "売れ残りの過不足",
+          "id": "Fu-pSXiAG48"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi15",
+    "title": "第15回 力試しテスト",
+    "range": "Point 311〜322",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1033",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第15回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [],
+    "questions": []
+  }
+}

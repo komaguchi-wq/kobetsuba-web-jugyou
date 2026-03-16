@@ -1,0 +1,1077 @@
+{
+  "points": [
+    {
+      "id": "point13",
+      "number": 13,
+      "title": "LCM（最小公倍数）求め (倍数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point13_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "49RyZvkgIIc",
+        "CUZ7SsejsyQ",
+        "Zfv144mIMSg",
+        "hxgtN6dGpq4",
+        "iSGin6rTAPI",
+        "utrthv-VBOE",
+        "y7kp7lP4soo"
+      ],
+      "questions": [
+        {
+          "id": "p13-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "hxgtN6dGpq4",
+            "iSGin6rTAPI"
+          ]
+        },
+        {
+          "id": "p13-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "Zfv144mIMSg",
+            "CUZ7SsejsyQ"
+          ]
+        },
+        {
+          "id": "p13-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "y7kp7lP4soo"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point13_p00.png",
+        "point13_p01.png",
+        "point13_p02.png",
+        "point13_p03.png",
+        "point13_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point13_ans_p05.png",
+        "point13_ans_p06.png",
+        "point13_ans_p07.png",
+        "point13_ans_p08.png",
+        "point13_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/686",
+      "point_videos": [
+        {
+          "title": "LCM(最小公倍数)求め",
+          "id": "Ez6NdYruwao"
+        }
+      ]
+    },
+    {
+      "id": "point13_nankan",
+      "number": 13,
+      "title": "LCM（最小公倍数）求め (倍数)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point13_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "DFKbRYLY8C0"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "N1aFSOqj3PY"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "fp85Bps7YJE"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "LCM(最小公倍数)求め",
+          "id": "Ez6NdYruwao"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1104/lesson-playlist?textbook_reference_code=kobe-web-686",
+      "problemPages": [
+        "point13_nankan_p00.png",
+        "point13_nankan_p01.png",
+        "point13_nankan_p02.png",
+        "point13_nankan_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 8,
+      "answerPages": [
+        "point13_nankan_ans_p04.png",
+        "point13_nankan_ans_p05.png",
+        "point13_nankan_ans_p06.png",
+        "point13_nankan_ans_p07.png"
+      ]
+    },
+    {
+      "id": "point14",
+      "number": 14,
+      "title": "最小公倍数(LCM)と公倍数 (倍数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point14_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-MWaAu01ahI",
+        "AqhYSmWpNAY",
+        "IRtMh5GowBY",
+        "RWTNxIDBuis",
+        "lAyLxjuyyro"
+      ],
+      "questions": [
+        {
+          "id": "p14-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "RWTNxIDBuis"
+          ]
+        },
+        {
+          "id": "p14-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "AqhYSmWpNAY"
+          ]
+        },
+        {
+          "id": "p14-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "-MWaAu01ahI"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point14_p00.png",
+        "point14_p01.png",
+        "point14_p02.png",
+        "point14_p03.png",
+        "point14_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point14_ans_p05.png",
+        "point14_ans_p06.png",
+        "point14_ans_p07.png",
+        "point14_ans_p08.png",
+        "point14_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/687",
+      "point_videos": [
+        {
+          "title": "最小公倍数(LCM)と公倍数",
+          "id": "15CAZnkufiU"
+        },
+        {
+          "title": "LCM(最小公倍数)求め",
+          "id": "Ez6NdYruwao"
+        }
+      ]
+    },
+    {
+      "id": "point15",
+      "number": 15,
+      "title": "倍数± (倍数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point15_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "S10fak02kTg",
+        "U1b4Sk7tfg8",
+        "UQS9OcDeYII",
+        "cgFDhpSCaD0",
+        "gyZPbmXqUu0",
+        "hFwu-iG3_PM"
+      ],
+      "questions": [
+        {
+          "id": "p15-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "S10fak02kTg"
+          ]
+        },
+        {
+          "id": "p15-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "gyZPbmXqUu0"
+          ]
+        },
+        {
+          "id": "p15-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "U1b4Sk7tfg8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point15_p00.png",
+        "point15_p01.png",
+        "point15_p02.png",
+        "point15_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point15_ans_p04.png",
+        "point15_ans_p05.png",
+        "point15_ans_p06.png",
+        "point15_ans_p07.png",
+        "point15_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/688",
+      "point_videos": [
+        {
+          "title": "倍数±",
+          "id": "uVO8vjvoUgA"
+        }
+      ]
+    },
+    {
+      "id": "point16",
+      "number": 16,
+      "title": "公倍数± (倍数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point16_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "40-s-_SvIqA",
+        "5WBJwNQjTcM",
+        "NLx5QuQTStQ",
+        "Q0Xi1nhZ1cU",
+        "RHT0AWKstWE",
+        "Tu3REfv0CNg",
+        "YNf7DsP_soE",
+        "ZkQrE9qmSp0",
+        "cSfYX4CF27A",
+        "eVipoCPGpmk",
+        "hbCVCzfFJbE",
+        "s9lV6itr65c",
+        "tkiNi583mdI",
+        "z2ZwM141A4Q"
+      ],
+      "questions": [
+        {
+          "id": "p16-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ZkQrE9qmSp0",
+            "5WBJwNQjTcM",
+            "40-s-_SvIqA"
+          ]
+        },
+        {
+          "id": "p16-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "YNf7DsP_soE",
+            "cSfYX4CF27A",
+            "s9lV6itr65c"
+          ]
+        },
+        {
+          "id": "p16-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Tu3REfv0CNg",
+            "z2ZwM141A4Q",
+            "tkiNi583mdI"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point16_p00.png",
+        "point16_p01.png",
+        "point16_p02.png",
+        "point16_p03.png",
+        "point16_p04.png",
+        "point16_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point16_ans_p06.png",
+        "point16_ans_p07.png",
+        "point16_ans_p08.png",
+        "point16_ans_p09.png",
+        "point16_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/701",
+      "point_videos": [
+        {
+          "title": "公倍数±",
+          "id": "WY_W9VE5e3c"
+        }
+      ]
+    },
+    {
+      "id": "point17",
+      "number": 17,
+      "title": "GCM/LCMからの逆算 (逆割り算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point17_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "8MCiVTpfTJk",
+        "AEsDcPT5N_8",
+        "HLP_3KZO-fw",
+        "H_pq0kyP7Qc",
+        "Njz5ChicUo8",
+        "QGKfiUv7CQs",
+        "Vf3YEZUTeNk",
+        "_TtQUtkViyE",
+        "b6mdOr2OxbU",
+        "cV4omT5Ioc8",
+        "jATfPTadbZ0",
+        "rk-tECbktHc",
+        "ruk79vDrHWA",
+        "utbwk5m7Duo"
+      ],
+      "questions": [
+        {
+          "id": "p17-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ruk79vDrHWA",
+            "QGKfiUv7CQs",
+            "cV4omT5Ioc8"
+          ]
+        },
+        {
+          "id": "p17-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "Njz5ChicUo8",
+            "rk-tECbktHc",
+            "b6mdOr2OxbU"
+          ]
+        },
+        {
+          "id": "p17-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "AEsDcPT5N_8",
+            "HLP_3KZO-fw"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point17_p00.png",
+        "point17_p01.png",
+        "point17_p02.png",
+        "point17_p03.png",
+        "point17_p04.png",
+        "point17_p05.png",
+        "point17_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point17_ans_p07.png",
+        "point17_ans_p08.png",
+        "point17_ans_p09.png",
+        "point17_ans_p10.png",
+        "point17_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/703",
+      "point_videos": [
+        {
+          "title": "GCM/LCMからの逆算",
+          "id": "EgMQvm3Lk_4"
+        }
+      ]
+    },
+    {
+      "id": "point18",
+      "number": 18,
+      "title": "切り捨て (概数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point18_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "QjtYDy0Hh2w",
+        "c9Ko_R6hRzE",
+        "ltU2OiSYnR4",
+        "tIhIr_rzn-0",
+        "zvSlTO_v5Pk"
+      ],
+      "questions": [
+        {
+          "id": "p18-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ltU2OiSYnR4"
+          ]
+        },
+        {
+          "id": "p18-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "c9Ko_R6hRzE"
+          ]
+        },
+        {
+          "id": "p18-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "QjtYDy0Hh2w"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point18_p00.png",
+        "point18_p01.png",
+        "point18_p02.png",
+        "point18_p03.png",
+        "point18_p04.png",
+        "point18_p05.png",
+        "point18_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point18_ans_p07.png",
+        "point18_ans_p08.png",
+        "point18_ans_p09.png",
+        "point18_ans_p10.png",
+        "point18_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/704",
+      "point_videos": [
+        {
+          "title": "切り捨て",
+          "id": "mrYnoBDzhis"
+        }
+      ]
+    },
+    {
+      "id": "point19",
+      "number": 19,
+      "title": "切り上げ (概数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point19_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "KNq4wQ-sffA",
+        "Piz_9oEZEBw",
+        "h3FZsRy_vH8",
+        "nBWsVser8E4",
+        "xwt6gm4xeSs"
+      ],
+      "questions": [
+        {
+          "id": "p19-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "KNq4wQ-sffA"
+          ]
+        },
+        {
+          "id": "p19-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "h3FZsRy_vH8"
+          ]
+        },
+        {
+          "id": "p19-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Piz_9oEZEBw"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point19_p00.png",
+        "point19_p01.png",
+        "point19_p02.png",
+        "point19_p03.png",
+        "point19_p04.png",
+        "point19_p05.png",
+        "point19_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point19_ans_p07.png",
+        "point19_ans_p08.png",
+        "point19_ans_p09.png",
+        "point19_ans_p10.png",
+        "point19_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/705",
+      "point_videos": [
+        {
+          "title": "切り上げ",
+          "id": "_b7EJ7aP5CQ"
+        }
+      ]
+    },
+    {
+      "id": "point20",
+      "number": 20,
+      "title": "四捨五入 (概数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point20_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "II-rwGK1cZ8",
+        "YEGdfPMevKs",
+        "eaQ7JQq-CGk",
+        "fi7fLdTCJpE",
+        "knqkXaXMRc4"
+      ],
+      "questions": [
+        {
+          "id": "p20-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "fi7fLdTCJpE"
+          ]
+        },
+        {
+          "id": "p20-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "knqkXaXMRc4"
+          ]
+        },
+        {
+          "id": "p20-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "YEGdfPMevKs"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point20_p00.png",
+        "point20_p01.png",
+        "point20_p02.png",
+        "point20_p03.png",
+        "point20_p04.png",
+        "point20_p05.png",
+        "point20_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point20_ans_p07.png",
+        "point20_ans_p08.png",
+        "point20_ans_p09.png",
+        "point20_ans_p10.png",
+        "point20_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/706",
+      "point_videos": [
+        {
+          "title": "四捨五入",
+          "id": "ksQJDgMynXw"
+        }
+      ]
+    },
+    {
+      "id": "point21",
+      "number": 21,
+      "title": "切り捨ての逆算と範囲 (概数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point21_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "fu0_ATULizc",
+        "gxvSidwl1sM",
+        "pMiF0t-vhpE",
+        "ttVDYDUdPmM",
+        "yWaqScEDIEs"
+      ],
+      "questions": [
+        {
+          "id": "p21-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "pMiF0t-vhpE"
+          ]
+        },
+        {
+          "id": "p21-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "fu0_ATULizc"
+          ]
+        },
+        {
+          "id": "p21-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "yWaqScEDIEs"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point21_p00.png",
+        "point21_p01.png",
+        "point21_p02.png",
+        "point21_p03.png",
+        "point21_p04.png",
+        "point21_p05.png",
+        "point21_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point21_ans_p07.png",
+        "point21_ans_p08.png",
+        "point21_ans_p09.png",
+        "point21_ans_p10.png",
+        "point21_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/707",
+      "point_videos": [
+        {
+          "title": "切り捨ての逆算と範囲",
+          "id": "eef8usfCsLU"
+        }
+      ]
+    },
+    {
+      "id": "point22",
+      "number": 22,
+      "title": "切り上げの逆算と範囲 (概数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point22_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1YkYqe6LnDs",
+        "KmbsHy4YyjE",
+        "LNiC33R7Bms",
+        "jTa6eoAKji0",
+        "sL9nrFJ10UU"
+      ],
+      "questions": [
+        {
+          "id": "p22-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "jTa6eoAKji0"
+          ]
+        },
+        {
+          "id": "p22-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "1YkYqe6LnDs"
+          ]
+        },
+        {
+          "id": "p22-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "KmbsHy4YyjE"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point22_p00.png",
+        "point22_p01.png",
+        "point22_p02.png",
+        "point22_p03.png",
+        "point22_p04.png",
+        "point22_p05.png",
+        "point22_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point22_ans_p07.png",
+        "point22_ans_p08.png",
+        "point22_ans_p09.png",
+        "point22_ans_p10.png",
+        "point22_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/708",
+      "point_videos": [
+        {
+          "title": "切り上げの逆算と範囲",
+          "id": "1LlzlVwQD1o"
+        }
+      ]
+    },
+    {
+      "id": "point23",
+      "number": 23,
+      "title": "四捨五入の逆算と範囲 (概数)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point23_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "GqUO1pMUlJM",
+        "O9AhG4MZZ_g",
+        "_na9O4iqjLM",
+        "m5JT4TJWVsU",
+        "qz2Br28t12k"
+      ],
+      "questions": [
+        {
+          "id": "p23-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "m5JT4TJWVsU"
+          ]
+        },
+        {
+          "id": "p23-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "O9AhG4MZZ_g"
+          ]
+        },
+        {
+          "id": "p23-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "GqUO1pMUlJM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point23_p00.png",
+        "point23_p01.png",
+        "point23_p02.png",
+        "point23_p03.png",
+        "point23_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 11,
+      "answerPages": [
+        "point23_ans_p05.png",
+        "point23_ans_p06.png",
+        "point23_ans_p07.png",
+        "point23_ans_p08.png",
+        "point23_ans_p09.png",
+        "point23_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/709",
+      "point_videos": [
+        {
+          "title": "四捨五入の逆算と範囲",
+          "id": "WZvbESrTI0I"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi02",
+    "title": "第2回 力試しテスト",
+    "range": "Point 13〜23",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/710",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第2回_共通の型_力試しテスト問題.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第2回_共通の型_力試しテスト解答.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "0B-xAzwOf_A",
+      "AFA_VTAk_Ik",
+      "AQuik7r_nm0",
+      "MmQx9LsWooI",
+      "OQe1tq94jV0",
+      "Rvg-iKkV-b0",
+      "STKXmfLYQV4",
+      "Un71vIOix1g",
+      "VftzLNO5c2k",
+      "YFIkSit0kmM",
+      "YolqGsIoiaY",
+      "bs5KBC9yWgI",
+      "q0L01uHebnA"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(1)",
+        "label": "2番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(2)",
+        "label": "2番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(3)",
+        "label": "2番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(4)",
+        "label": "2番(4)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(3)",
+        "label": "3番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(1)",
+        "label": "5番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(2)",
+        "label": "5番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(3)",
+        "label": "5番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(4)",
+        "label": "5番(4)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6",
+        "label": "6番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(1)",
+        "label": "6番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(2)",
+        "label": "6番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(3)",
+        "label": "6番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(4)",
+        "label": "6番(4)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7",
+        "label": "7番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7(1)",
+        "label": "7番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7(2)",
+        "label": "7番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8",
+        "label": "8番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9",
+        "label": "9番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9(1)",
+        "label": "9番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9(2)",
+        "label": "9番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9(3)",
+        "label": "9番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9(4)",
+        "label": "9番(4)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q10",
+        "label": "10番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q10(1)",
+        "label": "10番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q10(2)",
+        "label": "10番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q11",
+        "label": "11番",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png",
+      "test_mondai_p06.png",
+      "test_mondai_p07.png",
+      "test_mondai_p08.png",
+      "test_mondai_p09.png",
+      "test_mondai_p10.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png",
+      "test_kaitou_p02.png"
+    ],
+    "point_videos": [
+      {
+        "title": "切り捨ての逆算と範囲",
+        "id": "eef8usfCsLU"
+      },
+      {
+        "title": "切り上げ",
+        "id": "_b7EJ7aP5CQ"
+      },
+      {
+        "title": "GCM/LCMからの逆算",
+        "id": "EgMQvm3Lk_4"
+      },
+      {
+        "title": "四捨五入の逆算と範囲",
+        "id": "WZvbESrTI0I"
+      },
+      {
+        "title": "最小公倍数(LCM)と公倍数",
+        "id": "15CAZnkufiU"
+      },
+      {
+        "title": "LCM(最小公倍数)求め",
+        "id": "Ez6NdYruwao"
+      },
+      {
+        "title": "四捨五入",
+        "id": "ksQJDgMynXw"
+      },
+      {
+        "title": "倍数±",
+        "id": "uVO8vjvoUgA"
+      },
+      {
+        "title": "切り上げの逆算と範囲",
+        "id": "1LlzlVwQD1o"
+      },
+      {
+        "title": "公倍数±",
+        "id": "WY_W9VE5e3c"
+      },
+      {
+        "title": "切り捨て",
+        "id": "mrYnoBDzhis"
+      }
+    ]
+  }
+}

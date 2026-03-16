@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>コベツバ学習</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ユーザー選択 -->
+<div id="screen-user" class="screen active">
+  <div class="screen-content center-content">
+    <h1>コベツバ学習</h1>
+    <p class="subtitle">ユーザーを選んでください</p>
+    <div class="user-buttons">
+      <button class="btn btn-large" onclick="selectUser('さと')">さと</button>
+      <button class="btn btn-large" onclick="selectUser('ぱぱ')">ぱぱ</button>
+    </div>
+  </div>
+</div>
+
+<!-- 単元一覧（グレード見出し付き） -->
+<div id="screen-units" class="screen">
+  <header>
+    <button class="btn-back" onclick="goBack('user')">← 戻る</button>
+    <h2>単元一覧</h2>
+    <span class="user-badge" id="user-badge-units"></span>
+    <button class="btn-back" onclick="openSettings()" style="font-size:18px;">⚙</button>
+  </header>
+  <div class="screen-content">
+    <div id="unit-list" class="card-list"></div>
+  </div>
+</div>
+
+<!-- 単元詳細（Point一覧 + PDF/動画） -->
+<div id="screen-unit-detail" class="screen">
+  <header>
+    <button class="btn-back" onclick="goBackToUnits()">← 戻る</button>
+    <h2 id="unit-detail-title">単元詳細</h2>
+    <span class="user-badge" id="user-badge-detail"></span>
+  </header>
+  <div class="screen-content">
+    <!-- フィルター -->
+    <div class="mode-section">
+      <div class="mode-buttons">
+        <button class="btn mode-btn active" data-mode="all" onclick="setFilter('all')">全て</button>
+        <button class="btn mode-btn" data-mode="below50" onclick="setFilter('below50')">正答率50%以下</button>
+        <button class="btn mode-btn" data-mode="below67" onclick="setFilter('below67')">正答率67%以下</button>
+        <button class="btn mode-btn" data-mode="below99" onclick="setFilter('below99')">正答率99%以下</button>
+        <button class="btn mode-btn" data-mode="first-rikai-below" onclick="setFilter('first-rikai-below')">初回理解度△以下</button>
+        <button class="btn mode-btn" data-mode="current-rikai-below" onclick="setFilter('current-rikai-below')">現在理解度△以下</button>
+      </div>
+      <button class="btn btn-primary" style="margin-top: 8px;" onclick="printProblems()">すべての問題を印刷</button>
+    </div>
+    <!-- Point一覧カード -->
+    <div id="point-list"></div>
+    <!-- 力試しテストセクション -->
+    <div id="test-section"></div>
+  </div>
+</div>
+
+<!-- Point詳細（算数演習と同じ構造） -->
+<div id="screen-point-detail" class="screen">
+  <header>
+    <button class="btn-back" onclick="goBackToUnit()">← 戻る</button>
+    <h2 id="point-detail-title">Point詳細</h2>
+    <span class="user-badge" id="user-badge-point"></span>
+  </header>
+  <!-- 固定セクション -->
+  <div class="detail-fixed-top" id="point-fixed-top">
+    <div class="mode-section">
+      <div class="mode-buttons" id="point-filter-buttons">
+        <button class="btn mode-btn active" data-mode="all" onclick="setPointFilter('all')">全て</button>
+        <button class="btn mode-btn" data-mode="below50" onclick="setPointFilter('below50')">正答率50%以下</button>
+        <button class="btn mode-btn" data-mode="below67" onclick="setPointFilter('below67')">正答率67%以下</button>
+        <button class="btn mode-btn" data-mode="below99" onclick="setPointFilter('below99')">正答率99%以下</button>
+        <button class="btn mode-btn" data-mode="first-rikai-below" onclick="setPointFilter('first-rikai-below')">初回理解度△以下</button>
+        <button class="btn mode-btn" data-mode="current-rikai-below" onclick="setPointFilter('current-rikai-below')">現在理解度△以下</button>
+      </div>
+    </div>
+    <h3>問題一覧</h3>
+    <div class="qc-scroll-area" id="point-question-cards"></div>
+  </div>
+  <!-- 印刷・解答ボタン（常に表示） -->
+  <div class="action-buttons-fixed">
+    <button class="btn btn-print-detail" onclick="printPointProblems()">印刷</button>
+    <button class="btn btn-answer-toggle" id="point-answer-toggle-btn" onclick="togglePointAnswer()">解答</button>
+  </div>
+  <!-- スクロールセクション -->
+  <div class="detail-scroll-area">
+    <div id="point-pages-preview"></div>
+  </div>
+</div>
+
+<!-- 設定画面 -->
+<div id="screen-settings" class="screen">
+  <header>
+    <button class="btn-back" onclick="showScreen('screen-units')">← 戻る</button>
+    <h2>設定</h2>
+  </header>
+  <div style="padding: 24px; max-width: 600px;">
+    <h3 style="margin-bottom: 12px;">Google Sheets バックアップ</h3>
+    <p style="font-size: 13px; color: #8e8e93; margin-bottom: 12px;">
+      Google Apps ScriptのデプロイURLを入力してください。
+    </p>
+    <input type="text" id="settings-url" placeholder="https://script.google.com/macros/s/..."
+      style="width: 100%; padding: 12px; border: 1px solid #e0e0e0; border-radius: 8px; font-size: 14px; margin-bottom: 12px;">
+    <div style="display: flex; flex-direction: column; gap: 10px;">
+      <button class="btn btn-primary" onclick="saveSettings()">保存</button>
+      <button class="btn btn-secondary" onclick="restoreFromSheets()">スプレッドシートから復元</button>
+    </div>
+  </div>
+</div>
+
+<div id="print-container"></div>
+
+<!-- 動画モーダル -->
+<div id="video-modal" class="video-modal" onclick="closeVideoModal(event)">
+  <div class="video-modal-inner" onclick="event.stopPropagation()">
+    <button class="video-modal-close" onclick="closeVideoModal()">✕</button>
+    <div id="video-player-wrap"></div>
+    <div class="video-modal-controls">
+      <span class="video-modal-title" id="video-modal-title"></span>
+      <div class="video-speed-buttons">
+        <button class="btn video-speed-btn" onclick="setVideoSpeed(1)">1x</button>
+        <button class="btn video-speed-btn active" onclick="setVideoSpeed(1.5)">1.5x</button>
+        <button class="btn video-speed-btn" onclick="setVideoSpeed(2)">2x</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src="app.js"></script>
+</body>
+</html>

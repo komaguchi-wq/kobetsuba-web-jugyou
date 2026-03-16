@@ -1,0 +1,563 @@
+{
+  "points": [
+    {
+      "id": "point123",
+      "number": 123,
+      "title": "階差数列 (基本の規則性)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point123_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "0vPcu5L2wtE",
+        "Ax6OxzKIuCQ",
+        "H7YuMNdUIws",
+        "OixT63U5DGs",
+        "R4w0sUtQSNI",
+        "dPuZLq16UPg",
+        "n7IoFjojzT0",
+        "owrg_jB5jeQ",
+        "rt1MgyIT-2M",
+        "vn3EBePbqM8",
+        "wnBxZxynal0",
+        "zUWtHgtwpn4"
+      ],
+      "questions": [
+        {
+          "id": "p123-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "zUWtHgtwpn4",
+            "owrg_jB5jeQ"
+          ]
+        },
+        {
+          "id": "p123-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "rt1MgyIT-2M",
+            "dPuZLq16UPg"
+          ]
+        },
+        {
+          "id": "p123-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Ax6OxzKIuCQ",
+            "wnBxZxynal0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point123_p00.png",
+        "point123_p01.png",
+        "point123_p02.png",
+        "point123_p03.png",
+        "point123_p04.png",
+        "point123_p05.png",
+        "point123_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point123_ans_p07.png",
+        "point123_ans_p08.png",
+        "point123_ans_p09.png",
+        "point123_ans_p10.png",
+        "point123_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/869",
+      "point_videos": [
+        {
+          "title": "階差数列",
+          "id": "oUzVctEGGd0"
+        }
+      ]
+    },
+    {
+      "id": "point124",
+      "number": 124,
+      "title": "個数増殖の群数列 (群数列系(周期))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point124_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "4BrxFU-SJeA",
+        "GTO77nXLQx4",
+        "IT4tIcyIcas",
+        "UjACtG9VLmc",
+        "a-dFR7m_og4",
+        "alZcINaKdI4",
+        "d45Pw2Uya20",
+        "esv6TiL3bmg"
+      ],
+      "questions": [
+        {
+          "id": "p124-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "GTO77nXLQx4"
+          ]
+        },
+        {
+          "id": "p124-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "esv6TiL3bmg"
+          ]
+        },
+        {
+          "id": "p124-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "4BrxFU-SJeA",
+            "a-dFR7m_og4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point124_p00.png",
+        "point124_p01.png",
+        "point124_p02.png",
+        "point124_p03.png",
+        "point124_p04.png",
+        "point124_p05.png",
+        "point124_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 13,
+      "answerPages": [
+        "point124_ans_p07.png",
+        "point124_ans_p08.png",
+        "point124_ans_p09.png",
+        "point124_ans_p10.png",
+        "point124_ans_p11.png",
+        "point124_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/870",
+      "point_videos": [
+        {
+          "title": "個数増殖の群数列",
+          "id": "jduUVcSjDxw"
+        }
+      ]
+    },
+    {
+      "id": "point124_nankan",
+      "number": 124,
+      "title": "個数増殖の群数列 (群数列系(周期))【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point124_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "oqjt30S2GRo",
+            "QnZj7wQrtp0"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "BEXfkyQScHM",
+            "YznAFJXQzUg"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "YTYBYl3Ui50"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "個数増殖の群数列",
+          "id": "jduUVcSjDxw"
+        },
+        {
+          "title": "奇数列",
+          "id": "-3LvG13sQk4"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1662/lesson-playlist?textbook_reference_code=kobe-web-870",
+      "problemPages": [
+        "point124_nankan_p00.png",
+        "point124_nankan_p01.png",
+        "point124_nankan_p02.png",
+        "point124_nankan_p03.png",
+        "point124_nankan_p04.png",
+        "point124_nankan_p05.png",
+        "point124_nankan_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point124_nankan_ans_p07.png",
+        "point124_nankan_ans_p08.png",
+        "point124_nankan_ans_p09.png",
+        "point124_nankan_ans_p10.png",
+        "point124_nankan_ans_p11.png",
+        "point124_nankan_ans_p12.png",
+        "point124_nankan_ans_p13.png"
+      ]
+    },
+    {
+      "id": "point125",
+      "number": 125,
+      "title": "フィボナッチ数列 (基本の規則性)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point125_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "DyXPZRuoz6o",
+        "Pv9lSRJcvCU",
+        "VzbT9lzW1I4",
+        "jqSIBiSrmLQ",
+        "kjiGxR0ugPE",
+        "wHLCk3RXIOk"
+      ],
+      "questions": [
+        {
+          "id": "p125-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "Pv9lSRJcvCU"
+          ]
+        },
+        {
+          "id": "p125-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "VzbT9lzW1I4"
+          ]
+        },
+        {
+          "id": "p125-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "wHLCk3RXIOk"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point125_p00.png",
+        "point125_p01.png",
+        "point125_p02.png",
+        "point125_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point125_ans_p04.png",
+        "point125_ans_p05.png",
+        "point125_ans_p06.png",
+        "point125_ans_p07.png",
+        "point125_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/871",
+      "point_videos": [
+        {
+          "title": "フィボナッチ数列",
+          "id": "v8Fm93KsfzA"
+        },
+        {
+          "title": "群数列",
+          "id": "KSBsCNSbI9o"
+        }
+      ]
+    },
+    {
+      "id": "point126",
+      "number": 126,
+      "title": "図形規則の発見 (応用の規則性)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point126_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "454gbfGgkGA",
+        "62XjLDnPL78",
+        "K1rf4iRXtFg",
+        "eLwqdoUioe8",
+        "r6TZpqrxv10"
+      ],
+      "questions": [
+        {
+          "id": "p126-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "eLwqdoUioe8"
+          ]
+        },
+        {
+          "id": "p126-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "62XjLDnPL78"
+          ]
+        },
+        {
+          "id": "p126-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "454gbfGgkGA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point126_p00.png",
+        "point126_p01.png",
+        "point126_p02.png",
+        "point126_p03.png",
+        "point126_p04.png",
+        "point126_p05.png",
+        "point126_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point126_ans_p07.png",
+        "point126_ans_p08.png",
+        "point126_ans_p09.png",
+        "point126_ans_p10.png",
+        "point126_ans_p11.png",
+        "point126_ans_p12.png",
+        "point126_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/872",
+      "point_videos": [
+        {
+          "title": "図形規則の発見",
+          "id": "VimRoU0Lhak"
+        },
+        {
+          "title": "周の延長解法",
+          "id": "KNpyA48Qsto"
+        }
+      ]
+    },
+    {
+      "id": "point127",
+      "number": 127,
+      "title": "空きビン問題 (規則性を用いた解法)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point127_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "ArFzu1Prsgk",
+        "NRrFLpu3FjU",
+        "UPJRxnQLUUM",
+        "WNXLJMkaMLI",
+        "yfVmh3uW51E",
+        "zhKZAhcDJyY"
+      ],
+      "questions": [
+        {
+          "id": "p127-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "NRrFLpu3FjU"
+          ]
+        },
+        {
+          "id": "p127-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "yfVmh3uW51E"
+          ]
+        },
+        {
+          "id": "p127-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "UPJRxnQLUUM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point127_p00.png",
+        "point127_p01.png",
+        "point127_p02.png",
+        "point127_p03.png",
+        "point127_p04.png",
+        "point127_p05.png",
+        "point127_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point127_ans_p07.png",
+        "point127_ans_p08.png",
+        "point127_ans_p09.png",
+        "point127_ans_p10.png",
+        "point127_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/873",
+      "point_videos": [
+        {
+          "title": "空きビン問題",
+          "id": "IttYNm0AV7o"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi14",
+    "title": "第14回 力試しテスト",
+    "range": "Point 123〜127",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/874",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第14回_共通の型_力試しテスト解答.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第14回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "12XdG3rroC0",
+      "BIR-ioX7NNs",
+      "XliZ6NXiPcQ",
+      "kiZxa28GJeE",
+      "wSNDUIdec7Y"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q1(1)",
+        "label": "1番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q1(2)",
+        "label": "1番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(1)",
+        "label": "2番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(2)",
+        "label": "2番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(1)",
+        "label": "4番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(2)",
+        "label": "4番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(3)",
+        "label": "4番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(1)",
+        "label": "5番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(2)",
+        "label": "5番(2)",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png"
+    ],
+    "point_videos": [
+      {
+        "title": "階差数列",
+        "id": "oUzVctEGGd0"
+      },
+      {
+        "title": "空きビン問題",
+        "id": "IttYNm0AV7o"
+      },
+      {
+        "title": "個数増殖の群数列",
+        "id": "jduUVcSjDxw"
+      },
+      {
+        "title": "図形規則の発見",
+        "id": "VimRoU0Lhak"
+      },
+      {
+        "title": "周の延長解法",
+        "id": "KNpyA48Qsto"
+      },
+      {
+        "title": "フィボナッチ数列",
+        "id": "v8Fm93KsfzA"
+      }
+    ]
+  }
+}

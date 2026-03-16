@@ -1,0 +1,897 @@
+{
+  "points": [
+    {
+      "id": "point242",
+      "number": 242,
+      "title": "相→体 (体積・表面積)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point242_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "Ca5YvfyDCUM",
+        "L8Nza1CXPbc",
+        "NO8573TSgEY",
+        "PIm725z3oCo",
+        "iFEHcKQxkJo",
+        "qAiAw75DG_o"
+      ],
+      "questions": [
+        {
+          "id": "p242-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "PIm725z3oCo"
+          ]
+        },
+        {
+          "id": "p242-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "qAiAw75DG_o"
+          ]
+        },
+        {
+          "id": "p242-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "NO8573TSgEY"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point242_p00.png",
+        "point242_p01.png",
+        "point242_p02.png",
+        "point242_p03.png",
+        "point242_p04.png",
+        "point242_p05.png",
+        "point242_p06.png",
+        "point242_p07.png",
+        "point242_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 14,
+      "answerPages": [
+        "point242_ans_p09.png",
+        "point242_ans_p10.png",
+        "point242_ans_p11.png",
+        "point242_ans_p12.png",
+        "point242_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/945",
+      "point_videos": [
+        {
+          "title": "相→体",
+          "id": "oozgv_UqwCk"
+        },
+        {
+          "title": "石入れ",
+          "id": "4bmvE5Xwk4c"
+        }
+      ]
+    },
+    {
+      "id": "point243",
+      "number": 243,
+      "title": "スーパー三角形 (曲線図形)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point243_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "C5wmZj-5qmk",
+        "EHYd35HdbWQ",
+        "FwB7pLQxp54",
+        "W_TwUPbZx1A",
+        "bi8oXdhS1Gc",
+        "mpN5H5ut_84"
+      ],
+      "questions": [
+        {
+          "id": "p243-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "mpN5H5ut_84"
+          ]
+        },
+        {
+          "id": "p243-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "EHYd35HdbWQ"
+          ]
+        },
+        {
+          "id": "p243-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "W_TwUPbZx1A"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point243_p00.png",
+        "point243_p01.png",
+        "point243_p02.png",
+        "point243_p03.png",
+        "point243_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point243_ans_p05.png",
+        "point243_ans_p06.png",
+        "point243_ans_p07.png",
+        "point243_ans_p08.png",
+        "point243_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/946",
+      "point_videos": [
+        {
+          "title": "スーパー三角形",
+          "id": "xwo487aROcg"
+        }
+      ]
+    },
+    {
+      "id": "point244",
+      "number": 244,
+      "title": "スーパー台形 (体積・表面積)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point244_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "4L3E9nsD6CE",
+        "ADlJhClZo2I",
+        "NM4EoAFJP6o",
+        "VTGiv_btn2A",
+        "a5mSuAIFxog",
+        "bBF_PS7tI9Q",
+        "ouMAoVyIVFM",
+        "pE8nm2WH-f0",
+        "s4LXZoN4g1k",
+        "wlFNlklk6O0"
+      ],
+      "questions": [
+        {
+          "id": "p244-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "wlFNlklk6O0",
+            "ADlJhClZo2I"
+          ]
+        },
+        {
+          "id": "p244-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "a5mSuAIFxog",
+            "NM4EoAFJP6o"
+          ]
+        },
+        {
+          "id": "p244-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "VTGiv_btn2A"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point244_p00.png",
+        "point244_p01.png",
+        "point244_p02.png",
+        "point244_p03.png",
+        "point244_p04.png",
+        "point244_p05.png",
+        "point244_p06.png",
+        "point244_p07.png",
+        "point244_p08.png",
+        "point244_p09.png",
+        "point244_p10.png"
+      ],
+      "answerStartPage": 11,
+      "totalPages": 18,
+      "answerPages": [
+        "point244_ans_p11.png",
+        "point244_ans_p12.png",
+        "point244_ans_p13.png",
+        "point244_ans_p14.png",
+        "point244_ans_p15.png",
+        "point244_ans_p16.png",
+        "point244_ans_p17.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/947",
+      "point_videos": [
+        {
+          "title": "スーパー台形",
+          "id": "oJLIHsUPuz8"
+        },
+        {
+          "title": "回転体",
+          "id": "krJ9BRLEuHg"
+        },
+        {
+          "title": "回転体＜表面積の技＞",
+          "id": "4pL-DYTonJ0"
+        }
+      ]
+    },
+    {
+      "id": "point245",
+      "number": 245,
+      "title": "円すいの回転数 (立体の応用技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point245_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "9SuUKW7SulY",
+        "W1ewNgcaVik",
+        "XdQ_eeXOZlw",
+        "_UQ9MVC4byk",
+        "ctfK861n7vc",
+        "p6JCPcKstYw",
+        "tlUpCrhrYh4",
+        "vRRUFh0Ikpw"
+      ],
+      "questions": [
+        {
+          "id": "p245-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "vRRUFh0Ikpw"
+          ]
+        },
+        {
+          "id": "p245-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "9SuUKW7SulY"
+          ]
+        },
+        {
+          "id": "p245-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "tlUpCrhrYh4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point245_p00.png",
+        "point245_p01.png",
+        "point245_p02.png",
+        "point245_p03.png",
+        "point245_p04.png",
+        "point245_p05.png",
+        "point245_p06.png",
+        "point245_p07.png",
+        "point245_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 16,
+      "answerPages": [
+        "point245_ans_p09.png",
+        "point245_ans_p10.png",
+        "point245_ans_p11.png",
+        "point245_ans_p12.png",
+        "point245_ans_p13.png",
+        "point245_ans_p14.png",
+        "point245_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/948",
+      "point_videos": [
+        {
+          "title": "円すいの回転数",
+          "id": "734v06ikXDY"
+        }
+      ]
+    },
+    {
+      "id": "point246",
+      "number": 246,
+      "title": "円すい糸巻き (立体の応用技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point246_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-59HWsYZWpk",
+        "421N8d4_PLA",
+        "_PgApPO4zdw",
+        "cf5qguZp8bY",
+        "cxzqhkgzibQ",
+        "jmj8Cwl4rbQ"
+      ],
+      "questions": [
+        {
+          "id": "p246-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "cf5qguZp8bY"
+          ]
+        },
+        {
+          "id": "p246-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "cxzqhkgzibQ"
+          ]
+        },
+        {
+          "id": "p246-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "_PgApPO4zdw"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point246_p00.png",
+        "point246_p01.png",
+        "point246_p02.png",
+        "point246_p03.png",
+        "point246_p04.png",
+        "point246_p05.png",
+        "point246_p06.png",
+        "point246_p07.png",
+        "point246_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 18,
+      "answerPages": [
+        "point246_ans_p09.png",
+        "point246_ans_p10.png",
+        "point246_ans_p11.png",
+        "point246_ans_p12.png",
+        "point246_ans_p13.png",
+        "point246_ans_p14.png",
+        "point246_ans_p15.png",
+        "point246_ans_p16.png",
+        "point246_ans_p17.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/949",
+      "point_videos": [
+        {
+          "title": "円すい糸巻き",
+          "id": "zbzF6a56EoM"
+        },
+        {
+          "title": "正方形=対角線×対角線÷2",
+          "id": "nNgff2iIrv8"
+        }
+      ]
+    },
+    {
+      "id": "point247",
+      "number": 247,
+      "title": "辺を切って展開図 (立体の応用技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point247_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "4fOrxES51RQ",
+        "CivkS0OifVg",
+        "GzCtYsqVaPs",
+        "KT4XaANlzgw",
+        "fH7Cz7A9lJM",
+        "l7ibWQCsyyg"
+      ],
+      "questions": [
+        {
+          "id": "p247-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "CivkS0OifVg"
+          ]
+        },
+        {
+          "id": "p247-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "fH7Cz7A9lJM"
+          ]
+        },
+        {
+          "id": "p247-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "KT4XaANlzgw"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point247_p00.png",
+        "point247_p01.png",
+        "point247_p02.png",
+        "point247_p03.png",
+        "point247_p04.png",
+        "point247_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 13,
+      "answerPages": [
+        "point247_ans_p06.png",
+        "point247_ans_p07.png",
+        "point247_ans_p08.png",
+        "point247_ans_p09.png",
+        "point247_ans_p10.png",
+        "point247_ans_p11.png",
+        "point247_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/950",
+      "point_videos": [
+        {
+          "title": "辺を切って展開図",
+          "id": "6dr-o4cuIjE"
+        }
+      ]
+    },
+    {
+      "id": "point248",
+      "number": 248,
+      "title": "→補助線 (立体の応用技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point248_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "2VidvygewGs",
+        "G8k7CSyGGYE",
+        "NnChKmE-bUI",
+        "R8D87LD4td0",
+        "dVDM2wls9gs",
+        "kRRPadVUwBc"
+      ],
+      "questions": [
+        {
+          "id": "p248-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "R8D87LD4td0"
+          ]
+        },
+        {
+          "id": "p248-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "2VidvygewGs"
+          ]
+        },
+        {
+          "id": "p248-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "kRRPadVUwBc"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point248_p00.png",
+        "point248_p01.png",
+        "point248_p02.png",
+        "point248_p03.png",
+        "point248_p04.png",
+        "point248_p05.png",
+        "point248_p06.png",
+        "point248_p07.png",
+        "point248_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 17,
+      "answerPages": [
+        "point248_ans_p09.png",
+        "point248_ans_p10.png",
+        "point248_ans_p11.png",
+        "point248_ans_p12.png",
+        "point248_ans_p13.png",
+        "point248_ans_p14.png",
+        "point248_ans_p15.png",
+        "point248_ans_p16.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/951",
+      "point_videos": [
+        {
+          "title": "→補助線",
+          "id": "i3DeJv9Y5sI"
+        }
+      ]
+    },
+    {
+      "id": "point249",
+      "number": 249,
+      "title": "元の立体を使って推論 (立体の応用技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point249_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "BKPG5VPFdzI",
+        "MTI4LtyQQxc",
+        "VQGegkxyaO4",
+        "XmFlO8Od-YM",
+        "brVp390nlcE",
+        "kiEK5Mk44oE",
+        "sVFUne6A_bU",
+        "vGb64UXDdjI"
+      ],
+      "questions": [
+        {
+          "id": "p249-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "brVp390nlcE"
+          ]
+        },
+        {
+          "id": "p249-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "XmFlO8Od-YM"
+          ]
+        },
+        {
+          "id": "p249-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "sVFUne6A_bU",
+            "BKPG5VPFdzI"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point249_p00.png",
+        "point249_p01.png",
+        "point249_p02.png",
+        "point249_p03.png",
+        "point249_p04.png",
+        "point249_p05.png",
+        "point249_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point249_ans_p07.png",
+        "point249_ans_p08.png",
+        "point249_ans_p09.png",
+        "point249_ans_p10.png",
+        "point249_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/952",
+      "point_videos": [
+        {
+          "title": "元の立体を使って推論",
+          "id": "AlJItIfIqc8"
+        },
+        {
+          "title": "相→面",
+          "id": "gv4Rx2W-EVo"
+        }
+      ]
+    },
+    {
+      "id": "point250",
+      "number": 250,
+      "title": "立方体・直方体の色ぬり (立体の応用技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point250_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "7u0xX85_IC0",
+        "PI8Fp18Meek",
+        "Ph4ibDfpFZg",
+        "VxoEUH58XTo",
+        "sOK_UCIKbCI"
+      ],
+      "questions": [
+        {
+          "id": "p250-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "7u0xX85_IC0"
+          ]
+        },
+        {
+          "id": "p250-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "VxoEUH58XTo"
+          ]
+        },
+        {
+          "id": "p250-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Ph4ibDfpFZg"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point250_p00.png",
+        "point250_p01.png",
+        "point250_p02.png",
+        "point250_p03.png",
+        "point250_p04.png",
+        "point250_p05.png",
+        "point250_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point250_ans_p07.png",
+        "point250_ans_p08.png",
+        "point250_ans_p09.png",
+        "point250_ans_p10.png",
+        "point250_ans_p11.png",
+        "point250_ans_p12.png",
+        "point250_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/953",
+      "point_videos": [
+        {
+          "title": "立方体・直方体の色ぬり",
+          "id": "wMsAk9Jd-4c"
+        }
+      ]
+    },
+    {
+      "id": "point251",
+      "number": 251,
+      "title": "複合図形の色ぬり (立体の応用技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point251_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "5_A5d9lVyqo",
+        "S85zMH1YXNo",
+        "ldNqncKJKoE",
+        "otycmVCiRoQ",
+        "v8zQtTo-7og",
+        "wqtYkc6AaW4"
+      ],
+      "questions": [
+        {
+          "id": "p251-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "wqtYkc6AaW4"
+          ]
+        },
+        {
+          "id": "p251-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "ldNqncKJKoE"
+          ]
+        },
+        {
+          "id": "p251-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "otycmVCiRoQ"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point251_p00.png",
+        "point251_p01.png",
+        "point251_p02.png",
+        "point251_p03.png",
+        "point251_p04.png",
+        "point251_p05.png",
+        "point251_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 16,
+      "answerPages": [
+        "point251_ans_p07.png",
+        "point251_ans_p08.png",
+        "point251_ans_p09.png",
+        "point251_ans_p10.png",
+        "point251_ans_p11.png",
+        "point251_ans_p12.png",
+        "point251_ans_p13.png",
+        "point251_ans_p14.png",
+        "point251_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/954",
+      "point_videos": [
+        {
+          "title": "複合図形の色ぬり",
+          "id": "GaB0YUilK9c"
+        }
+      ]
+    },
+    {
+      "id": "point252",
+      "number": 252,
+      "title": "全部バラバラ (体積・表面積)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point252_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "BdWB_2plFSM",
+        "CxeUcaAkyHw",
+        "E-sL6hhMzEE",
+        "Jf0wJ5Uwyl0",
+        "SvcidtdIzd0",
+        "b4Nqku7oNv8",
+        "yACht-LTs7Y",
+        "z8aCFpcoAz4"
+      ],
+      "questions": [
+        {
+          "id": "p252-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "z8aCFpcoAz4"
+          ]
+        },
+        {
+          "id": "p252-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "CxeUcaAkyHw"
+          ]
+        },
+        {
+          "id": "p252-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "yACht-LTs7Y",
+            "E-sL6hhMzEE"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point252_p00.png",
+        "point252_p01.png",
+        "point252_p02.png",
+        "point252_p03.png",
+        "point252_p04.png",
+        "point252_p05.png",
+        "point252_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point252_ans_p07.png",
+        "point252_ans_p08.png",
+        "point252_ans_p09.png",
+        "point252_ans_p10.png",
+        "point252_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/955",
+      "point_videos": [
+        {
+          "title": "全部バラバラ",
+          "id": "-yzSWDk4zqg"
+        },
+        {
+          "title": "スリーバイツー",
+          "id": "tiKI8wNaR2A"
+        },
+        {
+          "title": "上から見た図で推論",
+          "id": "wG1RogeIbps"
+        }
+      ]
+    },
+    {
+      "id": "point253",
+      "number": 253,
+      "title": "段ごと調べ上げ (立体の応用技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point253_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "0V4XkeVc0PQ",
+        "FyQ1zAuWsss",
+        "LzhSxGiziRE",
+        "MWgSUr4ufJM",
+        "P3B_0PRH6G0",
+        "gYl1Oypd8Mw",
+        "oZs7CMOQ5fE",
+        "z98TKPvpMqg"
+      ],
+      "questions": [
+        {
+          "id": "p253-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "FyQ1zAuWsss"
+          ]
+        },
+        {
+          "id": "p253-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "0V4XkeVc0PQ"
+          ]
+        },
+        {
+          "id": "p253-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "LzhSxGiziRE"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point253_p00.png",
+        "point253_p01.png",
+        "point253_p02.png",
+        "point253_p03.png",
+        "point253_p04.png",
+        "point253_p05.png",
+        "point253_p06.png",
+        "point253_p07.png",
+        "point253_p08.png",
+        "point253_p09.png",
+        "point253_p10.png"
+      ],
+      "answerStartPage": 11,
+      "totalPages": 19,
+      "answerPages": [
+        "point253_ans_p11.png",
+        "point253_ans_p12.png",
+        "point253_ans_p13.png",
+        "point253_ans_p14.png",
+        "point253_ans_p15.png",
+        "point253_ans_p16.png",
+        "point253_ans_p17.png",
+        "point253_ans_p18.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/956",
+      "point_videos": [
+        {
+          "title": "段ごと調べ上げ",
+          "id": "NPkRuF39qQ8"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi08",
+    "title": "第8回 力試しテスト",
+    "range": "Point 242〜253",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/958",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第8回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [],
+    "questions": []
+  }
+}

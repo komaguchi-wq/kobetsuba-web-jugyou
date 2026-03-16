@@ -1,0 +1,640 @@
+{
+  "points": [
+    {
+      "id": "point77",
+      "number": 77,
+      "title": "速さの基本 (速さの基本)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point77_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-Ouiq7xI3hM",
+        "Imgqx4PHc_0",
+        "OCCodgPoW4c",
+        "j4eh0uC-ciU",
+        "lIZyFFbyWQs"
+      ],
+      "questions": [
+        {
+          "id": "p77-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "Imgqx4PHc_0"
+          ]
+        },
+        {
+          "id": "p77-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "lIZyFFbyWQs"
+          ]
+        },
+        {
+          "id": "p77-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "j4eh0uC-ciU"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point77_p00.png",
+        "point77_p01.png",
+        "point77_p02.png",
+        "point77_p03.png",
+        "point77_p04.png",
+        "point77_p05.png",
+        "point77_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point77_ans_p07.png",
+        "point77_ans_p08.png",
+        "point77_ans_p09.png",
+        "point77_ans_p10.png",
+        "point77_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/809",
+      "point_videos": [
+        {
+          "title": "速さの基本",
+          "id": "ZDQphm-SXeI"
+        }
+      ]
+    },
+    {
+      "id": "point78",
+      "number": 78,
+      "title": "km/時⇄m/秒の変換 (速さの基本)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point78_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "74eRc-GfJKI",
+        "AirUXNhdRHo",
+        "MIo4DBPKkQY",
+        "UI7Fhcme5wU",
+        "u2UKUrPbGFk"
+      ],
+      "questions": [
+        {
+          "id": "p78-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "u2UKUrPbGFk"
+          ]
+        },
+        {
+          "id": "p78-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "AirUXNhdRHo"
+          ]
+        },
+        {
+          "id": "p78-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "74eRc-GfJKI"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point78_p00.png",
+        "point78_p01.png",
+        "point78_p02.png",
+        "point78_p03.png",
+        "point78_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point78_ans_p05.png",
+        "point78_ans_p06.png",
+        "point78_ans_p07.png",
+        "point78_ans_p08.png",
+        "point78_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/810",
+      "point_videos": [
+        {
+          "title": "km/時⇄m/秒の変換",
+          "id": "_FO7-zT2-9I"
+        }
+      ]
+    },
+    {
+      "id": "point79",
+      "number": 79,
+      "title": "速さのつるかめ (速さの基本)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point79_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1RAgTca8s_s",
+        "6_2pGsae-aY",
+        "R1so4XDS5_s",
+        "ed943wgwB6U",
+        "lFFUTqM_uOU",
+        "mDPZGQIbN00"
+      ],
+      "questions": [
+        {
+          "id": "p79-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "ed943wgwB6U"
+          ]
+        },
+        {
+          "id": "p79-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "1RAgTca8s_s"
+          ]
+        },
+        {
+          "id": "p79-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "lFFUTqM_uOU"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point79_p00.png",
+        "point79_p01.png",
+        "point79_p02.png",
+        "point79_p03.png",
+        "point79_p04.png",
+        "point79_p05.png",
+        "point79_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point79_ans_p07.png",
+        "point79_ans_p08.png",
+        "point79_ans_p09.png",
+        "point79_ans_p10.png",
+        "point79_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/811",
+      "point_videos": [
+        {
+          "title": "速さのつるかめ",
+          "id": "DCyrqSezAo0"
+        }
+      ]
+    },
+    {
+      "id": "point80",
+      "number": 80,
+      "title": "平均速度 (線分図・式)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point80_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "B3OUnzr7r1s",
+        "CTrcuvUbm2g",
+        "DFP1KUC2O4w",
+        "M4qaLIuTACs",
+        "UEvXAtJapTg",
+        "tJAWnJ0L5fM"
+      ],
+      "questions": [
+        {
+          "id": "p80-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "B3OUnzr7r1s"
+          ]
+        },
+        {
+          "id": "p80-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "DFP1KUC2O4w"
+          ]
+        },
+        {
+          "id": "p80-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "CTrcuvUbm2g"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point80_p00.png",
+        "point80_p01.png",
+        "point80_p02.png",
+        "point80_p03.png",
+        "point80_p04.png",
+        "point80_p05.png",
+        "point80_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point80_ans_p07.png",
+        "point80_ans_p08.png",
+        "point80_ans_p09.png",
+        "point80_ans_p10.png",
+        "point80_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/812",
+      "point_videos": [
+        {
+          "title": "平均速度",
+          "id": "y6QuEnLgJsE"
+        }
+      ]
+    },
+    {
+      "id": "point81",
+      "number": 81,
+      "title": "進んだ距離の和に注目 (速さの基本)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point81_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "8Kmg1BMH41E",
+        "SXxmngM0gtw",
+        "T2DYodrUbHY",
+        "aJhkEmI7JIg",
+        "dqhNwNyDB9w",
+        "k464swVxmA0"
+      ],
+      "questions": [
+        {
+          "id": "p81-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "dqhNwNyDB9w"
+          ]
+        },
+        {
+          "id": "p81-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "SXxmngM0gtw"
+          ]
+        },
+        {
+          "id": "p81-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "k464swVxmA0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point81_p00.png",
+        "point81_p01.png",
+        "point81_p02.png",
+        "point81_p03.png",
+        "point81_p04.png",
+        "point81_p05.png",
+        "point81_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point81_ans_p07.png",
+        "point81_ans_p08.png",
+        "point81_ans_p09.png",
+        "point81_ans_p10.png",
+        "point81_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/813",
+      "point_videos": [
+        {
+          "title": "進んだ距離の和に注目",
+          "id": "VLT0zFU8EdU"
+        }
+      ]
+    },
+    {
+      "id": "point82",
+      "number": 82,
+      "title": "進んだ距離の差に注目 (速さの基本)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point82_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "BTGcYm6Les8",
+        "HshQPlOZAIc",
+        "kLAf3mtXhXU",
+        "nho5kpBviCE",
+        "so32WTJIucw",
+        "yPYw3dX-poQ"
+      ],
+      "questions": [
+        {
+          "id": "p82-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "kLAf3mtXhXU"
+          ]
+        },
+        {
+          "id": "p82-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "HshQPlOZAIc"
+          ]
+        },
+        {
+          "id": "p82-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "nho5kpBviCE"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point82_p00.png",
+        "point82_p01.png",
+        "point82_p02.png",
+        "point82_p03.png",
+        "point82_p04.png",
+        "point82_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point82_ans_p06.png",
+        "point82_ans_p07.png",
+        "point82_ans_p08.png",
+        "point82_ans_p09.png",
+        "point82_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/814",
+      "point_videos": [
+        {
+          "title": "進んだ距離の差に注目",
+          "id": "Bki1rqnuSQA"
+        }
+      ]
+    },
+    {
+      "id": "point83",
+      "number": 83,
+      "title": "同時刻同記号 (線分図・式)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point83_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "A_HPMbkTbtY",
+        "IutIj938_QA",
+        "NDEHhWPzVzk",
+        "Zz1k-XSa1CY",
+        "d-b_ppQrKY4",
+        "dUutmYmn9hM",
+        "hKK4KC7xedA",
+        "kiQQdLRHddc"
+      ],
+      "questions": [
+        {
+          "id": "p83-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "IutIj938_QA",
+            "kiQQdLRHddc"
+          ]
+        },
+        {
+          "id": "p83-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "hKK4KC7xedA",
+            "NDEHhWPzVzk"
+          ]
+        },
+        {
+          "id": "p83-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "d-b_ppQrKY4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point83_p00.png",
+        "point83_p01.png",
+        "point83_p02.png",
+        "point83_p03.png",
+        "point83_p04.png",
+        "point83_p05.png",
+        "point83_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point83_ans_p07.png",
+        "point83_ans_p08.png",
+        "point83_ans_p09.png",
+        "point83_ans_p10.png",
+        "point83_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/815",
+      "point_videos": [
+        {
+          "title": "同時刻同記号",
+          "id": "f3w8gZxfLYo"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi09",
+    "title": "第9回 力試しテスト",
+    "range": "Point 77〜83",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/816",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第9回_共通の型_力試しテスト解答.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第9回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "-DXLmygN70w",
+      "4OnwdQgwMOI",
+      "G7PWiNj_Tms",
+      "JTDA53CWer4",
+      "b7iC1Rygn9s",
+      "deAkmLwkMxE",
+      "x2hznGDj1H0"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(1)",
+        "label": "2番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(2)",
+        "label": "2番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(1)",
+        "label": "4番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(2)",
+        "label": "4番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(1)",
+        "label": "5番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(2)",
+        "label": "5番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(3)",
+        "label": "5番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(4)",
+        "label": "5番(4)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6",
+        "label": "6番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(1)",
+        "label": "6番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6(2)",
+        "label": "6番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7",
+        "label": "7番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7(1)",
+        "label": "7番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7(2)",
+        "label": "7番(2)",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png"
+    ],
+    "point_videos": [
+      {
+        "title": "速さのつるかめ",
+        "id": "DCyrqSezAo0"
+      },
+      {
+        "title": "同時刻同記号",
+        "id": "f3w8gZxfLYo"
+      },
+      {
+        "title": "平均速度",
+        "id": "y6QuEnLgJsE"
+      },
+      {
+        "title": "進んだ距離の差に注目",
+        "id": "Bki1rqnuSQA"
+      },
+      {
+        "title": "速さの基本",
+        "id": "ZDQphm-SXeI"
+      },
+      {
+        "title": "進んだ距離の和に注目",
+        "id": "VLT0zFU8EdU"
+      },
+      {
+        "title": "km/時⇄m/秒の変換",
+        "id": "_FO7-zT2-9I"
+      }
+    ]
+  }
+}

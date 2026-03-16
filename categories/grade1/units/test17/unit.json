@@ -1,0 +1,782 @@
+{
+  "points": [
+    {
+      "id": "point145",
+      "number": 145,
+      "title": "移動(曲線図形) (曲線図形)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point145_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "83bxhB7ABvk",
+        "Rjo05Adfo30",
+        "WBtRSLJlRug",
+        "cU8WD3zxx_Y",
+        "m9kbDt9WjpY",
+        "s4XXLcpFc5I"
+      ],
+      "questions": [
+        {
+          "id": "p145-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "s4XXLcpFc5I"
+          ]
+        },
+        {
+          "id": "p145-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "m9kbDt9WjpY"
+          ]
+        },
+        {
+          "id": "p145-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "cU8WD3zxx_Y"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point145_p00.png",
+        "point145_p01.png",
+        "point145_p02.png",
+        "point145_p03.png",
+        "point145_p04.png",
+        "point145_p05.png",
+        "point145_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point145_ans_p07.png",
+        "point145_ans_p08.png",
+        "point145_ans_p09.png",
+        "point145_ans_p10.png",
+        "point145_ans_p11.png",
+        "point145_ans_p12.png",
+        "point145_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/894",
+      "point_videos": [
+        {
+          "title": "移動(曲線図形)",
+          "id": "Cx6PsHYEYcA"
+        },
+        {
+          "title": "中心と結ぶ",
+          "id": "SSnbxQqwcIw"
+        }
+      ]
+    },
+    {
+      "id": "point146",
+      "number": 146,
+      "title": "半径×半径 (曲線図形)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point146_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "7inmu03Xv24",
+        "EoJ-jNxfcr0",
+        "Gr-Eb1f4vwg",
+        "LTldyE1kf8M",
+        "SISqD95BGII",
+        "jTTpYpXvUcQ"
+      ],
+      "questions": [
+        {
+          "id": "p146-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "EoJ-jNxfcr0"
+          ]
+        },
+        {
+          "id": "p146-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "jTTpYpXvUcQ"
+          ]
+        },
+        {
+          "id": "p146-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "7inmu03Xv24"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point146_p00.png",
+        "point146_p01.png",
+        "point146_p02.png",
+        "point146_p03.png",
+        "point146_p04.png",
+        "point146_p05.png",
+        "point146_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point146_ans_p07.png",
+        "point146_ans_p08.png",
+        "point146_ans_p09.png",
+        "point146_ans_p10.png",
+        "point146_ans_p11.png",
+        "point146_ans_p12.png",
+        "point146_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/895",
+      "point_videos": [
+        {
+          "title": "半径×半径",
+          "id": "PIaXqF_BObA"
+        }
+      ]
+    },
+    {
+      "id": "point147",
+      "number": 147,
+      "title": "直角二等辺の性質 (求積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point147_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "AwRpDMFGYCc",
+        "DoHjusbVK1U",
+        "RYQqTrG528A",
+        "cEJzzzpvsuI",
+        "oOjXHEscuX0"
+      ],
+      "questions": [
+        {
+          "id": "p147-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "AwRpDMFGYCc"
+          ]
+        },
+        {
+          "id": "p147-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "DoHjusbVK1U"
+          ]
+        },
+        {
+          "id": "p147-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "RYQqTrG528A"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point147_p00.png",
+        "point147_p01.png",
+        "point147_p02.png",
+        "point147_p03.png",
+        "point147_p04.png",
+        "point147_p05.png",
+        "point147_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point147_ans_p07.png",
+        "point147_ans_p08.png",
+        "point147_ans_p09.png",
+        "point147_ans_p10.png",
+        "point147_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/896",
+      "point_videos": [
+        {
+          "title": "直角二等辺の性質",
+          "id": "CDIeIb74EoY"
+        }
+      ]
+    },
+    {
+      "id": "point148",
+      "number": 148,
+      "title": "高さの和の利用 (等積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point148_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "HiS9mY4c8Wc",
+        "NGlo6PFGBQo",
+        "Qkd_Ap0mFxw",
+        "_GI4fNgHUCk",
+        "mZ_vOabntxU",
+        "nrY5JoWsVA4"
+      ],
+      "questions": [
+        {
+          "id": "p148-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "nrY5JoWsVA4"
+          ]
+        },
+        {
+          "id": "p148-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "_GI4fNgHUCk"
+          ]
+        },
+        {
+          "id": "p148-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "HiS9mY4c8Wc"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point148_p00.png",
+        "point148_p01.png",
+        "point148_p02.png",
+        "point148_p03.png",
+        "point148_p04.png",
+        "point148_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point148_ans_p06.png",
+        "point148_ans_p07.png",
+        "point148_ans_p08.png",
+        "point148_ans_p09.png",
+        "point148_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/897",
+      "point_videos": [
+        {
+          "title": "高さの和の利用",
+          "id": "ZeH_L3SvCKw"
+        }
+      ]
+    },
+    {
+      "id": "point149",
+      "number": 149,
+      "title": "同じところ付け足し (求積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point149_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "0UHTY9Y2Z18",
+        "Mi738Li5xg8",
+        "jO2_AZxLess",
+        "l1wDco70slw",
+        "lczZv8mdHPY",
+        "me1MFkw3yV4"
+      ],
+      "questions": [
+        {
+          "id": "p149-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "jO2_AZxLess"
+          ]
+        },
+        {
+          "id": "p149-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "0UHTY9Y2Z18"
+          ]
+        },
+        {
+          "id": "p149-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "l1wDco70slw"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point149_p00.png",
+        "point149_p01.png",
+        "point149_p02.png",
+        "point149_p03.png",
+        "point149_p04.png",
+        "point149_p05.png",
+        "point149_p06.png",
+        "point149_p07.png",
+        "point149_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 14,
+      "answerPages": [
+        "point149_ans_p09.png",
+        "point149_ans_p10.png",
+        "point149_ans_p11.png",
+        "point149_ans_p12.png",
+        "point149_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/899",
+      "point_videos": [
+        {
+          "title": "同じところ付け足し",
+          "id": "ls1H5A_qlj4"
+        },
+        {
+          "title": "葉っぱと残り",
+          "id": "kEu_hg1hXt8"
+        }
+      ]
+    },
+    {
+      "id": "point150",
+      "number": 150,
+      "title": "等積変形 (等積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point150_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "PDNkHJbayK4",
+        "TLtVP92YTbA",
+        "Xjd8lkwHwns",
+        "gtVR0eJpVG8",
+        "l8vGx_Of_H8"
+      ],
+      "questions": [
+        {
+          "id": "p150-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "PDNkHJbayK4"
+          ]
+        },
+        {
+          "id": "p150-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "TLtVP92YTbA"
+          ]
+        },
+        {
+          "id": "p150-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "l8vGx_Of_H8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point150_p00.png",
+        "point150_p01.png",
+        "point150_p02.png",
+        "point150_p03.png",
+        "point150_p04.png",
+        "point150_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 13,
+      "answerPages": [
+        "point150_ans_p06.png",
+        "point150_ans_p07.png",
+        "point150_ans_p08.png",
+        "point150_ans_p09.png",
+        "point150_ans_p10.png",
+        "point150_ans_p11.png",
+        "point150_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/900",
+      "point_videos": [
+        {
+          "title": "等積変形",
+          "id": "xJv7QBRkZZw"
+        }
+      ]
+    },
+    {
+      "id": "point150_nankan",
+      "number": 150,
+      "title": "等積変形 (等積の技術)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point150_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "DUx2qG5c0jE"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "9qff5SY_8Ek"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Jl65lpEYkGQ",
+            "4JaJYaUE6gI"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "等積変形",
+          "id": "xJv7QBRkZZw"
+        },
+        {
+          "title": "中心と結ぶ",
+          "id": "SSnbxQqwcIw"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1750/lesson-playlist?textbook_reference_code=kobe-web-900",
+      "problemPages": [
+        "point150_nankan_p00.png",
+        "point150_nankan_p01.png",
+        "point150_nankan_p02.png",
+        "point150_nankan_p03.png",
+        "point150_nankan_p04.png",
+        "point150_nankan_p05.png",
+        "point150_nankan_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point150_nankan_ans_p07.png",
+        "point150_nankan_ans_p08.png",
+        "point150_nankan_ans_p09.png",
+        "point150_nankan_ans_p10.png",
+        "point150_nankan_ans_p11.png"
+      ]
+    },
+    {
+      "id": "point151",
+      "number": 151,
+      "title": "等積変形(道) (等積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point151_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3NKHJ2ssBeA",
+        "KiV9Xxusdlo",
+        "azeysvK98Iw",
+        "gkaxAUg2Qzw",
+        "q-sRdFSykb8",
+        "yNSP6l3kihI"
+      ],
+      "questions": [
+        {
+          "id": "p151-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "q-sRdFSykb8"
+          ]
+        },
+        {
+          "id": "p151-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "yNSP6l3kihI"
+          ]
+        },
+        {
+          "id": "p151-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "azeysvK98Iw"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point151_p00.png",
+        "point151_p01.png",
+        "point151_p02.png",
+        "point151_p03.png",
+        "point151_p04.png",
+        "point151_p05.png",
+        "point151_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point151_ans_p07.png",
+        "point151_ans_p08.png",
+        "point151_ans_p09.png",
+        "point151_ans_p10.png",
+        "point151_ans_p11.png",
+        "point151_ans_p12.png",
+        "point151_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/901",
+      "point_videos": [
+        {
+          "title": "等積変形(道)",
+          "id": "VTXa22sBHto"
+        }
+      ]
+    },
+    {
+      "id": "point152",
+      "number": 152,
+      "title": "等積移動 (等積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point152_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "2MzzSgyOwFI",
+        "NiubAlAd5Dk",
+        "TtKe4Bcm3G4",
+        "dPqiumR7L6I",
+        "oflygl60rdA",
+        "pfZ0hYR9rAU"
+      ],
+      "questions": [
+        {
+          "id": "p152-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "pfZ0hYR9rAU"
+          ]
+        },
+        {
+          "id": "p152-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "2MzzSgyOwFI"
+          ]
+        },
+        {
+          "id": "p152-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "TtKe4Bcm3G4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point152_p00.png",
+        "point152_p01.png",
+        "point152_p02.png",
+        "point152_p03.png",
+        "point152_p04.png",
+        "point152_p05.png",
+        "point152_p06.png",
+        "point152_p07.png",
+        "point152_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 16,
+      "answerPages": [
+        "point152_ans_p09.png",
+        "point152_ans_p10.png",
+        "point152_ans_p11.png",
+        "point152_ans_p12.png",
+        "point152_ans_p13.png",
+        "point152_ans_p14.png",
+        "point152_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/902",
+      "point_videos": [
+        {
+          "title": "等積移動",
+          "id": "CpOYxshMY9o"
+        },
+        {
+          "title": "30°問題",
+          "id": "z__EDbpXGZM"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi17",
+    "title": "第17回 力試しテスト",
+    "range": "Point 145〜152",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/903",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第17回_共通の型_力試しテスト問題.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第17回_共通の型_力試しテスト解答.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "2BkQ0zNXKsw",
+      "AtLadWC3toA",
+      "MRLQ0QSaHrg",
+      "RV28XuUKgzA",
+      "VSHvkB7UqP8",
+      "X3eZa5iBqz8",
+      "ocSt4RU2IZI",
+      "pqFZrhfMbD0"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(1)",
+        "label": "2番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(2)",
+        "label": "2番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(3)",
+        "label": "2番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6",
+        "label": "6番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7",
+        "label": "7番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7(1)",
+        "label": "7番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7(2)",
+        "label": "7番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8",
+        "label": "8番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8(1)",
+        "label": "8番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8(2)",
+        "label": "8番(2)",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png",
+      "test_mondai_p06.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png"
+    ],
+    "point_videos": [
+      {
+        "title": "半径×半径",
+        "id": "PIaXqF_BObA"
+      },
+      {
+        "title": "等積変形",
+        "id": "xJv7QBRkZZw"
+      },
+      {
+        "title": "移動(曲線図形)",
+        "id": "Cx6PsHYEYcA"
+      },
+      {
+        "title": "直角二等辺の性質",
+        "id": "CDIeIb74EoY"
+      },
+      {
+        "title": "同じところ付け足し",
+        "id": "ls1H5A_qlj4"
+      },
+      {
+        "title": "等積変形(道)",
+        "id": "VTXa22sBHto"
+      },
+      {
+        "title": "高さの和の利用",
+        "id": "ZeH_L3SvCKw"
+      },
+      {
+        "title": "等積移動",
+        "id": "CpOYxshMY9o"
+      }
+    ]
+  }
+}

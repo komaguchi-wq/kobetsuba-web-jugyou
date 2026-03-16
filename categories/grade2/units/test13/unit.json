@@ -1,0 +1,372 @@
+{
+  "points": [
+    {
+      "id": "point297",
+      "number": 297,
+      "title": "水量一定→底と高が逆比 (水問題の王道)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point297_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-jBAcjrG-zU",
+        "A89T8vd3RIw",
+        "TO9id51RvA4",
+        "fBmY4NunASY",
+        "oZA5BXNNQv4",
+        "s_2xzwy0Vj4"
+      ],
+      "questions": [
+        {
+          "id": "p297-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "fBmY4NunASY"
+          ]
+        },
+        {
+          "id": "p297-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "s_2xzwy0Vj4"
+          ]
+        },
+        {
+          "id": "p297-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "-jBAcjrG-zU"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point297_p00.png",
+        "point297_p01.png",
+        "point297_p02.png",
+        "point297_p03.png",
+        "point297_p04.png",
+        "point297_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point297_ans_p06.png",
+        "point297_ans_p07.png",
+        "point297_ans_p08.png",
+        "point297_ans_p09.png",
+        "point297_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1005",
+      "point_videos": [
+        {
+          "title": "水量一定→底と高が逆比",
+          "id": "1RxuHZYksMc"
+        },
+        {
+          "title": "3つの逆比",
+          "id": "KrIwwCN7GxU"
+        }
+      ]
+    },
+    {
+      "id": "point298",
+      "number": 298,
+      "title": "棒入れ(水面に出る)→底と高が逆比 (水問題の王道)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point298_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1ZQIi17oYMQ",
+        "3dmKNEXNneg",
+        "dAtyjuX3XQk",
+        "lC8h4mSfvZ4",
+        "oTkeQVr2kWI",
+        "zu5dGFbD-lg"
+      ],
+      "questions": [
+        {
+          "id": "p298-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "zu5dGFbD-lg"
+          ]
+        },
+        {
+          "id": "p298-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "lC8h4mSfvZ4"
+          ]
+        },
+        {
+          "id": "p298-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "dAtyjuX3XQk"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point298_p00.png",
+        "point298_p01.png",
+        "point298_p02.png",
+        "point298_p03.png",
+        "point298_p04.png",
+        "point298_p05.png",
+        "point298_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point298_ans_p07.png",
+        "point298_ans_p08.png",
+        "point298_ans_p09.png",
+        "point298_ans_p10.png",
+        "point298_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1006",
+      "point_videos": [
+        {
+          "title": "棒入れ(水面に出る)→底と高が逆比",
+          "id": "yvFkGeI0rN8"
+        },
+        {
+          "title": "棒入れ（水没）",
+          "id": "KvwH7XxoTzo"
+        }
+      ]
+    },
+    {
+      "id": "point299",
+      "number": 299,
+      "title": "1分①おきと面積パズル (水グラフの王道)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point299_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "19vSCuvgWM4",
+        "3MBN357wYSY",
+        "7uuyu5-70uA",
+        "8gKG1-sisdQ",
+        "Or8BexKUfmw",
+        "a5jrlhqC1SA",
+        "vbIDP4mGlV8",
+        "wAxj1noAHLs"
+      ],
+      "questions": [
+        {
+          "id": "p299-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "3MBN357wYSY"
+          ]
+        },
+        {
+          "id": "p299-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "vbIDP4mGlV8"
+          ]
+        },
+        {
+          "id": "p299-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "19vSCuvgWM4",
+            "7uuyu5-70uA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point299_p00.png",
+        "point299_p01.png",
+        "point299_p02.png",
+        "point299_p03.png",
+        "point299_p04.png",
+        "point299_p05.png",
+        "point299_p06.png",
+        "point299_p07.png",
+        "point299_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 16,
+      "answerPages": [
+        "point299_ans_p09.png",
+        "point299_ans_p10.png",
+        "point299_ans_p11.png",
+        "point299_ans_p12.png",
+        "point299_ans_p13.png",
+        "point299_ans_p14.png",
+        "point299_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1007",
+      "point_videos": [
+        {
+          "title": "1分①おきと面積パズル",
+          "id": "4VrX4S7XTkk"
+        }
+      ]
+    },
+    {
+      "id": "point299_nankan",
+      "number": 299,
+      "title": "1分①おきと面積パズル (水グラフの王道)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point299_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "UaafA0Ud_qk"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "hLX6MlCz3mo"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "u_uw6GUNPoM"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "1分①おきと面積パズル",
+          "id": "4VrX4S7XTkk"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/2068/lesson-playlist?textbook_reference_code=kobe-web-1007",
+      "problemPages": [
+        "point299_nankan_p00.png",
+        "point299_nankan_p01.png",
+        "point299_nankan_p02.png",
+        "point299_nankan_p03.png",
+        "point299_nankan_p04.png",
+        "point299_nankan_p05.png",
+        "point299_nankan_p06.png",
+        "point299_nankan_p07.png",
+        "point299_nankan_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 16,
+      "answerPages": [
+        "point299_nankan_ans_p09.png",
+        "point299_nankan_ans_p10.png",
+        "point299_nankan_ans_p11.png",
+        "point299_nankan_ans_p12.png",
+        "point299_nankan_ans_p13.png",
+        "point299_nankan_ans_p14.png",
+        "point299_nankan_ans_p15.png"
+      ]
+    },
+    {
+      "id": "point300",
+      "number": 300,
+      "title": "傾け→水が出ていく口から地面に平行な水面 (水問題の脇道)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point300_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "DFGE47MQPKQ",
+        "FKhUBfFddOY",
+        "HTfJkMnRzC8",
+        "PiBUQqnvHhw",
+        "fNsaMSC5L4w",
+        "iv8ZeD5B_eU"
+      ],
+      "questions": [
+        {
+          "id": "p300-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "PiBUQqnvHhw"
+          ]
+        },
+        {
+          "id": "p300-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "FKhUBfFddOY"
+          ]
+        },
+        {
+          "id": "p300-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "HTfJkMnRzC8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point300_p00.png",
+        "point300_p01.png",
+        "point300_p02.png",
+        "point300_p03.png",
+        "point300_p04.png",
+        "point300_p05.png",
+        "point300_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point300_ans_p07.png",
+        "point300_ans_p08.png",
+        "point300_ans_p09.png",
+        "point300_ans_p10.png",
+        "point300_ans_p11.png",
+        "point300_ans_p12.png",
+        "point300_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1008",
+      "point_videos": [
+        {
+          "title": "傾け→水が出ていく口から地面に平行な水面",
+          "id": "oromBIYDgws"
+        },
+        {
+          "title": "平均の策",
+          "id": "ZqrTFxuRHG8"
+        },
+        {
+          "title": "30°問題",
+          "id": "z__EDbpXGZM"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi13",
+    "title": "第13回 力試しテスト",
+    "range": "Point 297〜300",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1009",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第13回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [],
+    "questions": []
+  }
+}

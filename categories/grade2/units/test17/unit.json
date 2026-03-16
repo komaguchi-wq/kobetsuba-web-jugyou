@@ -1,0 +1,671 @@
+{
+  "points": [
+    {
+      "id": "point333",
+      "number": 333,
+      "title": "点の移動解法 (点の移動(割合あり))",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point333_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "CqiOIpWU0uI",
+        "F292i4oaEN4",
+        "MFyouxLrh6E",
+        "qmF3IRJBIEU",
+        "qz1jVhOqJN4",
+        "t68_uYcutKc"
+      ],
+      "questions": [
+        {
+          "id": "p333-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "MFyouxLrh6E"
+          ]
+        },
+        {
+          "id": "p333-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "t68_uYcutKc"
+          ]
+        },
+        {
+          "id": "p333-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "qz1jVhOqJN4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point333_p00.png",
+        "point333_p01.png",
+        "point333_p02.png",
+        "point333_p03.png",
+        "point333_p04.png",
+        "point333_p05.png",
+        "point333_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 13,
+      "answerPages": [
+        "point333_ans_p07.png",
+        "point333_ans_p08.png",
+        "point333_ans_p09.png",
+        "point333_ans_p10.png",
+        "point333_ans_p11.png",
+        "point333_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1045",
+      "point_videos": [
+        {
+          "title": "点の移動解法(平面図形)",
+          "id": "NXhR_YI1sQU"
+        },
+        {
+          "title": "区切り面積",
+          "id": "HowRRreOQHc"
+        },
+        {
+          "title": "台形ペケポンの等積変形",
+          "id": "6uMBo8L3KtE"
+        }
+      ]
+    },
+    {
+      "id": "point334",
+      "number": 334,
+      "title": "正方形(直角二等辺)づくり (直角三角形型)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point334_共通の型_教材問題解答セット.pdf?updated_at=1765885415"
+      ],
+      "youtube_ids": [
+        "C_dLG5Em28E",
+        "IYio3PWfLag",
+        "TGKhvx69FoI",
+        "n4gYHIB45os",
+        "y4RrBzH0Sv0",
+        "z-WDETI03Rc"
+      ],
+      "questions": [
+        {
+          "id": "p334-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "TGKhvx69FoI"
+          ]
+        },
+        {
+          "id": "p334-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "IYio3PWfLag"
+          ]
+        },
+        {
+          "id": "p334-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "z-WDETI03Rc"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point334_p00.png",
+        "point334_p01.png",
+        "point334_p02.png",
+        "point334_p03.png",
+        "point334_p04.png",
+        "point334_p05.png",
+        "point334_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point334_ans_p07.png",
+        "point334_ans_p08.png",
+        "point334_ans_p09.png",
+        "point334_ans_p10.png",
+        "point334_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1046",
+      "point_videos": [
+        {
+          "title": "正方形(直角二等辺)づくり",
+          "id": "CLu5qR1BxZ8"
+        },
+        {
+          "title": "の比の比",
+          "id": "PE1ZBvyPUjI"
+        }
+      ]
+    },
+    {
+      "id": "point335",
+      "number": 335,
+      "title": "合体 (平面図形(割合有)の発展技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point335_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "AsPzD2EovkM",
+        "FOf2YouZUNI",
+        "GLY0GeH1QH0",
+        "_wEAvqIe0b8",
+        "fYi0uxE2OdQ",
+        "u_RAFEdapKI"
+      ],
+      "questions": [
+        {
+          "id": "p335-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "AsPzD2EovkM"
+          ]
+        },
+        {
+          "id": "p335-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "FOf2YouZUNI"
+          ]
+        },
+        {
+          "id": "p335-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "u_RAFEdapKI"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point335_p00.png",
+        "point335_p01.png",
+        "point335_p02.png",
+        "point335_p03.png",
+        "point335_p04.png",
+        "point335_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 13,
+      "answerPages": [
+        "point335_ans_p06.png",
+        "point335_ans_p07.png",
+        "point335_ans_p08.png",
+        "point335_ans_p09.png",
+        "point335_ans_p10.png",
+        "point335_ans_p11.png",
+        "point335_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1047",
+      "point_videos": [
+        {
+          "title": "合体",
+          "id": "7lcpeQE36FA"
+        },
+        {
+          "title": "合同の基本",
+          "id": "0OR00nXPSTw"
+        }
+      ]
+    },
+    {
+      "id": "point336",
+      "number": 336,
+      "title": "四段切り (平面図形(割合有)の発展技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point336_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-VU5CwxABx0",
+        "2CUCRedDyBc",
+        "K_ud8theEpc",
+        "LcFEYbtT_1Y",
+        "Q2MaJXSbXGg",
+        "UjfBrDdsS0E",
+        "rZfMqPOV8Rc"
+      ],
+      "questions": [
+        {
+          "id": "p336-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "2CUCRedDyBc"
+          ]
+        },
+        {
+          "id": "p336-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "rZfMqPOV8Rc"
+          ]
+        },
+        {
+          "id": "p336-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "UjfBrDdsS0E",
+            "K_ud8theEpc"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point336_p00.png",
+        "point336_p01.png",
+        "point336_p02.png",
+        "point336_p03.png",
+        "point336_p04.png",
+        "point336_p05.png",
+        "point336_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point336_ans_p07.png",
+        "point336_ans_p08.png",
+        "point336_ans_p09.png",
+        "point336_ans_p10.png",
+        "point336_ans_p11.png",
+        "point336_ans_p12.png",
+        "point336_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1048",
+      "point_videos": [
+        {
+          "title": "四段切り",
+          "id": "HTSzSicx_2Y"
+        },
+        {
+          "title": "点の移動解法(平面図形)",
+          "id": "NXhR_YI1sQU"
+        },
+        {
+          "title": "の比の比",
+          "id": "PE1ZBvyPUjI"
+        }
+      ]
+    },
+    {
+      "id": "point337",
+      "number": 337,
+      "title": "直三の中の直三 (直角三角形型)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point337_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1RMM3pPGb_A",
+        "3WfquZAY6nY",
+        "9ffWGtyluFA",
+        "PmQGufZf35s",
+        "at7W1bxI0eA",
+        "ijeZR4UNS-E"
+      ],
+      "questions": [
+        {
+          "id": "p337-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "3WfquZAY6nY"
+          ]
+        },
+        {
+          "id": "p337-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "9ffWGtyluFA"
+          ]
+        },
+        {
+          "id": "p337-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "PmQGufZf35s"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point337_p00.png",
+        "point337_p01.png",
+        "point337_p02.png",
+        "point337_p03.png",
+        "point337_p04.png",
+        "point337_p05.png",
+        "point337_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point337_ans_p07.png",
+        "point337_ans_p08.png",
+        "point337_ans_p09.png",
+        "point337_ans_p10.png",
+        "point337_ans_p11.png",
+        "point337_ans_p12.png",
+        "point337_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1049",
+      "point_videos": [
+        {
+          "title": "直三の中の直三",
+          "id": "3eXQMvUeUk0"
+        }
+      ]
+    },
+    {
+      "id": "point338",
+      "number": 338,
+      "title": "ガ型隣辺比 (求積の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point338_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "BbTHkcg4-Pg",
+        "MUmDhTpusLk",
+        "ROSmDUKymrQ",
+        "TXnk0Gjna-Q",
+        "xCKibUt-D5c"
+      ],
+      "questions": [
+        {
+          "id": "p338-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "TXnk0Gjna-Q"
+          ]
+        },
+        {
+          "id": "p338-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "xCKibUt-D5c"
+          ]
+        },
+        {
+          "id": "p338-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "BbTHkcg4-Pg"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point338_p00.png",
+        "point338_p01.png",
+        "point338_p02.png",
+        "point338_p03.png",
+        "point338_p04.png",
+        "point338_p05.png",
+        "point338_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 13,
+      "answerPages": [
+        "point338_ans_p07.png",
+        "point338_ans_p08.png",
+        "point338_ans_p09.png",
+        "point338_ans_p10.png",
+        "point338_ans_p11.png",
+        "point338_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1050",
+      "point_videos": [
+        {
+          "title": "ガ型隣辺比",
+          "id": "bMyZsRwSYRM"
+        },
+        {
+          "title": "中チョウチョ補助線",
+          "id": "-D2Kq9Q5r5o"
+        },
+        {
+          "title": "ピラミッドの左右の比同じ",
+          "id": "_MiWfB8o6VM"
+        }
+      ]
+    },
+    {
+      "id": "point339",
+      "number": 339,
+      "title": "最短キョリの鏡の世界 (反射と最短距離)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point339_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "XXMmeEFd5qM",
+        "YLvF7sosRJY",
+        "b9qimVn2yRw",
+        "otUQILlBdN8",
+        "t7tm86uRVY4",
+        "tBAoJHvFRps"
+      ],
+      "questions": [
+        {
+          "id": "p339-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "b9qimVn2yRw"
+          ]
+        },
+        {
+          "id": "p339-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "YLvF7sosRJY"
+          ]
+        },
+        {
+          "id": "p339-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "otUQILlBdN8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point339_p00.png",
+        "point339_p01.png",
+        "point339_p02.png",
+        "point339_p03.png",
+        "point339_p04.png",
+        "point339_p05.png",
+        "point339_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point339_ans_p07.png",
+        "point339_ans_p08.png",
+        "point339_ans_p09.png",
+        "point339_ans_p10.png",
+        "point339_ans_p11.png",
+        "point339_ans_p12.png",
+        "point339_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1051",
+      "point_videos": [
+        {
+          "title": "最短キョリの鏡の世界",
+          "id": "r1rxdCojru8"
+        },
+        {
+          "title": "四段切り",
+          "id": "HTSzSicx_2Y"
+        }
+      ]
+    },
+    {
+      "id": "point340",
+      "number": 340,
+      "title": "反射の鏡の世界 (反射と最短距離)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point340_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-FA8ed4FBzM",
+        "2OoSj9M8gO8",
+        "ExlSQ8hpJqw",
+        "I0WYy9GDCbo",
+        "nqZXV-BGwKk",
+        "qWdyXq8mkJk",
+        "qvCkIsTn1yk",
+        "udetI60vUKE"
+      ],
+      "questions": [
+        {
+          "id": "p340-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "qvCkIsTn1yk"
+          ]
+        },
+        {
+          "id": "p340-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "I0WYy9GDCbo"
+          ]
+        },
+        {
+          "id": "p340-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "ExlSQ8hpJqw",
+            "-FA8ed4FBzM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point340_p00.png",
+        "point340_p01.png",
+        "point340_p02.png",
+        "point340_p03.png",
+        "point340_p04.png",
+        "point340_p05.png",
+        "point340_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point340_ans_p07.png",
+        "point340_ans_p08.png",
+        "point340_ans_p09.png",
+        "point340_ans_p10.png",
+        "point340_ans_p11.png",
+        "point340_ans_p12.png",
+        "point340_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1052",
+      "point_videos": [
+        {
+          "title": "反射の鏡の世界",
+          "id": "lFT1z6ELr6c"
+        }
+      ]
+    },
+    {
+      "id": "point341",
+      "number": 341,
+      "title": "反射/長方形型 (反射と最短距離)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point341_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "0IVZ2dJDck0",
+        "DpJY6sK4i-g",
+        "EgkOVnvMDjQ",
+        "JNztal1li18",
+        "NMptP58tT-s",
+        "dae-pk6crxQ"
+      ],
+      "questions": [
+        {
+          "id": "p341-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "dae-pk6crxQ"
+          ]
+        },
+        {
+          "id": "p341-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "JNztal1li18"
+          ]
+        },
+        {
+          "id": "p341-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "0IVZ2dJDck0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point341_p00.png",
+        "point341_p01.png",
+        "point341_p02.png",
+        "point341_p03.png",
+        "point341_p04.png",
+        "point341_p05.png",
+        "point341_p06.png",
+        "point341_p07.png"
+      ],
+      "answerStartPage": 8,
+      "totalPages": 14,
+      "answerPages": [
+        "point341_ans_p08.png",
+        "point341_ans_p09.png",
+        "point341_ans_p10.png",
+        "point341_ans_p11.png",
+        "point341_ans_p12.png",
+        "point341_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1053",
+      "point_videos": [
+        {
+          "title": "反射/長方形型",
+          "id": "ikFv4AdOzs4"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi17",
+    "title": "第17回 力試しテスト",
+    "range": "Point 333〜341",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1054",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第17回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [],
+    "questions": []
+  }
+}

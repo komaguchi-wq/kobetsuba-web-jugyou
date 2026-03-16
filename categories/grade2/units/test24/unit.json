@@ -1,0 +1,586 @@
+{
+  "points": [
+    {
+      "id": "point396",
+      "number": 396,
+      "title": "三角すいの隣辺比 (切断)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point396_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "93hb9G5XwJw",
+        "FK2QUBoXFgk",
+        "H1ZZZ6QrY00",
+        "OY3PNFVUsWU",
+        "ePKw711GljA",
+        "hD2Gk8v1Ms8"
+      ],
+      "questions": [
+        {
+          "id": "p396-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "93hb9G5XwJw"
+          ]
+        },
+        {
+          "id": "p396-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "OY3PNFVUsWU"
+          ]
+        },
+        {
+          "id": "p396-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "ePKw711GljA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point396_p00.png",
+        "point396_p01.png",
+        "point396_p02.png",
+        "point396_p03.png",
+        "point396_p04.png",
+        "point396_p05.png",
+        "point396_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point396_ans_p07.png",
+        "point396_ans_p08.png",
+        "point396_ans_p09.png",
+        "point396_ans_p10.png",
+        "point396_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1115",
+      "point_videos": [
+        {
+          "title": "三角すいの隣辺比",
+          "id": "BqF98lHwi44"
+        }
+      ]
+    },
+    {
+      "id": "point397",
+      "number": 397,
+      "title": "四角すいの切断 (切断)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point397_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "7hZrMTrq_H0",
+        "7ywmjUqX8Bo",
+        "Cuz_NinJiTI",
+        "GrW172NZatc",
+        "H1g9BZsr8Ds",
+        "SseTLQftYsY",
+        "SzHuYOOBNH8",
+        "U8Utd858do8",
+        "b7PfkcA6Okg",
+        "t1snJkrMw_M"
+      ],
+      "questions": [
+        {
+          "id": "p397-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "SzHuYOOBNH8"
+          ]
+        },
+        {
+          "id": "p397-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "b7PfkcA6Okg",
+            "t1snJkrMw_M"
+          ]
+        },
+        {
+          "id": "p397-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "7ywmjUqX8Bo",
+            "H1g9BZsr8Ds"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point397_p00.png",
+        "point397_p01.png",
+        "point397_p02.png",
+        "point397_p03.png",
+        "point397_p04.png",
+        "point397_p05.png",
+        "point397_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point397_ans_p07.png",
+        "point397_ans_p08.png",
+        "point397_ans_p09.png",
+        "point397_ans_p10.png",
+        "point397_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1116",
+      "point_videos": [
+        {
+          "title": "四角すいの切断",
+          "id": "lvrF_zhhWHU"
+        }
+      ]
+    },
+    {
+      "id": "point398",
+      "number": 398,
+      "title": "ダブル切断 (切断)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point398_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "Bns1jDAxcWs",
+        "QQSyTbA224Y",
+        "f5DImERcQ9Q",
+        "iFyPxtfReaQ",
+        "tVbc2_tY5FY",
+        "ww_gXaYssGw"
+      ],
+      "questions": [
+        {
+          "id": "p398-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "tVbc2_tY5FY"
+          ]
+        },
+        {
+          "id": "p398-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "QQSyTbA224Y"
+          ]
+        },
+        {
+          "id": "p398-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "ww_gXaYssGw"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point398_p00.png",
+        "point398_p01.png",
+        "point398_p02.png",
+        "point398_p03.png",
+        "point398_p04.png",
+        "point398_p05.png",
+        "point398_p06.png",
+        "point398_p07.png",
+        "point398_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 14,
+      "answerPages": [
+        "point398_ans_p09.png",
+        "point398_ans_p10.png",
+        "point398_ans_p11.png",
+        "point398_ans_p12.png",
+        "point398_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1117",
+      "point_videos": [
+        {
+          "title": "ダブル切断",
+          "id": "oVhtAEd0Ntw"
+        }
+      ]
+    },
+    {
+      "id": "point398_nankan",
+      "number": 398,
+      "title": "ダブル切断 (切断)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point398_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "fX7CkGCGeEE"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "4OEomfy4JdM"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "oc9RzNk__bI"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "ダブル切断",
+          "id": "oVhtAEd0Ntw"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/2348/lesson-playlist?textbook_reference_code=kobe-web-1117",
+      "problemPages": [
+        "point398_nankan_p00.png",
+        "point398_nankan_p01.png",
+        "point398_nankan_p02.png",
+        "point398_nankan_p03.png",
+        "point398_nankan_p04.png",
+        "point398_nankan_p05.png",
+        "point398_nankan_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point398_nankan_ans_p07.png",
+        "point398_nankan_ans_p08.png",
+        "point398_nankan_ans_p09.png",
+        "point398_nankan_ans_p10.png",
+        "point398_nankan_ans_p11.png"
+      ]
+    },
+    {
+      "id": "point399",
+      "number": 399,
+      "title": "共通範囲 (切断)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point399_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "DRji7OH-cLA",
+        "NWZLkWzwmvg",
+        "PA2KrnW20Qs",
+        "RdouQKxZ4ws",
+        "_-q6u3AtKmI",
+        "c-LGVf8JgXY"
+      ],
+      "questions": [
+        {
+          "id": "p399-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "c-LGVf8JgXY"
+          ]
+        },
+        {
+          "id": "p399-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "DRji7OH-cLA"
+          ]
+        },
+        {
+          "id": "p399-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "RdouQKxZ4ws"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point399_p00.png",
+        "point399_p01.png",
+        "point399_p02.png",
+        "point399_p03.png",
+        "point399_p04.png",
+        "point399_p05.png",
+        "point399_p06.png",
+        "point399_p07.png",
+        "point399_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 16,
+      "answerPages": [
+        "point399_ans_p09.png",
+        "point399_ans_p10.png",
+        "point399_ans_p11.png",
+        "point399_ans_p12.png",
+        "point399_ans_p13.png",
+        "point399_ans_p14.png",
+        "point399_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1118",
+      "point_videos": [
+        {
+          "title": "共通範囲",
+          "id": "XDMnwhiaI84"
+        }
+      ]
+    },
+    {
+      "id": "point400",
+      "number": 400,
+      "title": "連続切断 (切断)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point400_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1fePd1Pn7gE",
+        "2cLfWzfNQNE",
+        "6B8WChqw1dU",
+        "VDfCrtBHJZ8",
+        "_mgGSf5Iv28",
+        "bbtm2lGVwx4",
+        "j7Pfnl7bxnQ",
+        "vR5d9--9n2k"
+      ],
+      "questions": [
+        {
+          "id": "p400-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "2cLfWzfNQNE"
+          ]
+        },
+        {
+          "id": "p400-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "_mgGSf5Iv28"
+          ]
+        },
+        {
+          "id": "p400-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "vR5d9--9n2k",
+            "6B8WChqw1dU"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point400_p00.png",
+        "point400_p01.png",
+        "point400_p02.png",
+        "point400_p03.png",
+        "point400_p04.png",
+        "point400_p05.png",
+        "point400_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 13,
+      "answerPages": [
+        "point400_ans_p07.png",
+        "point400_ans_p08.png",
+        "point400_ans_p09.png",
+        "point400_ans_p10.png",
+        "point400_ans_p11.png",
+        "point400_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1119",
+      "point_videos": [
+        {
+          "title": "連続切断",
+          "id": "2mUSTU6wlA4"
+        },
+        {
+          "title": "「1:1:2」有名三角すい",
+          "id": "1V4KPCsSCuk"
+        }
+      ]
+    },
+    {
+      "id": "point401",
+      "number": 401,
+      "title": "空飛ぶじゅうたんとすそ (影)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point401_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "6dCdMxSfIb4",
+        "8oQhRWW9xEA",
+        "A6D4U0JcQHQ",
+        "G5zTuvgTRSE",
+        "YWB8SoFyfuc",
+        "agzDlyMMsLQ",
+        "dLDuMNsyfXI",
+        "fhLb8XR82Bs",
+        "gtl7Th0NUpQ",
+        "tzaCc2kzj9Y"
+      ],
+      "questions": [
+        {
+          "id": "p401-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "agzDlyMMsLQ"
+          ]
+        },
+        {
+          "id": "p401-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "YWB8SoFyfuc"
+          ]
+        },
+        {
+          "id": "p401-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "tzaCc2kzj9Y",
+            "6dCdMxSfIb4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point401_p00.png",
+        "point401_p01.png",
+        "point401_p02.png",
+        "point401_p03.png",
+        "point401_p04.png",
+        "point401_p05.png",
+        "point401_p06.png",
+        "point401_p07.png",
+        "point401_p08.png",
+        "point401_p09.png",
+        "point401_p10.png"
+      ],
+      "answerStartPage": 11,
+      "totalPages": 20,
+      "answerPages": [
+        "point401_ans_p11.png",
+        "point401_ans_p12.png",
+        "point401_ans_p13.png",
+        "point401_ans_p14.png",
+        "point401_ans_p15.png",
+        "point401_ans_p16.png",
+        "point401_ans_p17.png",
+        "point401_ans_p18.png",
+        "point401_ans_p19.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1120",
+      "point_videos": [
+        {
+          "title": "空飛ぶじゅうたんとすそ",
+          "id": "1uruiKO1WnE"
+        }
+      ]
+    },
+    {
+      "id": "point401_nankan",
+      "number": 401,
+      "title": "空飛ぶじゅうたんとすそ (影)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point401_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "R3bI0iJ65IQ",
+            "W6bnx8s9vS8",
+            "rlXLXKcCx3I"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "H9hAfznIfqg",
+            "CcC9IiRQWgI"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "Z1F3Ak4SeCA",
+            "4J4AWPirHbc"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "空飛ぶじゅうたんとすそ",
+          "id": "1uruiKO1WnE"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/5996/lesson-playlist?textbook_reference_code=kobe-web-1120",
+      "problemPages": [
+        "point401_nankan_p00.png",
+        "point401_nankan_p01.png",
+        "point401_nankan_p02.png",
+        "point401_nankan_p03.png",
+        "point401_nankan_p04.png",
+        "point401_nankan_p05.png",
+        "point401_nankan_p06.png",
+        "point401_nankan_p07.png",
+        "point401_nankan_p08.png",
+        "point401_nankan_p09.png",
+        "point401_nankan_p10.png",
+        "point401_nankan_p11.png",
+        "point401_nankan_p12.png"
+      ],
+      "answerStartPage": 13,
+      "totalPages": 22,
+      "answerPages": [
+        "point401_nankan_ans_p13.png",
+        "point401_nankan_ans_p14.png",
+        "point401_nankan_ans_p15.png",
+        "point401_nankan_ans_p16.png",
+        "point401_nankan_ans_p17.png",
+        "point401_nankan_ans_p18.png",
+        "point401_nankan_ans_p19.png",
+        "point401_nankan_ans_p20.png",
+        "point401_nankan_ans_p21.png"
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi24",
+    "title": "第24回 力試しテスト",
+    "range": "Point 396〜401",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1121",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第24回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [],
+    "questions": []
+  }
+}

@@ -1,0 +1,963 @@
+{
+  "points": [
+    {
+      "id": "point342",
+      "number": 342,
+      "title": "狂った時計＝数直線と進む速さの比 (時計算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point342_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "4VMg2cYMkCc",
+        "Fc1ucoxvej4",
+        "OS8J648m984",
+        "pOD5MgjXpqU",
+        "qiX64tnqGgo",
+        "sAtZQU75eyo"
+      ],
+      "questions": [
+        {
+          "id": "p342-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "sAtZQU75eyo"
+          ]
+        },
+        {
+          "id": "p342-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "pOD5MgjXpqU"
+          ]
+        },
+        {
+          "id": "p342-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "OS8J648m984"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point342_p00.png",
+        "point342_p01.png",
+        "point342_p02.png",
+        "point342_p03.png",
+        "point342_p04.png",
+        "point342_p05.png",
+        "point342_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point342_ans_p07.png",
+        "point342_ans_p08.png",
+        "point342_ans_p09.png",
+        "point342_ans_p10.png",
+        "point342_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1055",
+      "point_videos": [
+        {
+          "title": "狂った時計＝数直線と進む速さの比",
+          "id": "Gwcg7kk_2oc"
+        }
+      ]
+    },
+    {
+      "id": "point343",
+      "number": 343,
+      "title": "歩数×歩幅=速さの「の比の比」 (線分図・式)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point343_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "9psuzKnMmwM",
+        "NQuOrMYncvo",
+        "ivy0OkTYJPw",
+        "qG5HG3XXPJQ",
+        "tz1SpOtB1XE",
+        "yXV8sAk-Xis"
+      ],
+      "questions": [
+        {
+          "id": "p343-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "9psuzKnMmwM"
+          ]
+        },
+        {
+          "id": "p343-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "qG5HG3XXPJQ"
+          ]
+        },
+        {
+          "id": "p343-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "tz1SpOtB1XE"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point343_p00.png",
+        "point343_p01.png",
+        "point343_p02.png",
+        "point343_p03.png",
+        "point343_p04.png",
+        "point343_p05.png",
+        "point343_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point343_ans_p07.png",
+        "point343_ans_p08.png",
+        "point343_ans_p09.png",
+        "point343_ans_p10.png",
+        "point343_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1056",
+      "point_videos": [
+        {
+          "title": "歩数×歩幅=速さの「の比の比」",
+          "id": "3ghtMNlHN8g"
+        },
+        {
+          "title": "キョリ一定",
+          "id": "zKlWNE2V2BQ"
+        },
+        {
+          "title": "時間一定",
+          "id": "EuMy8hwUOxc"
+        },
+        {
+          "title": "同時刻同記号",
+          "id": "f3w8gZxfLYo"
+        }
+      ]
+    },
+    {
+      "id": "point344",
+      "number": 344,
+      "title": "差の比例 (速さの基本)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point344_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-8nd5eQ-JEw",
+        "05XGhfb22MQ",
+        "C5Ur8p-at8M",
+        "G1N6kIchxTY",
+        "J5IX167eS40",
+        "VBliOOJy3lE",
+        "rwWp-EnIFJE",
+        "soJSlHkX7K0"
+      ],
+      "questions": [
+        {
+          "id": "p344-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "soJSlHkX7K0",
+            "-8nd5eQ-JEw"
+          ]
+        },
+        {
+          "id": "p344-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "G1N6kIchxTY",
+            "05XGhfb22MQ"
+          ]
+        },
+        {
+          "id": "p344-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "J5IX167eS40"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point344_p00.png",
+        "point344_p01.png",
+        "point344_p02.png",
+        "point344_p03.png",
+        "point344_p04.png",
+        "point344_p05.png",
+        "point344_p06.png",
+        "point344_p07.png",
+        "point344_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 16,
+      "answerPages": [
+        "point344_ans_p09.png",
+        "point344_ans_p10.png",
+        "point344_ans_p11.png",
+        "point344_ans_p12.png",
+        "point344_ans_p13.png",
+        "point344_ans_p14.png",
+        "point344_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1057",
+      "point_videos": [
+        {
+          "title": "差の比例",
+          "id": "T03_CO8vC5w"
+        }
+      ]
+    },
+    {
+      "id": "point345",
+      "number": 345,
+      "title": "坂道の往復 (線分図・式)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point345_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "56mJieDRdLQ",
+        "EZyvpHhrb8M",
+        "NwzkVADgiKk",
+        "bjwtWNtwktg",
+        "vdrrgdlHVig"
+      ],
+      "questions": [
+        {
+          "id": "p345-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "bjwtWNtwktg"
+          ]
+        },
+        {
+          "id": "p345-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "NwzkVADgiKk"
+          ]
+        },
+        {
+          "id": "p345-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "56mJieDRdLQ"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point345_p00.png",
+        "point345_p01.png",
+        "point345_p02.png",
+        "point345_p03.png",
+        "point345_p04.png",
+        "point345_p05.png",
+        "point345_p06.png",
+        "point345_p07.png",
+        "point345_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 16,
+      "answerPages": [
+        "point345_ans_p09.png",
+        "point345_ans_p10.png",
+        "point345_ans_p11.png",
+        "point345_ans_p12.png",
+        "point345_ans_p13.png",
+        "point345_ans_p14.png",
+        "point345_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1058",
+      "point_videos": [
+        {
+          "title": "坂道の往復",
+          "id": "TNnn5WcDjcU"
+        },
+        {
+          "title": "平均速度",
+          "id": "y6QuEnLgJsE"
+        },
+        {
+          "title": "速さのつるかめ",
+          "id": "DCyrqSezAo0"
+        }
+      ]
+    },
+    {
+      "id": "point346",
+      "number": 346,
+      "title": "隠れ「速さ」(速さへの変換) (隠れ「速さ」)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point346_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "9n1m7S0AmWU",
+        "AsemFnwSaWE",
+        "RmBwOwcbme8",
+        "hJ6SXRScqG4",
+        "hOtxQbXQs7U",
+        "rDhpR2SDd-Y"
+      ],
+      "questions": [
+        {
+          "id": "p346-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "9n1m7S0AmWU"
+          ]
+        },
+        {
+          "id": "p346-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "RmBwOwcbme8"
+          ]
+        },
+        {
+          "id": "p346-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "hJ6SXRScqG4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point346_p00.png",
+        "point346_p01.png",
+        "point346_p02.png",
+        "point346_p03.png",
+        "point346_p04.png",
+        "point346_p05.png",
+        "point346_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point346_ans_p07.png",
+        "point346_ans_p08.png",
+        "point346_ans_p09.png",
+        "point346_ans_p10.png",
+        "point346_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1059",
+      "point_videos": [
+        {
+          "title": "隠れ「速さ」(速さへの変換)",
+          "id": "hc4krssAsrc"
+        },
+        {
+          "title": "キョリ一定",
+          "id": "zKlWNE2V2BQ"
+        },
+        {
+          "title": "平均速度",
+          "id": "y6QuEnLgJsE"
+        },
+        {
+          "title": "水量一定→底と高が逆比",
+          "id": "1RxuHZYksMc"
+        },
+        {
+          "title": "差の比例",
+          "id": "T03_CO8vC5w"
+        }
+      ]
+    },
+    {
+      "id": "point347",
+      "number": 347,
+      "title": "ダイヤグラムの選択パターン (ダイヤグラム・へだたりグラフ)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point347_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "AerGjlTgV0s",
+        "CCoQFK4fcj0",
+        "KwSLMugtqF0",
+        "NU7G5LKjYio",
+        "Wzj57UausaQ",
+        "zoCBCzNaQpU"
+      ],
+      "questions": [
+        {
+          "id": "p347-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "KwSLMugtqF0"
+          ]
+        },
+        {
+          "id": "p347-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "CCoQFK4fcj0"
+          ]
+        },
+        {
+          "id": "p347-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "NU7G5LKjYio"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point347_p00.png",
+        "point347_p01.png",
+        "point347_p02.png",
+        "point347_p03.png",
+        "point347_p04.png",
+        "point347_p05.png",
+        "point347_p06.png",
+        "point347_p07.png",
+        "point347_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 16,
+      "answerPages": [
+        "point347_ans_p09.png",
+        "point347_ans_p10.png",
+        "point347_ans_p11.png",
+        "point347_ans_p12.png",
+        "point347_ans_p13.png",
+        "point347_ans_p14.png",
+        "point347_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1060",
+      "point_videos": [
+        {
+          "title": "ダイヤグラムの選択パターン",
+          "id": "5pplJV9FYmc"
+        },
+        {
+          "title": "時間一定折り返し型",
+          "id": "8_wgke06SJQ"
+        }
+      ]
+    },
+    {
+      "id": "point348",
+      "number": 348,
+      "title": "真ん中影武者 (時計算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point348_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "HDaGP6nf1so",
+        "JiQgkCpRqIo",
+        "YSoTYk7sXTc",
+        "cPVxwgziJxk",
+        "s0tDp-Y9ioY",
+        "tplCigrLXhA",
+        "y9NRso_JUew",
+        "zddwRByMims"
+      ],
+      "questions": [
+        {
+          "id": "p348-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "YSoTYk7sXTc"
+          ]
+        },
+        {
+          "id": "p348-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "y9NRso_JUew",
+            "HDaGP6nf1so"
+          ]
+        },
+        {
+          "id": "p348-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "JiQgkCpRqIo"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point348_p00.png",
+        "point348_p01.png",
+        "point348_p02.png",
+        "point348_p03.png",
+        "point348_p04.png",
+        "point348_p05.png",
+        "point348_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point348_ans_p07.png",
+        "point348_ans_p08.png",
+        "point348_ans_p09.png",
+        "point348_ans_p10.png",
+        "point348_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1061",
+      "point_videos": [
+        {
+          "title": "真ん中影武者",
+          "id": "yCBUv69Adw8"
+        }
+      ]
+    },
+    {
+      "id": "point348_nankan",
+      "number": 348,
+      "title": "真ん中影武者 (時計算)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point348_難関の型_教材問題解答セット.pdf?updated_at=1765885415"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "UvmSSpo7O7M"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "Af1GxSHrKKo"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "CJn5d0zfbtc"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "真ん中影武者",
+          "id": "yCBUv69Adw8"
+        },
+        {
+          "title": "角速度求め",
+          "id": "wziIwmg3I9A"
+        },
+        {
+          "title": "狂った時計＝数直線と進む速さの比",
+          "id": "Gwcg7kk_2oc"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/6240/lesson-playlist?textbook_reference_code=kobe-web-1061",
+      "problemPages": [
+        "point348_nankan_p00.png",
+        "point348_nankan_p01.png",
+        "point348_nankan_p02.png",
+        "point348_nankan_p03.png",
+        "point348_nankan_p04.png",
+        "point348_nankan_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point348_nankan_ans_p06.png",
+        "point348_nankan_ans_p07.png",
+        "point348_nankan_ans_p08.png",
+        "point348_nankan_ans_p09.png",
+        "point348_nankan_ans_p10.png"
+      ]
+    },
+    {
+      "id": "point349",
+      "number": 349,
+      "title": "針の入れ替わり→和に注目 (時計算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point349_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "8ivciERNIQQ",
+        "PnIxgFm_pj8",
+        "RWzmJ-1Wb8k",
+        "wmwH2CYk5RM",
+        "zAzNvbq85AA"
+      ],
+      "questions": [
+        {
+          "id": "p349-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "RWzmJ-1Wb8k"
+          ]
+        },
+        {
+          "id": "p349-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "zAzNvbq85AA"
+          ]
+        },
+        {
+          "id": "p349-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "PnIxgFm_pj8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point349_p00.png",
+        "point349_p01.png",
+        "point349_p02.png",
+        "point349_p03.png",
+        "point349_p04.png",
+        "point349_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 12,
+      "answerPages": [
+        "point349_ans_p06.png",
+        "point349_ans_p07.png",
+        "point349_ans_p08.png",
+        "point349_ans_p09.png",
+        "point349_ans_p10.png",
+        "point349_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1062",
+      "point_videos": [
+        {
+          "title": "針の入れ替わり→和に注目",
+          "id": "btvayZfxBf4"
+        }
+      ]
+    },
+    {
+      "id": "point350",
+      "number": 350,
+      "title": "数字無し時計 (時計算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point350_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3nNItUYEawA",
+        "5zhirO-zFtI",
+        "_E9iET-8Ln0",
+        "tUa12V4sfp8",
+        "v0-cGiFitl0",
+        "wNm5HOk8DYM"
+      ],
+      "questions": [
+        {
+          "id": "p350-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "tUa12V4sfp8"
+          ]
+        },
+        {
+          "id": "p350-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "wNm5HOk8DYM"
+          ]
+        },
+        {
+          "id": "p350-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "_E9iET-8Ln0"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point350_p00.png",
+        "point350_p01.png",
+        "point350_p02.png",
+        "point350_p03.png",
+        "point350_p04.png",
+        "point350_p05.png",
+        "point350_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point350_ans_p07.png",
+        "point350_ans_p08.png",
+        "point350_ans_p09.png",
+        "point350_ans_p10.png",
+        "point350_ans_p11.png",
+        "point350_ans_p12.png",
+        "point350_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1063",
+      "point_videos": [
+        {
+          "title": "数字無し時計",
+          "id": "P1-P79_XDUo"
+        },
+        {
+          "title": "2つの消去算",
+          "id": "O_-KF_Lb8lM"
+        }
+      ]
+    },
+    {
+      "id": "point351",
+      "number": 351,
+      "title": "短・長の間の角度でダイヤグラム (時計算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point351_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "NjPwAYQbuc0",
+        "RgWVTX392vc",
+        "ZJvlU808VqA",
+        "_IohmYHYieE",
+        "__Easj89WK8",
+        "dIsVDLfHKro"
+      ],
+      "questions": [
+        {
+          "id": "p351-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "dIsVDLfHKro"
+          ]
+        },
+        {
+          "id": "p351-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "_IohmYHYieE"
+          ]
+        },
+        {
+          "id": "p351-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "ZJvlU808VqA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point351_p00.png",
+        "point351_p01.png",
+        "point351_p02.png",
+        "point351_p03.png",
+        "point351_p04.png",
+        "point351_p05.png",
+        "point351_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point351_ans_p07.png",
+        "point351_ans_p08.png",
+        "point351_ans_p09.png",
+        "point351_ans_p10.png",
+        "point351_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1064",
+      "point_videos": [
+        {
+          "title": "短・長の間の角度でダイヤグラム",
+          "id": "7A7ogbfKp7g"
+        }
+      ]
+    },
+    {
+      "id": "point352",
+      "number": 352,
+      "title": "エスカレーター(動く歩道) (流水算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point352_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "0Gu933KsWzo",
+        "20yQU4YqtOw",
+        "jFkwEqpNfQU",
+        "lVx7HmPLGu4",
+        "y_FUhn3U3MI"
+      ],
+      "questions": [
+        {
+          "id": "p352-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "20yQU4YqtOw"
+          ]
+        },
+        {
+          "id": "p352-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "0Gu933KsWzo"
+          ]
+        },
+        {
+          "id": "p352-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "lVx7HmPLGu4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point352_p00.png",
+        "point352_p01.png",
+        "point352_p02.png",
+        "point352_p03.png",
+        "point352_p04.png",
+        "point352_p05.png",
+        "point352_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point352_ans_p07.png",
+        "point352_ans_p08.png",
+        "point352_ans_p09.png",
+        "point352_ans_p10.png",
+        "point352_ans_p11.png",
+        "point352_ans_p12.png",
+        "point352_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1065",
+      "point_videos": [
+        {
+          "title": "エスカレーター(動く歩道)",
+          "id": "4VOT1iiUVyM"
+        },
+        {
+          "title": "歩数×歩幅=速さの「の比の比」",
+          "id": "3ghtMNlHN8g"
+        }
+      ]
+    },
+    {
+      "id": "point353",
+      "number": 353,
+      "title": "静水時が等しい2船の往復→点対称ダイヤ (流水算)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/textbook/point353_共通の型_教材問題解答セット.pdf?updated_at=1765885415"
+      ],
+      "youtube_ids": [
+        "6G6h4uRUS-U",
+        "8iEye0nnBFs",
+        "NvWJQsGsxRU",
+        "V_2ocDIGuBw",
+        "bHYkyiWLmr0",
+        "hM_4E8qwRjM"
+      ],
+      "questions": [
+        {
+          "id": "p353-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "hM_4E8qwRjM"
+          ]
+        },
+        {
+          "id": "p353-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "NvWJQsGsxRU"
+          ]
+        },
+        {
+          "id": "p353-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "6G6h4uRUS-U"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point353_p00.png",
+        "point353_p01.png",
+        "point353_p02.png",
+        "point353_p03.png",
+        "point353_p04.png",
+        "point353_p05.png",
+        "point353_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point353_ans_p07.png",
+        "point353_ans_p08.png",
+        "point353_ans_p09.png",
+        "point353_ans_p10.png",
+        "point353_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1066",
+      "point_videos": [
+        {
+          "title": "静水時が等しい2船の往復→点対称ダイヤ",
+          "id": "kZ0ZwaZ5jp0"
+        },
+        {
+          "title": "2つの和差算",
+          "id": "RPa25Rr-i7A"
+        },
+        {
+          "title": "速さの「の比の比」",
+          "id": "FwdrIlOBzGo"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi18",
+    "title": "第18回 力試しテスト",
+    "range": "Point 342〜353",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/1067",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第18回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [],
+    "questions": []
+  }
+}

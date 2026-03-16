@@ -1,0 +1,901 @@
+{
+  "points": [
+    {
+      "id": "point40",
+      "number": 40,
+      "title": "順列 (並べる・選ぶ)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point40_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "6qOmF3dLsPI",
+        "KuWEsV1lT2k",
+        "O4u6Knh-pME",
+        "WXoOOTek27M",
+        "XiW5P5LEE5E",
+        "_CBLxf2N3p8",
+        "bmjIshLuLlA",
+        "eWEfEtyjidE",
+        "k30c1CgZq-Q",
+        "ksrZ3lzI4Ck",
+        "vwQWVQMek_4"
+      ],
+      "questions": [
+        {
+          "id": "p40-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "O4u6Knh-pME"
+          ]
+        },
+        {
+          "id": "p40-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "eWEfEtyjidE"
+          ]
+        },
+        {
+          "id": "p40-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "vwQWVQMek_4",
+            "ksrZ3lzI4Ck",
+            "6qOmF3dLsPI"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point40_p00.png",
+        "point40_p01.png",
+        "point40_p02.png",
+        "point40_p03.png",
+        "point40_p04.png",
+        "point40_p05.png",
+        "point40_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 13,
+      "answerPages": [
+        "point40_ans_p07.png",
+        "point40_ans_p08.png",
+        "point40_ans_p09.png",
+        "point40_ans_p10.png",
+        "point40_ans_p11.png",
+        "point40_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/752",
+      "point_videos": [
+        {
+          "title": "順列",
+          "id": "SO0oWnYYptQ"
+        }
+      ]
+    },
+    {
+      "id": "point41",
+      "number": 41,
+      "title": "組合せ探し (並べる・選ぶ)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point41_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "C5N7VQwl2Wk",
+        "LkS82AngVVU",
+        "_ZutyKeAs8w",
+        "aaH2FlyHdhA",
+        "hQfCRTdFK-M",
+        "piqLYGVK5Fk"
+      ],
+      "questions": [
+        {
+          "id": "p41-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "piqLYGVK5Fk"
+          ]
+        },
+        {
+          "id": "p41-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "aaH2FlyHdhA"
+          ]
+        },
+        {
+          "id": "p41-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "hQfCRTdFK-M"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point41_p00.png",
+        "point41_p01.png",
+        "point41_p02.png",
+        "point41_p03.png"
+      ],
+      "answerStartPage": 4,
+      "totalPages": 9,
+      "answerPages": [
+        "point41_ans_p04.png",
+        "point41_ans_p05.png",
+        "point41_ans_p06.png",
+        "point41_ans_p07.png",
+        "point41_ans_p08.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/753",
+      "point_videos": [
+        {
+          "title": "組合せ探し",
+          "id": "qZbfe5dbyGQ"
+        }
+      ]
+    },
+    {
+      "id": "point42",
+      "number": 42,
+      "title": "和→組合せ→並べる (並べる・選ぶ)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point42_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "Bw_HUPXmFjw",
+        "DU-u7zm2hcc",
+        "M49Q8TIYR_4",
+        "NWbQ03mr6Yc",
+        "dGtvzWiqoaA",
+        "hbam8Iz953s"
+      ],
+      "questions": [
+        {
+          "id": "p42-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "hbam8Iz953s"
+          ]
+        },
+        {
+          "id": "p42-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "NWbQ03mr6Yc"
+          ]
+        },
+        {
+          "id": "p42-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "M49Q8TIYR_4"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point42_p00.png",
+        "point42_p01.png",
+        "point42_p02.png",
+        "point42_p03.png",
+        "point42_p04.png",
+        "point42_p05.png",
+        "point42_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point42_ans_p07.png",
+        "point42_ans_p08.png",
+        "point42_ans_p09.png",
+        "point42_ans_p10.png",
+        "point42_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/754",
+      "point_videos": [
+        {
+          "title": "和→組合せ→並べる",
+          "id": "YThLjAOkRls"
+        },
+        {
+          "title": "組合せ探し",
+          "id": "qZbfe5dbyGQ"
+        }
+      ]
+    },
+    {
+      "id": "point43",
+      "number": 43,
+      "title": "組み合わせ(Cの利用) (並べる・選ぶ)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point43_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "0ykJs-IKXlk",
+        "E-f6NTaa_ew",
+        "LKETkk--Mr4",
+        "lJSWnsjXjdc",
+        "nn7t0wHGcd4",
+        "o9YuDSBGNog",
+        "pXKxquTV-Mk"
+      ],
+      "questions": [
+        {
+          "id": "p43-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "o9YuDSBGNog"
+          ]
+        },
+        {
+          "id": "p43-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "0ykJs-IKXlk"
+          ]
+        },
+        {
+          "id": "p43-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "E-f6NTaa_ew"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point43_p00.png",
+        "point43_p01.png",
+        "point43_p02.png",
+        "point43_p03.png",
+        "point43_p04.png",
+        "point43_p05.png",
+        "point43_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point43_ans_p07.png",
+        "point43_ans_p08.png",
+        "point43_ans_p09.png",
+        "point43_ans_p10.png",
+        "point43_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/755",
+      "point_videos": [
+        {
+          "title": "組み合わせ(Cの利用)",
+          "id": "TdcQ0X45DFA"
+        }
+      ]
+    },
+    {
+      "id": "point44",
+      "number": 44,
+      "title": "金額表の数え方 (場合の数の応用技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point44_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "ME3gGurlrlA",
+        "MvSIWdDjnzI",
+        "PqNufYYmh9g",
+        "SuRcWD_4ELI",
+        "__AOn6cXm3M",
+        "bwQlPHYjOY0",
+        "chBdgP2jYMw",
+        "day182S6mAk",
+        "sPDgyHnGxHE",
+        "v9SfiTuw31M"
+      ],
+      "questions": [
+        {
+          "id": "p44-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "bwQlPHYjOY0",
+            "SuRcWD_4ELI"
+          ]
+        },
+        {
+          "id": "p44-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "v9SfiTuw31M",
+            "MvSIWdDjnzI"
+          ]
+        },
+        {
+          "id": "p44-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "chBdgP2jYMw",
+            "ME3gGurlrlA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point44_p00.png",
+        "point44_p01.png",
+        "point44_p02.png",
+        "point44_p03.png",
+        "point44_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point44_ans_p05.png",
+        "point44_ans_p06.png",
+        "point44_ans_p07.png",
+        "point44_ans_p08.png",
+        "point44_ans_p09.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/756",
+      "point_videos": [
+        {
+          "title": "金額表の数え方",
+          "id": "NEFXL1tFNos"
+        },
+        {
+          "title": "奇数列",
+          "id": "-3LvG13sQk4"
+        }
+      ]
+    },
+    {
+      "id": "point45",
+      "number": 45,
+      "title": "イチイチ問題 (イチイチ問題)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point45_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-6HhLb0v2Mk",
+        "42nQeCh9XwA",
+        "OvuSJlz4KLQ",
+        "R3LUfQgi4r4",
+        "VN2M_Y24x7c",
+        "jmw16iSHiKI",
+        "kaL8QAJltBo",
+        "kirY8Qw2rpU",
+        "v31GGRMl4Hc",
+        "vV-LOLTBmP8"
+      ],
+      "questions": [
+        {
+          "id": "p45-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "jmw16iSHiKI"
+          ]
+        },
+        {
+          "id": "p45-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "kirY8Qw2rpU",
+            "VN2M_Y24x7c",
+            "vV-LOLTBmP8"
+          ]
+        },
+        {
+          "id": "p45-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "-6HhLb0v2Mk",
+            "R3LUfQgi4r4",
+            "OvuSJlz4KLQ"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point45_p00.png",
+        "point45_p01.png",
+        "point45_p02.png",
+        "point45_p03.png",
+        "point45_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 12,
+      "answerPages": [
+        "point45_ans_p05.png",
+        "point45_ans_p06.png",
+        "point45_ans_p07.png",
+        "point45_ans_p08.png",
+        "point45_ans_p09.png",
+        "point45_ans_p10.png",
+        "point45_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/757",
+      "point_videos": [
+        {
+          "title": "イチイチ問題",
+          "id": "ZxEk2gBW7Sg"
+        }
+      ]
+    },
+    {
+      "id": "point45_nankan",
+      "number": 45,
+      "title": "イチイチ問題 (イチイチ問題)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point45_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "n_g3nQKkXiU"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "Ab0PHxvOCgQ"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "9h8vhT5SGgY"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "イチイチ問題",
+          "id": "ZxEk2gBW7Sg"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1328/lesson-playlist?textbook_reference_code=kobe-web-757",
+      "problemPages": [
+        "point45_nankan_p00.png",
+        "point45_nankan_p01.png",
+        "point45_nankan_p02.png",
+        "point45_nankan_p03.png",
+        "point45_nankan_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 10,
+      "answerPages": [
+        "point45_nankan_ans_p05.png",
+        "point45_nankan_ans_p06.png",
+        "point45_nankan_ans_p07.png",
+        "point45_nankan_ans_p08.png",
+        "point45_nankan_ans_p09.png"
+      ]
+    },
+    {
+      "id": "point46",
+      "number": 46,
+      "title": "3×3魔方陣の性質 (論理推理の応用技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point46_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "3BBG_JJPAaM",
+        "7Xb6x-n3oN8",
+        "EICOsybIITE",
+        "X763rEDC8SM",
+        "pcCnf9OfzAU"
+      ],
+      "questions": [
+        {
+          "id": "p46-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "EICOsybIITE"
+          ]
+        },
+        {
+          "id": "p46-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "pcCnf9OfzAU"
+          ]
+        },
+        {
+          "id": "p46-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "X763rEDC8SM"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point46_p00.png",
+        "point46_p01.png",
+        "point46_p02.png",
+        "point46_p03.png",
+        "point46_p04.png"
+      ],
+      "answerStartPage": 5,
+      "totalPages": 11,
+      "answerPages": [
+        "point46_ans_p05.png",
+        "point46_ans_p06.png",
+        "point46_ans_p07.png",
+        "point46_ans_p08.png",
+        "point46_ans_p09.png",
+        "point46_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/765",
+      "point_videos": [
+        {
+          "title": "3×3魔方陣の性質",
+          "id": "HaymHvZglew"
+        }
+      ]
+    },
+    {
+      "id": "point47",
+      "number": 47,
+      "title": "○×整理 (整理方法の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point47_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "CLrTXmGaosY",
+        "GE9CoDcw9VE",
+        "NAGiXGFmDoU",
+        "rkRYx1ZmOSE",
+        "taUbNv0j_Cs",
+        "z3wK3l49T0c"
+      ],
+      "questions": [
+        {
+          "id": "p47-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "NAGiXGFmDoU"
+          ]
+        },
+        {
+          "id": "p47-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "rkRYx1ZmOSE"
+          ]
+        },
+        {
+          "id": "p47-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "taUbNv0j_Cs"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point47_p00.png",
+        "point47_p01.png",
+        "point47_p02.png",
+        "point47_p03.png",
+        "point47_p04.png",
+        "point47_p05.png"
+      ],
+      "answerStartPage": 6,
+      "totalPages": 11,
+      "answerPages": [
+        "point47_ans_p06.png",
+        "point47_ans_p07.png",
+        "point47_ans_p08.png",
+        "point47_ans_p09.png",
+        "point47_ans_p10.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/767",
+      "point_videos": [
+        {
+          "title": "〇×整理",
+          "id": "gkFuCLLj_rU"
+        }
+      ]
+    },
+    {
+      "id": "point48",
+      "number": 48,
+      "title": "対戦表の整理 (整理方法の技術)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point48_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-GYxEhe0_OY",
+        "20d1_M2MuKk",
+        "6G-tVPaIQ0M",
+        "rzuhEjCq9o8",
+        "tfSJgtamfF0",
+        "yqI97mDoYeY"
+      ],
+      "questions": [
+        {
+          "id": "p48-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "20d1_M2MuKk"
+          ]
+        },
+        {
+          "id": "p48-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "tfSJgtamfF0"
+          ]
+        },
+        {
+          "id": "p48-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "rzuhEjCq9o8"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point48_p00.png",
+        "point48_p01.png",
+        "point48_p02.png",
+        "point48_p03.png",
+        "point48_p04.png",
+        "point48_p05.png",
+        "point48_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point48_ans_p07.png",
+        "point48_ans_p08.png",
+        "point48_ans_p09.png",
+        "point48_ans_p10.png",
+        "point48_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/768",
+      "point_videos": [
+        {
+          "title": "対戦表の整理",
+          "id": "p21tm-biTJw"
+        },
+        {
+          "title": "組み合わせ(Cの利用)",
+          "id": "TdcQ0X45DFA"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi05",
+    "title": "第5回 力試しテスト",
+    "range": "Point 40〜48",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/769",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第5回_共通の型_力試しテスト解答.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第5回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "-4GHrwXOxWw",
+      "37uM6GUKhco",
+      "3l0vY6NAMA4",
+      "97zb_k-BQmw",
+      "Ef1ksz3jdk8",
+      "QBgjOn6oUpg",
+      "QFklcEsypMc",
+      "T8_Bw2aZb4A",
+      "U7C2Tw4um5g",
+      "ZkiN3jhlovI",
+      "cGk5yiJW98A",
+      "gnXfBuFq0kI",
+      "h28SaRab_Zo",
+      "m0casF_9ugk",
+      "pI-cL58Z7bA"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q1(1)",
+        "label": "1番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q1(2)",
+        "label": "1番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(1)",
+        "label": "2番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(2)",
+        "label": "2番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(3)",
+        "label": "2番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(4)",
+        "label": "2番(4)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(3)",
+        "label": "3番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5",
+        "label": "5番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(1)",
+        "label": "5番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(2)",
+        "label": "5番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q5(3)",
+        "label": "5番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q6",
+        "label": "6番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q7",
+        "label": "7番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8",
+        "label": "8番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8(1)",
+        "label": "8番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q8(2)",
+        "label": "8番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9",
+        "label": "9番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9(1)",
+        "label": "9番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q9(2)",
+        "label": "9番(2)",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png",
+      "test_mondai_p05.png",
+      "test_mondai_p06.png",
+      "test_mondai_p07.png",
+      "test_mondai_p08.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png",
+      "test_kaitou_p01.png"
+    ],
+    "point_videos": [
+      {
+        "title": "金額表の数え方",
+        "id": "NEFXL1tFNos"
+      },
+      {
+        "title": "順列",
+        "id": "SO0oWnYYptQ"
+      },
+      {
+        "title": "イチイチ問題",
+        "id": "ZxEk2gBW7Sg"
+      },
+      {
+        "title": "〇×整理",
+        "id": "gkFuCLLj_rU"
+      },
+      {
+        "title": "組み合わせ(Cの利用)",
+        "id": "TdcQ0X45DFA"
+      },
+      {
+        "title": "対戦表の整理",
+        "id": "p21tm-biTJw"
+      },
+      {
+        "title": "組合せ探し",
+        "id": "qZbfe5dbyGQ"
+      },
+      {
+        "title": "3×3魔方陣の性質",
+        "id": "HaymHvZglew"
+      },
+      {
+        "title": "和→組合せ→並べる",
+        "id": "YThLjAOkRls"
+      }
+    ]
+  }
+}

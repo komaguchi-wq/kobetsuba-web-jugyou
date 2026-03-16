@@ -1,0 +1,472 @@
+{
+  "points": [
+    {
+      "id": "point84",
+      "number": 84,
+      "title": "水入れ (水問題の導入)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point84_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "D1olMaGhJz8",
+        "G8_TD3cTlbs",
+        "LH-eFXgifcE",
+        "bQYK8XpXGDA",
+        "ulP0Zx0DV38",
+        "w0aUhQZ9Dok"
+      ],
+      "questions": [
+        {
+          "id": "p84-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "G8_TD3cTlbs"
+          ]
+        },
+        {
+          "id": "p84-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "ulP0Zx0DV38"
+          ]
+        },
+        {
+          "id": "p84-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "bQYK8XpXGDA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point84_p00.png",
+        "point84_p01.png",
+        "point84_p02.png",
+        "point84_p03.png",
+        "point84_p04.png",
+        "point84_p05.png",
+        "point84_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 12,
+      "answerPages": [
+        "point84_ans_p07.png",
+        "point84_ans_p08.png",
+        "point84_ans_p09.png",
+        "point84_ans_p10.png",
+        "point84_ans_p11.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/804",
+      "point_videos": [
+        {
+          "title": "水入れ",
+          "id": "Z81rOwxpOjo"
+        }
+      ]
+    },
+    {
+      "id": "point85",
+      "number": 85,
+      "title": "石入れ (水問題の導入)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point85_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "1-VqPGuaeq4",
+        "4NX6I1xYXkE",
+        "56L-Z-9xb0c",
+        "IdGrOK5Cw0Y",
+        "N6GvTeSubTA",
+        "d_xtt48zZhg",
+        "j2GUQM6YqS8",
+        "tpNHwnM5_ds"
+      ],
+      "questions": [
+        {
+          "id": "p85-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "IdGrOK5Cw0Y",
+            "56L-Z-9xb0c"
+          ]
+        },
+        {
+          "id": "p85-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "1-VqPGuaeq4",
+            "j2GUQM6YqS8"
+          ]
+        },
+        {
+          "id": "p85-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "4NX6I1xYXkE"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point85_p00.png",
+        "point85_p01.png",
+        "point85_p02.png",
+        "point85_p03.png",
+        "point85_p04.png",
+        "point85_p05.png",
+        "point85_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 13,
+      "answerPages": [
+        "point85_ans_p07.png",
+        "point85_ans_p08.png",
+        "point85_ans_p09.png",
+        "point85_ans_p10.png",
+        "point85_ans_p11.png",
+        "point85_ans_p12.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/805",
+      "point_videos": [
+        {
+          "title": "石入れ",
+          "id": "4bmvE5Xwk4c"
+        }
+      ]
+    },
+    {
+      "id": "point85_nankan",
+      "number": 85,
+      "title": "石入れ (水問題の導入)【難関】",
+      "type": "難関の型",
+      "pdf_urls": [
+        "https://chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point85_難関の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [],
+      "questions": [
+        {
+          "id": "nankan-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "MYuQjV_eaYw",
+            "WJOwynpoedU"
+          ]
+        },
+        {
+          "id": "nankan-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "7NA3PnMKkcM"
+          ]
+        },
+        {
+          "id": "nankan-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "izb3kMXlkps"
+          ]
+        }
+      ],
+      "point_videos": [
+        {
+          "title": "石入れ",
+          "id": "4bmvE5Xwk4c"
+        },
+        {
+          "title": "正方形=対角線×対角線÷2",
+          "id": "nNgff2iIrv8"
+        }
+      ],
+      "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1471/lesson-playlist?textbook_reference_code=kobe-web-805",
+      "problemPages": [
+        "point85_nankan_p00.png",
+        "point85_nankan_p01.png",
+        "point85_nankan_p02.png",
+        "point85_nankan_p03.png",
+        "point85_nankan_p04.png",
+        "point85_nankan_p05.png",
+        "point85_nankan_p06.png",
+        "point85_nankan_p07.png",
+        "point85_nankan_p08.png",
+        "point85_nankan_p09.png",
+        "point85_nankan_p10.png",
+        "point85_nankan_p11.png",
+        "point85_nankan_p12.png"
+      ],
+      "answerStartPage": 13,
+      "totalPages": 22,
+      "answerPages": [
+        "point85_nankan_ans_p13.png",
+        "point85_nankan_ans_p14.png",
+        "point85_nankan_ans_p15.png",
+        "point85_nankan_ans_p16.png",
+        "point85_nankan_ans_p17.png",
+        "point85_nankan_ans_p18.png",
+        "point85_nankan_ans_p19.png",
+        "point85_nankan_ans_p20.png",
+        "point85_nankan_ans_p21.png"
+      ]
+    },
+    {
+      "id": "point86",
+      "number": 86,
+      "title": "水グラフの読み取りと書き方 (水グラフの導入)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point86_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "5T21LFpbJQA",
+        "FnSgOrXxLtY",
+        "GaUBc4RJK1o",
+        "YIdz8qw0kvA",
+        "dlEF_qCAw18"
+      ],
+      "questions": [
+        {
+          "id": "p86-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "GaUBc4RJK1o"
+          ]
+        },
+        {
+          "id": "p86-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "dlEF_qCAw18"
+          ]
+        },
+        {
+          "id": "p86-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "5T21LFpbJQA"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point86_p00.png",
+        "point86_p01.png",
+        "point86_p02.png",
+        "point86_p03.png",
+        "point86_p04.png",
+        "point86_p05.png",
+        "point86_p06.png"
+      ],
+      "answerStartPage": 7,
+      "totalPages": 14,
+      "answerPages": [
+        "point86_ans_p07.png",
+        "point86_ans_p08.png",
+        "point86_ans_p09.png",
+        "point86_ans_p10.png",
+        "point86_ans_p11.png",
+        "point86_ans_p12.png",
+        "point86_ans_p13.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/806",
+      "point_videos": [
+        {
+          "title": "水グラフの読み取りと書き方",
+          "id": "b8IQdJ-6nO0"
+        }
+      ]
+    },
+    {
+      "id": "point87",
+      "number": 87,
+      "title": "折れ目の意味と傾きの意味 (水グラフの導入)",
+      "pdf_urls": [
+        "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/textbook/point87_共通の型_教材問題解答セット.pdf?updated_at=1765885414"
+      ],
+      "youtube_ids": [
+        "-AvoIXQkMrk",
+        "DARtxWO_H8U",
+        "GB4U6JbQGOE",
+        "LG-J_8wDNYM",
+        "M5n5er6x6fw",
+        "jKX72KtXXzs"
+      ],
+      "questions": [
+        {
+          "id": "p87-q1",
+          "label": "1番",
+          "type": "例題",
+          "youtube_ids": [
+            "LG-J_8wDNYM"
+          ]
+        },
+        {
+          "id": "p87-q2",
+          "label": "2番",
+          "type": "例題",
+          "youtube_ids": [
+            "jKX72KtXXzs"
+          ]
+        },
+        {
+          "id": "p87-q3",
+          "label": "3番",
+          "type": "例題",
+          "youtube_ids": [
+            "DARtxWO_H8U"
+          ]
+        }
+      ],
+      "problemPages": [
+        "point87_p00.png",
+        "point87_p01.png",
+        "point87_p02.png",
+        "point87_p03.png",
+        "point87_p04.png",
+        "point87_p05.png",
+        "point87_p06.png",
+        "point87_p07.png",
+        "point87_p08.png"
+      ],
+      "answerStartPage": 9,
+      "totalPages": 16,
+      "answerPages": [
+        "point87_ans_p09.png",
+        "point87_ans_p10.png",
+        "point87_ans_p11.png",
+        "point87_ans_p12.png",
+        "point87_ans_p13.png",
+        "point87_ans_p14.png",
+        "point87_ans_p15.png"
+      ],
+      "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/807",
+      "point_videos": [
+        {
+          "title": "折れ目の意味と傾きの意味",
+          "id": "gH0AmGBQc2U"
+        },
+        {
+          "title": "つるかめ算(面積図)",
+          "id": "v3v-hWzL0KA"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "id": "chikaradameshi10",
+    "title": "第10回 力試しテスト",
+    "range": "Point 84〜87",
+    "href": "https://chugakujyuken.kobetsuba.jp/app/number-study/number/808",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第10回_共通の型_力試しテスト解答.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第10回_共通の型_力試しテスト問題.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [
+      "0HVKIkQdl2Q",
+      "KX57YeRlLXY",
+      "TuLOrHGO9Do"
+    ],
+    "questions": [
+      {
+        "id": "test-q1",
+        "label": "1番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q1(1)",
+        "label": "1番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q1(2)",
+        "label": "1番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2",
+        "label": "2番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(1)",
+        "label": "2番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q2(2)",
+        "label": "2番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3",
+        "label": "3番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(1)",
+        "label": "3番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(2)",
+        "label": "3番(2)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q3(3)",
+        "label": "3番(3)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4",
+        "label": "4番",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(1)",
+        "label": "4番(1)",
+        "youtube_ids": []
+      },
+      {
+        "id": "test-q4(2)",
+        "label": "4番(2)",
+        "youtube_ids": []
+      }
+    ],
+    "problemPages": [
+      "test_mondai_p00.png",
+      "test_mondai_p01.png",
+      "test_mondai_p02.png",
+      "test_mondai_p03.png",
+      "test_mondai_p04.png"
+    ],
+    "answerPages": [
+      "test_kaitou_p00.png"
+    ],
+    "point_videos": [
+      {
+        "title": "折れ目の意味と傾きの意味",
+        "id": "gH0AmGBQc2U"
+      },
+      {
+        "title": "水入れ",
+        "id": "Z81rOwxpOjo"
+      },
+      {
+        "title": "水グラフの読み取りと書き方",
+        "id": "b8IQdJ-6nO0"
+      },
+      {
+        "title": "石入れ",
+        "id": "4bmvE5Xwk4c"
+      }
+    ]
+  }
+}
