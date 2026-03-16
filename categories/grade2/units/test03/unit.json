@@ -1292,11 +1292,6 @@
         "youtube_ids": []
       },
       {
-        "id": "test-q2",
-        "label": "2番",
-        "youtube_ids": []
-      },
-      {
         "id": "test-q2(1)",
         "label": "2番(1)",
         "youtube_ids": []
@@ -1307,11 +1302,6 @@
         "youtube_ids": []
       },
       {
-        "id": "test-q3",
-        "label": "3番",
-        "youtube_ids": []
-      },
-      {
         "id": "test-q3(1)",
         "label": "3番(1)",
         "youtube_ids": []
@@ -1319,11 +1309,6 @@
       {
         "id": "test-q3(2)",
         "label": "3番(2)",
-        "youtube_ids": []
-      },
-      {
-        "id": "test-q4",
-        "label": "4番",
         "youtube_ids": []
       },
       {
@@ -1357,11 +1342,6 @@
         "youtube_ids": []
       },
       {
-        "id": "test-q9",
-        "label": "9番",
-        "youtube_ids": []
-      },
-      {
         "id": "test-q9(1)",
         "label": "9番(1)",
         "youtube_ids": []
@@ -1382,11 +1362,6 @@
         "youtube_ids": []
       },
       {
-        "id": "test-q11",
-        "label": "11番",
-        "youtube_ids": []
-      },
-      {
         "id": "test-q11(1)",
         "label": "11番(1)",
         "youtube_ids": []
@@ -1397,11 +1372,6 @@
         "youtube_ids": []
       },
       {
-        "id": "test-q12",
-        "label": "12番",
-        "youtube_ids": []
-      },
-      {
         "id": "test-q12(1)",
         "label": "12番(1)",
         "youtube_ids": []
@@ -1409,11 +1379,6 @@
       {
         "id": "test-q12(2)",
         "label": "12番(2)",
-        "youtube_ids": []
-      },
-      {
-        "id": "test-q13",
-        "label": "13番",
         "youtube_ids": []
       },
       {
@@ -1434,11 +1399,6 @@
       {
         "id": "test-q14",
         "label": "14番",
-        "youtube_ids": []
-      },
-      {
-        "id": "test-q15",
-        "label": "15番",
         "youtube_ids": []
       },
       {

@@ -833,11 +833,6 @@
         "youtube_ids": []
       },
       {
-        "id": "test-q5",
-        "label": "5番",
-        "youtube_ids": []
-      },
-      {
         "id": "test-q5(1)",
         "label": "5番(1)",
         "youtube_ids": []
@@ -850,11 +845,6 @@
       {
         "id": "test-q5(3)",
         "label": "5番(3)",
-        "youtube_ids": []
-      },
-      {
-        "id": "test-q6",
-        "label": "6番",
         "youtube_ids": []
       },
       {

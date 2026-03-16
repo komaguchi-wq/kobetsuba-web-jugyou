@@ -978,11 +978,6 @@
     ],
     "questions": [
       {
-        "id": "test-q1",
-        "label": "1番",
-        "youtube_ids": []
-      },
-      {
         "id": "test-q1(1)",
         "label": "1番(1)",
         "youtube_ids": []
@@ -995,11 +990,6 @@
       {
         "id": "test-q2",
         "label": "2番",
-        "youtube_ids": []
-      },
-      {
-        "id": "test-q3",
-        "label": "3番",
         "youtube_ids": []
       },
       {
@@ -1018,11 +1008,6 @@
         "youtube_ids": []
       },
       {
-        "id": "test-q5",
-        "label": "5番",
-        "youtube_ids": []
-      },
-      {
         "id": "test-q5(1)",
         "label": "5番(1)",
         "youtube_ids": []
@@ -1030,11 +1015,6 @@
       {
         "id": "test-q5(2)",
         "label": "5番(2)",
-        "youtube_ids": []
-      },
-      {
-        "id": "test-q6",
-        "label": "6番",
         "youtube_ids": []
       },
       {
@@ -1053,11 +1033,6 @@
         "youtube_ids": []
       },
       {
-        "id": "test-q8",
-        "label": "8番",
-        "youtube_ids": []
-      },
-      {
         "id": "test-q8(1)",
         "label": "8番(1)",
         "youtube_ids": []
@@ -1065,11 +1040,6 @@
       {
         "id": "test-q8(2)",
         "label": "8番(2)",
-        "youtube_ids": []
-      },
-      {
-        "id": "test-q9",
-        "label": "9番",
         "youtube_ids": []
       },
       {
@@ -1090,11 +1060,6 @@
       {
         "id": "test-q10",
         "label": "10番",
-        "youtube_ids": []
-      },
-      {
-        "id": "test-q11",
-        "label": "11番",
         "youtube_ids": []
       },
       {
