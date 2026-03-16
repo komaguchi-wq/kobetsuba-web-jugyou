@@ -13,7 +13,7 @@ let currentFilter = 'all';
 let filteredQuestionIds = null;
 
 // Google Sheets バックアップ用
-let SHEETS_API_URL = localStorage.getItem("kobetsuba-sheets-api-url") || "";
+let SHEETS_API_URL = localStorage.getItem("kobetsuba-sheets-api-url") || "https://script.google.com/macros/s/AKfycbyOZJXqphtFmmm60SZoRxd0uF16k2pDIwBYx-rZlRV-8DgGt3_sjygqCk8rr9zR1XKZFw/exec";
 
 // ============================================================
 // Screen management & hash routing
