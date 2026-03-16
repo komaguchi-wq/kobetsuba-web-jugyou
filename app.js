@@ -291,36 +291,120 @@ function getUnitStats(catId, unitId, data) {
   return { total, attempted, correct, totalAttempts, rate };
 }
 
+function renderUnitCard(entry) {
+  const stats = getUnitStats(entry.catId, entry.unitId, entry._data);
+  const rateClass = stats.rate < 0 ? 'acc-none' : stats.rate >= 80 ? 'acc-high' : stats.rate >= 50 ? 'acc-mid' : 'acc-low';
+  const rateText = stats.rate < 0 ? '未回答' : `${stats.rate}%`;
+  return `
+    <div class="card" onclick="openUnit('${entry.catId}', '${entry.unitId}')">
+      <div class="card-title">${entry.unitTitle}</div>
+      <div class="card-stats">
+        <div class="stat">例題数: <span class="stat-value">${stats.total}</span></div>
+        <div class="stat">回答済: <span class="stat-value">${stats.attempted}/${stats.total}</span></div>
+        <div class="stat">正答率: <span class="stat-value">${rateText}</span></div>
+      </div>
+      <div class="accuracy-bar">
+        <div class="accuracy-bar-fill ${rateClass}" style="width: ${stats.rate < 0 ? 0 : stats.rate}%"></div>
+      </div>
+    </div>`;
+}
+
+function getTestStats(catId, unitId, testData) {
+  if (!testData || !testData.questions) return { total: 0, attempted: 0, correct: 0, totalAttempts: 0, rate: -1 };
+  const tracking = getTracking();
+  let total = testData.questions.length, attempted = 0, correct = 0, totalAttempts = 0;
+  for (const q of testData.questions) {
+    const key = `${catId}/${unitId}/${q.id}`;
+    const t = tracking[key];
+    if (t && t.attempts > 0) {
+      attempted++;
+      correct += t.correct;
+      totalAttempts += t.attempts;
+    }
+  }
+  const rate = totalAttempts > 0 ? Math.round(correct / totalAttempts * 100) : -1;
+  return { total, attempted, correct, totalAttempts, rate };
+}
+
+function renderTestCard(entry) {
+  const test = entry._data && entry._data.test;
+  if (!test || !test.questions || test.questions.length === 0) return '';
+  const stats = getTestStats(entry.catId, entry.unitId, test);
+  const rateClass = stats.rate < 0 ? 'acc-none' : stats.rate >= 80 ? 'acc-high' : stats.rate >= 50 ? 'acc-mid' : 'acc-low';
+  const rateText = stats.rate < 0 ? '未回答' : `${stats.rate}%`;
+  return `
+    <div class="card" onclick="openUnit('${entry.catId}', '${entry.unitId}');setTimeout(()=>{document.getElementById('test-section')?.scrollIntoView({behavior:'smooth'})},100)">
+      <div class="card-title">${test.title || entry.unitTitle}</div>
+      <div class="card-stats">
+        <div class="stat">問題数: <span class="stat-value">${stats.total}</span></div>
+        <div class="stat">回答済: <span class="stat-value">${stats.attempted}/${stats.total}</span></div>
+        <div class="stat">正答率: <span class="stat-value">${rateText}</span></div>
+      </div>
+      <div class="accuracy-bar">
+        <div class="accuracy-bar-fill ${rateClass}" style="width: ${stats.rate < 0 ? 0 : stats.rate}%"></div>
+      </div>
+    </div>`;
+}
+
+// Collapse state persisted in localStorage
+function getSectionCollapsed(key) {
+  try { return JSON.parse(localStorage.getItem('kobetsuba-collapsed') || '{}')[key] !== false; }
+  catch { return true; }
+}
+function toggleSection(key) {
+  try {
+    const state = JSON.parse(localStorage.getItem('kobetsuba-collapsed') || '{}');
+    state[key] = !getSectionCollapsed(key);
+    localStorage.setItem('kobetsuba-collapsed', JSON.stringify(state));
+  } catch {}
+  renderUnits();
+}
+
 function renderUnits() {
   document.getElementById('user-badge-units').textContent = currentUser;
   const list = document.getElementById('unit-list');
   let html = '';
-  let lastCatId = null;
 
+  // Group by category
+  const catGroups = {};
   for (const entry of allUnits) {
-    // Grade heading
-    if (entry.catId !== lastCatId) {
-      lastCatId = entry.catId;
-      html += `<h3 class="grade-heading">グレード${entry.catIcon} — ${entry.catName}</h3>`;
+    if (!catGroups[entry.catId]) catGroups[entry.catId] = [];
+    catGroups[entry.catId].push(entry);
+  }
+
+  for (const cat of categories) {
+    const entries = catGroups[cat.id] || [];
+
+    // Web授業セクション
+    const unitKey = `units-${cat.id}`;
+    const unitCollapsed = getSectionCollapsed(unitKey);
+    html += `<div class="grade-heading" onclick="toggleSection('${unitKey}')">
+      <span class="collapse-icon">${unitCollapsed ? '▶' : '▼'}</span>
+      Web授業グレード${cat.icon}
+    </div>`;
+    if (!unitCollapsed) {
+      html += '<div class="section-content">';
+      for (const entry of entries) {
+        html += renderUnitCard(entry);
+      }
+      html += '</div>';
     }
 
-    const stats = getUnitStats(entry.catId, entry.unitId, entry._data);
-    const rateClass = stats.rate < 0 ? 'acc-none' : stats.rate >= 80 ? 'acc-high' : stats.rate >= 50 ? 'acc-mid' : 'acc-low';
-    const rateText = stats.rate < 0 ? '未回答' : `${stats.rate}%`;
-
-    html += `
-      <div class="card" onclick="openUnit('${entry.catId}', '${entry.unitId}')">
-        <div class="card-title">${entry.unitTitle}</div>
-        <div class="card-stats">
-          <div class="stat">例題数: <span class="stat-value">${stats.total}</span></div>
-          <div class="stat">回答済: <span class="stat-value">${stats.attempted}/${stats.total}</span></div>
-          <div class="stat">正答率: <span class="stat-value">${rateText}</span></div>
-        </div>
-        <div class="accuracy-bar">
-          <div class="accuracy-bar-fill ${rateClass}" style="width: ${stats.rate < 0 ? 0 : stats.rate}%"></div>
-        </div>
-      </div>
-    `;
+    // 力試しテスト一覧セクション
+    const testKey = `tests-${cat.id}`;
+    const testCollapsed = getSectionCollapsed(testKey);
+    html += `<div class="grade-heading test-heading" onclick="toggleSection('${testKey}')">
+      <span class="collapse-icon">${testCollapsed ? '▶' : '▼'}</span>
+      力試しテスト一覧(グレード${cat.icon})
+    </div>`;
+    if (!testCollapsed) {
+      html += '<div class="section-content">';
+      for (const entry of entries) {
+        const card = renderTestCard(entry);
+        if (card) html += card;
+      }
+      html += '</div>';
+    }
   }
 
   list.innerHTML = html;
