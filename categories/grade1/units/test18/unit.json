@@ -549,9 +549,20 @@
         "youtube_ids": []
       },
       {
-        "id": "test-q6",
-        "label": "6番",
-        "youtube_ids": []
+        "id": "test-q6(1)体積",
+        "label": "6番(1)体積"
+      },
+      {
+        "id": "test-q6(1)表面積",
+        "label": "6番(1)表面積"
+      },
+      {
+        "id": "test-q6(2)体積",
+        "label": "6番(2)体積"
+      },
+      {
+        "id": "test-q6(2)表面積",
+        "label": "6番(2)表面積"
       },
       {
         "id": "test-q7(1)",

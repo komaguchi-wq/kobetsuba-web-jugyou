@@ -646,9 +646,12 @@
     ],
     "questions": [
       {
-        "id": "test-q1",
-        "label": "1番",
-        "youtube_ids": []
+        "id": "test-q1(1)",
+        "label": "1番(1)外側"
+      },
+      {
+        "id": "test-q1(2)",
+        "label": "1番(2)内側"
       },
       {
         "id": "test-q2(1)",
@@ -676,9 +679,12 @@
         "youtube_ids": []
       },
       {
-        "id": "test-q4",
-        "label": "4番",
-        "youtube_ids": []
+        "id": "test-q4(1)",
+        "label": "4番(1)"
+      },
+      {
+        "id": "test-q4(2)",
+        "label": "4番(2)"
       },
       {
         "id": "test-q5",

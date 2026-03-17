@@ -688,14 +688,40 @@
     ],
     "questions": [
       {
-        "id": "test-q1",
-        "label": "1番",
-        "youtube_ids": []
+        "id": "test-q1(1)",
+        "label": "1番(1)"
       },
       {
-        "id": "test-q2",
-        "label": "2番",
-        "youtube_ids": []
+        "id": "test-q1(2)",
+        "label": "1番(2)"
+      },
+      {
+        "id": "test-q1(3)",
+        "label": "1番(3)"
+      },
+      {
+        "id": "test-q2(1)",
+        "label": "2番(1)"
+      },
+      {
+        "id": "test-q2(2)",
+        "label": "2番(2)"
+      },
+      {
+        "id": "test-q2(3)",
+        "label": "2番(3)"
+      },
+      {
+        "id": "test-q2(4)",
+        "label": "2番(4)"
+      },
+      {
+        "id": "test-q2(5)",
+        "label": "2番(5)"
+      },
+      {
+        "id": "test-q2(6)",
+        "label": "2番(6)"
       },
       {
         "id": "test-q3(1)",
@@ -748,14 +774,36 @@
         "youtube_ids": []
       },
       {
-        "id": "test-q8",
-        "label": "8番",
-        "youtube_ids": []
+        "id": "test-q8(1)",
+        "label": "8番(1)面積"
       },
       {
-        "id": "test-q9",
-        "label": "9番",
-        "youtube_ids": []
+        "id": "test-q8(2)",
+        "label": "8番(2)周り"
+      },
+      {
+        "id": "test-q9(1)",
+        "label": "9番(1)"
+      },
+      {
+        "id": "test-q9(2)",
+        "label": "9番(2)"
+      },
+      {
+        "id": "test-q9(3)",
+        "label": "9番(3)"
+      },
+      {
+        "id": "test-q9(4)",
+        "label": "9番(4)"
+      },
+      {
+        "id": "test-q9(5)",
+        "label": "9番(5)"
+      },
+      {
+        "id": "test-q9(6)",
+        "label": "9番(6)"
       },
       {
         "id": "test-q10(1)",

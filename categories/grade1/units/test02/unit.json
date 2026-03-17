@@ -839,9 +839,20 @@
     ],
     "questions": [
       {
-        "id": "test-q1",
-        "label": "1番",
-        "youtube_ids": []
+        "id": "test-q1(1)",
+        "label": "1番(1)"
+      },
+      {
+        "id": "test-q1(2)",
+        "label": "1番(2)"
+      },
+      {
+        "id": "test-q1(3)",
+        "label": "1番(3)"
+      },
+      {
+        "id": "test-q1(4)",
+        "label": "1番(4)"
       },
       {
         "id": "test-q2(1)",
