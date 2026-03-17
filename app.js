@@ -96,6 +96,8 @@ window.addEventListener('DOMContentLoaded', () => {
 function goBack(level) {
   if (level === 'user') {
     currentUser = null; currentCategory = null; currentUnit = null; currentPointData = null;
+    document.getElementById('user-buttons').style.display = '';
+    document.getElementById('user-loading').style.display = 'none';
     showScreen('screen-user'); location.hash = '';
   }
 }
@@ -120,6 +122,11 @@ function goBackToUnit() {
 // ============================================================
 async function selectUser(name) {
   currentUser = name;
+  // Show loading indicator
+  document.getElementById('user-buttons').style.display = 'none';
+  document.getElementById('user-loading').style.display = '';
+  // Yield to render the loading text before heavy work
+  await new Promise(r => setTimeout(r, 0));
   await loadAllUnits();
   showScreen('screen-units');
   updateHash();
@@ -276,21 +283,26 @@ async function loadAllUnits() {
   const resp = await fetch('categories.json');
   categories = await resp.json();
   allUnits = [];
-  for (const cat of categories) {
+  // Fetch all units.json in parallel
+  const catResults = await Promise.all(categories.map(async cat => {
     try {
       const uResp = await fetch(`categories/${cat.id}/units.json`);
-      const units = await uResp.json();
-      for (const u of units) {
-        try {
-          const r = await fetch(`categories/${cat.id}/units/${u.id}/unit.json`);
-          const json = await r.json();
-          allUnits.push({ catId: cat.id, catName: cat.name, catIcon: cat.icon, unitId: u.id, unitTitle: u.title, _data: json });
-        } catch (e) {
-          allUnits.push({ catId: cat.id, catName: cat.name, catIcon: cat.icon, unitId: u.id, unitTitle: u.title, _data: null });
-        }
-      }
-    } catch (e) { /* skip */ }
+      return { cat, units: await uResp.json() };
+    } catch { return { cat, units: [] }; }
+  }));
+  // Fetch all unit.json in parallel
+  const unitFetches = [];
+  for (const { cat, units } of catResults) {
+    for (const u of units) {
+      unitFetches.push(
+        fetch(`categories/${cat.id}/units/${u.id}/unit.json`)
+          .then(r => r.json())
+          .then(json => ({ catId: cat.id, catName: cat.name, catIcon: cat.icon, unitId: u.id, unitTitle: u.title, _data: json }))
+          .catch(() => ({ catId: cat.id, catName: cat.name, catIcon: cat.icon, unitId: u.id, unitTitle: u.title, _data: null }))
+      );
+    }
   }
+  allUnits = await Promise.all(unitFetches);
   renderUnits();
 }
 
