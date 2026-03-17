@@ -94,6 +94,7 @@ function goBack(level) {
 }
 
 function goBackToUnits() {
+  confirmAllLastAnswers();
   currentUnit = null; currentPointData = null; currentCategory = null;
   renderUnits();
   showScreen('screen-units'); updateHash();
@@ -144,10 +145,39 @@ function recordAnswer(questionId, isCorrect) {
   const data = getTracking();
   const key = `${currentCategory.id}/${currentUnit.id}/${questionId}`;
   if (!data[key]) data[key] = { attempts: 0, correct: 0, firstRikai: null, currentRikai: null };
+  // lastAnswer tracks the most recent answer so it can be corrected
+  const prev = data[key].lastAnswer;
+  if (prev !== undefined) {
+    // Undo previous answer before recording new one
+    data[key].attempts--;
+    if (prev) data[key].correct--;
+  }
   data[key].attempts++;
   if (isCorrect) data[key].correct++;
+  data[key].lastAnswer = isCorrect;
   saveTracking(data);
   backupToSheets();
+}
+
+function confirmLastAnswer(questionId) {
+  const data = getTracking();
+  const key = `${currentCategory.id}/${currentUnit.id}/${questionId}`;
+  if (data[key]) {
+    delete data[key].lastAnswer;
+    saveTracking(data);
+  }
+}
+
+function confirmAllLastAnswers() {
+  const data = getTracking();
+  let changed = false;
+  for (const key in data) {
+    if (data[key].lastAnswer !== undefined) {
+      delete data[key].lastAnswer;
+      changed = true;
+    }
+  }
+  if (changed) saveTracking(data);
 }
 
 function setRikai(questionId, type, value) {
@@ -716,6 +746,7 @@ let pointFilter = 'all';
 let pointFilteredIds = null;
 
 function openPoint(pointId) {
+  confirmAllLastAnswers();
   const point = unitData.points.find(p => p.id === pointId);
   const isTest = !point && unitData.test && unitData.test.id === pointId;
   const data = point || unitData.test;
@@ -1051,6 +1082,7 @@ function doSetRikai(questionId, type, value) {
 function flushPendingPointChanges() {
   for (const [qId, isCorrect] of Object.entries(pendingAnswers)) {
     recordAnswer(qId, isCorrect);
+    confirmLastAnswer(qId);
   }
   for (const [key, value] of Object.entries(pendingRikai)) {
     const [qId, type] = key.split('/');
