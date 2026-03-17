@@ -116,10 +116,9 @@ h3 { font-size: 15px; font-weight: 600; margin-bottom: 12px; color: #8e8e93; }
 /* Question cards row inside point card */
 .unit-qc-row {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(max(280px, 32%), 1fr));
   gap: 6px;
   margin-top: 8px;
-  max-width: 1020px;
 }
 .point-card-actions {
   display: flex; gap: 8px; margin-top: 8px;
@@ -427,9 +426,8 @@ h3 { font-size: 15px; font-weight: 600; margin-bottom: 12px; color: #8e8e93; }
 }
 .qc-scroll-area {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(max(280px, 32%), 1fr));
   gap: 6px;
-  max-width: 1020px;
 }
 .detail-scroll-area {
   flex: 1 1 0;
