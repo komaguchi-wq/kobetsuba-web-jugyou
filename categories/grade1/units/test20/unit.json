@@ -499,5 +499,28 @@
         "id": "qd7SxK-tGog"
       }
     ]
+  },
+  "test_nankan": {
+    "id": "chikaradameshi20_nankan",
+    "title": "第20回 力試しテスト【難関の型】",
+    "type": "難関の型",
+    "range": "Point 164〜168",
+    "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1814/question",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第20回_難関の型_力試しテスト問題.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第20回_難関の型_力試しテスト解答.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [],
+    "questions": [],
+    "point_videos": [],
+    "submitted": false,
+    "problemPages": [
+      "test_nankan_mondai_p00.png",
+      "test_nankan_mondai_p01.png",
+      "test_nankan_mondai_p02.png"
+    ],
+    "answerPages": [
+      "test_nankan_kaitou_p00.png"
+    ]
   }
 }

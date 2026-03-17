@@ -192,6 +192,11 @@ h3 { font-size: 15px; font-weight: 600; margin-bottom: 12px; color: #8e8e93; }
 .test-divider::after {
   content: ''; flex: 1; height: 1px; background: #ff9500; opacity: 0.3;
 }
+.nankan-test-divider { color: #ff3b30; }
+.nankan-test-divider::before,
+.nankan-test-divider::after { background: #ff3b30; }
+.nankan-test-icon { background: #ff3b30 !important; }
+.nankan-card { border-left: 3px solid #ff3b30; }
 
 /* Mode (filter) buttons */
 .mode-section {

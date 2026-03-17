@@ -77,6 +77,13 @@ async function restoreFromHash() {
     pointFilteredIds = null;
     renderPointDetail(unitData.test, 'test');
     showScreen('screen-point-detail');
+  } else if (unitData.test_nankan && unitData.test_nankan.id === parts[3]) {
+    currentPointData = unitData.test_nankan;
+    showingPointAnswer = false;
+    pointFilter = 'all';
+    pointFilteredIds = null;
+    renderPointDetail(unitData.test_nankan, 'test');
+    showScreen('screen-point-detail');
   } else {
     showScreen('screen-unit-detail');
   }
@@ -300,6 +307,9 @@ function getAllQuestions(data) {
   if (data.test && data.test.questions) {
     for (const q of data.test.questions) qs.push(q);
   }
+  if (data.test_nankan && data.test_nankan.questions) {
+    for (const q of data.test_nankan.questions) qs.push(q);
+  }
   return qs;
 }
 
@@ -357,23 +367,48 @@ function getTestStats(catId, unitId, testData) {
 }
 
 function renderTestCard(entry) {
+  let html = '';
+
+  // 共通の型テスト
   const test = entry._data && entry._data.test;
-  if (!test || !test.questions || test.questions.length === 0) return '';
-  const stats = getTestStats(entry.catId, entry.unitId, test);
-  const rateClass = stats.rate < 0 ? 'acc-none' : stats.rate >= 80 ? 'acc-high' : stats.rate >= 50 ? 'acc-mid' : 'acc-low';
-  const rateText = stats.rate < 0 ? '未回答' : `${stats.rate}%`;
-  return `
-    <div class="card" onclick="openUnit('${entry.catId}', '${entry.unitId}');setTimeout(()=>{document.getElementById('test-section')?.scrollIntoView({behavior:'smooth'})},100)">
-      <div class="card-title">${test.title || entry.unitTitle}</div>
-      <div class="card-stats">
-        <div class="stat">問題数: <span class="stat-value">${stats.total}</span></div>
-        <div class="stat">回答済: <span class="stat-value">${stats.attempted}/${stats.total}</span></div>
-        <div class="stat">正答率: <span class="stat-value">${rateText}</span></div>
-      </div>
-      <div class="accuracy-bar">
-        <div class="accuracy-bar-fill ${rateClass}" style="width: ${stats.rate < 0 ? 0 : stats.rate}%"></div>
-      </div>
-    </div>`;
+  if (test && test.questions && test.questions.length > 0) {
+    const stats = getTestStats(entry.catId, entry.unitId, test);
+    const rateClass = stats.rate < 0 ? 'acc-none' : stats.rate >= 80 ? 'acc-high' : stats.rate >= 50 ? 'acc-mid' : 'acc-low';
+    const rateText = stats.rate < 0 ? '未回答' : `${stats.rate}%`;
+    html += `
+      <div class="card" onclick="openUnit('${entry.catId}', '${entry.unitId}');setTimeout(()=>{document.getElementById('test-section')?.scrollIntoView({behavior:'smooth'})},100)">
+        <div class="card-title">${test.title || entry.unitTitle}</div>
+        <div class="card-stats">
+          <div class="stat">問題数: <span class="stat-value">${stats.total}</span></div>
+          <div class="stat">回答済: <span class="stat-value">${stats.attempted}/${stats.total}</span></div>
+          <div class="stat">正答率: <span class="stat-value">${rateText}</span></div>
+        </div>
+        <div class="accuracy-bar">
+          <div class="accuracy-bar-fill ${rateClass}" style="width: ${stats.rate < 0 ? 0 : stats.rate}%"></div>
+        </div>
+      </div>`;
+  }
+
+  // 難関の型テスト
+  const tn = entry._data && entry._data.test_nankan;
+  if (tn && tn.problemPages && tn.problemPages.length > 0) {
+    const hasQuestions = tn.questions && tn.questions.length > 0;
+    const stats = hasQuestions ? getTestStats(entry.catId, entry.unitId, tn) : { total: 0, attempted: 0, rate: -1 };
+    const rateClass = stats.rate < 0 ? 'acc-none' : stats.rate >= 80 ? 'acc-high' : stats.rate >= 50 ? 'acc-mid' : 'acc-low';
+    const rateText = stats.rate < 0 ? '未回答' : `${stats.rate}%`;
+    html += `
+      <div class="card nankan-card" onclick="openUnit('${entry.catId}', '${entry.unitId}');setTimeout(()=>{document.getElementById('test-section')?.scrollIntoView({behavior:'smooth'})},100)">
+        <div class="card-title">${tn.title}<span class="nankan-badge" style="margin-left:8px">難関</span></div>
+        <div class="card-stats">
+          <div class="stat">${hasQuestions ? '問題数: <span class="stat-value">' + stats.total + '</span>' : '<span class="stat-value">未提出</span>'}</div>
+          ${hasQuestions ? '<div class="stat">回答済: <span class="stat-value">' + stats.attempted + '/' + stats.total + '</span></div>' : ''}
+          ${hasQuestions ? '<div class="stat">正答率: <span class="stat-value">' + rateText + '</span></div>' : ''}
+        </div>
+        ${hasQuestions ? '<div class="accuracy-bar"><div class="accuracy-bar-fill ' + rateClass + '" style="width: ' + (stats.rate < 0 ? 0 : stats.rate) + '%"></div></div>' : ''}
+      </div>`;
+  }
+
+  return html;
 }
 
 // Collapse state persisted in localStorage
@@ -552,8 +587,67 @@ function renderUnitDetail() {
           <button class="btn btn-print-detail" style="font-size:12px; padding:6px 12px;" onclick="printSinglePoint('${t.id}')">印刷</button>
         </div>
       </div>`;
+    // 難関の型テスト
+    if (unitData.test_nankan) {
+      const tn = unitData.test_nankan;
+      testHtml += `
+        <div class="test-divider nankan-test-divider">力試しテスト【難関の型】</div>
+        <div class="point-card nankan">
+          <div class="point-card-header" onclick="openPoint('${tn.id}')">
+            <div class="point-number test-icon nankan-test-icon">T</div>
+            <div class="point-info">
+              <div class="point-title">${tn.title}<span class="nankan-badge" style="margin-left:8px">難関</span></div>
+              <div class="point-meta">${tn.range}${tn.questions && tn.questions.length > 0 ? ' / ' + tn.questions.length + '問' : ' / 未提出'}</div>
+            </div>
+          </div>`;
+
+      if (tn.questions && tn.questions.length > 0) {
+        testHtml += `<div class="unit-qc-row" id="unit-qcards-${tn.id}">`;
+        for (const q of tn.questions) {
+          testHtml += `<div class="qc" data-qid="${q.id}" data-point-id="${tn.id}" data-is-test="1">
+            <span class="qc-name">${q.label}</span>
+            <span class="qc-h">正誤</span>
+            <span class="qc-h">初回理解度</span>
+            <span class="qc-h">最新理解度</span>
+            <span class="qc-rate"></span>
+            <span class="qc-ans">
+              <button class="qc-btn q-btn-ok" onclick="markUnitAnswer('${q.id}', true, event)">○</button>
+              <button class="qc-btn q-btn-ng" onclick="markUnitAnswer('${q.id}', false, event)">×</button>
+            </span>
+            <span class="qc-rikai" data-qid="${q.id}" data-type="first"></span>
+            <span class="qc-rikai" data-qid="${q.id}" data-type="current"></span>
+          </div>`;
+        }
+        testHtml += `</div>`;
+      }
+
+      testHtml += `
+          <div class="point-card-actions">
+            <button class="btn btn-print-detail" style="font-size:12px; padding:6px 12px;" onclick="printSinglePoint('${tn.id}')">印刷</button>
+          </div>
+        </div>`;
+    }
+
     testSection.innerHTML = testHtml;
     updateTestCards();
+  } else if (unitData.test_nankan) {
+    // 共通テストなしでも難関テストがある場合
+    const tn = unitData.test_nankan;
+    let testHtml = `
+      <div class="test-divider nankan-test-divider">力試しテスト【難関の型】</div>
+      <div class="point-card nankan">
+        <div class="point-card-header" onclick="openPoint('${tn.id}')">
+          <div class="point-number test-icon nankan-test-icon">T</div>
+          <div class="point-info">
+            <div class="point-title">${tn.title}<span class="nankan-badge" style="margin-left:8px">難関</span></div>
+            <div class="point-meta">${tn.range}${tn.questions && tn.questions.length > 0 ? ' / ' + tn.questions.length + '問' : ' / 未提出'}</div>
+          </div>
+        </div>
+        <div class="point-card-actions">
+          <button class="btn btn-print-detail" style="font-size:12px; padding:6px 12px;" onclick="printSinglePoint('${tn.id}')">印刷</button>
+        </div>
+      </div>`;
+    testSection.innerHTML = testHtml;
   } else {
     testSection.innerHTML = '';
   }
@@ -689,6 +783,7 @@ function doSetRikaiUnit(questionId, type, value) {
 function printSinglePoint(pointId) {
   let point = unitData.points.find(p => p.id === pointId);
   if (!point && unitData.test && unitData.test.id === pointId) point = unitData.test;
+  if (!point && unitData.test_nankan && unitData.test_nankan.id === pointId) point = unitData.test_nankan;
   if (!point || !point.problemPages || point.problemPages.length === 0) return;
 
   const container = document.getElementById('print-container');
@@ -749,13 +844,14 @@ function openPoint(pointId) {
   confirmAllLastAnswers();
   const point = unitData.points.find(p => p.id === pointId);
   const isTest = !point && unitData.test && unitData.test.id === pointId;
-  const data = point || unitData.test;
+  const isTestNankan = !point && !isTest && unitData.test_nankan && unitData.test_nankan.id === pointId;
+  const data = point || (isTest ? unitData.test : null) || (isTestNankan ? unitData.test_nankan : null);
   if (!data) return;
   currentPointData = data;
   showingPointAnswer = false;
   pointFilter = 'all';
   pointFilteredIds = null;
-  renderPointDetail(data, isTest ? 'test' : 'point');
+  renderPointDetail(data, (isTest || isTestNankan) ? 'test' : 'point');
   showScreen('screen-point-detail');
   updateHash();
 }

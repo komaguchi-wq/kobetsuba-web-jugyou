@@ -672,5 +672,29 @@
         "id": "ABQw1VvonBo"
       }
     ]
+  },
+  "test_nankan": {
+    "id": "chikaradameshi15_nankan",
+    "title": "第15回 力試しテスト【難関の型】",
+    "type": "難関の型",
+    "range": "Point 128〜134",
+    "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/1700/question",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第15回_難関の型_力試しテスト問題.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_first/test/グレード1第15回_難関の型_力試しテスト解答.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [],
+    "questions": [],
+    "point_videos": [],
+    "submitted": false,
+    "problemPages": [
+      "test_nankan_mondai_p00.png",
+      "test_nankan_mondai_p01.png",
+      "test_nankan_mondai_p02.png",
+      "test_nankan_mondai_p03.png"
+    ],
+    "answerPages": [
+      "test_nankan_kaitou_p00.png"
+    ]
   }
 }

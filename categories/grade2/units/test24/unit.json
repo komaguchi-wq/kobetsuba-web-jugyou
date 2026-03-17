@@ -582,5 +582,33 @@
     ],
     "youtube_ids": [],
     "questions": []
+  },
+  "test_nankan": {
+    "id": "chikaradameshi24_nankan",
+    "title": "第24回 力試しテスト【難関の型】",
+    "type": "難関の型",
+    "range": "Point 396〜401",
+    "nankan_url": "https://chugakujyuken.kobetsuba.jp/app/number-study/corner/2350/quiz-with-submission",
+    "pdf_urls": [
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第24回_難関の型_力試しテスト問題.pdf?updated_at=1765885414",
+      "https://images.chugakujyuken.kobetsuba.jp/img/course/grade_second/test/グレード2第24回_難関の型_力試しテスト解答.pdf?updated_at=1765885414"
+    ],
+    "youtube_ids": [],
+    "questions": [],
+    "point_videos": [],
+    "submitted": false,
+    "problemPages": [
+      "test_nankan_mondai_p00.png",
+      "test_nankan_mondai_p01.png",
+      "test_nankan_mondai_p02.png",
+      "test_nankan_mondai_p03.png",
+      "test_nankan_mondai_p04.png",
+      "test_nankan_mondai_p05.png",
+      "test_nankan_mondai_p06.png"
+    ],
+    "answerPages": [
+      "test_nankan_kaitou_p00.png",
+      "test_nankan_kaitou_p01.png"
+    ]
   }
 }
