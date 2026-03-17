@@ -383,21 +383,22 @@ function renderTestCard(entry) {
 
   // 共通の型テスト
   const test = entry._data && entry._data.test;
-  if (test && test.questions && test.questions.length > 0) {
-    const stats = getTestStats(entry.catId, entry.unitId, test);
+  if (test && test.title) {
+    const hasQuestions = test.questions && test.questions.length > 0;
+    const stats = hasQuestions ? getTestStats(entry.catId, entry.unitId, test) : { total: 0, attempted: 0, rate: -1 };
     const rateClass = stats.rate < 0 ? 'acc-none' : stats.rate >= 80 ? 'acc-high' : stats.rate >= 50 ? 'acc-mid' : 'acc-low';
     const rateText = stats.rate < 0 ? '未回答' : `${stats.rate}%`;
     html += `
       <div class="card" onclick="openUnit('${entry.catId}', '${entry.unitId}');setTimeout(()=>{document.getElementById('test-section')?.scrollIntoView({behavior:'smooth'})},100)">
         <div class="card-title">${test.title || entry.unitTitle}</div>
         <div class="card-stats">
-          <div class="stat">問題数: <span class="stat-value">${stats.total}</span></div>
-          <div class="stat">回答済: <span class="stat-value">${stats.attempted}/${stats.total}</span></div>
-          <div class="stat">正答率: <span class="stat-value">${rateText}</span></div>
+          ${hasQuestions ? `
+            <div class="stat">問題数: <span class="stat-value">${stats.total}</span></div>
+            <div class="stat">回答済: <span class="stat-value">${stats.attempted}/${stats.total}</span></div>
+            <div class="stat">正答率: <span class="stat-value">${rateText}</span></div>
+          ` : '<div class="stat"><span class="stat-value" style="color:#8e8e93">未登録</span></div>'}
         </div>
-        <div class="accuracy-bar">
-          <div class="accuracy-bar-fill ${rateClass}" style="width: ${stats.rate < 0 ? 0 : stats.rate}%"></div>
-        </div>
+        ${hasQuestions ? `<div class="accuracy-bar"><div class="accuracy-bar-fill ${rateClass}" style="width: ${stats.rate < 0 ? 0 : stats.rate}%"></div></div>` : ''}
       </div>`;
   }
 
