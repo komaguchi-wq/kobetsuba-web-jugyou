@@ -729,6 +729,12 @@ function updateUnitPointCards() {
     card.querySelector('.qc-rate').innerHTML =
       `<span class="${rateClass}">${rateText}</span><span class="qc-att">${attText}</span>`;
 
+    // 正誤ボタン選択状態
+    const okBtn = card.querySelector('.q-btn-ok');
+    const ngBtn = card.querySelector('.q-btn-ng');
+    if (okBtn) okBtn.classList.toggle('selected', t.lastAnswer === true);
+    if (ngBtn) ngBtn.classList.toggle('selected', t.lastAnswer === false);
+
     const firstCell = card.querySelector('.qc-rikai[data-type="first"]');
     const currentCell = card.querySelector('.qc-rikai[data-type="current"]');
     firstCell.innerHTML = rikaiButtonsInlineUnit(qId, 'first', t.firstRikai);
@@ -769,6 +775,12 @@ function updateTestCards() {
 
     card.querySelector('.qc-rate').innerHTML =
       `<span class="${rateClass}">${rateText}</span><span class="qc-att">${attText}</span>`;
+
+    // 正誤ボタン選択状態
+    const okBtn = card.querySelector('.q-btn-ok');
+    const ngBtn = card.querySelector('.q-btn-ng');
+    if (okBtn) okBtn.classList.toggle('selected', t.lastAnswer === true);
+    if (ngBtn) ngBtn.classList.toggle('selected', t.lastAnswer === false);
 
     const firstCell = card.querySelector('.qc-rikai[data-type="first"]');
     const currentCell = card.querySelector('.qc-rikai[data-type="current"]');
@@ -950,6 +962,13 @@ function updatePointQuestionCards(data) {
 
     card.querySelector('.qc-rate').innerHTML =
       `<span class="${rateClass}">${rateText}</span><span class="qc-att">${attText}</span>`;
+
+    // 正誤ボタン選択状態
+    const lastAns = (qId in pendingAnswers) ? pendingAnswers[qId] : t.lastAnswer;
+    const okBtn = card.querySelector('.q-btn-ok');
+    const ngBtn = card.querySelector('.q-btn-ng');
+    if (okBtn) okBtn.classList.toggle('selected', lastAns === true);
+    if (ngBtn) ngBtn.classList.toggle('selected', lastAns === false);
 
     const firstCell = card.querySelector('.qc-rikai[data-type="first"]');
     const currentCell = card.querySelector('.qc-rikai[data-type="current"]');

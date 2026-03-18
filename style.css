@@ -488,8 +488,10 @@ h3 { font-size: 15px; font-weight: 600; margin-bottom: 12px; color: #8e8e93; }
 .qc-btn:active { opacity: 0.7; }
 .q-btn-ok { color: #34c759; }
 .q-btn-ok:active { border-color: #34c759; background: #e8f8ed; }
+.q-btn-ok.selected { border-color: #34c759; background: #e8f8ed; border-width: 3px; }
 .q-btn-ng { color: #ff3b30; }
 .q-btn-ng:active { border-color: #ff3b30; background: #fff5f5; }
+.q-btn-ng.selected { border-color: #ff3b30; background: #fff5f5; border-width: 3px; }
 .qc-rikai {
   display: flex; align-items: center; justify-content: center; gap: 4px;
 }
