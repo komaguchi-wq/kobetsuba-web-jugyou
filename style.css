@@ -415,19 +415,22 @@ h3 { font-size: 15px; font-weight: 600; margin-bottom: 12px; color: #8e8e93; }
 /* Point detail: fixed top + scrollable bottom */
 #screen-point-detail.active {
   display: flex; flex-direction: column;
+  height: 100vh;
+  height: 100dvh;
+  overflow: hidden;
 }
 .detail-fixed-top {
-  flex: 0 1 auto;
+  flex: 0 0 auto;
   padding: 12px 16px;
   background: #f5f5f7;
   border-bottom: 1px solid #e0e0e0;
-  overflow-y: auto;
-  max-height: 40vh;
 }
 .qc-scroll-area {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(max(280px, 32%), 1fr));
   gap: 6px;
+  max-height: 96px;
+  overflow-y: auto;
 }
 .detail-scroll-area {
   flex: 1 1 0;
