@@ -22,6 +22,7 @@ function showScreen(id) {
   document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
   document.getElementById(id).classList.add('active');
   window.scrollTo(0, 0);
+  if (typeof window._quizResetZoom === 'function') window._quizResetZoom();
 }
 
 // allUnits: flat array of { catId, catName, unitId, unitTitle, _data }
@@ -1488,3 +1489,120 @@ function updateSpeedButtons() {
     btn.classList.toggle('active', s === currentVideoSpeed);
   });
 }
+
+// ============================================================
+// Pinch-zoom (resize-based) for detail-scroll-area
+// ============================================================
+(function() {
+    const wrapper = document.querySelector('#screen-point-detail .detail-scroll-area');
+    if (!wrapper) return;
+
+    let scale = 1, minScale = 1, maxScale = 4;
+    let startDist = 0, startScale = 1;
+    let isPinching = false;
+    let baseWidth = 0;
+    let panStartX = 0, panStartY = 0;
+    let panScrollL = 0, panScrollT = 0;
+    let isPanning = false;
+
+    function getZoomTarget() {
+        return document.getElementById('point-pages-preview');
+    }
+
+    function getBaseWidth() {
+        const target = getZoomTarget();
+        if (!target) return wrapper.clientWidth;
+        if (scale === 1) baseWidth = target.getBoundingClientRect().width;
+        return baseWidth;
+    }
+
+    function applyZoom(midXClient, midYClient) {
+        const target = getZoomTarget();
+        if (!target) return;
+        const bw = getBaseWidth() || wrapper.clientWidth;
+        const newW = bw * scale;
+        const prevScrollLeft = wrapper.scrollLeft;
+        const prevScrollTop = wrapper.scrollTop;
+        const wrapRect = wrapper.getBoundingClientRect();
+        const canvasX = prevScrollLeft + midXClient - wrapRect.left;
+        const canvasY = prevScrollTop + midYClient - wrapRect.top;
+        const ratioX = canvasX / (target.offsetWidth || 1);
+        const ratioY = canvasY / (target.offsetHeight || 1);
+        target.style.width = newW + 'px';
+        target.style.maxWidth = 'none';
+        const newX = ratioX * target.offsetWidth;
+        const newY = ratioY * target.offsetHeight;
+        wrapper.scrollLeft = newX - (midXClient - wrapRect.left);
+        wrapper.scrollTop = newY - (midYClient - wrapRect.top);
+    }
+
+    function resetZoom() {
+        scale = 1;
+        const target = getZoomTarget();
+        if (target) {
+            target.style.width = '';
+            target.style.maxWidth = '';
+        }
+    }
+
+    function getDist(t1, t2) {
+        const dx = t1.clientX - t2.clientX;
+        const dy = t1.clientY - t2.clientY;
+        return Math.sqrt(dx * dx + dy * dy);
+    }
+
+    wrapper.addEventListener('touchstart', function(e) {
+        if (e.touches.length === 2) {
+            isPinching = true;
+            isPanning = false;
+            startDist = getDist(e.touches[0], e.touches[1]);
+            startScale = scale;
+            if (scale === 1) getBaseWidth();
+        } else if (e.touches.length === 1) {
+            isPanning = true;
+            panStartX = e.touches[0].clientX;
+            panStartY = e.touches[0].clientY;
+            panScrollL = wrapper.scrollLeft;
+            panScrollT = wrapper.scrollTop;
+        }
+    }, { passive: true });
+
+    wrapper.addEventListener('touchmove', function(e) {
+        if (isPinching && e.touches.length === 2) {
+            e.preventDefault();
+            const dist = getDist(e.touches[0], e.touches[1]);
+            scale = Math.min(maxScale, Math.max(minScale, startScale * (dist / startDist)));
+            const midX = (e.touches[0].clientX + e.touches[1].clientX) / 2;
+            const midY = (e.touches[0].clientY + e.touches[1].clientY) / 2;
+            applyZoom(midX, midY);
+        } else if (isPanning && e.touches.length === 1) {
+            e.preventDefault();
+            const dx = panStartX - e.touches[0].clientX;
+            const dy = panStartY - e.touches[0].clientY;
+            wrapper.scrollLeft = panScrollL + dx;
+            wrapper.scrollTop = panScrollT + dy;
+        }
+    }, { passive: false });
+
+    wrapper.addEventListener('touchend', function(e) {
+        if (isPinching && e.touches.length < 2) {
+            isPinching = false;
+            if (scale <= 1.05) resetZoom();
+        }
+        if (e.touches.length === 0) isPanning = false;
+    }, { passive: true });
+
+    let lastTap = 0;
+    wrapper.addEventListener('touchend', function(e) {
+        if (e.touches.length > 0) return;
+        const now = Date.now();
+        if (now - lastTap < 300 && scale > 1) {
+            resetZoom();
+            wrapper.scrollTop = 0;
+        }
+        lastTap = now;
+    }, { passive: true });
+
+    window._quizZoomScale = () => scale;
+    window._quizResetZoom = resetZoom;
+})();

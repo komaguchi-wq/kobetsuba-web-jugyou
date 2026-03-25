@@ -435,7 +435,9 @@ h3 { font-size: 15px; font-weight: 600; margin-bottom: 12px; color: #8e8e93; }
 .detail-scroll-area {
   flex: 1 1 0;
   overflow-y: auto;
+  overflow-x: auto;
   padding: 12px 16px;
+  touch-action: none;
 }
 
 /* Action buttons (print + answer) - always visible */
