@@ -1,5 +1,5 @@
 // ============================================================
-// コベツバ学習アプリ
+// コベツバ＆でる順アプリ
 // ============================================================
 
 let currentUser = null;
@@ -304,12 +304,16 @@ async function loadAllUnits() {
   const unitFetches = [];
   for (const { cat, units } of catResults) {
     for (const u of units) {
-      unitFetches.push(
-        fetch(`categories/${cat.id}/units/${u.id}/unit.json`)
-          .then(r => r.json())
-          .then(json => ({ catId: cat.id, catName: cat.name, catIcon: cat.icon, catType: cat.type, unitId: u.id, unitTitle: u.title, _data: json }))
-          .catch(() => ({ catId: cat.id, catName: cat.name, catIcon: cat.icon, catType: cat.type, unitId: u.id, unitTitle: u.title, _data: null }))
-      );
+      if (u.separator) {
+        unitFetches.push(Promise.resolve({ catId: cat.id, catName: cat.name, catIcon: cat.icon, catType: cat.type, unitId: null, unitTitle: u.title, separator: true, _data: null }));
+      } else {
+        unitFetches.push(
+          fetch(`categories/${cat.id}/units/${u.id}/unit.json`)
+            .then(r => r.json())
+            .then(json => ({ catId: cat.id, catName: cat.name, catIcon: cat.icon, catType: cat.type, unitId: u.id, unitTitle: u.title, _data: json }))
+            .catch(() => ({ catId: cat.id, catName: cat.name, catIcon: cat.icon, catType: cat.type, unitId: u.id, unitTitle: u.title, _data: null }))
+        );
+      }
     }
   }
   allUnits = await Promise.all(unitFetches);
@@ -532,7 +536,11 @@ function renderUnits() {
       if (!unitCollapsed) {
         html += '<div class="section-content">';
         for (const entry of entries) {
-          html += renderUnitCard(entry);
+          if (entry.separator) {
+            html += `<div class="keisan-separator">${entry.unitTitle}</div>`;
+          } else {
+            html += renderUnitCard(entry);
+          }
         }
         html += '</div>';
       }

@@ -502,6 +502,12 @@ h3 { font-size: 15px; font-weight: 600; margin-bottom: 12px; color: #8e8e93; }
 }
 
 /* Score history for 計算問題 */
+.keisan-separator {
+  font-size: 15px; font-weight: 700; color: #007aff;
+  margin: 14px 0 6px; padding: 8px 12px;
+  background: #f0f4ff; border-radius: 8px;
+  border-left: 4px solid #007aff;
+}
 .keisan-card { min-width: 100%; }
 .keisan-card-row {
   display: flex; align-items: center; gap: 16px;
