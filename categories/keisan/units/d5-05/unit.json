@@ -1,0 +1,108 @@
+{
+  "points": [
+    {
+      "id": "d5-05",
+      "number": "05",
+      "title": "5位 長さ・重さ",
+      "noCover": true,
+      "problemPages": [
+        "pages/problem_p01.png"
+      ],
+      "answerPages": [
+        "pages/answer_p01.png"
+      ],
+      "questions": [
+        {
+          "id": "q01",
+          "label": "(1)",
+          "numberPage": 0,
+          "numberPos": [
+            0.08,
+            0.14
+          ]
+        },
+        {
+          "id": "q02",
+          "label": "(2)",
+          "numberPage": 0,
+          "numberPos": [
+            0.08,
+            0.22
+          ]
+        },
+        {
+          "id": "q03",
+          "label": "(3)",
+          "numberPage": 0,
+          "numberPos": [
+            0.08,
+            0.3
+          ]
+        },
+        {
+          "id": "q04",
+          "label": "(4)",
+          "numberPage": 0,
+          "numberPos": [
+            0.08,
+            0.38
+          ]
+        },
+        {
+          "id": "q05",
+          "label": "(5)",
+          "numberPage": 0,
+          "numberPos": [
+            0.08,
+            0.46
+          ]
+        },
+        {
+          "id": "q06",
+          "label": "(6)",
+          "numberPage": 0,
+          "numberPos": [
+            0.08,
+            0.54
+          ]
+        },
+        {
+          "id": "q07",
+          "label": "(7)",
+          "numberPage": 0,
+          "numberPos": [
+            0.08,
+            0.62
+          ]
+        },
+        {
+          "id": "q08",
+          "label": "(8)",
+          "numberPage": 0,
+          "numberPos": [
+            0.08,
+            0.7
+          ]
+        },
+        {
+          "id": "q09",
+          "label": "(9)",
+          "numberPage": 0,
+          "numberPos": [
+            0.08,
+            0.78
+          ]
+        },
+        {
+          "id": "q10",
+          "label": "(10)",
+          "numberPage": 0,
+          "numberPos": [
+            0.08,
+            0.86
+          ]
+        }
+      ]
+    }
+  ]
+}

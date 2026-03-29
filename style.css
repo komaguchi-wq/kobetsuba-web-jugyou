@@ -501,6 +501,75 @@ h3 { font-size: 15px; font-weight: 600; margin-bottom: 12px; color: #8e8e93; }
   display: flex; align-items: center; justify-content: center; gap: 4px;
 }
 
+/* Score history for 計算問題 */
+.keisan-card { min-width: 100%; }
+.keisan-card-row {
+  display: flex; align-items: center; gap: 16px;
+}
+.keisan-card-row .card-title { font-size: 16px; min-width: 200px; flex-shrink: 0; }
+.score-history { display: flex; gap: 4px; align-items: center; flex-wrap: wrap; }
+.score-record {
+  font-size: 11px; white-space: nowrap;
+  display: flex; align-items: baseline; gap: 2px;
+}
+.score-record strong { font-size: 16px; font-weight: 800; }
+.score-green { color: #34c759; }
+.score-yellow { color: #f5a623; }
+.score-red { color: #ff3b30; }
+.score-record .score-date { font-size: 10px; color: #8e8e93; }
+.score-empty { color: #c7c7cc; }
+.score-editable { cursor: pointer; }
+.score-editable:active { opacity: 0.6; }
+.score-sep { color: #c7c7cc; margin: 0 1px; }
+
+/* Score edit modal */
+.score-edit-overlay {
+  position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.4); z-index: 1000;
+  display: flex; align-items: center; justify-content: center;
+}
+.score-edit-modal {
+  background: #fff; border-radius: 14px; padding: 20px 24px;
+  min-width: 280px; max-width: 340px;
+}
+.score-edit-modal h3 { margin: 0 0 16px; font-size: 17px; }
+.score-edit-field { margin-bottom: 12px; }
+.score-edit-field label { display: block; font-size: 13px; color: #8e8e93; margin-bottom: 4px; }
+.score-edit-field input {
+  width: 100%; box-sizing: border-box; padding: 8px 10px;
+  border: 1.5px solid #e0e0e0; border-radius: 8px; font-size: 16px;
+}
+.score-edit-actions { display: flex; gap: 8px; justify-content: flex-end; margin-top: 16px; }
+.score-edit-save { background: #007aff; color: #fff; border: none; border-radius: 8px; padding: 8px 16px; font-size: 15px; font-weight: 600; }
+.score-edit-cancel { background: #f2f2f7; color: #333; border: none; border-radius: 8px; padding: 8px 16px; font-size: 15px; }
+.score-edit-delete { background: #ff3b30; color: #fff; border: none; border-radius: 8px; padding: 8px 16px; font-size: 15px; margin-right: auto; }
+
+/* Compact grid for 計算問題 (5 columns) */
+.qc-grid-compact {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 6px;
+  grid-column: 1 / -1;
+}
+.qc-compact:nth-child(n+6) {
+  margin-top: 10px;
+}
+.qc-scroll-area:has(.qc-grid-compact) {
+  display: block;
+  max-height: none;
+}
+.qc-compact {
+  background: #fff; border-radius: 8px;
+  border: 1px solid #e0e0e0;
+  padding: 4px 6px;
+  display: flex; flex-direction: row;
+  align-items: center; gap: 4px;
+}
+.qc-compact-label { font-size: 13px; font-weight: 700; white-space: nowrap; }
+.qc-compact-rate { font-size: 11px; font-weight: 600; }
+.qc-compact .qc-ans { display: flex; gap: 8px; margin-left: auto; }
+.qc-compact .qc-btn { width: 28px; height: 26px; font-size: 14px; }
+
 /* Page preview with canvas overlay */
 .page-preview {
   background: #fff; border-radius: 12px;
@@ -539,14 +608,19 @@ h3 { font-size: 15px; font-weight: 600; margin-bottom: 12px; color: #8e8e93; }
     position: static;
     width: 100%;
   }
-  #print-container img {
+  #print-container img, #print-container canvas {
     display: block !important;
     width: 95%;
     height: auto;
     page-break-inside: avoid;
     page-break-after: always;
   }
-  #print-container img:last-child {
+  #print-container img:last-child, #print-container canvas:last-child {
     page-break-after: auto;
   }
 }
+/* B4 landscape print for 計算問題 */
+@media print {
+  body.print-b4-landscape { }
+}
+

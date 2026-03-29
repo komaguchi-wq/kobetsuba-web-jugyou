@@ -55,7 +55,7 @@ async function restoreFromHash() {
 
   const entry = allUnits.find(e => e.catId === parts[1] && e.unitId === parts[2]);
   if (!entry || !entry._data) { showScreen('screen-units'); return; }
-  currentCategory = { id: entry.catId, name: entry.catName };
+  currentCategory = { id: entry.catId, name: entry.catName, type: entry.catType };
   currentUnit = { id: entry.unitId, title: entry.unitTitle, _data: entry._data };
   unitData = entry._data;
   currentFilter = 'all';
@@ -113,6 +113,15 @@ function goBackToUnits() {
 function goBackToUnit() {
   flushPendingPointChanges();
   currentPointData = null;
+
+  // other型で直接開いた場合は単元一覧に戻る
+  if (currentCategory && currentCategory.type !== 'kobetsuba') {
+    currentUnit = null; currentCategory = null;
+    renderUnits();
+    showScreen('screen-units'); updateHash();
+    return;
+  }
+
   renderUnitDetail();
   showScreen('screen-unit-detail');
   updateHash();
@@ -298,8 +307,8 @@ async function loadAllUnits() {
       unitFetches.push(
         fetch(`categories/${cat.id}/units/${u.id}/unit.json`)
           .then(r => r.json())
-          .then(json => ({ catId: cat.id, catName: cat.name, catIcon: cat.icon, unitId: u.id, unitTitle: u.title, _data: json }))
-          .catch(() => ({ catId: cat.id, catName: cat.name, catIcon: cat.icon, unitId: u.id, unitTitle: u.title, _data: null }))
+          .then(json => ({ catId: cat.id, catName: cat.name, catIcon: cat.icon, catType: cat.type, unitId: u.id, unitTitle: u.title, _data: json }))
+          .catch(() => ({ catId: cat.id, catName: cat.name, catIcon: cat.icon, catType: cat.type, unitId: u.id, unitTitle: u.title, _data: null }))
       );
     }
   }
@@ -345,14 +354,42 @@ function getUnitStats(catId, unitId, data) {
 }
 
 function renderUnitCard(entry) {
+  const cat = categories.find(c => c.id === entry.catId);
+
+  if (cat && cat.type !== 'kobetsuba') {
+    // 計算問題: 得点履歴を表示
+    const unitKey = `${entry.catId}/${entry.unitId}`;
+    const history = getScoreHistory();
+    const records = history[unitKey] || [];
+    let historyHtml = '';
+    for (let i = 0; i < 5; i++) {
+      if (i > 0) historyHtml += '<span class="score-sep">|</span>';
+      if (records[i]) {
+        const s = records[i].score;
+        const cls = s >= 10 ? 'score-green' : s >= 8 ? 'score-yellow' : 'score-red';
+        historyHtml += `<span class="score-record score-editable" onclick="editScore('${unitKey}', ${i}, event)">${i + 1}回目 <strong class="${cls}">${s}点</strong> <span class="score-date">${records[i].date}</span></span>`;
+      } else {
+        historyHtml += `<span class="score-record score-empty score-editable" onclick="editScore('${unitKey}', ${i}, event)">${i + 1}回目 ー</span>`;
+      }
+    }
+    return `
+      <div class="card keisan-card" onclick="openUnit('${entry.catId}', '${entry.unitId}')">
+        <div class="keisan-card-row">
+          <div class="card-title">${entry.unitTitle}</div>
+          <div class="score-history">${historyHtml}</div>
+        </div>
+      </div>`;
+  }
+
   const stats = getUnitStats(entry.catId, entry.unitId, entry._data);
   const rateClass = stats.rate < 0 ? 'acc-none' : stats.rate >= 80 ? 'acc-high' : stats.rate >= 50 ? 'acc-mid' : 'acc-low';
   const rateText = stats.rate < 0 ? '未回答' : `${stats.rate}%`;
+  const qLabel = '例題数';
   return `
     <div class="card" onclick="openUnit('${entry.catId}', '${entry.unitId}')">
       <div class="card-title">${entry.unitTitle}</div>
       <div class="card-stats">
-        <div class="stat">例題数: <span class="stat-value">${stats.total}</span></div>
+        <div class="stat">${qLabel}: <span class="stat-value">${stats.total}</span></div>
         <div class="stat">回答済: <span class="stat-value">${stats.attempted}/${stats.total}</span></div>
         <div class="stat">正答率: <span class="stat-value">${rateText}</span></div>
       </div>
@@ -454,35 +491,51 @@ function renderUnits() {
   for (const cat of categories) {
     const entries = catGroups[cat.id] || [];
 
-    // Web授業セクション
-    const unitKey = `units-${cat.id}`;
-    const unitCollapsed = getSectionCollapsed(unitKey);
-    html += `<div class="grade-heading" onclick="toggleSection('${unitKey}')">
-      <span class="collapse-icon">${unitCollapsed ? '▶' : '▼'}</span>
-      Web授業グレード${cat.icon}
-    </div>`;
-    if (!unitCollapsed) {
-      html += '<div class="section-content">';
-      for (const entry of entries) {
-        html += renderUnitCard(entry);
+    if (cat.type === 'kobetsuba') {
+      // コベツバ系: Web授業 + 力試しテスト一覧
+      const unitKey = `units-${cat.id}`;
+      const unitCollapsed = getSectionCollapsed(unitKey);
+      html += `<div class="grade-heading" onclick="toggleSection('${unitKey}')">
+        <span class="collapse-icon">${unitCollapsed ? '▶' : '▼'}</span>
+        コベツバWeb授業グレード${cat.icon}
+      </div>`;
+      if (!unitCollapsed) {
+        html += '<div class="section-content">';
+        for (const entry of entries) {
+          html += renderUnitCard(entry);
+        }
+        html += '</div>';
       }
-      html += '</div>';
-    }
 
-    // 力試しテスト一覧セクション
-    const testKey = `tests-${cat.id}`;
-    const testCollapsed = getSectionCollapsed(testKey);
-    html += `<div class="grade-heading test-heading" onclick="toggleSection('${testKey}')">
-      <span class="collapse-icon">${testCollapsed ? '▶' : '▼'}</span>
-      力試しテスト一覧(グレード${cat.icon})
-    </div>`;
-    if (!testCollapsed) {
-      html += '<div class="section-content">';
-      for (const entry of entries) {
-        const card = renderTestCard(entry);
-        if (card) html += card;
+      const testKey = `tests-${cat.id}`;
+      const testCollapsed = getSectionCollapsed(testKey);
+      html += `<div class="grade-heading test-heading" onclick="toggleSection('${testKey}')">
+        <span class="collapse-icon">${testCollapsed ? '▶' : '▼'}</span>
+        コベツバ力試しテスト一覧（グレード${cat.icon}）
+      </div>`;
+      if (!testCollapsed) {
+        html += '<div class="section-content">';
+        for (const entry of entries) {
+          const card = renderTestCard(entry);
+          if (card) html += card;
+        }
+        html += '</div>';
       }
-      html += '</div>';
+    } else {
+      // 非コベツバ系: 単元一覧のみ
+      const unitKey = `units-${cat.id}`;
+      const unitCollapsed = getSectionCollapsed(unitKey);
+      html += `<div class="grade-heading" onclick="toggleSection('${unitKey}')">
+        <span class="collapse-icon">${unitCollapsed ? '▶' : '▼'}</span>
+        ${cat.name}
+      </div>`;
+      if (!unitCollapsed) {
+        html += '<div class="section-content">';
+        for (const entry of entries) {
+          html += renderUnitCard(entry);
+        }
+        html += '</div>';
+      }
     }
   }
 
@@ -495,12 +548,26 @@ function renderUnits() {
 async function openUnit(catId, unitId) {
   const entry = allUnits.find(e => e.catId === catId && e.unitId === unitId);
   if (!entry || !entry._data) return;
-  currentCategory = { id: entry.catId, name: entry.catName };
+  currentCategory = { id: entry.catId, name: entry.catName, type: entry.catType };
   currentUnit = { id: entry.unitId, title: entry.unitTitle, _data: entry._data };
   unitData = entry._data;
   currentPointData = null;
   currentFilter = 'all';
   filteredQuestionIds = null;
+
+  // other型カテゴリ（計算問題等）は1ポイントのみなので直接問題ページへ
+  if (entry.catType !== 'kobetsuba' && unitData.points && unitData.points.length === 1) {
+    const p = unitData.points[0];
+    currentPointData = p;
+    showingPointAnswer = false;
+    pointFilter = 'all';
+    pointFilteredIds = null;
+    renderPointDetail(p, 'point');
+    showScreen('screen-point-detail');
+    updateHash();
+    return;
+  }
+
   renderUnitDetail();
   showScreen('screen-unit-detail');
   updateHash();
@@ -677,12 +744,13 @@ function renderPointCards() {
     const nankanBadge = isNankan ? '<span class="nankan-badge">難関</span>' : '';
     const videoCount = (p.youtube_ids || []).length
       + (p.questions || []).reduce((sum, q) => sum + (q.youtube_ids || []).length, 0);
+    const metaText = videoCount > 0 ? `動画${videoCount}本` : `${(p.questions || []).length}問`;
     html += `<div class="point-card${nankanClass}">
       <div class="point-card-header" onclick="openPoint('${p.id}')">
         <div class="point-number">${p.number}${nankanBadge}</div>
         <div class="point-info">
           <div class="point-title">${p.title}</div>
-          <div class="point-meta">動画${videoCount}本</div>
+          <div class="point-meta">${metaText}</div>
         </div>
       </div>
       <div class="unit-qc-row" id="unit-qcards-${p.id}">`;
@@ -816,8 +884,9 @@ function printSinglePoint(pointId) {
   const basePath = `categories/${currentCategory.id}/units/${currentUnit.id}/`;
 
   const isTest = point.id && point.id.startsWith('chikaradameshi');
+  const printStartIdx = (isTest || point.noCover) ? 0 : 1;
   const printPages = [];
-  for (let pageIdx = isTest ? 0 : 1; pageIdx < point.problemPages.length; pageIdx++) {
+  for (let pageIdx = printStartIdx; pageIdx < point.problemPages.length; pageIdx++) {
     const highlights = [];
     if (filteredQuestionIds) {
       for (const q of point.questions) {
@@ -884,7 +953,7 @@ function openPoint(pointId) {
 
 function renderPointDetail(data, type) {
   const nankanLabel = data.type === '難関の型' ? '【難関の型】' : '';
-  const title = type === 'test' ? data.title : `Point ${data.number} ${data.title}${nankanLabel}`;
+  const title = type === 'test' ? data.title : data.noCover ? data.title : `Point ${data.number} ${data.title}${nankanLabel}`;
   document.getElementById('point-detail-title').textContent = title;
   document.getElementById('user-badge-point').textContent = currentUser;
 
@@ -892,8 +961,15 @@ function renderPointDetail(data, type) {
   document.getElementById('point-fixed-top').style.display = '';
 
   // Filter button states
+  const isOtherCat = currentCategory && currentCategory.type !== 'kobetsuba';
   document.querySelectorAll('#point-filter-buttons .mode-btn').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.mode === pointFilter);
+    // 計算問題等では理解度フィルターを非表示
+    if (isOtherCat && (btn.dataset.mode === 'first-rikai-below' || btn.dataset.mode === 'current-rikai-below')) {
+      btn.style.display = 'none';
+    } else {
+      btn.style.display = '';
+    }
   });
 
   // Answer toggle button state
@@ -910,21 +986,37 @@ function renderPointDetail(data, type) {
 
 function renderPointQuestionCards(data) {
   const container = document.getElementById('point-question-cards');
+  const isOther = currentCategory && currentCategory.type !== 'kobetsuba';
   let html = '';
-  for (const q of data.questions) {
-    html += `<div class="qc" data-qid="${q.id}">
-      <span class="qc-name">${q.label}</span>
-      <span class="qc-h">正誤</span>
-      <span class="qc-h">初回理解度</span>
-      <span class="qc-h">最新理解度</span>
-      <span class="qc-rate"></span>
-      <span class="qc-ans">
-        <button class="qc-btn q-btn-ok" onclick="markPointAnswer('${q.id}', true, event)">○</button>
-        <button class="qc-btn q-btn-ng" onclick="markPointAnswer('${q.id}', false, event)">×</button>
-      </span>
-      <span class="qc-rikai" data-qid="${q.id}" data-type="first"></span>
-      <span class="qc-rikai" data-qid="${q.id}" data-type="current"></span>
-    </div>`;
+  if (isOther) {
+    html = '<div class="qc-grid-compact">';
+    for (const q of data.questions) {
+      html += `<div class="qc-compact" data-qid="${q.id}">
+        <span class="qc-compact-label">${q.label}</span>
+        <span class="qc-compact-rate"></span>
+        <span class="qc-ans">
+          <button class="qc-btn q-btn-ok" onclick="markPointAnswer('${q.id}', true, event)">○</button>
+          <button class="qc-btn q-btn-ng" onclick="markPointAnswer('${q.id}', false, event)">×</button>
+        </span>
+      </div>`;
+    }
+    html += '</div>';
+  } else {
+    for (const q of data.questions) {
+      html += `<div class="qc" data-qid="${q.id}">
+        <span class="qc-name">${q.label}</span>
+        <span class="qc-h">正誤</span>
+        <span class="qc-h">初回理解度</span>
+        <span class="qc-h">最新理解度</span>
+        <span class="qc-rate"></span>
+        <span class="qc-ans">
+          <button class="qc-btn q-btn-ok" onclick="markPointAnswer('${q.id}', true, event)">○</button>
+          <button class="qc-btn q-btn-ng" onclick="markPointAnswer('${q.id}', false, event)">×</button>
+        </span>
+        <span class="qc-rikai" data-qid="${q.id}" data-type="first"></span>
+        <span class="qc-rikai" data-qid="${q.id}" data-type="current"></span>
+      </div>`;
+    }
   }
   container.innerHTML = html;
   updatePointQuestionCards(data);
@@ -932,7 +1024,7 @@ function renderPointQuestionCards(data) {
 
 function updatePointQuestionCards(data) {
   const tracking = getTracking();
-  const cards = document.querySelectorAll('#point-question-cards .qc[data-qid]');
+  const cards = document.querySelectorAll('#point-question-cards [data-qid]');
 
   for (const card of cards) {
     const qId = card.dataset.qid;
@@ -961,7 +1053,8 @@ function updatePointQuestionCards(data) {
     const rateText = rate < 0 ? '-' : rate + '%';
     const attText = t.attempts > 0 ? ` (${t.correct}/${t.attempts})` : '';
 
-    card.querySelector('.qc-rate').innerHTML =
+    const rateEl = card.querySelector('.qc-rate') || card.querySelector('.qc-compact-rate');
+    if (rateEl) rateEl.innerHTML =
       `<span class="${rateClass}">${rateText}</span><span class="qc-att">${attText}</span>`;
 
     // 正誤ボタン選択状態
@@ -973,8 +1066,8 @@ function updatePointQuestionCards(data) {
 
     const firstCell = card.querySelector('.qc-rikai[data-type="first"]');
     const currentCell = card.querySelector('.qc-rikai[data-type="current"]');
-    firstCell.innerHTML = rikaiButtonsInline(qId, 'first', firstVal);
-    currentCell.innerHTML = rikaiButtonsInline(qId, 'current', currentVal);
+    if (firstCell) firstCell.innerHTML = rikaiButtonsInline(qId, 'first', firstVal);
+    if (currentCell) currentCell.innerHTML = rikaiButtonsInline(qId, 'current', currentVal);
 
     const isDimmed = pointFilteredIds && !pointFilteredIds.has(qId);
     card.classList.toggle('dimmed', isDimmed);
@@ -1030,7 +1123,8 @@ function renderPointPageImages(data) {
 
   // Problem pages
   if (data.problemPages) {
-    const startIdx = isTest ? 0 : 1; // テストは表紙なし、Pointは表紙(p00)スキップ
+    const hasCover = !isTest && !data.noCover;
+    const startIdx = hasCover ? 1 : 0; // 表紙ありならp00スキップ
     for (let i = startIdx; i < data.problemPages.length; i++) {
       html += `
       <div class="page-preview" data-page-type="question">
@@ -1047,7 +1141,7 @@ function renderPointPageImages(data) {
 
   // Answer pages
   if (data.answerPages && data.answerPages.length > 0) {
-    const ansCount = isTest ? data.answerPages.length : 1; // テストは全ページ、Pointは1枚
+    const ansCount = (isTest || data.noCover) ? data.answerPages.length : 1;
     for (let i = 0; i < ansCount; i++) {
       html += `
       <div class="page-preview" data-page-type="answer" style="display:none">
@@ -1117,7 +1211,6 @@ function drawPointPreviewHighlights() {
     const W = img.naturalWidth;
     const H = img.naturalHeight;
     const r = Math.max(W, H) * 0.022;
-
     for (const q of data.questions) {
       if (q.numberPage !== pageIdx || !q.numberPos) continue;
       if (!pointFilteredIds.has(q.id)) continue;
@@ -1201,6 +1294,113 @@ function markPointAnswer(questionId, isCorrect, event) {
   event.stopPropagation();
   pendingAnswers[questionId] = isCorrect;
   updatePointQuestionCards(currentPointData);
+  // 計算問題: 全問回答済みなら自動記録
+  if (currentCategory && currentCategory.type !== 'kobetsuba' && currentPointData) {
+    checkAndRecordScore(currentPointData);
+  }
+}
+
+// ─── 得点履歴 (計算問題用) ───
+function getScoreHistoryKey() { return `kobetsuba-scores-${currentUser}`; }
+function getScoreHistory() {
+  try { return JSON.parse(localStorage.getItem(getScoreHistoryKey())) || {}; }
+  catch { return {}; }
+}
+function saveScoreHistory(data) {
+  localStorage.setItem(getScoreHistoryKey(), JSON.stringify(data));
+}
+
+function checkAndRecordScore(data) {
+  if (!data || !data.questions) return;
+  const questions = data.questions;
+  // 全問にpending回答があるかチェック
+  const allAnswered = questions.every(q => q.id in pendingAnswers);
+  if (!allAnswered) return;
+
+  const correct = questions.filter(q => pendingAnswers[q.id] === true).length;
+  const total = questions.length;
+  const unitKey = `${currentCategory.id}/${currentUnit.id}`;
+  const history = getScoreHistory();
+  if (!history[unitKey]) history[unitKey] = [];
+  // 最大5回まで記録
+  if (history[unitKey].length >= 5) return;
+  const today = new Date();
+  const dateStr = `${today.getFullYear()}/${today.getMonth() + 1}/${today.getDate()}`;
+  history[unitKey].push({ score: correct, total: total, date: dateStr });
+  saveScoreHistory(history);
+}
+
+function editScore(unitKey, index, event) {
+  event.stopPropagation();
+  const history = getScoreHistory();
+  const records = history[unitKey] || [];
+  const existing = records[index] || null;
+
+  // モーダル作成
+  const overlay = document.createElement('div');
+  overlay.className = 'score-edit-overlay';
+  const today = new Date();
+  const defaultDate = existing ? existing.date : `${today.getFullYear()}/${today.getMonth() + 1}/${today.getDate()}`;
+  const defaultScore = existing ? existing.score : '';
+
+  overlay.innerHTML = `
+    <div class="score-edit-modal">
+      <h3>${index + 1}回目の記録</h3>
+      <div class="score-edit-field">
+        <label>点数</label>
+        <input type="number" id="score-edit-score" min="0" max="10" value="${defaultScore}" placeholder="0〜10">
+      </div>
+      <div class="score-edit-field">
+        <label>日付</label>
+        <input type="text" id="score-edit-date" value="${defaultDate}" placeholder="2026/3/29">
+      </div>
+      <div class="score-edit-actions">
+        ${existing ? '<button class="btn score-edit-delete" onclick="confirmDeleteScore()">削除</button>' : ''}
+        <button class="btn score-edit-cancel" onclick="closeScoreEdit()">キャンセル</button>
+        <button class="btn score-edit-save" onclick="saveScoreEdit()">保存</button>
+      </div>
+    </div>`;
+  document.body.appendChild(overlay);
+
+  // 保存・削除・閉じる関数をグローバルに
+  window._scoreEditState = { unitKey, index, overlay };
+  document.getElementById('score-edit-score').focus();
+}
+
+function saveScoreEdit() {
+  const { unitKey, index, overlay } = window._scoreEditState;
+  const scoreVal = parseInt(document.getElementById('score-edit-score').value);
+  const dateVal = document.getElementById('score-edit-date').value.trim();
+  if (isNaN(scoreVal) || scoreVal < 0 || scoreVal > 10) { alert('点数は0〜10で入力してください'); return; }
+  if (!dateVal) { alert('日付を入力してください'); return; }
+
+  const history = getScoreHistory();
+  if (!history[unitKey]) history[unitKey] = [];
+  // 既存の枠を拡張
+  while (history[unitKey].length <= index) history[unitKey].push(null);
+  history[unitKey][index] = { score: scoreVal, total: 10, date: dateVal };
+  // nullを末尾から除去
+  while (history[unitKey].length > 0 && history[unitKey][history[unitKey].length - 1] === null) history[unitKey].pop();
+  saveScoreHistory(history);
+  closeScoreEdit();
+  renderUnits();
+}
+
+function confirmDeleteScore() {
+  const { unitKey, index, overlay } = window._scoreEditState;
+  const history = getScoreHistory();
+  if (history[unitKey]) {
+    history[unitKey].splice(index, 1);
+    saveScoreHistory(history);
+  }
+  closeScoreEdit();
+  renderUnits();
+}
+
+function closeScoreEdit() {
+  const { overlay } = window._scoreEditState;
+  overlay.remove();
+  window._scoreEditState = null;
 }
 
 function doSetRikai(questionId, type, value) {
@@ -1259,8 +1459,9 @@ function printProblems() {
     // If filter is active and no matching questions in this point, skip it
     if (filteredQuestionIds && matchingQs.length === 0) continue;
 
-    // Collect pages (skip cover page p00)
-    for (let pageIdx = 1; pageIdx < point.problemPages.length; pageIdx++) {
+    // Collect pages (skip cover page p00 unless noCover)
+    const printStartIdx = point.noCover ? 0 : 1;
+    for (let pageIdx = printStartIdx; pageIdx < point.problemPages.length; pageIdx++) {
       const pagePath = point.problemPages[pageIdx];
       const highlights = [];
 
@@ -1368,7 +1569,8 @@ function printPointProblems() {
   if (!data.problemPages || data.problemPages.length === 0) return;
 
   const printPages = [];
-  for (let pageIdx = 1; pageIdx < data.problemPages.length; pageIdx++) {
+  const ppStartIdx = data.noCover ? 0 : 1;
+  for (let pageIdx = ppStartIdx; pageIdx < data.problemPages.length; pageIdx++) {
     const highlights = [];
     if (pointFilteredIds) {
       for (const q of data.questions) {
@@ -1383,16 +1585,23 @@ function printPointProblems() {
     });
   }
 
+  const isOtherCat = currentCategory && currentCategory.type !== 'kobetsuba';
+
   if (!pointFilteredIds) {
-    // No filter: plain images
-    container.innerHTML = printPages.map(p => `<img src="${p.src}">`).join('');
-    const imgs = container.querySelectorAll('img');
-    let loadCount = 0;
-    const onAllLoaded = () => { if (++loadCount >= imgs.length) window.print(); };
-    imgs.forEach(img => {
-      if (img.complete) onAllLoaded();
-      else img.onload = onAllLoaded;
-    });
+    if (isOtherCat) {
+      // 計算問題: B4横向き（右半分を計算余白に）
+      renderB4PrintPages(printPages.map(p => p.src), container);
+    } else {
+      // No filter: plain images
+      container.innerHTML = printPages.map(p => `<img src="${p.src}">`).join('');
+      const imgs = container.querySelectorAll('img');
+      let loadCount = 0;
+      const onAllLoaded = () => { if (++loadCount >= imgs.length) window.print(); };
+      imgs.forEach(img => {
+        if (img.complete) onAllLoaded();
+        else img.onload = onAllLoaded;
+      });
+    }
     return;
   }
 
@@ -1410,6 +1619,44 @@ function printPointProblems() {
       }
     };
     img.src = p.src;
+  });
+}
+
+// B4横向き印刷: 問題を左半分、右半分は白紙（計算余白）
+function renderB4PrintPages(srcList, container) {
+  container.innerHTML = '';
+  // @page を B4 landscape に一時変更
+  let pageStyle = document.getElementById('b4-print-style');
+  if (!pageStyle) {
+    pageStyle = document.createElement('style');
+    pageStyle.id = 'b4-print-style';
+    document.head.appendChild(pageStyle);
+  }
+  pageStyle.textContent = '@page { size: B4 landscape; margin: 5mm; }';
+
+  let loaded = 0;
+  const imgs = [];
+  srcList.forEach((src, idx) => {
+    const img = new Image();
+    img.onload = () => {
+      imgs[idx] = img;
+      if (++loaded === srcList.length) {
+        for (const im of imgs) {
+          const canvas = document.createElement('canvas');
+          canvas.width = im.naturalWidth * 2;
+          canvas.height = im.naturalHeight;
+          const ctx = canvas.getContext('2d');
+          ctx.fillStyle = '#fff';
+          ctx.fillRect(0, 0, canvas.width, canvas.height);
+          ctx.drawImage(im, 0, 0);
+          container.appendChild(canvas);
+        }
+        window.print();
+        // 印刷後に元に戻す
+        setTimeout(() => { pageStyle.textContent = ''; }, 1000);
+      }
+    };
+    img.src = src;
   });
 }
 

@@ -3,12 +3,21 @@
     "id": "grade1",
     "name": "グレード1",
     "icon": "1",
-    "description": "約数・倍数・個数求め 他"
+    "description": "約数・倍数・個数求め 他",
+    "type": "kobetsuba"
   },
   {
     "id": "grade2",
     "name": "グレード2",
     "icon": "2",
-    "description": "速さ・旅人算・図形 他"
+    "description": "速さ・旅人算・図形 他",
+    "type": "kobetsuba"
+  },
+  {
+    "id": "keisan",
+    "name": "出る順　計算問題",
+    "icon": "📐",
+    "description": "出る順の計算問題集",
+    "type": "other"
   }
 ]
